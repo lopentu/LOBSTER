@@ -4,8 +4,6 @@ import glob
 import json
 import asyncio
 import pathlib
-from tqdm.asyncio import tqdm
-import random
 from rich.live import Live
 import time
 from dotenv import load_dotenv

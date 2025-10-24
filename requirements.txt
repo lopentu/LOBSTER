@@ -1,5 +1,6 @@
 backoff==2.2.1
 fastmcp==2.12.5
+google-api-core==2.27.0
 google-genai==1.46.0
 openai==2.6.1
 protobuf==6.33.0

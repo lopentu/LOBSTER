@@ -4,13 +4,11 @@ import glob
 import json
 import asyncio
 import pathlib
-from tqdm.asyncio import tqdm
 from rich.live import Live
 import time
 from dotenv import load_dotenv
 import backoff
 from google.api_core import retry_async
-from rich.logging import RichHandler
 
 import google.genai
 import google.genai.types
