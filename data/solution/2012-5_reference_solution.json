@@ -1,0 +1,35 @@
+{
+  "id": "2012-5",
+  "answer": {
+    "a_‘u‘u": "arm/hand",
+    "a_isu": "nose",
+    "a_kia": "neck",
+    "a_leva": "hair",
+    "a_mafa": "eye",
+    "a_susu": "breast",
+    "a_huga": "heart",
+    "b_tiro": "glass",
+    "b_poga_noun": "hole",
+    "b_huag_lala": "patient",
+    "b_hạf_puhrạki": "volcanic rock",
+    "b_maf_pogi_maf_pala": "blind",
+    "c_round": "kạlkạlu",
+    "c_to_cut_copra": "‘ol niu",
+    "c_curly_hair": "leav pirpiri",
+    "c_sticky": "pulpulu",
+    "c_to_flash": "rima",
+    "c_rubbish": "mofa",
+    "d_word": "<select3,1,inf>['fäega','fäeaga','fäeagu']",
+    "d_to_exhaust": "<select6,1,inf>['a‘ofi','a‘öfi','a‘öfö','a‘öfu','a‘öfü','a‘ofü']"
+  },
+  "explanation": {
+    "rules": "When two words constitute a phrase, the form of the first word undergoes the following change:\n•  -VCV → -VC \n•  -VCu → -VC \n•  -VCi → -V̈C \n•  -VCa → -VaC \n(V: vowel, C: consonant)\nThe same thing happens when an adjective is formed by doubling a noun or a verb: ‘ele‘ + ‘ele → ‘el‘ele 'to be near × 2 = shallow'. \n\nThe word order is \n[N₁ N₂] (N₁: modified, N₂: modifier);\nN A (also with the meaning 'one who has A N': huag ‘el‘ele 'heart + shallow = impatient');\nV O (the resulting compound word can be a noun or a verb: a‘ öf fau 'to exhaust + year = year's end', hül hạfu 'to turn over + rock = to blow (of a hurricane)').",
+    "rule_checklist": [
+      "When two words constitute a phrase, the form of the first word undergoes the following change: \n•  -VCV → -VC \n•  -VCu → -VC \n•  -VCi → -V̈C \n•  -VCa → -VaC",
+      "The same thing happens when an adjective is formed by doubling a noun or a verb: ‘ele‘ + ‘ele → ‘el‘ele 'to be near × 2 = shallow'.",
+      "The word order is [N₁ N₂] (N₁: modified, N₂: modifier)",
+      "The word order is N A (also with the meaning 'one who has A N': huag ‘el‘ele 'heart + shallow = impatient')",
+      "The word order is V O (the resulting compound word can be a noun or a verb: a‘ öf fau 'to exhaust + year = year's end', hül hạfu 'to turn over + rock = to blow (of a hurricane)')"
+    ]
+  }
+}

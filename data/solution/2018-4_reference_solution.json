@@ -1,0 +1,29 @@
+{
+  "id": "2018-4",
+  "answer": {
+    "a": "<fuzzy>nybat. Examples: 6, 9, 11. Implied by context and number markers rather than being explicitly stated.",
+    "b_12": "3 betel nuts",
+    "b_13": "1 egg",
+    "b_14": "5 sugar canes",
+    "b_15": "5 sheets of sago bark",
+    "b_16": "12 sheets of sago bark",
+    "c_17": "biabys atubys atub bøbys",
+    "c_18": "biogu nybat biabys atub juhurubys",
+    "c_19": "biogu atugu biogu juhurubys",
+    "c_20": "araman atug baigas"
+  },
+  "explanation": {
+    "rules": "1. Noun Classification and Plurals\nNouns are categorized into classes, identified by a suffix in their singular form. Plural forms are created by adding a class-specific suffix, sometimes with a preceding vowel a or o.\nClass -b:\nSingular: Ends in -b.\nPlural: Ends in -(a)bys.\nExamples: bø-bys (betel nuts), juhuru-bys (eggs).\nClass -h:\nSingular: Ends in -h.\nPlural: Ends in -(a)ruh.\nExample: ara-ruh (sugar canes).\nClass -g:\nSingular: Ends in -g.\nPlural: Ends in -(a)gas.\nExample: bai-gas (sheets of sago bark).\nClass -t:\nSingular: Ends in -t.\nPlural: Ends in -(o)gu.\nExample: nyba-t (the number 4).\n\n2. Number Construction\nThe counting system is based on addition, combining higher-value numbers (multiples of 6) with lower-value numbers (1-5).\nA. Higher-Value Numbers (Base 6)\nanowip = 6\nwiwis = 12 (calculated as 2 x 6)\naraman = 24 (calculated as 4 x 6)\nB. Lower-Value Numbers (1-5)\nThese numbers are built from a base system.\natu- = 1\nbi- = 2\n3 is represented as a combination: 2 + 1sg\n4 is represented as a combination: 2 + 1pl\n5 is represented as a combination: 2 + 1pl + 2\nC. Combining Numbers\nA total number is formed by adding a higher-value number and a lower-value number. The overall structure for a number modifying a noun appears to be:\n(Higher-Value Number) + (Lower-Value Number) x (Noun)",
+    "rule_checklist": [
+      "Nouns are categorized into classes, identified by a suffix in their singular form. Plural forms are created by adding a class-specific suffix, sometimes with a preceding vowel a or o.",
+      "Class -b: Singular: Ends in -b. Plural: Ends in -(a)bys. Examples: bø-bys (betel nuts), juhuru-bys (eggs).",
+      "Class -h: Singular: Ends in -h. Plural: Ends in -(a)ruh. Example: ara-ruh (sugar canes).",
+      "Class -g: Singular: Ends in -g. Plural: Ends in -(a)gas. Example: bai-gas (sheets of sago bark).",
+      "Class -t: Singular: Ends in -t. Plural: Ends in -(o)gu. Example: nyba-t (the number 4).",
+      "The counting system is based on addition, combining higher-value numbers (multiples of 6) with lower-value numbers (1-5).",
+      "Higher-Value Numbers (Base 6): anowip = 6, wiwis = 12 (calculated as 2 x 6), araman = 24 (calculated as 4 x 6).",
+      "Lower-Value Numbers (1-5): These numbers are built from a base system. atu- = 1, bi- = 2, 3 is represented as a combination: 2 + 1sg, 4 is represented as a combination: 2 + 1pl, 5 is represented as a combination: 2 + 1pl + 2.",
+      "Combining Numbers: A total number is formed by adding a higher-value number and a lower-value number. The overall structure for a number modifying a noun appears to be: (Higher-Value Number) + (Lower-Value Number) x (Noun)."
+    ]
+  }
+}

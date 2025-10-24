@@ -1,0 +1,55 @@
+{
+  "id": "2024-5",
+  "title": "Problem 5",
+  "content": "In Yanyuwa, men and women have some differences in how they speak. Here are some sentences in the women’s dialect of Yanyuwa and their English translations:\n\n1. nya-ardu kiwa-wani – The boy returned.\n2. rru-bardibardilu kanda-wubala ma-burlurlu – The old woman will bake the bread.\n3. nyu-marralngujilu jarrilu-yabimanji rra-walkuru – The doctor is healing the pregnant woman.\n4. wakuku ji-wulumanji – The dog is running.\n5. linji-nhanawalu kanyalu-wudurrumala nya-mirningiya – The women will feed the man.\n6. ji-jakudukudulu kanyinju-athama nya-munanga – The emu chased the white man.\n7. nyu-ardulu jilu-nganji warrbima – The boy is looking at the dingo.\n\nFor contrast, below are some sentences in the men’s dialect and their English translations:\n\n8. li-walkuru kalu-walanyma – The pregnant women emerged.\n9. ki-warrbimalu kilu-tha wunala – The dingo ate the kangaroo.\n10. rra-bardibardi janda-waninji – The old woman is returning.\n11. ki-bulijimanjilu karrilu-yngkarri rra-ardu – The policeman heard the girl.\n12. ki-mirningiyalu jilu-wubanji ma-ngarra – The man is cooking the food.\n13. rru-yanyuwalu kanda-ngala munanga – The Yanyuwa woman will look at the white man.\n14. linji-marralngujilu kalalu-yabimala li-malbu – The doctors will heal the old men.\n\n**(a)** Translate into English:\n15. mirningiya ka-wulumala\n16. nyu-munangalu kalilu-wudurruma li-wakuku\n17. linji-ardulu jalu-wubanji ma-burlurlu\n18. rru-nhanawalu janda-athamanji ardu\n\n**(b)** For each of the Yanyuwa sentences in (a), indicate whether it is in the women’s dialect (♀), the men’s dialect (♂), or unclear (?⃝).\n\n**(c)** Translate into Yanyuwa, giving both men’s and women’s options if these differ:\n19. The dog chased the girl.\n20. The pregnant woman is feeding the old women.\n21. The old man healed the Yanyuwa man.\n22. The kangaroo will return.\n\n*The Yanyuwa language belongs to the Ngarna branch of the Pama–Nyungan family. It is currently spoken fluently by three women living in the Northern Territory, Australia. k ≈ g in lag. nh = n in month. rr = rr in Spanish perro. th = th in leather. r, rd, rl and rn are pronounced like rr, d, l and n but with the tip of the tongue curled backwards. n before j and d indicates some air flows through the nose before the consonant.\nDingos and emus are animals found in Australia.\n—Dan-Mircea Mirea (consultant: John Bradley)",
+  "answer_format": {
+    "a_15": {
+      "type": "string"
+    },
+    "a_16": {
+      "type": "string"
+    },
+    "a_17": {
+      "type": "string"
+    },
+    "a_18": {
+      "type": "string"
+    },
+    "b_15": {
+      "type": "string"
+    },
+    "b_16": {
+      "type": "string"
+    },
+    "b_17": {
+      "type": "string"
+    },
+    "b_18": {
+      "type": "string"
+    },
+    "c_19_men": {
+      "type": "string"
+    },
+    "c_19_women": {
+      "type": "string"
+    },
+    "c_20_men": {
+      "type": "string"
+    },
+    "c_20_women": {
+      "type": "string"
+    },
+    "c_21_men": {
+      "type": "string"
+    },
+    "c_21_women": {
+      "type": "string"
+    },
+    "c_22_men": {
+      "type": "string"
+    },
+    "c_22_women": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "2023-4",
+  "answer": {
+    "a_22": "as he sees you_{pl}",
+    "a_23": "he stops us",
+    "a_24": "you_{pl} ask him",
+    "a_25": "I help you_{pl}",
+    "b_26": "kakwēcimāyāhkwāwi",
+    "b_27": "kimawinēskomikowāwak",
+    "b_28": "niwıc̄ihikwak",
+    "b_29": "kiwāpamāwak",
+    "b_30": "kinakinitināwāw"
+  },
+  "explanation": {
+    "rules": "S = subject, O = object.\nIndependent Mode Verb Structure:\n* Prefixes (choose one):\n    * ni-: used when the 2nd person is not the subject or object, AND the 1st person is the subject or object.\n    * ki-: used when the 2nd person is the subject or object.\n* Structure: Prefix + root + Theme Sign + Plural Suffix.\n* Theme Signs (based on S-O combination):\n    * S=1st or 2nd person, O=3rd person: -ā(w).\n    * S=1st person, O=2nd person: -it-in.\n    * S=2nd person, O=1st person: -in.\n    * S=3rd person, O=1st or 2nd person: -ik(o|w).\n* Plural Suffixes:\n    * If 1st person plural is the subject or object: add -(n)ān.\n    * If 2nd person plural is the subject or object AND 1st person plural is not: add -(ā)wāw.\n    * If 3rd person plural is the subject or object: add -(w)ak.\nDependent Mode Verb Structure (Conjunct Order):\n* Prefixes:\n    * ē-: 'as ...'.\n    * Ø- (no prefix): 'if ...'.\n* Structure: Prefix + root + Theme Sign + Conjunct Suffix.\n* Theme Signs (based on S-O combination):\n    * S=1st or 2nd person, O=3rd person: -ā(w).\n    * S=3rd person, O=1st or 2nd person: -ik(o|w).\n* Conjunct Suffixes (examples, based on the persons involved):\n    * {2nd person plural, 3rd person sg}: -yēk.\n    * {1st person plural, 3rd person plural}: -yāhkwāw.\n    * etc.",
+    "rule_checklist": [
+      "Independent Mode Verb Structure: Prefixes (choose one): ni-: used when the 2nd person is not the subject or object, AND the 1st person is the subject or object.",
+      "Independent Mode Verb Structure: Prefixes (choose one): ki-: used when the 2nd person is the subject or object.",
+      "Independent Mode Verb Structure: Structure: Prefix + root + Theme Sign + Plural Suffix.",
+      "Independent Mode Verb Structure: Theme Signs (based on S-O combination): S=1st or 2nd person, O=3rd person: -ā(w).",
+      "Independent Mode Verb Structure: Theme Signs (based on S-O combination): S=1st person, O=2nd person: -it-in.",
+      "Independent Mode Verb Structure: Theme Signs (based on S-O combination): S=2nd person, O=1st person: -in.",
+      "Independent Mode Verb Structure: Theme Signs (based on S-O combination): S=3rd person, O=1st or 2nd person: -ik(o|w).",
+      "Independent Mode Verb Structure: Plural Suffixes: If 1st person plural is the subject or object: add -(n)ān.",
+      "Independent Mode Verb Structure: Plural Suffixes: If 2nd person plural is the subject or object AND 1st person plural is not: add -(ā)wāw.",
+      "Independent Mode Verb Structure: Plural Suffixes: If 3rd person plural is the subject or object: add -(w)ak.",
+      "Dependent Mode Verb Structure (Conjunct Order): Prefixes: ē-: 'as ...'.",
+      "Dependent Mode Verb Structure (Conjunct Order): Prefixes: Ø- (no prefix): 'if ...'.",
+      "Dependent Mode Verb Structure (Conjunct Order): Structure: Prefix + root + Theme Sign + Conjunct Suffix.",
+      "Dependent Mode Verb Structure (Conjunct Order): Theme Signs (based on S-O combination): S=1st or 2nd person, O=3rd person: -ā(w).",
+      "Dependent Mode Verb Structure (Conjunct Order): Theme Signs (based on S-O combination): S=3rd person, O=1st or 2nd person: -ik(o|w).",
+      "Dependent Mode Verb Structure (Conjunct Order): Conjunct Suffixes (examples, based on the persons involved): {2nd person plural, 3rd person sg}: -yēk.",
+      "Dependent Mode Verb Structure (Conjunct Order): Conjunct Suffixes (examples, based on the persons involved): {1st person plural, 3rd person plural}: -yāhkwāw."
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "2013-1",
+  "title": "Problem 1",
+  "content": "(20 points)\nHere are some words in Yidiny and their English translations:\n\n| Yidiny         | English                   |\n|----------------|---------------------------|\n| guda:ga        | dog                       |\n| buɲa           | woman                     |\n| wagu:ɟa        | man                       |\n| muyubara       | stranger                  |\n| gaɟagimba:gu   | for a white man           |\n| bamagimbal     | without a person          |\n| bama:gu        | for a person              |\n| bimbi:bi       | another father            |\n| mularigu       | for an initiated man      |\n| mularini       | of an initiated man       |\n| buɲa:m         | from a woman              |\n| gudagabi       | another dog               |\n| gaɟagimba:m    | from a white man          |\n| biɲɟi:ngu      | for a hornet              |\n| bimbi:n        | of a father               |\n| muɟam          | mother                    |\n| biɲɟi:nmu      | from a hornet             |\n| maɟu:rbi       | another frog              |\n| buɲagimbal     | without a woman           |\n| baɟigalni      | of a tortoise             |\n| ɟudu:lumuɟay   | with a pigeon             |\n\nThe mark “:” indicates that the preceding vowel is long.\n\n(a) Mark the long vowels (if any):\n- mugaɹ̣umu (from a fishing net)\n- waŋalgu (for a boomerang)\n\n(b) Mark the long vowels (if any) and translate into English:\n- baman (man)\n- buɲabi (another woman)\n- maɟurmuɟay (with another frog)\n- muɟamni (of a mother)\n\n(c) Translate into Yidiny:\n- of a stranger\n- for a fishing net\n- father\n- from a frog\n- without a man\n- of a pigeon\n- tortoise\n- without a boomerang\n\n△! The Yidiny language belongs to the Pama–Nyungan family. It is spoken by approx. 150 people in the state of Queensland, Australia. ɟ, ŋ, ɲ, ɹ̣ are consonants.\n—Bozhidar Bozhanov, Ivan Derzhanski",
+  "answer_format": {
+    "a_1": {
+      "type": "string"
+    },
+    "a_2": {
+      "type": "string"
+    },
+    "b_1_marked": {
+      "type": "string"
+    },
+    "b_1_translation": {
+      "type": "string"
+    },
+    "b_2_marked": {
+      "type": "string"
+    },
+    "b_2_translation": {
+      "type": "string"
+    },
+    "b_3_marked": {
+      "type": "string"
+    },
+    "b_3_translation": {
+      "type": "string"
+    },
+    "b_4_marked": {
+      "type": "string"
+    },
+    "b_4_translation": {
+      "type": "string"
+    },
+    "c_1": {
+      "type": "string"
+    },
+    "c_2": {
+      "type": "string"
+    },
+    "c_3": {
+      "type": "string"
+    },
+    "c_4": {
+      "type": "string"
+    },
+    "c_5": {
+      "type": "string"
+    },
+    "c_6": {
+      "type": "string"
+    },
+    "c_7": {
+      "type": "string"
+    },
+    "c_8": {
+      "type": "string"
+    }
+  }
+}

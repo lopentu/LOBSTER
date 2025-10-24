@@ -1,0 +1,49 @@
+{
+  "id": "2008-2",
+  "title": "Problem 2",
+  "content": "### Problem 2\n\n(20 points)\nThe following are four excerpts from Old Norse poems composed around 900 C.E. All of them are written using the meter named dróttkvætt (lit. ‘court meter’):\n\n**I**\n1. ók at ísarnleiki\n2. Jarðar sunr, en dunði . . .\n\n**II**\n1. þekkiligr með þegnum\n2. þrymseilar hval deila.\n3. en af breiðu bjóði\n4. bragðvíss at þat lagði\n5. ósvífrandi ása\n6. upp þjórhluti fjóra.\n\n**III**\n1. áðr gnapsólar Gripnis\n2. gnýstœrandi fœri\n3. rausnarsamr til rimmu\n4. ríðviggs lagar skíðum.\n\n**IV**\n1. háði gramr, þars gnúðu,\n2. geira hregg við seggi,\n3. (rauð fnýsti ben blóði)\n4. bryngǫgl í dyn Skǫglar,\n5. þás á rausn fyr ræsi\n6. (réð egglituðr) seggir . . .\n\nOne of the main principles of dróttkvætt is alliteration. The first line of each distich (pair of lines) contains two words \nbeginning with the same sound, and the first word of the second line begins with this sound, too: e. g., rausnarsamr, rimmu and ríðviggs (III:3–4). \nAll vowels are considered to alliterate with one another and with j: e. g., ók, ísarnleiki and Jarðar (I:1–2). But this is not the only rule.\nThe texts given above have been handed down in more than one manuscript. Sometimes different words are found in corresponding parts of the text, \nand the scholars have to decide which of the variants is original. Different considerations may motivate the conclusion. Sometimes the rules of versification\nhelp to recognize some of the variants as false. For example, in line I:2 we find not only dunði, but also dulði and djarfi. dulði can be rejected\nbecause of the structure of the verse, but both dunði and djarfi fit into the line, and one needs other reasons to choose between these words. In line\nIII:1 Gripnis and Grímnis occur in the manuscripts, but Grímnis doesn’t fulfill the requirements of the verse.\n\n(a) Describe the rules which are observed in a distich of dróttkvætt.\n\n(b) Given is a stanza in which 13 words are omitted:\n\n**V**\n1. [a] (þreifsk reiddra øxa\n2. [b] ; knǫ́ttu spjǫ́r [c] )\n3. [d] bitu seggi\n4. [e] þjóðkonungs ferðar,\n5. þás ( [f] hǫlða)\n6. [g] [h] [i]\n7. (hǫ́r vas [j] of [k] )\n8. [l] (flugbeiddra [m] ).\n\nThe following list contains (in alphabetical order) all 13 omitted words and two words which do not belong in stanza V:\n- andskoti, Gauta, glymja, hlaut, hugfyldra, hœgra, ríks, rymr, sigr, smíði, svartskyggð, sverð, svírum, sǫngr, vigra\n\nFill in the gaps in stanza V.\n\nNB: Old Norse is a North Germanic language which was in use approximately between 700 and 1100 C.E.\næ ≈ English a in cat, œ = French eu or German ö (these letters stand for long vowels). ø is readasashortœ;y=FrenchuorGermanü,o ̨ \nisanopeno. auandeiarepronouncedasa single syllable. ð and þ = English th in this and thin respectively. x = k+s. The mark  ́ denotes vowel length. All samples of poetry in the problem are given in a normalized orthography and conform to the rules of the genre. —Alexander Piperski",
+  "answer_format": {
+    "a": {
+      "type": "string"
+    },
+    "b_a": {
+      "type": "string"
+    },
+    "b_b": {
+      "type": "string"
+    },
+    "b_c": {
+      "type": "string"
+    },
+    "b_d": {
+      "type": "string"
+    },
+    "b_e": {
+      "type": "string"
+    },
+    "b_f": {
+      "type": "string"
+    },
+    "b_g": {
+      "type": "string"
+    },
+    "b_h": {
+      "type": "string"
+    },
+    "b_i": {
+      "type": "string"
+    },
+    "b_j": {
+      "type": "string"
+    },
+    "b_k": {
+      "type": "string"
+    },
+    "b_l": {
+      "type": "string"
+    },
+    "b_m": {
+      "type": "string"
+    }
+  }
+}

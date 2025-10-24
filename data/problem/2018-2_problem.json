@@ -1,0 +1,37 @@
+{
+  "id": "2018-2",
+  "title": "Problem 2",
+  "content": "### Problem 2\n\n(20 points)\n\nHere are some sentences in Hakhun and their English translations:\n\n| Hakhun                        | Translation            |\n|-------------------------------|------------------------|\n| 1. ŋa ka kɤ ne                | Do I go?               |\n| 2. nɤ ʒip tuʔ ne              | Did you_{sg} sleep?       |\n| 3. ŋabə ati lapkʰi tɤʔ ne     | Did I see him?         |\n| 4. nirum kəmə nuʔrum cʰam ki ne | Do we know youpl?      |\n| 5. nɤbə ŋa lapkʰi rɤ ne        | Do you_{sg} see me?       |\n| 6. tarum kəmə nɤ lan tʰu ne    | Did they beat yousg?   |\n| 7. nuʔrum kəmə ati lapkʰi kan ne | Do you_{pl} see him?      |\n| 8. nɤbə ati cʰam tuʔ ne        | Did you_{sg} know him?    |\n| 9. tarum kəmə nirum lapkʰi ri ne | Do they see us?        |\n| 10. ati kəmə ŋa lapkʰi tʰɤ ne   | Did he see me?         |\n\n(a) Translate into English:\n\n1. nɤ ʒip ku ne  \n2. ati kəmə nirum lapkʰi tʰi ne  \n3. tarum kəmə nuʔrum cʰam ran ne  \n4. nirum kəmə tarum lan ki ne  \n5. nirum kəmə nɤ cʰam tiʔ ne  \n6. nirum ka tiʔ ne  \n\n(b) Translate into Hakhun:\n\n7. Did I beat yousg?  \n8. Did they see me?  \n9. Does he know yousg?  \n10. Do you_{pl} sleep?  \n\n△! Hakhun belongs to the Sal branch of the Sino-Tibetan family. It is spoken by approx. 10,000 people in the extreme East of India and the neighbouring districts of Myanmar.\nə and ɤ are vowels. ch, kh, ŋ, th, ʒ and ʔ are consonants. —Peter Arkadiev\n\n---",
+  "answer_format": {
+    "a_1": {
+      "type": "string"
+    },
+    "a_2": {
+      "type": "string"
+    },
+    "a_3": {
+      "type": "string"
+    },
+    "a_4": {
+      "type": "string"
+    },
+    "a_5": {
+      "type": "string"
+    },
+    "a_6": {
+      "type": "string"
+    },
+    "b_7": {
+      "type": "string"
+    },
+    "b_8": {
+      "type": "string"
+    },
+    "b_9": {
+      "type": "string"
+    },
+    "b_10": {
+      "type": "string"
+    }
+  }
+}

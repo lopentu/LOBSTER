@@ -1,0 +1,35 @@
+{
+  "id": "2019-4",
+  "answer": {
+    "ɛtaleŋa_North": "ɛtaŋleŋa",
+    "ɛtaleŋa_Coast": "ɛtaleleŋa",
+    "jaga_North": "jagjaga",
+    "jaga_Coast": "jajaga",
+    "gasirana_North": "garsírana",
+    "gasirana_Coast": "gasirasírana",
+    "daramota_North": "daratmota",
+    "daramota_Coast": "daramotamota",
+    "pɔwna_North": "pɔwpɔwna",
+    "pɔwna_Coast": "pɔwpɔwna",
+    "ɛrtɔpa_North": "ɛrtɔptɔpa",
+    "ɛrtɔpa_Coast": "ɛrtɔpatɔpa",
+    "dabuka_North": "dakbuka",
+    "dabuka_Coast": "dabubuka",
+    "ŋuŋim_North": "ŋuŋuŋim",
+    "ŋuŋim_Coast": "ŋuŋuŋim",
+    "igɔŋ_North": "iŋgɔ́ŋ",
+    "igɔŋ_Coast": "igɔ́ŋgɔ́ŋ"
+  },
+  "explanation": {
+    "rules": "The reduplication (R) is formed from the stressed syllable, C1VC2, where V is the stressed vowel.\nNorth dialect. The reduplicated form R is C1VC2, with the following exceptions:\nIf C1 = C2, the form is C1V.\nIf a vowel comes before C1, the form is C2.\nCoast dialect. The reduplicated form R is C1V1C2V2, with the following exceptions:\nIf there is no V2, the form is C1V1C2.\nIf there is no V2 and C2 is one of the set {C1, k, g, ŋ, w}, the form is C1V1.\n(C1, C2 are consonants; V, V1, V2 are vowels).",
+    "rule_checklist": [
+      "The reduplication (R) is formed from the stressed syllable, C1VC2, where V is the stressed vowel.",
+      "North dialect. The reduplicated form R is C1VC2, with the following exceptions:",
+      "If C1 = C2, the form is C1V.",
+      "If a vowel comes before C1, the form is C2.",
+      "Coast dialect. The reduplicated form R is C1V1C2V2, with the following exceptions:",
+      "If there is no V2, the form is C1V1C2.",
+      "If there is no V2 and C2 is one of the set {C1, k, g, ŋ, w}, the form is C1V1."
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2013-1",
+  "answer": {
+    "a_1": "mugaɹ̣umu",
+    "a_2": "waŋa:lgu",
+    "b_1_marked": "bama:n",
+    "b_1_translation": "of a person",
+    "b_2_marked": "buɲa:bi",
+    "b_2_translation": "another woman",
+    "b_3_marked": "maɟurmuɟay",
+    "b_3_translation": "with a frog",
+    "b_4_marked": "muɟa:mni",
+    "b_4_translation": "of a mother",
+    "c_1": "muyubara:n",
+    "c_2": "mugaɹ̣ugu",
+    "c_3": "bimbi",
+    "c_4": "maɟu:rmu",
+    "c_5": "wagu:ɟagimbal",
+    "c_6": "ɟuduluni",
+    "c_7": "baɟi:gal",
+    "c_8": "waŋalgimbal"
+  },
+  "explanation": {
+    "rules": "If the number of syllables in the word (= stem + ending) is even, all syllables are short. If the number of syllables in the word is odd, the last even-numbered syllable of the stem is lengthened.\n•        2 = 2 + 0: bu₁ɲa²-∅\n•        4 = 2 + 2: bu₁ɲa²-gi₃mbal⁴\n•        4 = 3 + 1: gu₁da²ga₃-bi⁴\n•        4 = 4 + 0: mu₁yu²ba₃ra⁴-∅\n•        3 = 2 + 1: ba₁ma:₂ -gu₃\n•        3 = 3 + 0: gu₁da:₂ga₃-∅\n•        5 = 3 + 2: ɟu₁du:₂lu₃-mu₄ɟay₅\n•        5 = 4 + 1: ga₁ɟa₂gi₃mba:⁴ -gu₅\n If the ending -ni or -mu immediately follows a long vowel, it loses its own vowel.",
+    "rule_checklist": []
+  }
+}

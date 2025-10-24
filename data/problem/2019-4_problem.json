@@ -1,0 +1,61 @@
+{
+  "id": "2019-4",
+  "title": "Problem 4",
+  "content": "### Problem 4\n\n(20 points)\n\nHere are some words and verb roots in West Tarangan. Each is also given in its so-called reduplicated form in two dialects of the language. The reduplicated form is used as a participle or adjective.\n\nHere is the table with the English translations inserted after the second column:\n\n| West Tarangan  | English Translation | North Dialect        | Coast Dialect     |\n|----------------|---------------------|----------------------|-------------------|\n| dakɛru         | they scrape         | darkɛru              | dakɛrukɛru        |\n| rɔbik          | it is blunt         | rɔbrɔbik             | rɔbirɔbik         |\n| alema          | on the right        | amlema               | alemalema         |\n| makay          | you climb           | makmakay             | mamakay           |\n| apúk           | other               | akpuk                | apukpuk           |\n| lɔpay          | cold                | lɔplɔpay             | lɔpalɔpay         |\n| payláwana      | he is talkative     | paylawlawana         | paylalawana       |\n| kalpaŋir       | it is obstinate     | kalpaŋpaŋir          | kalpapaŋir        |\n| garkɔ́w         | to be orphaned      | garkɔwkɔw            | garkɔwkɔw         |\n| ɛylɛka         | he plays            | ɛylɛklɛka            | ɛylɛlɛka          |\n| dubɛmna        | he is seventh       | dumbɛmna             | dubɛmbɛmna        |\n| maylɛwa        | (a species of) tree | maylɛwlɛwa           | maylɛlɛwa         |\n| matay          | his eye             | matmatay             | matamatay         |\n| mɔna           | in front            | mɔnmɔna              | mɔnamɔna          |\n| bɛbar          | to be scared        | bɛbɛbar              | bɛbɛbar           |\n| jaŋil          | it is rotten        | jaŋjaŋil             | jajaŋil           |\n| letna          | he is male          | letletna             | letletna          |\n| ɛrnɔnaw        | he crawls           | ɛrnɔnɔnaw            | ɛrnɔnɔnaw         |\n\nFill in the gaps:\n\nHere is the table with the columns split as requested:\n\n| West Tarangan  | English Translation | Nort Dialect    | Coast Dialect   |\n|----------------|---------------------|-----------------|-----------------|\n| ɛtaleŋa        | he hears            | ?               | ?               |\n| jaga           | to guard            | ?               | ?               |\n| gasírana       | she is old          | ?               | ?               |\n| daramota       | they vomit          | ?               | ?               |\n| pɔwna          | he is smelly        | ?               | ?               |\n| ɛrtɔpa         | he washes           | ?               | ?               |\n| dabuka         | they dream          | ?               | ?               |\n| ŋuŋim          | it is damp          | ?               | ?               |\n| igɔ́ŋ           | he sells            | ?               | ?               |\n\n△! West Tarangan belongs to the Austronesian family. It is spoken by 7,000 people in the Aru Islands in Indonesia. ŋ = ng in hang. j, r, w, y are consonants. ɛ, ɔ are vowels. The mark ˊ indicates stress; if there is no such mark, the stress is on the penultimate syllable. —Elysia Warner (consultant: Richard Nivens)",
+  "answer_format": {
+    "ɛtaleŋa_North": {
+      "type": "string"
+    },
+    "ɛtaleŋa_Coast": {
+      "type": "string"
+    },
+    "jaga_North": {
+      "type": "string"
+    },
+    "jaga_Coast": {
+      "type": "string"
+    },
+    "gasirana_North": {
+      "type": "string"
+    },
+    "gasirana_Coast": {
+      "type": "string"
+    },
+    "daramota_North": {
+      "type": "string"
+    },
+    "daramota_Coast": {
+      "type": "string"
+    },
+    "pɔwna_North": {
+      "type": "string"
+    },
+    "pɔwna_Coast": {
+      "type": "string"
+    },
+    "ɛrtɔpa_North": {
+      "type": "string"
+    },
+    "ɛrtɔpa_Coast": {
+      "type": "string"
+    },
+    "dabuka_North": {
+      "type": "string"
+    },
+    "dabuka_Coast": {
+      "type": "string"
+    },
+    "ŋuŋim_North": {
+      "type": "string"
+    },
+    "ŋuŋim_Coast": {
+      "type": "string"
+    },
+    "igɔŋ_North": {
+      "type": "string"
+    },
+    "igɔŋ_Coast": {
+      "type": "string"
+    }
+  }
+}

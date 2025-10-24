@@ -1,0 +1,24 @@
+{
+  "id": "2013-3",
+  "answer": {
+    "a_1": "Pa.1ai.bi",
+    "a_2": "1Paa.pi.si",
+    "a_3": "Pi.1tii.Pi.si",
+    "a_4": "bi.1gi",
+    "a_5": "ka.ga.ho.ao.1gii",
+    "a_6": "1kai.bai",
+    "a_7": "ka.pii.ga.ii.to.1ii",
+    "a_8": "poo.gai.1hia.to.io",
+    "a_9": "2Pa.ba.gi.ka.pio.1Pio",
+    "a_10": "Pa.ba.1gio.gi.ai"
+  },
+  "explanation": {
+    "rules": "x [?]. \n\nA noun and a following modifier are pronounced as one word, but at the end of the first word of the phrase [i] after a vowel is lost and in the beginning of the second word [?] is lost. \n•        xisitai xagai [?isitai/_/?agai] → [?isitaagai] \n\n1 syllable = CVV, CV or VV (C = consonant, V = vowel). The syllabification starts from the end of the word. \n•        xiiaapisi → [?iiaapisi] → [?iiaapi.si] → [?iiaa.pi.si] → [?ii.aa.pi.si]\n•        hixi xitaixi [hi?i _ /?itai?i] → [hi?iitai?i] → ... → [hi.?ii.tai.?i]\n\nSyllable weight hierarchy: TVV > DVV > VV > TV > DV (T = voiceless consonant ([h, k, p, s, t, ?]), D = voiced consonant ([b, g])). The rightmost syllable of the heaviest type among the last three syllables of the word receives primary stress.\n•        giopai sabi [giopai/_sabi] → [gio...pa.sa.bi] → [gio.pa.¹sa.bi] (with TV=TV>DV marked above) \n\n A phrase has a secondary stress if the last three syllables of the phrase don't contain any part of the first word. It is placed according to the same rules as the primary stress, but disregarding the last three syllables. \n•        giopai sabi [giopai/_sabi] → [gio...pa.sa.bi] → [gio.pa.¹sa.bi] (with numbered brackets 1 for “gio...pa” and 2 for “sa.bi” showing syllable groupings)\n•        giopai xaibogi [giopai/_/?aibogi] → [gio.pa...ai.bo.gi] → [₂gio.pa.¹ai.bo.gi] (with numbered brackets 1 for “gio...pa” and 2 for “ai.bo.gi” showing syllable groupings)",
+    "rule_checklist": [
+      "A noun and a following modifier are pronounced as one word, but at the end of the first word of the phrase [i] after a vowel is lost and in the beginning of the second word [?] is lost.",
+      "1 syllable = CVV, CV or VV (C = consonant, V = vowel). The syllabification starts from the end of the word.",
+      "Syllable weight hierarchy: TVV > DVV > VV > TV > DV (T = voiceless consonant ([h, k, p, s, t, ?]), D = voiced consonant ([b, g])). The rightmost syllable of the heaviest type among the last three syllables of the word receives primary stress.",
+      "A phrase has a secondary stress if the last three syllables of the phrase don't contain any part of the first word. It is placed according to the same rules as the primary stress, but disregarding the last three syllables."
+    ]
+  }
+}

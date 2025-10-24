@@ -1,0 +1,39 @@
+{
+  "id": "2022-3",
+  "answer": {
+    "a_17": "I ask if it is you_{pl} whom my grandfather calls.",
+    "a_18": "I will not work in Upington.",
+    "a_19": "The woman is afraid of my dog.",
+    "a_20": "It is I who will call you_{sg}.",
+    "a_21": "Whom do you_{pl} see?",
+    "a_22": "Who likes me?",
+    "b_23": "i xaŋki ke ǁu si !ʔai a ǁãu.",
+    "b_24": "a kee ŋ ǂhun ǃaukea ŋǁa.",
+    "b_25": "kiɟa xae u si ǂqheeke ŋǁa.",
+    "b_26": "na kacuuʔi ŋ ɡǀi ǃuu xae a ǂʔii ŋǁa.",
+    "b_27": "cuu xae si ǀqhõʕo ŋ !haeke.",
+    "b_28": "gǀu ŋǀii i."
+  },
+  "explanation": {
+    "rules": "L0:\nke - Used in declarative main clauses.\n∅ (omitted) - Used in interrogative sentences and subordinate clauses.\nLf:\nkee - Used in declarative focused clauses.\nxae - Used in interrogative focused sentences and subordinate focused clauses.\nN (Negation): The particle is ||u.\nT (Future Tense): The particle is si.\nAbbreviations: S = subject; V = verb; O = object; F = focus.\n\nSpecific Phrases and Constructions:\nTo ask if: The phrase “S ke kacuuʔi ŋ X” means \"S asks if X.\"\nPossession: The word order for possession is possessor - possessed.\n\nPersonal Pronouns:\n1st person sg:\n    The base form, used at the beginning of a question, is ŋ*.\n    Special Rule: When ŋ is followed by the particle ke, the two merge to become na.\n    After the preposition ŋ, the form is ŋ|ŋ.\n2nd person sg:\n    The base form is a.\n    After the preposition ŋ, the form is g|a.\n1st person pl:\n    The base form is i.\n    After the preposition ŋ, the form is g|i.\n2nd person pl:\n    The base form is u.\n    After the preposition ŋ, the form is g|u.",
+    "rule_checklist": [
+      "L0: ke - Used in declarative main clauses.",
+      "L0: \n(omitted) - Used in interrogative sentences and subordinate clauses.",
+      "Lf: kee - Used in declarative focused clauses.",
+      "Lf: xae - Used in interrogative focused sentences and subordinate focused clauses.",
+      "N (Negation): The particle is ||u.",
+      "T (Future Tense): The particle is si.",
+      "To ask if: The phrase \nS ke kacuu\n\ni \n X\n means \"S asks if X.\"",
+      "Possession: The word order for possession is possessor - possessed.",
+      "1st person sg: The base form, used at the beginning of a question, is \n*.",
+      "1st person sg: Special Rule: When \n is followed by the particle ke, the two merge to become na.",
+      "1st person sg: After the preposition \n, the form is \n|\n.",
+      "2nd person sg: The base form is a.",
+      "2nd person sg: After the preposition \n, the form is g|a.",
+      "1st person pl: The base form is i.",
+      "1st person pl: After the preposition \n, the form is g|i.",
+      "2nd person pl: The base form is u.",
+      "2nd person pl: After the preposition \n, the form is g|u."
+    ]
+  }
+}

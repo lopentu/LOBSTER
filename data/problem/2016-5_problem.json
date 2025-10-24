@@ -1,0 +1,34 @@
+{
+  "id": "2016-5",
+  "title": "Problem 5",
+  "content": "(20 points)\n\nHere are some words in Jaqaru and their English translations:\n\n| Jaqaru                    | Translation                  |\n|---------------------------|------------------------------|\n| aq”ipsa                   | the cave too                 |\n| aq”na                     | in the cave                  |\n| chushp”a                  | his corner                   |\n| chushuntxi                | is it in the corner?         |\n| ishinhna                  | in my bed                    |\n| ishma                     | your bed                     |\n| p”ak”u                    | the pot                      || p”ak”unhpsa               | my pot too                   |\n| qaqat”a                   | from the cliff               |\n| qucxap”a                  | through the lake             |\n| qucxst”psa                | from our_{1+2} lake too         |\n| marka                     | the town                     |\n| markp”t”a                 | from his town                |\n| markstxi                   | is it our_{1+2} town?           |\n| utamt”a                   | from your house              |\n| utnha                     | my house                     |\n| yaputxi                   | is it the field?             |\n| yapsanpsa                 | in our_{1+2} field too          |\n\n(a) Translate into English:\n\n1. utnhantxi\n2. yapp”psa\n3. yapup”psa\n\n(b) Translate into Jaqaru:\n\n4. our_{1+2} cliff\n5. in your corner\n6. in your corner too\n7. from your corner too\n8. is it from the cave?\n9. is it the house?\n\n△!\nJaqaru belongs to the Aymaran family. It is spoken by approx. 730 people in Peru.\nnh = ng in hang. ch, cx, q, sh, tx are consonants. The mark ” indicates aspiration. \nour_{1+2} = ‘mine and yours’. —Ivan Derzhanski\n---",
+  "answer_format": {
+    "a_1": {
+      "type": "string"
+    },
+    "a_2": {
+      "type": "string"
+    },
+    "a_3": {
+      "type": "string"
+    },
+    "b_4": {
+      "type": "string"
+    },
+    "b_5": {
+      "type": "string"
+    },
+    "b_6": {
+      "type": "string"
+    },
+    "b_7": {
+      "type": "string"
+    },
+    "b_8": {
+      "type": "string"
+    },
+    "b_9": {
+      "type": "string"
+    }
+  }
+}

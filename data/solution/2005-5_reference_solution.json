@@ -1,0 +1,28 @@
+{
+  "id": "2005-5",
+  "answer": {
+    "assignment_1": "<fuzzy>Paradigm 1 and Paradigm 2 on one hand, and\nParadigm 3 and Paradigm 4 on the other hand, originally belonged together.",
+    "assignment_2": "<fuzzy>Paradigm 1 + 2 looked as 1 looks now (the root was always accented), and the paradigm 3 + 4 looked as 3 looks now (the endings were accented in the Singular and the root was accented in the Plural).",
+    "assignment_3": "<fuzzy>Saussure's Law says that in the sequence syilable with rising intonation-syllable with falling intonation (**ã**á) the accent shifted from the first syllable to the second (ã**á**)."
+  },
+  "explanation": {
+    "rules": "First of all, for every syllable we must determine to which of the two types it belongs. \nThis is easy to do, since, according to the problem statement, the syllable type always remains the same within the same root or the same ending. \nHence, the root has falling intonation in paradigms 1 and 3, and rising intonation in paradigms 2 and 4. \nThe endings in Nom.Sg. and Acc.Pl. always have falling intonation, whereas in Gen.Sg. and Nom.Pl. they always have rising intonation (the last one is explicated in the problem).\nLet us represent these data (where a designates any vowel, and stressed syllables are set in boldface):\nHere is the table converted into plain text with each row as a line of words:\nParadigm 1 2 3 4\nNom.Sg. áá áá áá áá\nGen.Sg. áã ãã áã ãã\nNom.Pl. áã ãã áã ãã\nAcc.Pl. áá áá áá áá\n\nWhich paradigms belonged together?\nIn 1 and 3 the root has falling intonation, but the accent patterns are different. \nThis means that 1 and 3 must have been different from the outset. \nThe same is true for paradigms 2 и 4. \nTherefore only two options remain:\nA. 1 + 2 and 3 + 4 or\nB. 1 + 4 and 3 + 2\nOption B would have us explain more differences in the place of the accent than option A (5 versus 3), so we start with option A. \nComparing 1 and 2, we notice that the places of the accent are only different in Nom.Sg. and Acc.Pl., áá in 1 corresponding to áá in 2 in both cases. \nComparing 3 and 4, we notice that the places of the accent are only different in Acc.Pl; in this case, too, áá in 3 corresponds to áá in 4. \nOption B does not yield an acceptable solution. \nFor instance, the different places of the accent in Gen.Sg (áã) and Nom.Pl. (áã) in 4, the intonation of both syllables being the same, and their coincidence in 1 cannot be accounted for. \nWe conclude that option A is correct.",
+    "rule_checklist": [
+      "For every syllable we must determine to which of the two types it belongs.",
+      "The syllable type always remains the same within the same root or the same ending.",
+      "The root has falling intonation in paradigms 1 and 3, and rising intonation in paradigms 2 and 4.",
+      "The endings in Nom.Sg. and Acc.Pl. always have falling intonation, whereas in Gen.Sg. and Nom.Pl. they always have rising intonation (the last one is explicated in the problem).",
+      "Let us represent these data (where a designates any vowel, and stressed syllables are set in boldface): Paradigm 1 2 3 4 Nom.Sg. áá áá áá áá Gen.Sg. áã ãã áã ãã Nom.Pl. áã ãã áã ãã Acc.Pl. áá áá áá áá",
+      "In 1 and 3 the root has falling intonation, but the accent patterns are different.",
+      "This means that 1 and 3 must have been different from the outset.",
+      "The same is true for paradigms 2 и 4.",
+      "Therefore only two options remain: A. 1 + 2 and 3 + 4 or B. 1 + 4 and 3 + 2",
+      "Option B would have us explain more differences in the place of the accent than option A (5 versus 3), so we start with option A.",
+      "Comparing 1 and 2, we notice that the places of the accent are only different in Nom.Sg. and Acc.Pl., áá in 1 corresponding to áá in 2 in both cases.",
+      "Comparing 3 and 4, we notice that the places of the accent are only different in Acc.Pl; in this case, too, áá in 3 corresponds to áá in 4.",
+      "Option B does not yield an acceptable solution.",
+      "For instance, the different places of the accent in Gen.Sg (áã) and Nom.Pl. (áã) in 4, the intonation of both syllables being the same, and their coincidence in 1 cannot be accounted for.",
+      "We conclude that option A is correct."
+    ]
+  }
+}

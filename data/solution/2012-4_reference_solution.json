@@ -1,0 +1,30 @@
+{
+  "id": "2012-4",
+  "answer": {
+    "a_13": "You (pl.) ate the coconut.",
+    "a_14": "You (sg.) struck the sorcerer with the bag.",
+    "a_15": "He saw you (pl.).",
+    "b_16": "Enam paa hee vuan a taba’ani.",
+    "b_17": "Eove paa dao anaa bona beiko.",
+    "b_18": "Enaa paa asun e bona.",
+    "b_19": "A oraoraa paa hee bona visoasi bona iana.",
+    "c_24": "A oraoraa paa dao ori bona moon.",
+    "c_25": "A toraara paa asun a visoasi bona iana."
+  },
+  "explanation": {
+    "rules": "The sentences have the following structure: S paa V O [O′ ] (S: subject, V: verb, O: object, O′: another object). \n\n[blank] | give      | call   | strike, kill\nO       | to whom   | whom   | whom\nO'      | what      | what   | with what\n\nEvery noun is preceded by an article, which is a if this is the first third person in the sentence and bona otherwise. The form of the 3rd person sg pronoun e or bona is chosen in the same way. \n\nPersonal pronouns: \n| 1st person sg | 1st person pl | 2nd person sg | 2nd person pl | 3rd person sg | 3rd person pl\nS       | enaa          | enam          | ean           | eam           | eove          | eori\nO, O'   | anaa          | [blank]       | vuan          | ameam         | e, bona       | [blank]\n\nWhat was mentioned in the context is moved to the first place and takes the article a. If thereby a pronominal subject moves after the verb, it loses its initial e-. If the moving subject is a noun, it preserves its article a.\nS paa V O [O′] → S paa V O [O′] \nS paa V O [O′] → O paa V S [O′] \nS paa V O O′  → O′  paa V S O",
+    "rule_checklist": [
+      "The sentences have the following structure: S paa V O [O′ ] (S: subject, V: verb, O: object, O′: another object).",
+      "|       | give      | call   | strike, kill\nO       | to whom   | whom   | whom\nO'      | what      | what   | with what",
+      "Every noun is preceded by an article, which is a if this is the first third person in the sentence and bona otherwise.",
+      "The form of the 3rd person sg pronoun e or bona is chosen in the same way.",
+      "Personal pronouns: \n| 1st person sg | 1st person pl | 2nd person sg | 2nd person pl | 3rd person sg | 3rd person pl\nS       | enaa          | enam          | ean           | eam           | eove          | eori\nO, O'   | anaa          | [blank]       | vuan          | ameam         | e, bona       | [blank]",
+      "What was mentioned in the context is moved to the first place and takes the article a.",
+      "If thereby a pronominal subject moves after the verb, it loses its initial e-.",
+      "If the moving subject is a noun, it preserves its article a.",
+      "S paa V O [O′] → S paa V O [O′]",
+      "S paa V O [O′] → O paa V S [O′]",
+      "S paa V O O′  → O′  paa V S O"
+    ]
+  }
+}

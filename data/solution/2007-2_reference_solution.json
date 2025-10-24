@@ -1,0 +1,26 @@
+{
+  "id": "2007-2",
+  "answer": {
+    "section1": "kw",
+    "section2_negative_form_of_as": "kas asa:sa’",
+    "section2_negative_form_of_enferme:ra": "kas ena’ferme:ra",
+    "section2_negative_form_of_jiła:pa": "kas jiłaka’pa",
+    "section2_negative_form_of_de": "kas deka:ka’",
+    "section2_negative_form_of_rulrul": "kas rula’rul",
+    "section2_negative_form_of_tipoysu:da": "kas tipoya’su:da",
+    "section2_base_form_of_kas_wurula:la’": "wurul",
+    "section2_base_form_of_kas_dewaja’na": "dewajna",
+    "section2_base_form_of_kas_deka’wajna": "de:wajna"
+  },
+  "explanation": {
+    "rules": "Rules:\n1. Marker Placement: \n- Insert the marker `-(k)a’-` after the first syllable if it is either closed (ends in a consonant) or long (contains a long vowel). \n- Otherwise, insert the marker after the second syllable.\n\n2. Vowel Length:\n- If the marker is inserted after a long vowel, the vowel loses its length.\n\n3. Marker Form:\n- After an open syllable, the marker retains its original form `-ka’-`.\n- After a closed syllable, it changes to `-a’-`.\n\n4. Special Case for Mono- and Disyllabic Words:\n- The marker appears as `-(k)a:ʔa’`, where (k) depends on Rule 3.",
+    "rule_checklist": [
+      "Marker Placement: Insert the marker `-(k)a’-` after the first syllable if it is either closed (ends in a consonant) or long (contains a long vowel).",
+      "Marker Placement: Otherwise, insert the marker after the second syllable.",
+      "Vowel Length: If the marker is inserted after a long vowel, the vowel loses its length.",
+      "Marker Form: After an open syllable, the marker retains its original form `-ka’-`.",
+      "Marker Form: After a closed syllable, it changes to `-a’-`.",
+      "Special Case for Mono- and Disyllabic Words: The marker appears as `-(k)a:ʔa’`, where (k) depends on Rule 3."
+    ]
+  }
+}

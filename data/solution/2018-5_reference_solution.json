@@ -1,0 +1,40 @@
+{
+  "id": "2018-5",
+  "answer": {
+    "a_Man_1": "Ofori",
+    "a_Woman_1": "Dubaku",
+    "a_Woman_2": "Kunto",
+    "a_Man_2": "Enu",
+    "a_Man_3": "Nsia",
+    "a_Woman_3": "Awotwi",
+    "a_Woman_4": "Esi",
+    "a_Man_4": "Kofi",
+    "a_Man_5": "Kobina",
+    "a_Man_6": "Yaw",
+    "a_Woman_6": "Ama",
+    "a_Woman_7": "Thema",
+    "a_Man_7": "Berko",
+    "a_Man_5s_wife": "Ama",
+    "b_1_gap_1": "Dubaku ne Kunto",
+    "b_1_gap_2": "agyanom",
+    "b_1_gap_3": "Enu",
+    "b_1_gap_4": "Ama ne Kobina",
+    "b_1_gap_5": "sewaa",
+    "b_1_gap_6": "wɔfa",
+    "b_1_gap_7": "wɔfabanom",
+    "b_2_gap_1": "Ofori",
+    "b_2_gap_2": "Esi",
+    "b_2_gap_3": "wɔfaasenom",
+    "b_2_gap_4": "Ama ne Kobina"
+  },
+  "explanation": {
+    "rules": "Yɛfrɛ me N - 'My name is N'. Yɛfrɛ me R N - 'My R's name is N'. ne ... - 'and ...'. -nom - plural.\nTerms for a man's kin:\nɛna - 'mother; mother's sister'. agya - 'father; father's brother'. nua - 'sibling; father's brother's son/daughter; mother's sister's son/daughter'. ba - 'son/daughter; fraternal nephew/niece (brother's son/daughter)'. sewaa - 'father's sister'. sewaaba - 'father's sister's son/daughter'. wɔfa - 'mother's brother'. wɔfaba - 'mother's brother's son/daughter'. wɔfaase - 'sororal nephew/niece (sister's son/daughter)'. yere - 'wife'.",
+    "rule_checklist": [
+      "Yɛfrɛ me N - 'My name is N'.",
+      "Yɛfrɛ me R N - 'My R's name is N'.",
+      "ne ... - 'and ...'.",
+      "-nom - plural.",
+      "Terms for a man's kin:ɛna - 'mother; mother's sister'.agya - 'father; father's brother'.nua - 'sibling; father's brother's son/daughter; mother's sister's son/daughter'.ba - 'son/daughter; fraternal nephew/niece (brother's son/daughter)'.sewaa - 'father's sister'.sewaaba - 'father's sister's son/daughter'.wɔfa - 'mother's brother'.wɔfaba - 'mother's brother's son/daughter'.wɔfaase - 'sororal nephew/niece (sister's son/daughter)'.yere - 'wife'."
+    ]
+  }
+}

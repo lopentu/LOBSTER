@@ -1,0 +1,37 @@
+{
+  "id": "2018-4",
+  "title": "Problem 4",
+  "content": "(20 points)\n\nHere are some word combinations in Mountain Arapesh and their English translations:\n\n| Mountain Arapesh               | Translation             |\n|--------------------------------|-------------------------|\n| 1. biaruh atuh araruh          | 3 sugar canes           |\n| 2. nybat biabys juhurubys      | 6 eggs                  |\n| 3. anowip biabys bøbys         | 8 betel nuts            |\n| 4. biogu nybat atuh araruh     | 9 sugar canes           |\n| 5. anowip biagas atugas atug baigas | 10 sheets of sago bark |\n| 6. biogu atut atub juhurubys   | 13 eggs                 |\n| 7. wiwis atug baigas           | 13 sheets of sago bark  |\n| 8. wiwis biabys bøbys          | 14 betel nuts           |\n| 9. biogu atugu biogu biaruh atuh araruh | 23 sugar canes |\n| 10. araman biabys bøbys        | 26 betel nuts           |\n| 11. anowip biabys juhurubys    | 26 eggs                 |\n\n(a) A linguist who was examining the data first thought that the word X was missing in three of the examples above. However, studying the language further, the linguist went on to realize that no word is missing, as the word X is usually not used but implied by the context. Name the word X. In which three examples did the linguist think it was missing? How is it implied by the context?\n\n(b) Translate into English:\n\n12. biabys atub bøbys  \n13. atub juhurub  \n14. nybat atuh araruh  \n15. biagas atugas biagas baigas  \n16. wiwis baigas  \n\n(c) Translate into Mountain Arapesh:\n\n17. 4 betel nuts  \n18. 11 eggs  \n19. 20 eggs  \n20. 25 sheets of sago bark  \n\n△! Mountain Arapesh (Bukiyip) belongs to the Torricelli family. It is spoken by approx. 15,000 people in Papua New Guinea.\nBetel nuts are actually seeds of a certain kind of palm. —Aleksejs Peguševs",
+  "answer_format": {
+    "a": {
+      "type": "string"
+    },
+    "b_12": {
+      "type": "string"
+    },
+    "b_13": {
+      "type": "string"
+    },
+    "b_14": {
+      "type": "string"
+    },
+    "b_15": {
+      "type": "string"
+    },
+    "b_16": {
+      "type": "string"
+    },
+    "c_17": {
+      "type": "string"
+    },
+    "c_18": {
+      "type": "string"
+    },
+    "c_19": {
+      "type": "string"
+    },
+    "c_20": {
+      "type": "string"
+    }
+  }
+}

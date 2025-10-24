@@ -1,0 +1,49 @@
+{
+  "id": "2023-1",
+  "title": "Problem 1",
+  "content": "(20 points)\n\nHere are two different forms of some verbs in Guazacapán Xinka and their English translations:\n\n| Form 1       | Form 2        | Translation           |\n|--------------|---------------|-----------------------|\n| 1. piriy'  (it saw (it))  | ɨmbir'i  (it see (it))   | see           |\n| 2. im'ay  (it said (it))   | ɨnim'a  (it say (it))   | say, tell      |\n| 3. aplay'    | ɨnapal'a      | open (it)             |\n| 4. k'aniy'   | ɨŋk'an'i      | trap                  |\n| 5. ɬɨknɨy'   | ɨnɬɨkɨn'ɨ     | obey, believe         |\n| 6. tundiy'   | ɨndunat'i     | play (an instrument)  |\n| 7. ʂakʂay'   | ɨnʂakaʦ'a     | steal                 |\n| 8. kiʂiy'    | ɨŋɡiʦ'i       | roast                 |\n| 9. hɨk'ay    | ɨnhɨk'a       | sew, weave            |\n| 10. hɨnɨy'   | ɨnhɨn'ɨ       | learn, know           |\n| 11. yuɬmuy'  | ɨnyuɬum'u     | suck candy            |\n| 12. iplay'   | ɨnipal'a      | bathe (it)            |\n| 13. p'ahniy' | ɨmp'ahan'i    | dig                   |\n| 14. ter'oy   | ɨnder'o       | kill                  |\n| 15. netkay'  | ?             | push                  |\n| 16. kɨrɨy'   | ?             | pull                  |\n| 17. p'uhruy' | ?             | make holes            |\n| 18. her'oy   | ?             | smooth out            |\n\n(a) Fill in the gaps in rows 15–18.\n\nHere are some more verb forms in Guazacapán Xinka and their English translations:\n\n| Form         | Translation              |\n|--------------|--------------------------|\n| 19. ɨmbiiriʔ | I was seen               |\n| 20. hɨk'aŋ   | I sewed, wove (it)       |\n| 21. ɨŋk'ataʔ | I lie down               |\n| 22. kɨrɨn'   | I pulled (it)            |\n| 23. ɨnsiiruʔ | I hurried                |\n| 24. ɨniʂapaʔ | I leave                  |\n| 25. ɨnimaʔ   | I am being told // (it) is being said to me |\n| 26. ʂawʂan'  | I planted (it)           |\n| 27. ʂur'uŋ   | I chose (it)             |\n| 28. ɨndeeroʔ | I was killed; I died     |\n| 29. ɨmbiriʔ  | I am being seen          || 30. heeroʔ   | it was smoothed out      |\n| 31. p'ɨhnaʔ  | it leaped                |\n| 32. ʂawʂaʔ   | it was planted           |\n| 33. ak'okamaʔ| it kneels                |\n| 34. ateroʔ   | it is being killed; it dies |\n| 35. k'aataʔ  | it lay down              |\n| 36. asiruʔ   | it hurries               |\n| 37. iʂpaʔ    | it left                  |\n| 38. aʂakaʂaʔ | it is being stolen        |\n| 39. her'oŋ   | ?                        |\n| 40. ɨniʂpaʔ  | ?                        |\n| 41. aplaʔ    | ?                        |\n| 42. ?        | it chose (it)            |\n| 43. ?        | I saw (it)               |\n| 44. ?        | I plant (it)             |\n| 45. ?        | it was trapped           |\n| 46. ?        | I leap                   |\n| 47. ?        | it is being sewn, woven  |\n| 48. ?        | I was bathed             |\n\n(b) Fill in the gaps in rows 39–48.\n\n!△ ŋ = ng in hang. ʂ ≈ sh in sheesh. ʦ ≈ ts in Patsy. ʔ, h, ɬ, w and y are consonants; ʔ and consonants followed by ’ are pronounced by briefly blocking the flow of air in the throat. ɨ is a vowel. A doubled letter denotes length.\n\nThe Guazacapán Xinka language belongs to the Xinkan family. It was spoken in the town of Guazacapán in Guatemala. It no longer has any fluent native speakers—in the past 50 years, all former speakers of the language switched to speaking only Spanish instead.\n\n—Samuel Ahmed\n\n---",
+  "answer_format": {
+    "a_15": {
+      "type": "string"
+    },
+    "a_16": {
+      "type": "string"
+    },
+    "a_17": {
+      "type": "string"
+    },
+    "a_18": {
+      "type": "string"
+    },
+    "b_39": {
+      "type": "string"
+    },
+    "b_40": {
+      "type": "string"
+    },
+    "b_41": {
+      "type": "string"
+    },
+    "b_42": {
+      "type": "string"
+    },
+    "b_43": {
+      "type": "string"
+    },
+    "b_44": {
+      "type": "string"
+    },
+    "b_45": {
+      "type": "string"
+    },
+    "b_46": {
+      "type": "string"
+    },
+    "b_47": {
+      "type": "string"
+    },
+    "b_48": {
+      "type": "string"
+    }
+  }
+}

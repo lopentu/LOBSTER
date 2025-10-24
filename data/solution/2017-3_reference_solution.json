@@ -1,0 +1,24 @@
+{
+  "id": "2017-3",
+  "answer": {
+    "a_12": "Did the sorcerer see the stars?",
+    "a_13": "There are stars in the sky.",
+    "a_14": "I danced.",
+    "a_15": "Did the man see the bananas in Luanda?",
+    "b_16": "ŋgáʃíká",
+    "b_17": "mútú mwásáŋgá múlóʒì nì dìkámbà mùkìtándà",
+    "b_18": "djálá djámí djámónà dìkúŋgù",
+    "b_19": "mùlwándà mwálà àlóʒì; àlóʒí álà mùlwándà"
+  },
+  "explanation": {
+    "rules": "Rules:\n• Basic order = S V (O) (L) (S = subject, V = predicate, O = object, L = place); 1 sg subject takes the prefix ŋg‑ before the verb.\n• Reordering = X V L ≡ L V X (any XP may front before L).\n• Possession = N P (noun precedes possessive pronoun).\n• Gender / number concord prefixes: singular mú‑, dí‑, ʒí‑; plural à‑, má‑; place nouns mû‑. (Before a vowel i‑ → j‑, u‑ → w‑, a‑ → ∅.)\n• Tone assimilation: the tone on the last syllable of a word copies the tone on the first syllable of the next word.\n• Clause‑final tone: low in declaratives, high in interrogatives.",
+    "rule_checklist": [
+      "Basic order = S V (O) (L); 1 sg subject takes the prefix ŋg- before the verb.",
+      "Reordering = X V L ≡ L V X (any XP may front before L).",
+      "Possession = N P (noun precedes possessive pronoun).",
+      "Gender / number concord prefixes: singular mú-, dí-, ʒí-; plural à-, má-; place nouns mû-. (Before a vowel i- → j-, u- → w-, a- → ∅.)",
+      "Tone assimilation: the tone on the last syllable of a word copies the tone on the first syllable of the next word.",
+      "Clause-final tone: low in declaratives, high in interrogatives."
+    ]
+  }
+}

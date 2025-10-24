@@ -1,0 +1,25 @@
+{
+  "id": "2013-5",
+  "title": "Problem 5",
+  "content": "(20 points)\nIn a series of experiments run in Carnegie Mellon University (Pittsburgh, USA) in 2010, volunteers were first shown some English words, while activity was being registered in different locations of their brains. Then the volunteers were asked to think of some other words from a preselected list of 60 words, while the researchers were measuring their brain activity again. Using the obtained data, the researchers were able to determine the words the volunteers were thinking of quite successfully.\n\nBelow you can find some data on the activity levels for four brain locations depending on which word the volunteers were thinking of:\n\n| Word        | Translation        | Location A | Location B | Location C | Location D |\n|-------------|--------------------|------------|------------|------------|------------|\n| airplane    | airplane           | high       | low        | low        | high       |\n| apartment   | apartment          | high       | low        | low        | high       |\n| arm         | arm                | low        | high       | low        | low        |\n| corn        | corn               | low        | low        | high       | low        |\n| cup         | cup                | low        | low        | high       | low        |\n| igloo       | igloo              | high       | low        | low        | low        |\n| key         | key                | high       | high       | low        | low        |\n| lettuce     | lettuce            | low        | low        | high       | high       |\n| screwdriver | screwdriver        | low        | high       | low        | high       |\n\nThe same information is given below on six more words the volunteers were thinking of: bed, butterfly, cat, cow, refrigerator, spoon.\n\n| Word         | Location A | Location B | Location C | Location D |\n|--------------|------------|------------|------------|------------|\n| 1            | low        | low        | high       | high       |\n| 2            | low        | low        | high       | low        |\n| 3            | high       | low        | low        | low        |\n| 4            | low        | low        | low        | high       |\n| 5            | low        | high       | high       | low        |\n| 6            | low        | low        | low        | low        |\n\nDetermine the correct correspondences.",
+  "answer_format": {
+    "1": {
+      "type": "string"
+    },
+    "2": {
+      "type": "string"
+    },
+    "3": {
+      "type": "string"
+    },
+    "4": {
+      "type": "string"
+    },
+    "5": {
+      "type": "string"
+    },
+    "6": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2014-2",
+  "answer": {
+    "plum_Dual": "alɔsɔhje",
+    "dog_Singular": "tsegun",
+    "lemon_Plural": "alɔguk’ogɔ",
+    "old_man_Singular": "k’apʰtʰɔ",
+    "blanket_Plural": "khɔ",
+    "tomato_Dual": "k’ɔn",
+    "apple_Singular": "alɔgɔ",
+    "apple_Plural": "alɔgɔ",
+    "buffalo_Singular": "pʰɔ",
+    "buffalo_Plural": "pʰɔgɔ",
+    "child_Singular": "san",
+    "child_Dual": "san",
+    "comb_Dual": "ɔlsun",
+    "comb_Plural": "ɔlsudɔ",
+    "fork_Singular": "pitso",
+    "fork_Plural": "pitsogɔ",
+    "chair_Singular": "tʰɔpʰpaadɔ",
+    "chair_Plural": "tʰɔpʰpaa"
+  },
+  "explanation": {
+    "rules": "people, animals, tools (class 1): singular -∅, dual -∅, plural -gɔ\npeople, animals, tools (class 2): singular -n, dual -n, plural -dɔ\nfruit (class 1): singular -gɔ, dual -∅, plural -gɔ\nfruit (class 2): singular -dɔ, dual -n, plural -dɔ\nall other things: singular -dɔ, dual -(n), plural -(n)",
+    "rule_checklist": [
+      "people, animals, tools (class 1): singular -∅, dual -∅, plural -gɔ",
+      "people, animals, tools (class 2): singular -n, dual -n, plural -dɔ",
+      "fruit (class 1): singular -gɔ, dual -∅, plural -gɔ",
+      "fruit (class 2): singular -dɔ, dual -n, plural -dɔ",
+      "all other things: singular -dɔ, dual -(n), plural -(n)"
+    ]
+  }
+}

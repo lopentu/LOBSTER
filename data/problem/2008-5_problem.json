@@ -1,0 +1,40 @@
+{
+  "id": "2008-5",
+  "title": "Problem 5",
+  "content": "(20 points)\nThe following are sentences in Inuktitut and their English translations:\n\n| Inuktitut                                 | English                              |\n|-------------------------------------------|--------------------------------------|\n| 1. Qingmivit takujaatit.                  | Your dog saw you.                    |\n| 2. Inuuhuktuup iluaqhaiji qukiqtanga.     | The boy shot the doctor.             |\n| 3. Aanniqtutit.                           | You hurt yourself.                   |\n| 4. Iluaqhaijiup aarqijaatit.              | The doctor cured you.                |\n| 5. Qingmiq iputujait.                     | You speared the dog.                 |\n| 6. Angatkuq iluaqhaijimik aarqisijuq.     | The shaman cured a doctor.           |\n| 7. Nanuq qaijuq.                          | The polar bear came.                 |\n| 8. Iluaqhaijivit inuuhuktuit aarqijanga.  | Your doctor cured your boy.          |\n| 9. Angunahuktiup amaruq iputujanga.       | The hunter speared the wolf.         |\n| 10. Qingmiup ilinniaqtitsijiit aanniqtanga.| The dog hurt your teacher.           |\n| 11. Ukiakhaqtutit.                        | You fell.                            |\n| 12. Angunahukti nanurmik qukiqsijuq.      | The hunter shot a polar bear.        |\n\n(a) Translate into English:\n\n1. Amaruup angatkuit takujanga.\n2. Nanuit inuuhukturmik aanniqsijuq.\n3. Angunahuktiit aarqijuq.\n4. Ilinniaqtitsiji qukiqtait.\n5. Qaijutit.\n6. Angunahuktimik aarqisijutit.\n\n(b) Translate into Inuktitut:\n\n1. The shaman hurt you.\n2. The teacher saw the boy.\n3. Your wolf fell.\n4. You shot a dog.\n5. Your dog hurt a teacher.\n\nNB: Inuktitut (Canadian Inuit) belongs to the Eskimo-Aleut family of languages. It is spoken by approx. 35 000 people in the northern part of Canada.\nThe letter r denotes a ‘Parisian’ r (pronounced far back in the mouth), and q stands for a k-like sound made in the same place.\nA shaman is a priest, sorcerer and healer in some cultures. —Bozhidar Bozhanov\n---\n\nGood luck!",
+  "answer_format": {
+    "a_1": {
+      "type": "string"
+    },
+    "a_2": {
+      "type": "string"
+    },
+    "a_3": {
+      "type": "string"
+    },
+    "a_4": {
+      "type": "string"
+    },
+    "a_5": {
+      "type": "string"
+    },
+    "a_6": {
+      "type": "string"
+    },
+    "b_1": {
+      "type": "string"
+    },
+    "b_2": {
+      "type": "string"
+    },
+    "b_3": {
+      "type": "string"
+    },
+    "b_4": {
+      "type": "string"
+    },
+    "b_5": {
+      "type": "string"
+    }
+  }
+}

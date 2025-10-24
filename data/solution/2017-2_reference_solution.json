@@ -1,0 +1,34 @@
+{
+  "id": "2017-2",
+  "answer": {
+    "a_1": "e",
+    "a_2": "p",
+    "a_3": "o",
+    "a_4": "d",
+    "a_5": "b",
+    "a_6": "i",
+    "a_7": "j",
+    "a_8": "a",
+    "a_9": "m",
+    "a_10": "h",
+    "a_11": "c",
+    "a_12": "k",
+    "a_13": "q",
+    "a_14": "f",
+    "a_15": "n",
+    "a_16": "l",
+    "a_17": "g",
+    "b_1": "your (sg.) nose",
+    "b_2": "one’s own mother’s tree",
+    "c_1": "fe",
+    "c_2": "rilui",
+    "c_3": "eya hemaama",
+    "c_4": "nemaama hapong",
+    "c_5": "dawei",
+    "c_6": "netama"
+  },
+  "explanation": {
+    "rules": "Rules:\n• Word order = 〈possessor〉 〈possessed〉.\n• Prefixes on the possessor noun:\n  1 sg n‑; 2 sg Ø‑; 3 sg h‑; ‘each of us’ t‑; ‘one’s own …’ d‑; 2 pl ri‑.\n• Prefixes on the possessed noun = (consonant of possessor prefix) + vowel:\n  ‑a‑ if the possessed item is a body‑part;\n  ‑e‑ otherwise.",
+    "rule_checklist": []
+  }
+}

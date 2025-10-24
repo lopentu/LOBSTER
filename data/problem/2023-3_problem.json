@@ -1,0 +1,37 @@
+{
+  "id": "2023-3",
+  "title": "Problem 3",
+  "content": "(20 points)\n\nHere are some sentences in Coastal Marind and their English translations:\n\n| Sentence                      | Translation                           |\n|------------------------------|---------------------------------------|\n| 1. ob-dahetok                | You_{sg} really returned.                |\n| 2. nake-dahetok              | We returned.                          |\n| 3. nambat-ihwin              | Aw, I cried.                          |\n| 4. nambe-otab                | We really chased you_{pl} away.          |\n| 5. um-kulaɣawn               | He laughed at you_{sg} in vain.          |\n| 6. e-keseh                   | You_{pl}spat on him\n| 7. ubate-huɣanab             | Aw, you_{sg} silenced us.                |\n| 8. nakum-hoɣab               | I silenced you_{pl}in vain.             |\n| 9. nambame-ɣadaɣawn          | Oh, we left you_{sg} behind!             |\n| 10. ebe-ɣadanawn             | You_{pl} really left us behind.          |\n| 11. ibatum-ɣadewn            | Aw, you_{pl} left him behind in vain.    |\n| 12. a-isanab                 | He cut me in half.                    |\n| 13. obam-eseb                | Oh, you_{sg} cut him in half!            |\n\nThe following verbs have a grammatical difference from the verbs above:\n\n| Sentence                      | Translation                           |\n|------------------------------|---------------------------------------|\n| 14. bate-tamanab             | Aw, we floated to the surface.        |\n| 15. ba-tamab                 | You_{pl} really floated to the surface.  |\n| 16. a-ɣuyaɣah                | You_{sg} shuddered.                      |\n| 17. bam-ɣuyanah              | Oh, I shuddered!                      |\n\n(a) Translate into English:\n\n18. e-ɣuyanah  \n19. ba-ihwin  \n20. nambum-kisaɣah  \n21. bat-ɣadawn  \n22. ubamum-kolewn  \n\n(b) Translate into Coastal Marind:\n\n23. He floated to the surface.  \n24. Aw, you_{sg} returned.  \n25. Oh, I silenced him!  \n26. He really chased us away.  \n27. You_{pl} really spat on us in vain.  \n\n!△ The Coastal Marind language belongs to the Anim family. It is spoken by approx. 8,000 people in the South Papua province of Indonesia. ɣ and y are consonants. In the Coastal Marind verb forms, a hyphen (-) is used to separate two halves of a verb that are pronounced as if they were separate words.\n\n—David Hultman (Consultant: Bruno Olsson)\n\n---",
+  "answer_format": {
+    "a_18": {
+      "type": "string"
+    },
+    "a_19": {
+      "type": "string"
+    },
+    "a_20": {
+      "type": "string"
+    },
+    "a_21": {
+      "type": "string"
+    },
+    "a_22": {
+      "type": "string"
+    },
+    "b_23": {
+      "type": "string"
+    },
+    "b_24": {
+      "type": "string"
+    },
+    "b_25": {
+      "type": "string"
+    },
+    "b_26": {
+      "type": "string"
+    },
+    "b_27": {
+      "type": "string"
+    }
+  }
+}

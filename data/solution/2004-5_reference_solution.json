@@ -1,0 +1,35 @@
+{
+  "id": "2004-5",
+  "answer": {
+    "gap_1_chuvash": "<select1,1,inf>['aptrat']",
+    "gap_2_chuvash": "<select1,1,inf>['çiter']",
+    "gap_3_english": "to be rinsed",
+    "gap_4_english": "to be closed",
+    "gap_5_chuvash": "<select2,1,inf>['hup', 'hupӑnt']",
+    "gap_6_chuvash": "<select1,1,inf>['kaçar']",
+    "gap_7_english": "to be frozen",
+    "gap_8_english": "to fall",
+    "gap_9_chuvash": "<select2,1,inf>['kĕr', 'kĕrten']",
+    "gap_10_english": "to introduce",
+    "gap_11_chuvash": "<select2,1,inf>['pytar', 'pytaran']"
+  },
+  "explanation": {
+    "rules": "It is easy to note that the left column lists only intransitive verbs and the right column only transitive ones. If a verb in the left column means 'X', its counterpart in the right column means 'to cause X' (i.e. it expresses a so-called causative meaning). \nApparently, the Chuvash verbs in each pair have the same root, but one cannot determine which of the two verbs is primary and which is derived from the primary verb using a suffix: in some pairs, the intransitive verb is shorter, and in others the other way round. \nIf one admitted truncations, one would have to formulate rules with exceptions. \nConsider e.g. the verbs cuben and veren, which have the same structure, but different behaviour: one is truncated to form the transitive verb (čühe), the other is constructed using a suffix (verent).\nOne may assume that the given pairs of verbs are different: in some cases, the intransitive verb is formed from the corresponding transitive one (e.g. čühen from čühe), in others, the reverse is true: the transitive verb is formed from the corresponding intransitive one (e.g. verent from věren). \nLet us determine which suffixes are used in both cases:\n1. When the intransitive verb is formed from the transitive one, the -ǎn/-ěn suffix is used if the initial verb ends with a consonant, and the-n suffix is used if the initial verb ends with a vowel.\n2. When the transitive verb is formed from the intransitive one, the -ar/-er suffis used if the initial verb ends with an obstruent consonant (ç, t, k), or -t suffix if the initial verb ends with a resonant consonant (r, r) or a vowel (so-called dissimilation of consonants).\n\nThe choice of the vowel in the suffixes depends on the vowels of the root. \nIf the root has back vowels (a, ǎ, u, y), then the suffix also has a back vowel (a, ǎ); if the root has front vowels (e, ě, ü, i), then the suffix also a front vowel (e, ě). \nThis is the so-called vowel harmony.\n\nFinally, we have to determine when the intransitive verb is initial and the transive verb is derived, and when the reverse is true. \nHowever, no dependence either on the sounds of the word or on its meaning can be found. \nHence, in some cases one cannot fill in the gaps univocally: e.g. pytar may be a form of a verb pyt as well as an initial verb, from which a transitive verb pytarǎn is derived.",
+    "rule_checklist": [
+      "It is easy to note that the left column lists only intransitive verbs and the right column only transitive ones.",
+      "If a verb in the left column means 'X', its counterpart in the right column means 'to cause X' (i.e. it expresses a so-called causative meaning).",
+      "Apparently, the Chuvash verbs in each pair have the same root, but one cannot determine which of the two verbs is primary and which is derived from the primary verb using a suffix: in some pairs, the intransitive verb is shorter, and in others the other way round.",
+      "If one admitted truncations, one would have to formulate rules with exceptions.",
+      "Consider e.g. the verbs cuben and veren, which have the same structure, but different behaviour: one is truncated to form the transitive verb (čühe), the other is constructed using a suffix (verent).",
+      "One may assume that the given pairs of verbs are different: in some cases, the intransitive verb is formed from the corresponding transitive one (e.g. čühen from čühe), in others, the reverse is true: the transitive verb is formed from the corresponding intransitive one (e.g. verent from věren).",
+      "Let us determine which suffixes are used in both cases: 1. When the intransitive verb is formed from the transitive one, the -ǎn/-ěn suffix is used if the initial verb ends with a consonant, and the-n suffix is used if the initial verb ends with a vowel.",
+      "Let us determine which suffixes are used in both cases: 2. When the transitive verb is formed from the intransitive one, the -ar/-er suffis used if the initial verb ends with an obstruent consonant (ç, t, k), or -t suffix if the initial verb ends with a resonant consonant (r, r) or a vowel (so-called dissimilation of consonants).",
+      "The choice of the vowel in the suffixes depends on the vowels of the root.",
+      "If the root has back vowels (a, ǎ, u, y), then the suffix also has a back vowel (a, ǎ); if the root has front vowels (e, ě, ü, i), then the suffix also a front vowel (e, ě).",
+      "This is the so-called vowel harmony.",
+      "Finally, we have to determine when the intransitive verb is initial and the transive verb is derived, and when the reverse is true.",
+      "However, no dependence either on the sounds of the word or on its meaning can be found.",
+      "Hence, in some cases one cannot fill in the gaps univocally: e.g. pytar may be a form of a verb pyt as well as an initial verb, from which a transitive verb pytarǎn is derived."
+    ]
+  }
+}

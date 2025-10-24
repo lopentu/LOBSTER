@@ -1,0 +1,25 @@
+{
+  "id": "2009-3",
+  "title": "Problem 3",
+  "content": "(20 points)\nHere are the names of 24 Burmese children and their dates of birth:\n\n**Boys**\n| Name            | Date of Birth |\n|-----------------|---------------|\n| kau6 myaP       | 06/01/2009    |\n| zeiya cO        | 06/09/2009    |\n| pyesou6 au6     | 06/18/2009    |\n| ne li6          | 06/20/2009    |\n| lwi6 koko       | 06/24/2009    |\n| phou6 nai6 thu6 | 06/25/2009    |\n| myo khi6 wi6    | 07/02/2009    |\n| ti6 mau6 laP    | 07/04/2009    |\n| khai6 mi6 thu6  | 07/06/2009    |\n| wi6 cO au6      | 07/08/2009    |\n| thEP au6        | 07/11/2009    |\n| sha6 thu6       | 07/21/2009    |\n\n**Girls**\n| Name             | Date of Birth |\n|------------------|---------------|\n| pa6 we           | 06/04/2009    |\n| thou6 u6         | 06/06/2009    |\n| khi6 le nwE      | 06/08/2009    |\n| wi6 i mu6        | 06/10/2009    |\n| mimi khai6       | 06/18/2009    |\n| su myaP so       | 06/30/2009    |\n| susu wi6         | 07/07/2009    |\n| yadana u         | 07/08/2009    |\n| ti6 za mO        | 07/11/2009    |\n| yi6yi6 myi6      | 07/15/2009    |\n| keþi thu6        | 07/20/2009    |\n| shu ma6 cO       | 07/21/2009    |\n\nOn 06/14/2009, 06/16/2009, 06/24/2009, 07/09/2009, 07/13/2009, and 07/18/2009 six other Burmese children were born. Here are their names:\n\n**Boys**\n- Nwe si6þu\n- so mo cO\n- yE au6 nai6\n\n**Girls**\n- daliya\n- e ti6\n- phyuphyu wi6\n\nWho was born when?\n\n△! The Burmese names are given in a simplified Roman transcription. c = ch in church, E ≈ a in hat, h indicates that the preceding consonant is aspirated (pronounced with a puff of air), N = ng in hang, 6 indicates that the preceding vowel is nasal, O ≈ a in hall, þ ≈ English th in with, y = y in yay!, P is a consonant (the so-called glottal stop).\n—Ivan Derzhanski, Maria Cydzik\n\n\n---",
+  "answer_format": {
+    "Nwe si6þu": {
+      "type": "string"
+    },
+    "so mo cO": {
+      "type": "string"
+    },
+    "yE au6 nai6": {
+      "type": "string"
+    },
+    "daliya": {
+      "type": "string"
+    },
+    "e ti6": {
+      "type": "string"
+    },
+    "phyuphyu wi6": {
+      "type": "string"
+    }
+  }
+}

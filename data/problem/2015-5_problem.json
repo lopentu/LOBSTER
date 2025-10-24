@@ -1,0 +1,40 @@
+{
+  "id": "2015-5",
+  "title": "Problem 5",
+  "content": "(20 points)\n\nHere are 25 half-lines of Somali poetry written in a meter known as masafo:\n\n1. ogaadeen ha ii dirin\n2. duul haad amxaaraa\n3. kaa dooni maayee\n4. amba waa ku daba geli\n5. dakanka iyo qaankee\n6. anaa been dabaadee\n7. galbeed uga dareershaan\n8. dalkaad adigu joogtiyo\n9. dar alliyo heshiis iyo\n10. mase waa dayoobeen\n11. dacalkaaga kuma shuban\n12. miyaan duudsiyaayaa\n13. doodaye maxaad oran\n14. daliilkii ku siiyaye\n15. miyaad iigu duurxuli\n16. dorraad adigu kama dhigin\n17. ma deldelin raggoodii\n18. deelqaadkan aad tiri\n19. diigaanyo ciidana\n20. wax ma kala dillaallaa\n21. duunyada ka qaadoo\n22. diinkiyo dugaaggiyo\n23. dildillaaca waaberi\n24. dibnahaaga kama qiran\n25. hobyo wixii ka soo degey\n\nTo help you understand the structure of masafo, here are 10 half-lines which were constructed from genuine masafo half-lines by random rearrangement of words within the half-line. Some of them might conform to the rules of the versification, but the majority do not:\n\n26. u anigaa lehe diin\n27. waad nimankaad ma diidi\n28. qoran daftarkaaga kuma\n29. fuushaan kaama dusha\n30. helo dabacayuun kulaan\n31. kuu miyuu tari wax dafir\n32. kuu daalasaayee nin\n33. shareecada dikrigiyo\n34. dumarkii furayaan ma\n35. ogaadee diyaar kuu\n\n(a) Describe the structure of a masafo half-line.\n\n(b) Here are 10 more masafo half-lines. Five of them are genuine, and five are obtained by random rearrangement. Which is which? (for each line, write √ if it is genuine, × if it is obtained by random rearrangement)\n\n36. war ismaaciil daarood  \n37. dir miyaad wadaagtaan  \n38. labadaad ka duudiye  \n39. ka jannadaad daahiye  \n40. adiga iyo deriskaa\n41. digaxaarka mariyoo  \n42. ciid iyo doolo diraac\n43. nooma keeneen darka  \n44. kala deyaayaa miyaan  \n45. wuxuun kaa danqaabaan\n\n---\n\nGood luck!",
+  "answer_format": {
+    "a": {
+      "type": "string"
+    },
+    "b_36": {
+      "type": "string"
+    },
+    "b_37": {
+      "type": "string"
+    },
+    "b_38": {
+      "type": "string"
+    },
+    "b_39": {
+      "type": "string"
+    },
+    "b_40": {
+      "type": "string"
+    },
+    "b_41": {
+      "type": "string"
+    },
+    "b_42": {
+      "type": "string"
+    },
+    "b_43": {
+      "type": "string"
+    },
+    "b_44": {
+      "type": "string"
+    },
+    "b_45": {
+      "type": "string"
+    }
+  }
+}

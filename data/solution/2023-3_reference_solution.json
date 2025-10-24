@@ -1,0 +1,28 @@
+{
+  "id": "2023-3",
+  "answer": {
+    "a_18": "We shuddered",
+    "a_19": "He really cried",
+    "a_20": "I really spat on you_{sg} in vain",
+    "a_21": "Aw, he left you_{pl} behind",
+    "a_22": "Oh, you_{sg} laughed at him in vain!",
+    "b_23": "a-tameb",
+    "b_24": "obat-dahetok",
+    "b_25": "nambam-hoɣeb",
+    "b_26": "be-utanab",
+    "b_27": "ibume-kisanah"
+  },
+  "explanation": {
+    "rules": "1. subject: \nnak 1st person \no 2nd person sg \ne 2nd person pl \n2. \nb ‘ really’\nbat ‘Aw, ——.’\nbam ‘Oh, ——!’ \n3.\na (subject = 3rd person sg) \n4. \num ‘ in vain’ \n5. e {subject, object} = 1st person pl\n\nroot = …C↑C+\nobject:\nana 1st person\naɣa 2nd person sg\na 2nd person pl\ne 3rd person sg\n\nkb > mb; e o > i u | __C* V C* V C* #",
+    "rule_checklist": [
+      "1. subject: nak 1st person o 2nd person sg e 2nd person pl",
+      "2. b ‘ really’ bat ‘Aw, ——.’ bam ‘Oh, ——!’",
+      "3. a (subject = 3rd person sg)",
+      "4. um ‘ in vain’",
+      "5. e {subject, object} = 1st person pl",
+      "root = …C↑C+",
+      "object: ana 1st person aɣa 2nd person sg a 2nd person pl e 3rd person sg",
+      "kb > mb; e o > i u | __C* V C* V C* #"
+    ]
+  }
+}

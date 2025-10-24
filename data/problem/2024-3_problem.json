@@ -1,0 +1,79 @@
+{
+  "id": "2024-3",
+  "title": "Problem 3",
+  "content": "You are given the family tree of a Komnzo-speaking family and statements describing the family members’ relation to each other. Siblings are displayed in descending age order from left to right. The position of one family member, Toko, is known.                                                                                                                                                                                                           1. Wafine Kuraiane nge rä.\n2. Mea Gwamane bäiŋaf yé.\n3. Naimr Tokoane ŋame rä.\n4. Mea Wimsane ŋafe yé.\n5. Marua Kuraiane enat yé.                                                                                      \n6. Naimr Gwamane …1.\n7. Abia Maragaane ŋäwi yé.\n8. Tawth Kuraiane zath yé.\n9. Trafe Wafineane ŋame rä.\n10. Marua Maragaane zath yé.\n11. Tawth Meaane …2.\n12. Abia Gwamane yamit yé.\n13. Tawth Wafineane nge yé.\n14. Wafine Maragaane zath ŋare rä.\n15. Kurai Wafineane ŋafe yé.\n16. Trafe Tawthane …3.\n17. Mea Maragaane zath yé.\n18. Nfiyam Wimsane bäiŋam rä.\n19. Wims Gwamane yamit rä.\n20. Maraga Tawthane …4.\n21. Skri Gwamane ŋafe yé.\n22. Naimr Maragaane zath ŋare rä.\n23. Maraga Tokoane nge yé.\n24. Abia Tokoane ngth yé.\n25. Toko Wimsane nane rä.\n26. Toko Gwamane yamit rä.\n27. Maraga Wafineane zath yé.\n28. Nakre Wimsane yumad rä.\n29. Abia Wimsane nane yé.\n30. Mabata …5 ngth …6.\n\nFamily tree:\n- Man 1 and Woman 1 are married. Their child is Woman 2.\n- Man 2 and Woman 2 are married. Their child is Man 3.\n- Man 3 and Woman 3 are married. Their child is Man 4.\n- Woman 3 is Toko.\n- Man 5 and Woman 4 are married. Their children are Woman 3, Man 6 and Woman 5, from oldest to youngest.\n- Man 5 and Woman 6 are siblings. The former is older.\n- Woman 4 and Man 7 are siblings. The former is older.\n- Man 7 and Woman 6 are married. Their child is Man 8.\n- Man 8 and Woman 7 are married.\n- Woman 7 and Woman 8 are siblings. The former is older.\n\n**(a)** Fill in the family tree.\n**(b)** Fill in the gaps (1–6).\n**(c)** The following statement is incorrect. Explain why and correct the mistake.\n\n31. Skri Abiaane ŋäwi yé.",
+  "answer_format": {
+    "a_man_1": {
+      "type": "string"
+    },
+    "a_woman_1": {
+      "type": "string"
+    },
+    "a_man_2": {
+      "type": "string"
+    },
+    "a_woman_2": {
+      "type": "string"
+    },
+    "a_man_3": {
+      "type": "string"
+    },
+    "a_woman_3": {
+      "type": "string"
+    },
+    "a_man_4": {
+      "type": "string"
+    },
+    "a_woman_4": {
+      "type": "string"
+    },
+    "a_man_5": {
+      "type": "string"
+    },
+    "a_woman_5": {
+      "type": "string"
+    },
+    "a_man_6": {
+      "type": "string"
+    },
+    "a_woman_6": {
+      "type": "string"
+    },
+    "a_man_7": {
+      "type": "string"
+    },
+    "a_woman_7": {
+      "type": "string"
+    },
+    "a_man_8": {
+      "type": "string"
+    },
+    "a_woman_8": {
+      "type": "string"
+    },
+    "b_1": {
+      "type": "string"
+    },
+    "b_2": {
+      "type": "string"
+    },
+    "b_3": {
+      "type": "string"
+    },
+    "b_4": {
+      "type": "string"
+    },
+    "b_5": {
+      "type": "string"
+    },
+    "b_6": {
+      "type": "string"
+    },
+    "c_explanation": {
+      "type": "string"
+    },
+    "c_correction": {
+      "type": "string"
+    }
+  }
+}

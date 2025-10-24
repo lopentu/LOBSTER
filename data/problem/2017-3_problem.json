@@ -1,0 +1,31 @@
+{
+  "id": "2017-3",
+  "title": "Problem 3",
+  "content": "(20 points)\n\nHere are some sentences in Kimbundu and their English translations:\n\n1. ŋgámónà dìhónʒò mùdìlóŋgà  \nI saw the banana on the plate.\n\n2. àlóʒí ásáŋgá djálà mùdìkúŋgù  \nThe sorcerers met the man in the cave.\n\n3. ŋgádjà dìhónʒó djámì  \nI ate my banana.\n\n4. mùdjúlù mwálà ʒìtéténbwà  \nThere are stars in the sky.\n\n5. dìkámbá djámí djáʃíkà nì djákínà  \nMy friend sang and danced.\n\n6. ŋgámónà dìkúŋgú djámí  \nDid I see my cave?\n\n7. ŋgámóná málà mùkìtándà  \nI saw the men in the square.\n\n8. ŋgásáŋgá múlóʒí mwámì mùlwándà  \nI met my sorcerer in Luanda.\n\n9. mùkìtándà mwálá djálá djámì  \nMy man (husband) is in the square.\n\n10. mùdìkúŋgù ŋgámónà màkòlómbóló  \nDid I see the roosters in the cave?\n\n11. àtú ádjà dìhónʒò mùlwándá  \nDid the people eat the banana in Luanda?\n\n(a) Translate into English (one of the sentences is very similar in meaning to one of the sentences above):\n\n12. múlóʒí mwámónà ʒìtéténbwá  \n13. ʒìtéténbwá ʒjálà mùdjúlù  \n14. ŋgákínà  \n15. djálá djámónà màhónʒò mùlwándá  \n\n(b) Translate into Kimbundu (one of the sentences may have more than one translation):\n\n16. Did I sing?  \n17. The person met the sorcerer and the friend in the square.  \n18. My man (husband) saw the cave.  \n19. There are sorcerers in Luanda.  \n\n△! Kimbundu (North Mbundu) belongs to the Bantu group of the Benue-Congo branch of the Atlantic-Congo family. It is spoken by approx. 50,000 people in Angola.\nw=winwin. j=yinyum. ʃ and ʒ are consonants. The marks ˊ and ˋ indicate high and low tone, respectively. —Bruno L’Astorina\n\n---",
+  "answer_format": {
+    "a_12": {
+      "type": "string"
+    },
+    "a_13": {
+      "type": "string"
+    },
+    "a_14": {
+      "type": "string"
+    },
+    "a_15": {
+      "type": "string"
+    },
+    "b_16": {
+      "type": "string"
+    },
+    "b_17": {
+      "type": "string"
+    },
+    "b_18": {
+      "type": "string"
+    },
+    "b_19": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "2022-5",
+  "answer": {
+    "a": "*phia¹¹",
+    "b_1": "liʔ²⁴",
+    "b_2": "taːnʔ⁴²",
+    "b_3": "pha⁵⁵",
+    "b_4": "ikaʔ",
+    "b_5": "kaʔ²⁴",
+    "b_6": "tapa",
+    "b_7": "pa¹¹",
+    "b_8": "mɨtay",
+    "b_9": "taːiʔ⁴²",
+    "b_10": "talàm",
+    "b_11": "laːnʔ⁴²",
+    "b_12": "lipùh",
+    "b_13": "phu⁵⁵",
+    "b_14": "pilàn",
+    "b_15": "phiaːn¹¹",
+    "b_16": "pia³³",
+    "b_17": "phu⁵⁵",
+    "b_18": "tha¹¹"
+  },
+  "explanation": {
+    "rules": "Phan Rang Cham\n\nSyllable Structure:\nPenultimate and Final Syllables: (...) D (V L) | V (C)\nMonosyllabic: V\nBoth syllables:\n{*b, *d, *g, *j} > {p, t, k, c}\nNV > Nɨ\nVː > V\nPenultimate syllable:\n*ʔV > V\n*lV > li\n*bV(h)L > pɨL\notherwise, CV(V) > Ca\n-h- is lost (becomes null).\nFinal syllable:\n*s > th\nFinal stops *p, *t, *k -ʔ\n\nTsat\nFinals and Tones:\nFinal ...h: Lost. Preceding ø becomes ø⁵⁵\nFinal ...ay - ...aːiʔ⁴².\nFinal ...aN - ...aːnʔ⁴².\nTone development from Proto-Chamic voiceless final ...T:\n    Final T is lost, may become N, w, y.\n    With initial voiced consonant (+D), tone becomes ʔ⁴² or ¹¹.\n    Without initial voiced consonant (-D), tone becomes ʔ²⁴ or ³³.\nSound Changes by Syllable:\n{*b, *p, *g} (V) {*l, *r} > {ph, p, kh}i.\nOtherwise, the penultimate syllable is lost.\nFinal syllable:\n    {*b, *d, *g}- > {ph, th, kh}-.\n    *r- > z-.\n    {*ow, *ey} > {ə, ai}.\n\nKey\nV: a vowel.\nC: a consonant.\nD: a voiced consonant (b, d, j).\nT: a voiceless consonant (k, t, ʔ).\nN: a nasal consonant (m, n, ŋ).\nL: l or r.",
+    "rule_checklist": [
+      "Phan Rang Cham Syllable Structure: Penultimate and Final Syllables: (...) D (V L) | V (C)",
+      "Phan Rang Cham Syllable Structure: Monosyllabic: V",
+      "Phan Rang Cham Both syllables: {*b, *d, *g, *j} > {p, t, k, c}",
+      "Phan Rang Cham Both syllables: NV > Nɨ",
+      "Phan Rang Cham Both syllables: Vː > V",
+      "Phan Rang Cham Penultimate syllable: *ʔV > V",
+      "Phan Rang Cham Penultimate syllable: *lV > li",
+      "Phan Rang Cham Penultimate syllable: *bV(h)L > pɨL",
+      "Phan Rang Cham Penultimate syllable: otherwise, CV(V) > Ca",
+      "Phan Rang Cham Penultimate syllable: -h- is lost (becomes null).",
+      "Phan Rang Cham Final syllable: *s > th",
+      "Phan Rang Cham Final syllable: Final stops *p, *t, *k -ʔ",
+      "Tsat Finals and Tones: Final ...h: Lost. Preceding ø becomes ø⁵⁵",
+      "Tsat Finals and Tones: Final ...ay - ...aːiʔ⁴².",
+      "Tsat Finals and Tones: Final ...aN - ...aːnʔ⁴².",
+      "Tsat Tone development from Proto-Chamic voiceless final ...T: Final T is lost, may become N, w, y.",
+      "Tsat Tone development from Proto-Chamic voiceless final ...T: With initial voiced consonant (+D), tone becomes ʔ⁴² or ¹¹.",
+      "Tsat Tone development from Proto-Chamic voiceless final ...T: Without initial voiced consonant (-D), tone becomes ʔ²⁴ or ³³.",
+      "Tsat Sound Changes by Syllable: {*b, *p, *g} (V) {*l, *r} > {ph, p, kh}i.",
+      "Tsat Sound Changes by Syllable: Otherwise, the penultimate syllable is lost.",
+      "Tsat Final syllable: {*b, *d, *g}- > {ph, th, kh}-.",
+      "Tsat Final syllable: *r- > z-.",
+      "Tsat Final syllable: {*ow, *ey} > {ə, ai}."
+    ]
+  }
+}

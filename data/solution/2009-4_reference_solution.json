@@ -1,0 +1,26 @@
+{
+  "id": "2009-4",
+  "answer": {
+    "a": "If there are two (e.g., `bhāg-a-`, `pad-a-`, `pat-i-`) or none (`us-ri-`), the stress cannot be determined.",
+    "b_mṛdh-ra-": "mṛdh-rá-",
+    "b_phe-na-": "phé-na-",
+    "b_stu-ti-": "stu-tí-",
+    "b_tan-ti-": "tan-tí-",
+    "b_bhār-a-": "bhār-á-",
+    "b_dū-ta-": "dū-tá-",
+    "b_svap-na-": "sváp-na-",
+    "b_bhū-mi-": "bhū́-mi-",
+    "b_ghar-ma-": "ghar-má-",
+    "b_abh-ra-": "abh-rá-",
+    "b_ghan-a-": "ghan-á-",
+    "b_ghṛṣ-vi-": "ghṛ́ṣ-vi-"
+  },
+  "explanation": {
+    "rules": "Rules:\n1. If the stop consonant in the root and the vowel in the suffix are voiced, the stress is on the suffix.\n2. If the stop consonant in the root and the vowel in the suffix are voiceless, the stress is on the root.\n\n(a) Additional Rule:\n- This rule applies if the root contains precisely one stop consonant. If there are two (e.g., `bhāg-a-`, `pad-a-`, `pat-i-`) or none (`us-ri-`), the stress cannot be determined.",
+    "rule_checklist": [
+      "If the stop consonant in the root and the vowel in the suffix are voiced, the stress is on the suffix.",
+      "If the stop consonant in the root and the vowel in the suffix are voiceless, the stress is on the root.",
+      "This rule applies if the root contains precisely one stop consonant. If there are two (e.g., `bhāg-a-`, `pad-a-`, `pat-i-`) or none (`us-ri-`), the stress cannot be determined."
+    ]
+  }
+}

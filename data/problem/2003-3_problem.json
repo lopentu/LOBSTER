@@ -1,0 +1,70 @@
+{
+  "id": "2003-3",
+  "title": "Problem 3",
+  "content": "Consider the following expressions in Basque and their unordered English translations (some words have been left out):  \n\nBasque expressions:  \n1. urtarrilaren hogeita hirugarrena, larunbata;\n2. otsailaren lehenengo osteguna;\n3. abenduaren lehena, ______;\n4. azaroaren hirugarren ostirala;\n5. irailaren lehena, astelehena;\n6. abenduaren azken astea;\n7. ekainaren bederatzigarrena, igandea;\n8. irailaren azken asteazkena;\n9. urriaren azken larunbata;\n10. ______ bigarrena, ostirala. \n\nEnglish translations:  \nA. the first Thursday of February  \nB. the last Wednesday of ______  \nC. the first of December, Wednesday  \nD. the last ______ of December  \nE. the ninth of June, Sunday  \nF. the twenty-third of January, ______  \nG. the last Saturday of October  \nH. the third Friday of November  \nI. ______ of September, Monday  \nJ. the second of January, Friday  \n\n**Assignment 1.** Match up the expressions with their translations and fill in the gaps.  \n\n**Assignment 2.** Translate into Basque:  \nK. the first Monday of December  \nL. the twenty-ninth of November, Saturday  \nM. the second week of January  \nN. the third of February, Monday  \n\n**Assignment 3.** How do you think the Basque names of days of the week \"astelehena, asteazkena, asteartea\" might be translated literally? (Alexandre Arkhipov)",
+  "answer_format": {
+    "assignment_1_correspondence_1": {
+      "type": "string"
+    },
+    "assignment_1_correspondence_2": {
+      "type": "string"
+    },
+    "assignment_1_correspondence_3": {
+      "type": "string"
+    },
+    "assignment_1_correspondence_4": {
+      "type": "string"
+    },
+    "assignment_1_correspondence_5": {
+      "type": "string"
+    },
+    "assignment_1_correspondence_6": {
+      "type": "string"
+    },
+    "assignment_1_correspondence_7": {
+      "type": "string"
+    },
+    "assignment_1_correspondence_8": {
+      "type": "string"
+    },
+    "assignment_1_correspondence_9": {
+      "type": "string"
+    },
+    "assignment_1_correspondence_10": {
+      "type": "string"
+    },
+    "assignment_1_gap_3": {
+      "type": "string"
+    },
+    "assignment_1_gap_10": {
+      "type": "string"
+    },
+    "assignment_1_gap_B": {
+      "type": "string"
+    },
+    "assignment_1_gap_D": {
+      "type": "string"
+    },
+    "assignment_1_gap_F": {
+      "type": "string"
+    },
+    "assignment_1_gap_I": {
+      "type": "string"
+    },
+    "assignment_2_K": {
+      "type": "string"
+    },
+    "assignment_2_L": {
+      "type": "string"
+    },
+    "assignment_2_M": {
+      "type": "string"
+    },
+    "assignment_2_N": {
+      "type": "string"
+    },
+    "assignment_3": {
+      "type": "string"
+    }
+  }
+}

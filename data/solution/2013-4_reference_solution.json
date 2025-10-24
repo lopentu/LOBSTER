@@ -1,0 +1,24 @@
+{
+  "id": "2013-4",
+  "answer": {
+    "a_12": "The __Monkey__ is buying my ants",
+    "a_13": "The demons will return to the women’s pupil",
+    "b_14": "alaalaga namoni we kontuno muri",
+    "b_15": "a lagahi dokala we adhiadhini",
+    "b_16": "ndokehindo robhinehiku dadumodo kaleihiku",
+    "b_17": "molohino ndoke nokodoho"
+  },
+  "explanation": {
+    "rules": "The word order is subject verb object. If the subject is neither possessed nor a proper name, it is preceded by the article a. \n\nNoun: root + [-hi plural] + [Possessor:{-ku:1st person sg, -no: 3rd person sg, -ndo: 3rd person pl}]. \n\nProper name: a + the first root syllable + a + root. \n\nPossession: [possessed -no possessor (singular)], [possessed -ndo possessor (plural)]. \n\nVerb: {d- anim and plural, n- inan or singular} + {o- present, a- future} + root. \n\nFuture: if the first sound of the root is f-, it is replaced by m-, otherwise -um- is inserted after the first consonant. \n\nThe preposition “we” indicates the direction of motion.",
+    "rule_checklist": [
+      "The word order is subject verb object.",
+      "If the subject is neither possessed nor a proper name, it is preceded by the article a.",
+      "Noun: root + [-hi plural] + [Possessor:{-ku:1st person sg, -no: 3rd person sg, -ndo: 3rd person pl}].",
+      "Proper name: a + the first root syllable + a + root.",
+      "Possession: [possessed -no possessor (singular)], [possessed -ndo possessor (plural)].",
+      "Verb: {d- anim and plural, n- inan or singular} + {o- present, a- future} + root.",
+      "Future: if the first sound of the root is f-, it is replaced by m-, otherwise -um- is inserted after the first consonant.",
+      "The preposition \"we\" indicates the direction of motion."
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "2024-3",
+  "answer": {
+    "a_man_1": "Kurai",
+    "a_woman_1": "Trafe",
+    "a_man_2": "Marua",
+    "a_woman_2": "Wafine",
+    "a_man_3": "Tawth",
+    "a_woman_3": "Toko",
+    "a_man_4": "Maraga",
+    "a_woman_4": "Naimr",
+    "a_man_5": "Mea",
+    "a_woman_5": "Wims",
+    "a_man_6": "Abia",
+    "a_woman_6": "Nfiyam",
+    "a_man_7": "Skri",
+    "a_woman_7": "Nakre",
+    "a_man_8": "Gwam",
+    "a_woman_8": "Mabata",
+    "b_1": "bäiŋam rä",
+    "b_2": "enat yé",
+    "b_3": "zath ŋare rä",
+    "b_4": "nge yé",
+    "b_5": "Nakreane",
+    "b_6": "rä",
+    "c_explanation": "<fuzzy>The statement is incorrect because there's a sister exchange; ŋäwi (mother’s brother) should be replaced with bäiŋaf (father’s sister’s husband).",
+    "c_correction": "Skri Abiaane bäiŋaf yé"
+  },
+  "explanation": {
+    "rules": "A B-ane X {rä / yé}.\nrä is used if person A is a woman.\nyé is used if person A is a man.\n– A = B’s relative\n– X = kinship term\n\nŋafe - father\nŋame - mother\nŋge - child\nzath - grandfather, grandson\nzath ŋare - grandmother, granddaughter\nnane - elder sibling\nŋgth - younger sibling\nenat - son-in-law\nŋäwi - uncle (mother's brother)\n\nB - brother\nD - daughter\nF - father\nH - husband\nM - mother\nS - son\nW - wife\nZ - sister\nTerms After Sister Exchange:\nbäiŋaf - refers to relationships where:\n    MB = FZH\n    ZS = WBS\n    BS = HZS\nbäiŋam - refers to relationships where:\n    FZ = MBW\n    ZD = WBD\n    BD = HZD\nyamit - tbäiŋaf and bäiŋam’s child\nyumad - yamit’s wife",
+    "rule_checklist": [
+      "A B-ane X {rä / yé}.",
+      "rä is used if person A is a woman.",
+      "yé is used if person A is a man.",
+      "A = B’s relative",
+      "X = kinship term",
+      "ŋafe - father",
+      "ŋame - mother",
+      "ŋge - child",
+      "zath - grandfather, grandson",
+      "zath ŋare - grandmother, granddaughter",
+      "nane - elder sibling",
+      "ŋgth - younger sibling",
+      "enat - son-in-law",
+      "ŋäwi - uncle (mother's brother)",
+      "bäiŋaf - refers to relationships where: MB = FZH ZS = WBS BS = HZS",
+      "bäiŋam - refers to relationships where: FZ = MBW ZD = WBD BD = HZD",
+      "yamit - tbäiŋaf and bäiŋam’s child",
+      "yumad - yamit’s wife"
+    ]
+  }
+}

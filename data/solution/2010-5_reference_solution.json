@@ -1,0 +1,29 @@
+{
+  "id": "2010-5",
+  "answer": {
+    "a_elm_sursilvan": "uolm",
+    "a_stomach_engadine": "stomi",
+    "a_short_sursilvan": "cuort",
+    "a_world_engadine": "muond",
+    "a_mountain_pass_engadine": "fuorcla",
+    "a_tooth_filling_sursilvan": "plumba",
+    "a_to_show_sursilvan": "mussar",
+    "a_generous_engadine": "culant",
+    "b_labour_sursilvan": "lavur",
+    "b_labour_engadine": "lavur",
+    "c_explanation": "<fuzzy>In Sursilvan (unlike Engadine), the rule that u becomes uo before a cluster of l or r and another consonant doesn’t apply in plural forms. This may mean that it doesn’t work if one consonant is part of the stem and the other belongs to the ending, or that the vowel is chosen before the ending is added, or that the vowel in the plural is made to match the vowel in the singular.",
+    "d_elms_sursilvan": "uolms",
+    "d_elms_engadine": "uolms",
+    "d_angles_sursilvan": "anguls",
+    "d_angles_engadine": "anguols"
+  },
+  "explanation": {
+    "rules": "Rules:\n1. `uo` before a cluster of `l` or `r` and another consonant.\n2. `u` before `l` or `r` without another consonant.\n3. `u` → `o` before `m`.\n4. `u` → `uo` before another consonant.",
+    "rule_checklist": [
+      "`uo` before a cluster of `l` or `r` and another consonant.",
+      "`u` before `l` or `r` without another consonant.",
+      "`u` \t `o` before `m`.",
+      "`u` \t `uo` before another consonant."
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "2015-4",
+  "title": "Problem 4",
+  "content": "(20 points)\n\nHere are some sentences in Wambaya and their English translations:\n\n1. Ngarlu nya.  \nYou (sg.) danced.\n\n2. Gulugba ngu.  \nI will sleep.\n\n3. Bardbi ga bungmanya.  \nThe old woman ran (away).\n\n4. Ngunybulugi barrawunguji.  \nThe doctor has a house.\n\n5. Ngajbi nginya.  \nI saw you (sg.).\n\n6. Dagumajba nguyu ngunybulugi.  \nShe will strike the doctor.\n\n7. Alanga gu ngarlujba janjingunya.  \nThe girl will dance with the dog.\n\n8. Ngajba gununyu.  \nHe will see you (sg.).\n\n9. Ngirra nga gijilulu.  \nI stole the money.\n\n10. Yagujba nyu barrawuwaji.  \nYou (sg.) will leave him without a house.\n\n11. Daguma ngiyinga bungmanyani.  \nThe old woman struck me.\n\n12. Bardbi ga darranggunguji.  \nHe ran (away) with the stick.\n\n13. Alayulu ngiya juwa.  \nShe found the man.\n\n14. Juwani gina ngajbi gijilulungunya.  \nThe man saw her with the money.\n\n15. Yagu gininga.  \nHe left me.\n\n16. Bungmaji gina ngajbi balamurruwaji.  \nHe saw the old man without a spear.\n\n17. Dirragba gu bungmaji.  \nThe old man will jump.\n\n(a) Translate into English:\n\n18. Alayulujba nguyunyu bungmanyani.  \n19. Yagu gininya.  \n20. Janji darrangguwaji.  \n21. Ngirra nya alanga.  \n22. Daguma nyinga.  \n23. Dirragbi ga balamurrungunya.\n\n(b) Translate into Wambaya:\n\n24. You (sg.) will leave me.  \n25. The doctor slept.  \n26. The man will run (away) with the money.  \n27. He will steal the dog.  \n28. The girl saw you (sg.).\n\n△! The Wambaya language belongs to the West Barkly family. It is spoken by approx. 50 people in the Northern Territory, Australia.\n—Ksenia Gilyarova\n\n* * *",
+  "answer_format": {
+    "a_18": {
+      "type": "string"
+    },
+    "a_19": {
+      "type": "string"
+    },
+    "a_20": {
+      "type": "string"
+    },
+    "a_21": {
+      "type": "string"
+    },
+    "a_22": {
+      "type": "string"
+    },
+    "a_23": {
+      "type": "string"
+    },
+    "b_24": {
+      "type": "string"
+    },
+    "b_25": {
+      "type": "string"
+    },
+    "b_26": {
+      "type": "string"
+    },
+    "b_27": {
+      "type": "string"
+    },
+    "b_28": {
+      "type": "string"
+    }
+  }
+}

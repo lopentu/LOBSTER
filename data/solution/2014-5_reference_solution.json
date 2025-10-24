@@ -1,0 +1,38 @@
+{
+  "id": "2014-5",
+  "answer": {
+    "a_Páá": "to put",
+    "a_Páá_náng_nú_kò": "to be dying",
+    "a_Páá_sèè": "to envy",
+    "a_búmá_yı́k": "eyelash",
+    "a_búmá_zù_yı́k": "eyebrow",
+    "a_dáng_gòk": "poisonous snake",
+    "a_dı́_fò": "good field",
+    "a_dı́_sèè": "happiness",
+    "a_kò_yı́k": "eye socket",
+    "a_kò_zòk": "nostril",
+    "a_náng_wı́": "foot",
+    "a_nú_fò": "field edge",
+    "a_nú_lébé": "tip of the tongue",
+    "a_sèè_wı́": "liver",
+    "a_yı́k": "at the surface",
+    "a_yı́k_wı́": "face/eyes",
+    "a_zù": "above, on",
+    "b_búmá_zù": "hair (on the head)",
+    "b_kò": "hole",
+    "b_lébé_gòk": "snake's tongue",
+    "b_lébé_wı́": "tongue",
+    "c_at_the_center": "sèè",
+    "c_head": "zù wı́",
+    "c_displeasure": "dáng sèè",
+    "c_nose": "zòk wı́"
+  },
+  "explanation": {
+    "rules": "body part − wí \"human\" = spatial preposition:\nsèè (liver) at the center\nyík (face) at the surface\nzù (head) above, on",
+    "rule_checklist": [
+      "body part \n wí \"human\" = spatial preposition: sèè (liver) at the center",
+      "body part \n wí \"human\" = spatial preposition: yík (face) at the surface",
+      "body part \n wí \"human\" = spatial preposition: zù (head) above, on"
+    ]
+  }
+}

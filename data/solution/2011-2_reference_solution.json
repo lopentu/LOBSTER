@@ -1,0 +1,25 @@
+{
+  "id": "2011-2",
+  "answer": {
+    "a_bøga": "[bø:va]",
+    "a_knoðar": "[kno:ar]",
+    "a_kvøða": "[kvø:a]",
+    "a_løgur": "[lø:vur]",
+    "a_plága": "[plOava]",
+    "a_skaði": "[skEaji]",
+    "a_toygur": "[tOijur]",
+    "a_trúgi": "[tr0uwi]",
+    "b_rules": "<fuzzy>1. Vowels: a [Ea], á [Oa], e [e:], ei [ai], ey [Ei], i [i:], o [o:], oy [Oi], ó [Ou], u [u:], ú [0u], ø [ø:].\n2. Between vowels:\n   - ð = g\n3. Rules for ð/g transformation:\n   1. [w] | [u(:)] \n   2. [j] | [i(:)] or [i(:)]\n   3. [v] | [u(:)]\n   4. [v] in a noun, [∅] in a verb."
+  },
+  "explanation": {
+    "rules": "In the first syllable: a [Ea], á [ɔa], e [e:], ei [ai], ey [Ei], i [i:], o [o:], oy [ɔi], ó [ɔu], u [u:], ú [Uu], ø [ø:]\nBetween vowels: ð = g. The first applicable rule is applied:  \n1. ð/g [w] | [u(:)] —;\n2. ð/g [j] | [i(:)] — or — [i(:)];\n3. ð/g [v] | — [u(:)];\n4. ð/g [v] in a noun, [Ø] in a verb.",
+    "rule_checklist": [
+      "In the first syllable: a [Ea], á [ɔa], e [e:], ei [ai], ey [Ei], i [i:], o [o:], oy [ɔi], ó [ɔu], u [u:], ú [Uu], ø [ø:]",
+      "Between vowels: ð = g.",
+      "The first applicable rule is applied: 1. ð/g [w] | [u(:)] —;",
+      "The first applicable rule is applied: 2. ð/g [j] | [i(:)] — or — [i(:)];",
+      "The first applicable rule is applied: 3. ð/g [v] | — [u(:)];",
+      "The first applicable rule is applied: 4. ð/g [v] in a noun, [Ø] in a verb."
+    ]
+  }
+}

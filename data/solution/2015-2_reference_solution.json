@@ -1,0 +1,36 @@
+{
+  "id": "2015-2",
+  "answer": {
+    "a_1": "to bite",
+    "a_2": "(he/she) is able to sew",
+    "a_3": "(he/she) is pretending to sew",
+    "a_4": "to be able to burn",
+    "a_5": "(he/she) is speaking",
+    "a_6": "(he/she) is flying",
+    "b_1": "if (he/she) is able to slide",
+    "b_2": "(they) aren’t pretending to eat",
+    "b_3": "(he/she) was able to fly",
+    "b_4": "(he/she) was eating",
+    "b_5": "if (he/she) really is trembling",
+    "c_1": "mádexe",
+    "c_2": "mebəbə́fexe",
+    "c_3": "sə́pet",
+    "c_4": "šxéfq̇əm",
+    "c_5": "gʷəš’ə́ʔexeme",
+    "c_6": "meʒáq̇exe"
+  },
+  "explanation": {
+    "rules": "Rules:  \nI. Stem zone = me‑ + ROOT + X  \n   • me‑ : affirmative, present, indicative  \n   • X (choose one) : ‑pe ‘really’, ‑fe ‘pretend to’, ‑f ‘be able to’, ‑n infinitive  \n\n   Internal phonology  \n   1. Cluster smoothing C + ‑C → CəC (epenthetic ə): de‑f‑n → defən, me‑bab‑pe → mebabəpe  \n   2. Stress final closed syllable stressed; otherwise penult (defón, mešxépe)  \n   3. Schwa lowering CəC(C)e → CaC(C)e (méšxe → mášxe, mešxépe → mešxápe)  \n\nII. Finite suffix zone (absent if ‑n chosen)  \n   ‑xe plural · ‑t past · ‑me conditional · ‑q̇əm negative",
+    "rule_checklist": [
+      "Stem zone = me- + ROOT + X",
+      "me- : affirmative, present, indicative",
+      "X (choose one) : -pe 'really', -fe 'pretend to', -f 'be able to', -n infinitive",
+      "Internal phonology",
+      "1. Cluster smoothing C + -C \t C\tC (epenthetic ): de-f-n \t defn, me-bab-pe \t mebabpe",
+      "2. Stress final closed syllable stressed; otherwise penult (defn, mexpe)",
+      "3. Schwa lowering CC(C)e \t CaC(C)e (mexe \t maxe, mexpe \t mexape)",
+      "Finite suffix zone (absent if -n chosen)",
+      "-xe plural \t -t past \t -me conditional \t -qm negative"
+    ]
+  }
+}

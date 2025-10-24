@@ -1,0 +1,34 @@
+{
+  "id": "2021-4",
+  "title": "Problem 4",
+  "content": "(20 points)\n\nAgbirigba is a cant, or secret language, used by around 30 speakers of the Ogbakiri dialect of the Ikwerre language. Here are some words in the Ogbakiri dialect, along with their Agbirigba forms and translations:\n\n| Ogbakiri       | Agbirigba            | Translation        |\n|----------------|----------------------|--------------------|\n| ńdá            | ńtʊ́dá                | father             |\n| bіśі ́          | túbіt́іśі ́            | poison             |\n| ɔỳɔ̀            | ɔt̀ɪỳɔ̀                | amicable gesture   |\n| ḿbɔ́rɔ̂          | ńtʊ́bɔ́tʊ́rɔ̀            | dream              |\n| ɔ́ʧɪ ́           | ɔ́tɪʧ́ɪ ́               | leg                |\n| òtṹ            | òtṹtṹ                | to look for        |\n| mі ̃ńі ̃́         | tі ̃ḿі ̃t́і ̃ńі ̃́         | water              |\n| wẽr̀ũ̀           | tũ̀wẽt̀ũ̀rũ̀             | to have            |\n| ɛb̀ɔ́            | ɛt̀ʊ́bɔ́                | two                |\n| àwâ            | àtʊ́wà                | to break           |\n\n| Ogbakiri       | Agbirigba            | Translation        |\n|----------------|----------------------|--------------------|\n| rіḿẽ́           | tіŕіt́ṹmẽ́             | inside             |\n| mɔ̃́nɔ̃̂           | tʊ̃́mɔ̃́tʊ̃́nɔ̃̀             | oil                |\n| іb́èrè          | іt́ùbètіr̀è            | belch              |\n| áyã̂            | átɪ ̃ýã̀               | eye                |\n| ɔ́nʊ̃́            | ɔ́tʊ̃́nʊ̃́                | mouth              |\n| mɔ̃́yɔ̃̂           | tʊ̃́mɔ̃́tɪ ̃ýɔ̃̀            | urine              |\n| ŋ̀gàdã́          | ǹtʊg̀àtʊ̃́dã́            | chair              |\n| ɔ́mɪ ̃r̀ɪ ̃m̀ã̀      | ɔ́tʊ̃m̀ɪ ̃t̀ɪ ̃r̀ɪ ̃t̀ʊ̃m̀ã̀     | meat, flesh        |\n| àgɪr̀ɪg̀ɔ̀        | àtɪg̀ɪt̀ɪr̀ɪt̀ʊg̀ɔ̀        | defiance           |\n| wẽ́nẽ́           | tṹwẽtіnẽ             | siblinghood        |\n\n(a) One of the Agbirigba words above is an exception. Its form is not determined by the same rules which determine the rest of the Agbirigba words. Which is it? What would its form be if it were determined by the same rules?\n\n(b) Give the Agbirigba forms of the following Ogbakiri words:\n\n1. rʊ́tʊ̂ - chewing-stick  \n2. rɛẁʊ̃́ - deity  \n3. bіḱó - please  \n4. ɲ́yẽ́ rɪỳã̀ - female  \n5. bɛḱʷʊ̃́ - fire  \n6. rіýõ̀rõ̀ - charcoal  \n7. hʷɔg̀â - go out!  \n\n△! Ikwerre belongs to the Igboid group of the Atlantic-Congo family. It is spoken by approx. 200,000 people in Rivers State, Nigeria.\nThe words are given in a simplified transcription. The mark  ̃ indicates the nasal pronun- ciation of the vowel. The marks ˊ, ˋ and ˆ indicate high, low, and falling tone, respectively. ŋ =nginhang;ɲ≈nyincanyon;y=yinyay!;ʧ=chinchurch. kwandhwarepronounced as k and h respectively, but with the lips rounded. ɛ, ɪ, ɔ and ʊ are pronounced as e, i, o and u respectively, but with the root of the tongue further back in the mouth.\n—Liam McKnight (consultant: Maureen Abel)\n\n---",
+  "answer_format": {
+    "a_exception": {
+      "type": "string"
+    },
+    "a_expected_form": {
+      "type": "string"
+    },
+    "b_1": {
+      "type": "string"
+    },
+    "b_2": {
+      "type": "string"
+    },
+    "b_3": {
+      "type": "string"
+    },
+    "b_4": {
+      "type": "string"
+    },
+    "b_5": {
+      "type": "string"
+    },
+    "b_6": {
+      "type": "string"
+    },
+    "b_7": {
+      "type": "string"
+    }
+  }
+}

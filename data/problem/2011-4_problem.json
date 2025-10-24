@@ -1,0 +1,85 @@
+{
+  "id": "2011-4",
+  "title": "Problem 4",
+  "content": "(20 points)\n\nGiven are words in Nahuatl as well as their English translations in arbitrary order:\n\n- Nahuatl:\nacalhuah, achilli, atl, callah, calhuah, chilatl chilli, colli coltzintli conehuah, conehuahcapil, conetl, oquichconetl, oquichhuah, oquichtotoltzintli, tehuah, tetlah, totoltetl\n\n- English:\nwater, child, master of house, water pepper, revered turkey-cock, mother, village, chili water, grandfather/ancestor, stony ground, boy, possessor of stones (= person who lives in a stony place),\nchili, turkey egg, cance owner, mommy, wife, revered grandfather ancestor\n\n(a) Determine the correct correspondences.\n\n(b) Translate into Nahuatl:\n\n- house\n- stone\n- possessor of water\n- revered man/husband\n\n(c) Translate into English:\n\n- cacahuatl\n- cacahuatetl\n- cacahuaatl\n- cacahuahuah\n\n\n\n△! Classical Nahuatl was the language of the Aztec Empire in Mexico.\nc = qu = k, ch = ch in church, hu = w in win, tl and tz are consonants.\nWater pepper (Polygonum hydropiper) is a wild plant. Chili water is a Aztec drink containing chili\npepper. —Liudmila Fedorova",
+  "answer_format": {
+    "a_acalhuah": {
+      "type": "string"
+    },
+    "a_achilli": {
+      "type": "string"
+    },
+    "a_atl": {
+      "type": "string"
+    },
+    "a_callah": {
+      "type": "string"
+    },
+    "a_calhuah": {
+      "type": "string"
+    },
+    "a_chilatl": {
+      "type": "string"
+    },
+    "a_chilli": {
+      "type": "string"
+    },
+    "a_colli": {
+      "type": "string"
+    },
+    "a_coltzintli": {
+      "type": "string"
+    },
+    "a_conehuah": {
+      "type": "string"
+    },
+    "a_conehuahcapil": {
+      "type": "string"
+    },
+    "a_conetl": {
+      "type": "string"
+    },
+    "a_oquichconetl": {
+      "type": "string"
+    },
+    "a_oquichhuah": {
+      "type": "string"
+    },
+    "a_oquichtotoltzintli": {
+      "type": "string"
+    },
+    "a_tehuah": {
+      "type": "string"
+    },
+    "a_tetlah": {
+      "type": "string"
+    },
+    "a_totoltetl": {
+      "type": "string"
+    },
+    "b_1": {
+      "type": "string"
+    },
+    "b_2": {
+      "type": "string"
+    },
+    "b_3": {
+      "type": "string"
+    },
+    "b_4": {
+      "type": "string"
+    },
+    "c_1": {
+      "type": "string"
+    },
+    "c_2": {
+      "type": "string"
+    },
+    "c_3": {
+      "type": "string"
+    },
+    "c_4": {
+      "type": "string"
+    }
+  }
+}

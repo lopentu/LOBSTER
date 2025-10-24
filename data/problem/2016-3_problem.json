@@ -1,0 +1,37 @@
+{
+  "id": "2016-3",
+  "title": "Problem 3",
+  "content": "### Problem 3\n\n(20 points)\n\nHere are some sentences in Kunuz Nubian and their English translations:\n\n1. ar kanarriːcciːg kamiːg jaːnticcirsu.  \nWe bought the camels for the neighbours.\n\n2. tirt kadeːg allesu.  \nThe owner repaired the dress.\n\n3. jahali waliːg darbadki biticcirra.  \nThe young men will give the chicken to the dogs.\n\n4. man jahalgi kadeːcciːg maːgtirsu.  \nHe stole the dresses for the young man.\n\n5. ay beyyeːcciːg ajaːnirri.  \nI am buying the necklaces.\n\n6. wal aygi baːbiːg eldeːnsu.  \nThe dog found the doors for me.\n\n7. magas ikki waliːg ticcirsu.  \nThe thief gave you (pl.) the dogs.\n\n8. iːdi magaski kamiːg tirsa.  \nThe men gave the camels to the thief.\n\n9. ay hanuːg bijomri.  \nI will strike the donkey.\n\n10. sarkaːyi aygi beyyeːcciːg adeːnda.  \nThe cowards are giving me the necklaces.\n\n(a) Translate into English:\n\n11. magasi argi ajomirra.  \n12. ay kanarriːg baːbki alletirsi.  \n13. hanu tirtiːg elirsu.  \n14. tirti argi kamgi deːccirsa.  \n15. ay darbadki bijaːndi.  \n\n(b) Translate into Kunuz Nubian:\n\n16. The neighbours are giving the necklace to the owner.  \n17. The young man bought the dog for us.  \n18. We will steal him.  \n19. The owners struck the thieves.  \n20. The dogs found the chickens for the coward.  \n\n\n△! Kunuz Nubian belongs to the Eastern Sudanic family. It is spoken by approx. 50,000 people in Egypt.\ny = y in yum. The mark ː indicates that the preceding vowel is long.\n  —Aleksejs Peguševs\n\n\n---\n",
+  "answer_format": {
+    "a_11": {
+      "type": "string"
+    },
+    "a_12": {
+      "type": "string"
+    },
+    "a_13": {
+      "type": "string"
+    },
+    "a_14": {
+      "type": "string"
+    },
+    "a_15": {
+      "type": "string"
+    },
+    "b_16": {
+      "type": "string"
+    },
+    "b_17": {
+      "type": "string"
+    },
+    "b_18": {
+      "type": "string"
+    },
+    "b_19": {
+      "type": "string"
+    },
+    "b_20": {
+      "type": "string"
+    }
+  }
+}

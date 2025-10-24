@@ -1,0 +1,21 @@
+{
+  "id": "2010-4",
+  "title": "Problem 4",
+  "content": "(20 points)\nOne of the major achievements in genetics was the decipherment of the genetic code—the creation of an mRNA–polypeptide dictionary. Polypeptides (proteins) are building blocks of all living organisms. Polypeptide molecules are chains that consist of amino acids (denoted as Arg, Leu, Phe etc.), and it is the sequence of amino acids in the polypeptide that determines its properties. When cells synthesize polypeptides, they follow instructions written in molecules of messenger ribonucleic acid (mRNA), chains that consist of four nucleotides (denoted as U, C, A, G).\n\nIf a cell uses as a template the following mRNA sequence:\n\nAUGUCGAGAAGUCACACCCCACCUUCCGAAUCUAGCCUCAAGAAUCUAGCUCGUGGCCGGAUCUAUACACGAUGAAUGAGGUGGUGUCUUGUGUGCGAGUUAUUCUAAAUGAACCGCUAGAUGGGUCAUGCGCCGGACGUAGGAUUGUUUCAGGCACCCACUAUUCUGUACGUCCAAAUAGAUAAAGUUGCCUCA,\n\nthe following polypeptides will be synthesized:\n\n- Met-Ser-Arg-Ser-His-Thr-Pro-Pro-Ser-Glu-Ser-Ser-Leu-Lys-Asn-Leu-Ala-Arg-Gly-Arg-Ile-Tyr-Thr-Arg\n- Met-Arg-Trp-Cys-Leu-Val-Cys-Glu-Leu-Phe\n- Met-Asn-Arg\n- Met-Gly-His-Ala-Pro-Asp-Val-Gly-Leu-Phe-Gln-Ala-Pro-Thr-Ile-Leu-Tyr-Val-Gln-Ile-Asp-Lys-Val-Ala-Ser\n\n(a) A cell uses the following mRNA sequence:\nAUGUUAACGUUCUAAAUGUGGGGGGGACACCAG\n\nWhat polypeptide(s) will it synthesize?\n\n(b) A cell synthesized the following polypeptide:\nMet-Lys-Cys-Ile\n\nWhat mRNA sequence(s) could it have used?\n\n(c) The nucleotide pairs are sometimes called roots and classified into two groups: strong roots and weak roots. Examples of strong roots are CU, GU, AC, GG. Examples of weak roots are AU, UA, UG, AA. Classify all the other roots.\n\nThe data presented here are slightly simplified.\n—Alexander Berdichevsky",
+  "answer_format": {
+    "a": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 20,
+      "items": {
+        "type": "string"
+      }
+    },
+    "b": {
+      "type": "string"
+    },
+    "c": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "2018-3",
+  "answer": {
+    "a_1": "pîhe",
+    "a_2": "mbêyo",
+    "a_3": "yîno",
+    "a_4": "ênom",
+    "a_5": "késaxo",
+    "a_6": "xíriri",
+    "a_7": "teôko",
+    "a_8": "neíxoa",
+    "a_9": "venéxo",
+    "a_10": "mémiti",
+    "a_11": "íhikexovoku",
+    "a_12": "ônju",
+    "a_13": "nêwom",
+    "a_14": "yáharana",
+    "b_1": "<fuzzy>In Portuguese loanwords, the vowel á is treated differently: it becomes eá in these loanwords, whereas in native words, á changes to é, and â changes to eâ.",
+    "b_2_1": "lándana",
+    "b_2_2": "ngápana"
+  },
+  "explanation": {
+    "rules": "Two main rules apply, depending on the consonants in the word.\nIf the word contains at least one voiceless consonant, the first of these consonants changes to become both nasal and voiced. The specific changes are as follows:\np becomes mb\nt becomes nd\nh becomes nz\nx becomes nj\nk becomes ng\nOtherwise, if the word has no voiceless consonants, the entire word is nasalized (indicated by -m).\n2nd Person Singular\nThe rules for the 2nd person singular are based on the vowels in the word.\nIf the word begins with any vowel other than i (or its variants í, î), add a y- prefix to the beginning of the word.\nOtherwise, if the word begins with i (or í, î), a different rule applies. Find the first vowel in the word that is not an i, í, or î, and change it according to the following patterns:\na becomes e, á becomes é, â becomes ê, and a becomes eâ.\no becomes e, ó becomes é, ô becomes ê, and o becomes eô.\nû becomes iû.\ne becomes i, é becomes í, and ê becomes î. This same change also occurs in the syllables that immediately follow.",
+    "rule_checklist": [
+      "If the word contains at least one voiceless consonant, the first of these consonants changes to become both nasal and voiced. The specific changes are as follows: p becomes mb, t becomes nd, h becomes nz, x becomes nj, k becomes ng",
+      "Otherwise, if the word has no voiceless consonants, the entire word is nasalized (indicated by -m).",
+      "If the word begins with any vowel other than i (or its variants í, î), add a y- prefix to the beginning of the word.",
+      "Otherwise, if the word begins with i (or í, î), a different rule applies. Find the first vowel in the word that is not an i, í, or î, and change it according to the following patterns: a becomes e, á becomes é, â becomes ê, and a becomes eâ. o becomes e, ó becomes é, ô becomes ê, and o becomes eô. û becomes iû. e becomes i, é becomes í, and ê becomes î. This same change also occurs in the syllables that immediately follow."
+    ]
+  }
+}

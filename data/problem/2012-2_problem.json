@@ -1,0 +1,34 @@
+{
+  "id": "2012-2",
+  "title": "Problem 2",
+  "content": "### Problem 2\n\n(20 points)\nHere are some words and their numerical values in Umbu-Ungu:\n\n| Umbu-Ungu                          | Value |\n|------------------------------------|-------|\n| 10 rureponga talu                  | 10    |\n| 15 malapunga yepoko                | 15    |\n| 20 supu                            | 20    |\n| 21 tokapunga telu                  | 21    |\n| 27 alapunga yepoko                 | 27    |\n| 30 polangipunga talu               | 30    |\n| 35 tokapu rureponga yepoko         | 35    |\n| 40 tokapu malapu                   | 40    |\n| 48 tokapu talu                     | 48    |\n| 50 tokapu alapunga talu            | 50    |\n| 69 tokapu talu tokapunga telu      | 69    |\n| 79 tokapu talu polangipunga yepoko | 79    |\n| 97 tokapu yepoko alapunga telu     | 97    |\n\n(a) Write in numerals:\n- tokapu polangipu\n- tokapu talu rureponga telu\n- tokapu yepoko malapunga talu\n- tokapu yepoko polangipunga telu\n\n(b) Write out in Umbu-Ungu:\n- 13\n- 66\n- 72\n- 76\n- 95\n\n△! The Umbu-Ungu language belongs to the Trans–New Guinea family. It is spoken by\napprox. 34 200 people in Papua New Guinea. —Ksenia Gilyarova\n\n---",
+  "answer_format": {
+    "a_1": {
+      "type": "string"
+    },
+    "a_2": {
+      "type": "string"
+    },
+    "a_3": {
+      "type": "string"
+    },
+    "a_4": {
+      "type": "string"
+    },
+    "b_1": {
+      "type": "string"
+    },
+    "b_2": {
+      "type": "string"
+    },
+    "b_3": {
+      "type": "string"
+    },
+    "b_4": {
+      "type": "string"
+    },
+    "b_5": {
+      "type": "string"
+    }
+  }
+}

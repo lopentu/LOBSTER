@@ -1,0 +1,29 @@
+{
+  "id": "2023-5",
+  "answer": {
+    "a_1": "810",
+    "a_2": "88",
+    "b_1": "kɛ na kaŋkuro",
+    "b_2": "ŋkuu na beɲjaaga na baaricyɛɛre",
+    "b_3": "ŋkuu na beetaanre na kɛ na shuunni",
+    "b_4": "kampwoo na taanre",
+    "b_5": "kampwɔhii taanre na ŋkwuu sicyɛɛre na kɛ na sicyɛɛre"
+  },
+  "explanation": {
+    "rules": "The number system is vigesimal (base-20) and additive, with higher-order units for 80 and 400. Numbers are formed by adding components in descending order of value.\nComponent for 400:\n    The base value 400 is kampwoo.\n    Multiples of 400 are formed with the stem kampwɔhii followed by the multiplier.\n    Formula: α₁ x 400 is rendered as kampwɔhii + [form for α₁].\nComponent for 80:\n    The base value 80 is ŋkuu.\n    Multiples of 80 are formed with the stem ŋkuuu followed by the multiplier. \n    Formula: α₂ x 80 is rendered as ŋkuuu + [form for α₂].\nComponent for 20:\n    The base value 20 is bɛɲjaaga.\n    Multiples of 20 are formed by prefixing bɛ- to the multiplier.\n    Formula: α₃ x 20 is rendered as bɛ- + [form for α₃].\nComponent for 10:\n    The value 10 is represented by kɛ.\nComponent for 5:\n    Values from 6 to 9 are formed by adding a number from 1 to 4 to a base of 5.\n    Formula: 5 + β, where β is between 1 and 4.\n2. Connector Particle\nThe particle na is used to link or add different numerical components together.\n3. Base Numerals and Morphological Changes\n1: niŋkin.\n    In compound forms, niŋkin is reduced to the suffix -ni.\n2: shuunni.\n3: taanre.\n4: sicyɛɛre.\n    In compound forms, -sicyɛɛre changes to -ricyɛɛre.\n5: kaŋkuro.\n    When used as a base for addition, the phrase kaŋkuro na is replaced by the prefix baa-.",
+    "rule_checklist": [
+      "The number system is vigesimal (base-20) and additive, with higher-order units for 80 and 400. Numbers are formed by adding components in descending order of value.",
+      "Component for 400: The base value 400 is kampwoo. Multiples of 400 are formed with the stem kampwɔhii followed by the multiplier. Formula: α₁ x 400 is rendered as kampwɔhii + [form for α₁].",
+      "Component for 80: The base value 80 is ŋkuu. Multiples of 80 are formed with the stem ŋkuuu followed by the multiplier. Formula: α₂ x 80 is rendered as ŋkuuu + [form for α₂].",
+      "Component for 20: The base value 20 is bɛɲjaaga. Multiples of 20 are formed by prefixing bɛ- to the multiplier. Formula: α₃ x 20 is rendered as bɛ- + [form for α₃].",
+      "Component for 10: The value 10 is represented by kɛ.",
+      "Component for 5: Values from 6 to 9 are formed by adding a number from 1 to 4 to a base of 5. Formula: 5 + β, where β is between 1 and 4.",
+      "Connector Particle: The particle na is used to link or add different numerical components together.",
+      "Base Numerals and Morphological Changes: 1: niŋkin. In compound forms, niŋkin is reduced to the suffix -ni.",
+      "Base Numerals and Morphological Changes: 2: shuunni.",
+      "Base Numerals and Morphological Changes: 3: taanre.",
+      "Base Numerals and Morphological Changes: 4: sicyɛɛre. In compound forms, -sicyɛɛre changes to -ricyɛɛre.",
+      "Base Numerals and Morphological Changes: 5: kaŋkuro. When used as a base for addition, the phrase kaŋkuro na is replaced by the prefix baa-."
+    ]
+  }
+}

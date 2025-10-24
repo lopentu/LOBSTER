@@ -1,0 +1,23 @@
+{
+  "id": "2011-3",
+  "answer": {
+    "a_1": "the woman’s fish",
+    "a_2": "the short child’s snake",
+    "a_3": "the short boat",
+    "b_correction": "kándÒ-lÈndÈ lÒÒĚ",
+    "b_translation": "the small airplane",
+    "c_1": "kÒánjàĚ á nyı̀mı̀ı̀Ě",
+    "c_2": "léN lÒÒĚ já",
+    "c_3": "kàı́ jǎNĚ lÒÒ-mùsù",
+    "c_4": "nyı̀mı̀ı̀-lèN lÒÒĚ"
+  },
+  "explanation": {
+    "rules": "1. Adjectives follow their nouns.\n2. A noun (or the adjective if there is one) gets the marker -ˇE, unless it is inalienably possessed\n(body part, kinship term); in the latter case it is preceded by the possessor.\n3. Alienable possession is expressed by á between the possessor and the possessed.\n4. In compound nouns the last syllable has low tone (“`”).",
+    "rule_checklist": [
+      "Adjectives follow their nouns.",
+      "A noun (or the adjective if there is one) gets the marker -ˇE, unless it is inalienably possessed (body part, kinship term); in the latter case it is preceded by the possessor.",
+      "Alienable possession is expressed by á between the possessor and the possessed.",
+      "In compound nouns the last syllable has low tone (\",\")."
+    ]
+  }
+}

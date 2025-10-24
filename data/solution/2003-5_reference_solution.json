@@ -1,0 +1,24 @@
+{
+  "id": "2003-5",
+  "answer": {
+    "gap_assortir": "ré",
+    "gap_curer": "ré",
+    "gap_former_reform": "ré",
+    "gap_former_form_again": "re",
+    "gap_futer": "ré",
+    "gap_lancer": "re",
+    "gap_munérer": "ré",
+    "gap_partir": "ré"
+  },
+  "explanation": {
+    "rules": "* réassortir | pick again | assortir | pick\n* récurer | clean | curer | clean\n* réformer | reform | ///// | ////\n* reformer | form again | former | form\n* réfuter | refute | ///// | ////\n* relancer | throw again | lancer | throw\n* rémunérer | remunerate | ///// | ////\n* répartir | distribute | ///// | ////\nThe above features verbs with two different prefixes: re- and ré-. \nAll verbs with re- indicate a  repetition or a renewal of the action named by the verb without a prefix.  \nContrariwise, if the  prefix is ré-, then the corresponding prefixless verb either doesn't exist or means the same thing  as the prefixed one does.  \nThe verbs whose stems begin with vowels are an exception: the prefix  they take is ré- regardless of the existence and the meaning of a corresponding prefixless verb.  \nThere are other exceptions from this rule in French, but on the whole it is fairly reliable.  \nNote: The vowel in the prefix ré- is not unlike the first vowel in raider, whereas the one in the  prefix re- bears a certain similarity to the second, and needs to be fortified when it finds itself  next to another vowel.",
+    "rule_checklist": [
+      "The explanation features verbs with two different prefixes: re- and ré-.",
+      "All verbs with re- indicate a repetition or a renewal of the action named by the verb without a prefix.",
+      "Contrariwise, if the prefix is ré-, then the corresponding prefixless verb either doesn't exist or means the same thing as the prefixed one does.",
+      "The verbs whose stems begin with vowels are an exception: the prefix they take is ré- regardless of the existence and the meaning of a corresponding prefixless verb.",
+      "There are other exceptions from this rule in French, but on the whole it is fairly reliable.",
+      "The vowel in the prefix ré- is not unlike the first vowel in raider, whereas the one in the prefix re- bears a certain similarity to the second, and needs to be fortified when it finds itself next to another vowel."
+    ]
+  }
+}

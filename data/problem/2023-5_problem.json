@@ -1,0 +1,28 @@
+{
+  "id": "2023-5",
+  "title": "Problem 5",
+  "content": "(20 points)\n\nHere are some numerals in Supyire and their values:\n\n| Supyire                                      | Value  |\n|----------------------------------------------|--------|\n| baashuunni                                   | 7      |\n| beɲjaaga na niŋkin                           | 21     |\n| ŋkwuu taanre na beeshuunni na kaŋkuro        | 285    |\n| kampwoo na ŋkwuu shuunni na beetaanre na baani | 626    |\n| kampwɔhii sicyɛɛre na beɲjaaga na kɛ na baaricyɛɛre | 1639 |\n\n(a) Write in digits:\n\n- kampwɔhii shuunni na kɛ  \n- ŋkuu na baataanre  \n\n(b) Write out in the Supyire language:\n\n- 15  \n- 109  \n- 152  \n- 403  \n- 1534",
+  "answer_format": {
+    "a_1": {
+      "type": "string"
+    },
+    "a_2": {
+      "type": "string"
+    },
+    "b_1": {
+      "type": "string"
+    },
+    "b_2": {
+      "type": "string"
+    },
+    "b_3": {
+      "type": "string"
+    },
+    "b_4": {
+      "type": "string"
+    },
+    "b_5": {
+      "type": "string"
+    }
+  }
+}

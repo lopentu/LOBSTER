@@ -1,0 +1,70 @@
+{
+  "id": "2004-5",
+  "title": "Problem 5",
+  "content": "(10 points)\nThe table below contains Chuvash verbs (in Latin transliteration) and their English translations. Some of the data has been left out.\n\n| Chuvash Verb   | English Translation          |\n|----------------|------------------------------|\n| aman           | to be crippled               |\n| amant          | to cripple                   |\n| aptra          | to suffer                    |\n| ?              | to torment                   |\n| avăn           | to be flexible               |\n| av             | to bend                      |\n| çĕt            | to get lost                  |\n| çĕter          | to lose                      |\n| çit            | to reach                     |\n| ?              | to lead                      |\n| čühen          | ?                            |\n| čühe           | to rinse                     |\n| hupăn          | ?                            |\n| ?              | to close                     |\n| hurăn          | to lie (e.g., on the table)  |\n| hur            | to lay (e.g., something on the table) |\n| kaç            | to move (e.g., from one flat to another) |\n| ?              | to transport                 |\n| kӑvakar        | to become blue               |\n| kӑvakart       | to make blue                 |\n| kuç            | to migrate                   |\n| kuçar          | to resettle                  |\n| puçtarӑn       | to get together              |\n| puçtar         | to gather                    |\n| shӑn           | ?                            |\n| shӑnt          | to put on ice                |\n| taptan         | to be trampled               |\n| tapta          | to trample down              |\n| tupӑn          | to be found                  |\n| tup            | to find                      |\n| uçӑn           | to be revealed               |\n| uç             | to reveal                    |\n| ük             | ?                            |\n| üker           | to drop                      |\n| vacka          | to be in a hurry             |\n| vackat         | to precipitate               |\n| varalan        | to be smirched               |\n| varala         | to besmirch                  |\n| vĕre           | to be boiling                |\n| vĕret          | to boil (e.g., water)        |\n| vĕren          | to learn                     |\n| verent         | to teach                     |\n| vitĕn          | to be covered                |\n| vit            | to cover                     |\n| ?              | to enter                     |\n| kĕrt           | to hide oneself              |\n| pytar          | to hide (something)          |\n\nAssignment. Fill in the gaps. If in some cases you cannot form a Chuvash verb with certainty, list all possibilities. Explain your solution.\n\nNote. ӑ is pronounced as a short a, ĕ is pronounced as a short e, ü is pronounced similarly to English ew as in stew, \nç is pronounced similarly to English c as in cereal, č is pronounced similarly to English ch as in church.\n\n---\n\nGood luck!",
+  "answer_format": {
+    "gap_1_chuvash": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 20,
+      "items": {
+        "type": "string"
+      }
+    },
+    "gap_2_chuvash": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 20,
+      "items": {
+        "type": "string"
+      }
+    },
+    "gap_3_english": {
+      "type": "string"
+    },
+    "gap_4_english": {
+      "type": "string"
+    },
+    "gap_5_chuvash": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 20,
+      "items": {
+        "type": "string"
+      }
+    },
+    "gap_6_chuvash": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 20,
+      "items": {
+        "type": "string"
+      }
+    },
+    "gap_7_english": {
+      "type": "string"
+    },
+    "gap_8_english": {
+      "type": "string"
+    },
+    "gap_9_chuvash": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 20,
+      "items": {
+        "type": "string"
+      }
+    },
+    "gap_10_english": {
+      "type": "string"
+    },
+    "gap_11_chuvash": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 20,
+      "items": {
+        "type": "string"
+      }
+    }
+  }
+}

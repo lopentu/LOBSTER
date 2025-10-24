@@ -1,0 +1,77 @@
+{
+  "id": "2012-5",
+  "title": "Problem 5",
+  "content": "(20 points)\nHere are some words and word combinations in Rotuman as well as their English translations:\n\n| Rotuman                | English                         |\n|------------------------|---------------------------------|\n| ‘el‘ele                | shallow                         |\n| ‘ele                   | to be near                      |\n| ‘olo                   | to cut                          |\n| a‘öf                   | fau year’s end                  |\n| fäeag ‘u‘u             | to use sign language            |\n| fau                    | year                            |\n| hạfhạfu              | rocky                           |\n| huag ‘el‘ele           | impatient                       |\n| huag to‘a              | courageous                      |\n| hül ha. fu             | to blow (of a hurricane)        |\n| hün kia                | base of the neck                |\n| huli                   | to turn over                    |\n| huni                   | lower end                       |\n| is ‘ā                 | sharp-pointed                   |\n| is susu                | nipple                          |\n| lala                   | deep                            |\n| maf tiro               | spectacles                      |\n| mamasa                 | solid                           |\n| mạtiti                | coldness                        |\n| mạtit mamasa          | ice                             |\n| moafmofa               | littered with rubbish           |\n| niu                    | copra                           |\n| nu‘suar tiro           | window                          |\n| nu‘sura                | door                            |\n| pala                   | pierce                          |\n| piri                   | to curl                         |\n| poagpoga = palpala     | covered with holes              |\n| pogi                   | night                           |\n| puhrạki               | to boil, to bubble up           |\n| pulu                   | glue                            |\n| kạlu                  | bracelet; to encircle           |\n| riamrima               | shiny                           |\n| rū huga               | stomach-ache                    |\n| to‘a                   | hero                            |\n\n(a) Here are the Rotuman names of seven body parts as well as their English translations in arbitrary order. Determine the correct correspondences:\n\n‘u‘u, isu, kia, leva, mafa, susu, huga\n\nbreast, eye, arm/hand, hair, heart, neck, nose\n\n(b) Translate into English:\n- tiro \n- poga (noun)\n- huag lala\n- ha. f puhra. ki\n- maf pogi = maf pala\n\n(c) Translate into Rotuman:\n- round\n- to cut copra\n- curly hair\n- sticky\n- to flash\n- rubbish\n\n(d) Using the material given above you cannot translate ‘word’ and ‘to exhaust’ into Rotuman with certainty. What would the theoretically possible translations of these words into Rotuman be?\n- ‘word’\n- ‘to exhaust’\n\n△!\neu or German ö; ü = French u or German ü. The mark “ ̄” denotes vowel length.\nRotuman belongs to the Austronesian family. It is spoken by approx. 9000 people in Fiji. ‘ is a consonant (the so-called glottal stop); ạ is an open o; ä ≈ a in crack; ö = French\nCopra is the dried kernel of a coconut. —Boris Iomdin, Alexander Piperski\n\n---\n\nGood luck!",
+  "answer_format": {
+    "a_‘u‘u": {
+      "type": "string"
+    },
+    "a_isu": {
+      "type": "string"
+    },
+    "a_kia": {
+      "type": "string"
+    },
+    "a_leva": {
+      "type": "string"
+    },
+    "a_mafa": {
+      "type": "string"
+    },
+    "a_susu": {
+      "type": "string"
+    },
+    "a_huga": {
+      "type": "string"
+    },
+    "b_tiro": {
+      "type": "string"
+    },
+    "b_poga_noun": {
+      "type": "string"
+    },
+    "b_huag_lala": {
+      "type": "string"
+    },
+    "b_hạf_puhrạki": {
+      "type": "string"
+    },
+    "b_maf_pogi_maf_pala": {
+      "type": "string"
+    },
+    "c_round": {
+      "type": "string"
+    },
+    "c_to_cut_copra": {
+      "type": "string"
+    },
+    "c_curly_hair": {
+      "type": "string"
+    },
+    "c_sticky": {
+      "type": "string"
+    },
+    "c_to_flash": {
+      "type": "string"
+    },
+    "c_rubbish": {
+      "type": "string"
+    },
+    "d_word": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 20,
+      "items": {
+        "type": "string"
+      }
+    },
+    "d_to_exhaust": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 20,
+      "items": {
+        "type": "string"
+      }
+    }
+  }
+}

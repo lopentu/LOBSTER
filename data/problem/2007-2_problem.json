@@ -1,0 +1,37 @@
+{
+  "id": "2007-2",
+  "title": "Problem 2",
+  "content": "(20 points)\nGiven below are words of the Movima language in two forms: the base form and the negative form. Some forms have been left out:\n\n| Base Form              | Translation             | Negative Form      |\n|------------------------|-------------------------|---------------------|\n| maropa                 | papaya                  | kas maroka’pa       |\n| joy                    | to go                   | kas joya:ya’        |\n| bi:law                 | fish                    | kas bika’law        |\n| delto:veń              | butterfly               | kas dela’to:veń     |\n| itilakwanči:ye         | little boy              | kas itika’lakwanči:ye|\n| ełan                   | your comb               | kas ełana:na’       |\n| lopa:vos               | manioc plant            | kas lopaka’vos      |\n| jiw                    | to come                 | kas jiwaka:ka’      |\n| bakwanyiń              | my wrist                | kas bakwana’yiń     |\n| talummo                | sweet banana            | kas taluma’mo       |\n| to:mi                  | water                   | kas toka’mi         |\n| en                     | to stand                | kas ena:na’         |\n| vuskwa                 | dust                    | kas vusa’kwa        |\n| wa:kato:da             | meat                    | kas waka’kato:da    |\n| as                     | to sit                  |                     |\n| enferme:ra             | nurse                   |                     |\n| jiła:pa                | to grate manioc         |                     |\n| de                     | to lie                  |                     |\n| rulrul                 | jaguar                  |                     |\n| tipoysu:da             | dressed in tipoy        |                     |\n|                        | to roar                 | kas wurula:la’      |\n|                        | to see                  | kas dewaja’na       |\n|                        | to see traces of somebody| kas deka’wajna     |\n\n§1. Instead of standing for a sequence of two sounds, a certain combination of two letters always stands for a single specific consonant in Movima. Which combination is this?\n\n\n§2. Fill in the gaps.  \n(as, enferme:ra, jiła:pa, de, rulrul, tipoysu:da, kas wurula:la’, kas dewaja’na, kas deka’wajna)\n\nNotes:\ny reads as y in yahoo, \" as ch in church; ł, ń, ’ are specific consonants of Movima; a colon after a vowel indicates length.\nA tipoy is a long sleeveless chemise worn by Indian women.\nDmitry Gerasimov",
+  "answer_format": {
+    "section1": {
+      "type": "string"
+    },
+    "section2_negative_form_of_as": {
+      "type": "string"
+    },
+    "section2_negative_form_of_enferme:ra": {
+      "type": "string"
+    },
+    "section2_negative_form_of_jiła:pa": {
+      "type": "string"
+    },
+    "section2_negative_form_of_de": {
+      "type": "string"
+    },
+    "section2_negative_form_of_rulrul": {
+      "type": "string"
+    },
+    "section2_negative_form_of_tipoysu:da": {
+      "type": "string"
+    },
+    "section2_base_form_of_kas_wurula:la’": {
+      "type": "string"
+    },
+    "section2_base_form_of_kas_dewaja’na": {
+      "type": "string"
+    },
+    "section2_base_form_of_kas_deka’wajna": {
+      "type": "string"
+    }
+  }
+}

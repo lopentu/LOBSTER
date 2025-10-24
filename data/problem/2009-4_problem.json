@@ -1,0 +1,46 @@
+{
+  "id": "2009-4",
+  "title": "Problem 4",
+  "content": "(20 points)\nGiven are Old Indic word stems which are thought to preserve the most ancient (Indo-European) position of the stress. They are divided into root and suffix by a hyphen. The stressed vowel bears the mark ␣́.\n\n| Old Indic     | Translation             |\n|---------------|-------------------------|\n| vṛk-a-       | wolf                    |\n| vadh-á-       | deadly weapon           |\n| sād-á-        | sitting on horseback    |\n| puṣ-ṭí-      | prosperity              |\n| sik-tí-        | effusion                |\n| pı̄-tí-        | drinking, draught       |\n| gá-ti-         | walk                    |\n| vádh-ri-       | castrated               |\n| dhū-má-       | smoke                   |\n| dṛ́-ti-      | leather bag             |\n| ghṛ́-ṇi-   | heat                    |\n| ghṛ-ṇá-     | heat                    |\n| kā́-ma-       | desire                  |\n| pū́r-va-      | first                   |\n| bhṛ́m-i-      | mobile                  |\n| kṛṣ-í-       | tillage                 |\n| stó-ma-        | hymn                    |\n| dar-má-        | demolisher              |\n| nag-ná-        | naked                  |\n| vák-va-        | rolling                 |\n\n(a) Explain why it is not possible to use these data to determine the placement of the stress of the following stems:\n- bhāg-a- ‘share’\n- pad-a- ‘step’\n- pat-i- ‘lord’\n- us-ri- ‘morning light’\n\n(b) Indicate the stress of the word stems given below:\n- mṛdh-ra-: foe\n- phe-na-: foam\n- stu-ti-: praise\n- tan-ti-: cord\n- bhār-a-: burden\n- dū-ta-: messenger\n- svap-na-: sleep\n- bhū-mi-: earth, soil\n- ghar-ma-: heat\n- abh-ra-: cloud\n- ghan-a-: killing\n- ghṛṣ-vi-: exuberant\n\n△! h indicates that the preceding consonant is aspirated (pronounced with a puff of air); ṇ , ṣ and ṭ ≈ n, sh and t in barn, marsh and art, uttered with the tip of the tongue turned back; ṛ is a vowel similar to the middle sound in American English bird. The mark ␣̄ denotes vowel length.\n—Alexander Piperski",
+  "answer_format": {
+    "a": {
+      "type": "string"
+    },
+    "b_mṛdh-ra-": {
+      "type": "string"
+    },
+    "b_phe-na-": {
+      "type": "string"
+    },
+    "b_stu-ti-": {
+      "type": "string"
+    },
+    "b_tan-ti-": {
+      "type": "string"
+    },
+    "b_bhār-a-": {
+      "type": "string"
+    },
+    "b_dū-ta-": {
+      "type": "string"
+    },
+    "b_svap-na-": {
+      "type": "string"
+    },
+    "b_bhū-mi-": {
+      "type": "string"
+    },
+    "b_ghar-ma-": {
+      "type": "string"
+    },
+    "b_abh-ra-": {
+      "type": "string"
+    },
+    "b_ghan-a-": {
+      "type": "string"
+    },
+    "b_ghṛṣ-vi-": {
+      "type": "string"
+    }
+  }
+}

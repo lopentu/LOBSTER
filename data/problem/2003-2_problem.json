@@ -1,0 +1,25 @@
+{
+  "id": "2003-2",
+  "title": "Problem 2",
+  "content": "Below you see arithmetic equalities written in Egyptian Arabic. All summands, as well as all sums except the last one, are represented as fractions in which neither the numerators nor the denominators are greater than 10, nor is any denominator equal to 1:\n\nFootnote: The Egyptian dialect of the Arabic language is spoken by about 45 million people. Thanks to Egypt’s considerable economic, political and cultural influence and most of all to the great quantity and popularity of its radio and television programmes, this dialect is also widely understood by speakers of other Arabic dialects.\n\n1. tumm + tummēn = talatt timān\n2. sabaʕt itlāt + suds = ʕašart irbāʕ\n3. tusʕēn + tusʕ = sudsēn\n4. xamast ixmāš + subʕ = tamant isbāʕ\n5. subʕēn + xumsēn = 24/35\n\n**Assignment 1.** Write these equalities in figures.\n**Assignment 2.** The equality `rubʕ + ʕašart itsāʕ = sabaʕt isdās` is missing a sign. Which one?",
+  "answer_format": {
+    "assignment1_1": {
+      "type": "string"
+    },
+    "assignment1_2": {
+      "type": "string"
+    },
+    "assignment1_3": {
+      "type": "string"
+    },
+    "assignment1_4": {
+      "type": "string"
+    },
+    "assignment1_5": {
+      "type": "string"
+    },
+    "assignment2": {
+      "type": "string"
+    }
+  }
+}

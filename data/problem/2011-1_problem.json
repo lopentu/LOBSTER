@@ -1,0 +1,43 @@
+{
+  "id": "2011-1",
+  "title": "Problem 1",
+  "content": "### Problem 1\n\n(20 points)\n\nGiven are verb forms of the Menominee language as well as their English translations:\n\n1. kewǣpeqtaq — we_{1+2} begin\n2. kawāham — he fells it by tool\n3. nepı̄tohnæm — I walk here (to this place)\n4. kēskenam — he breaks it through by hand\n5. pahkǣsam — he cuts it off\n6. kekǣtohnæq — we_{1+2} walk out\n7. pı̄tenam — he passes it here\n8. kewǣpānæhkæq — we_{1+2} begin to dig\n9. tawǣsam — he cuts a hole in it\n10. nekǣtahan — I pry it out by tool\n11. pāhkaham — he opens it by tool (by raising a lid or opening a door)\n12. kekēskahtæq — we_{1+2} bite it through\n13. wackōhnæw — he walks roundabout, by a detour\n14. newāckesan — I cut around it\n15. ketǣnam — he takes it out by hand\n16. ketāwahtæq — we_{1+2} bite, gnaw a hole in it\n17. wǣpohnæw — he begins walking\n18. nekāweqtam — I lie down\n19. pāhkeqtaw — he opens up\n20. kepı̄tahtæq — we_{1+2} come eating it; we_{1+2} bring it in our mouths\n21. nekāwāhpem — I fall over laughing\n\n(a) Translate into English:\n\n- kekēskahæq\n- nepāhkenan\n- wǣpāhpew\n\nIf in some cases you believe that more than one translation is possible, give them all.\n\n(b) Translate into Menominee:\n\n- I begin to eat it\n- we_{1+2} lay it flat by hand\n- he digs a hole\n- he walks out\n\n△! The Menominee Indians live in Wisconsin, USA. They number 5 000–10 000 people, but the epony- mous language of the Algonquian family is only spoken by a few dozen of the oldest among them, although effort has been put lately into expanding its teaching and use.\n“we_{1+2}” = ‘we and you’. æ ≈ a in crack, c = ch in church, q is a consonant (the so-called glottal stop). The mark “ ̄” denotes vowel length. —Ivan Derzhanski\n---",
+  "answer_format": {
+    "a_1": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 20,
+      "items": {
+        "type": "string"
+      }
+    },
+    "a_2": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 20,
+      "items": {
+        "type": "string"
+      }
+    },
+    "a_3": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 20,
+      "items": {
+        "type": "string"
+      }
+    },
+    "b_1": {
+      "type": "string"
+    },
+    "b_2": {
+      "type": "string"
+    },
+    "b_3": {
+      "type": "string"
+    },
+    "b_4": {
+      "type": "string"
+    }
+  }
+}

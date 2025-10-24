@@ -1,0 +1,55 @@
+{
+  "id": "2019-5",
+  "title": "Problem 5",
+  "content": "### Problem 5\n\n(20 points)\n\nHere are some sentences in Nooni that were spoken on different days of the Nooni “week” and their English translations:\n\nspoken on Bvutfu\n\n1. fɔgò cǐ nú bvúmbòn.  \nYesterday was Bvumbon.\n\nme ncí nɔ̂ː ntɔ᷅ fɔ̀wǎy bvúmbòn.  \nOn Bvumbon, I came to the market.\n\n2. wɔ̀ nǔ yúː cɔ́ŋ kèŋkfǔ bvúsɔ̀w.  \nOn Bvusɔw, you(sg) will steal the yam.\n\n3. kwɔ᷆ːn nǔ bóy fí me bvúzhí.  \nOn Bvuzhi, the woman will help me.\n\nspoken on Bvusɔw\n\n4. wvù tɔ̀ nɔ̂ː bɔ᷅ŋ ŋwà bvûŋka᷆ː.  \nOn Bvuŋka, he found the book.\n\n5. fɔ̀ shě ntfǔː nú bvútfu᷅.  \nThe day after tomorrow is Bvutfu.\n\nme nú mbóy ncáw mutù bvútfu᷅.  \nOn Bvutfu, I will choose the car.\n\n6. wvù bɛ̂ː yo᷅ kwɔ᷆ːn ɛ̀bɛ̀n.  \nToday, he killed the woman.\n\n7. wɔ̀ tɔ̀ nɔ̂ː yo᷅w cɔ̌ŋ.  \nYou(sg) heard the thief a long time ago.\n\nspoken on Bvukema\n\n8. ntfǔː nú bvûŋka᷆ːde᷆n.  \nTomorrow is Bvuŋkaden.\n\ncɔ̌ŋ nú bóy bɔ́ŋ bèsèn bvûŋka᷆ːde᷆n.  \nOn Bvuŋkaden, the thief will find us.\n\n9. me mbɛ̂ː nca᷅w ŋwà ɛ̀bɛ̀n.  \nToday, I chose the book.\n\n10. dìɛ̀msɛ̌n nú yɛ́n wvù lě.  \nThe man is about to see him.\n\n11. kefwé cí nú bvûŋka᷆ː.  \nThe day before yesterday was Bvuŋka.\n\nspoken on Bvuŋka\n\n12. me nú nfí dìɛ̀msɛ̌n.  \nI am about to help the man.\n\n13. kwɔ᷆ːn cǐ nɔ̂ː yɛ᷅n wáy é bvútfu᷅.  \nOn Bvutfu, the woman saw the market.\n\n14. bèsèn nǔ géː cɔ́ŋ mutù ɛ̀bɛ̀n.  \nToday, we will steal the car.\n\n15. bɔ́ nɔ̂ː yɛ᷅n me lé fɔ̀wǎy.  \nThey saw me at the market just now.\n\n(a) Translate into English:\n\nspoken on Bvuŋkaden\n16. bvúsɔ̀w nǔ fɔ̀ shě ntfǔː.  \n17. me nú ŋgéː nyɛ́n kèŋkfǔ lé ɛ̀bɛ̀n.  \n18. wvù tɔ̀ nɔ̂ː yɛ᷅n bèsèn ě bvúmbòn.  \n19. bèsèn nǔ bóy tɔ́ fɔ̀wǎy bvúzhı ᷇ː de᷆n.  \n\n(b) The first day of the Nooni week is Bvutfu. What is the order of the Nooni days?\n\n(c) Translate into Nooni:\n\nspoken on Bvumbon\n20. On Bvusɔw, I helped the man.  \n21. The thief stole the yam just now.  \n22. On Bvuŋkaden, I will hear the car.  \n23. Today, the woman will kill the man.  \n24. Today, the man saw you(sg).  \n\n△! Nooni belongs to the Beboid group of the Atlantic-Congo family. It is spoken by approx. 40,000 people in Cameroon.\nɛ and ɔ are vowels. ŋ, sh, y and zh are consonants. The mark ː indicates that the vowel is long. The superscript marks denote tones: –́ high, –̂ falling (high ↘ low), –᷆ falling (middle ↘ low), –̀ low, –᷅ rising (low ↗ middle), –̌ rising (low ↗ high); if none are present, the syllable has middle tone.\nYam is the edible tuber of the tropical plant of the same name. —Samuel Ahmed\n---",
+  "answer_format": {
+    "a_16": {
+      "type": "string"
+    },
+    "a_17": {
+      "type": "string"
+    },
+    "a_18": {
+      "type": "string"
+    },
+    "a_19": {
+      "type": "string"
+    },
+    "b_2nd_day": {
+      "type": "string"
+    },
+    "b_3rd_day": {
+      "type": "string"
+    },
+    "b_4th_day": {
+      "type": "string"
+    },
+    "b_5th_day": {
+      "type": "string"
+    },
+    "b_6th_day": {
+      "type": "string"
+    },
+    "b_7th_day": {
+      "type": "string"
+    },
+    "b_8th_day": {
+      "type": "string"
+    },
+    "c_20": {
+      "type": "string"
+    },
+    "c_21": {
+      "type": "string"
+    },
+    "c_22": {
+      "type": "string"
+    },
+    "c_23": {
+      "type": "string"
+    },
+    "c_24": {
+      "type": "string"
+    }
+  }
+}

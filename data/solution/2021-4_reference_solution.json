@@ -1,0 +1,28 @@
+{
+  "id": "2021-4",
+  "answer": {
+    "a_exception": "tі̃́mі̃́tі̃́nі̃́",
+    "a_expected_form": "tṹmі̃́tі̃́nі̃́",
+    "b_1": "tʊ́rʊ́tʊ́tʊ̀",
+    "b_2": "tɪ̀rɛ̀tʊ̃́wʊ̃́",
+    "b_3": "túbі́túkó",
+    "b_4": "ńtĩ́yẽ́ tɪ̀rɪ̀tɪ̃̀yã̀",
+    "b_5": "tʊ́bɛ́tʊ̃́kʷʊ̃́",
+    "b_6": "tі́rі́tĩ̀yõ̀tũ̀rõ̀",
+    "b_7": "tʊ̀hʷɔ̀tʊ́gà"
+  },
+  "explanation": {
+    "rules": "Insert tV- before CV0:\nIf (V0 ∈ {e, i, o, u} and C = y) or (V0 ∈ {e, i} and C ∉ {b, m, w, y}), then V = i\nIf (V0 ∈ {ɛ, ɔ, ɪ, ʊ, a} and C = y) or (V0 ∈ {ɛ, ɪ} and C ∉ {b, m, w, y}), then V = ɪ\nIf (V0 ∈ {e, i, o, u} and C = ∈ {b, m, w}) or (V0 ∈ {o, u} and C ∉ {b, m, w, y}), then V = u\nIf (V0 ∈ {ɛ, ɔ, ɪ, ʊ, a} and C = ∈ {b, m, w}) or (V0 ∈ {ɔ, ʊ, a} and C ∉ {b, m, w, y}), then V = ʊ\nif V0 is nasalized (Ṽ0), then V gets nasalized\nIf CV0 is in high tone (CV́0), then both tV and CV0 get high tone (tV́-CV́0)\nIf CV0 is in falling tone (CV̂0), then tV gets high tone and CV0 gets low tone (tV́-CV̀0)\nIf CV0 is in low tone (CV̀0), then both tV and CV0 get low tone (tV̀-CV̀0)\nN-CV0 (N ∈ {m, n, ɲ, ŋ}) becomes n-tV-CV0",
+    "rule_checklist": [
+      "If (V0 ∈ {e, i, o, u} and C = y) or (V0 ∈ {e, i} and C ∉ {b, m, w, y}), then V = i",
+      "If (V0 ∈ {ɛ, ɔ, ɪ, ʊ, a} and C = y) or (V0 ∈ {ɛ, ɪ} and C ∉ {b, m, w, y}), then V = ɪ",
+      "If (V0 ∈ {e, i, o, u} and C = ∈ {b, m, w}) or (V0 ∈ {o, u} and C ∉ {b, m, w, y}), then V = u",
+      "If (V0 ∈ {ɛ, ɔ, ɪ, ʊ, a} and C = ∈ {b, m, w}) or (V0 ∈ {ɔ, ʊ, a} and C ∉ {b, m, w, y}), then V = ʊ",
+      "if V0 is nasalized (Ṽ0), then V gets nasalized",
+      "If CV0 is in high tone (CV́0), then both tV and CV0 get high tone (tV́-CV́0)",
+      "If CV0 is in falling tone (CV̂0), then tV gets high tone and CV0 gets low tone (tV́-CV̀0)",
+      "If CV0 is in low tone (CV̀0), then both tV and CV0 get low tone (tV̀-CV̀0)",
+      "N-CV0 (N ∈ {m, n, ɲ, ŋ}) becomes n-tV-CV0"
+    ]
+  }
+}

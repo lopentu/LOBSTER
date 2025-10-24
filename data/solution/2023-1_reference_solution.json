@@ -1,0 +1,31 @@
+{
+  "id": "2023-1",
+  "answer": {
+    "a_15": "ɨnnetk'a",
+    "a_16": "ɨnkɨr'i",
+    "a_17": "ɨmp'uhur'i",
+    "a_18": "ɨnher'o",
+    "b_39": "<select1,1,1>['I smoothed (it) out', 'I smoothed it out']",
+    "b_40": "I left",
+    "b_41": "it was opened",
+    "b_42": "ʂur'uŋ",
+    "b_43": "pirin'",
+    "b_44": "ɨnʂawaʦ'a",
+    "b_45": "k'aaniʔ",
+    "b_46": "ɨmp'ɨhanaʔ",
+    "b_47": "ahɨkaʔ",
+    "b_48": "ɨniplaʔ"
+  },
+  "explanation": {
+    "rules": "Table Legend\nHorizontal Arrow (Past -> Non-past): Indicates a change from past tense to non-past tense/aspect.\nVertical Arrow (Active -> Passive): Indicates a change from the active voice to the passive voice.\n\n1st Person Singular Affixes\nPast Active: -n'\nNon-past Active: in-\nPast Passive: ɨn-\nNon-past Passive: ɨn\n3rd Person Singular Affixes\nPast Active: -y'\nNon-past Active: ——\nPast Passive: -∅\nNon-past Passive: a-\n1. −→: \n• -CV → -C’V (ʂʼ → ʦʼ);\n• -V1CC’V2- → -V1CVXC’V2-, VX = (V1 = V2) | a\n\n2. Vertical Arrow above a filled circle:\n• -ʔ (-C’V → -CV | __-ʔ); \n• ⃝: (C)VCV- → (C)VVCV-\n\n3. • n → m | __{p, p’} \n• n → ŋ | {k, k’}\n\n4. ‹p, t, k› → ‹b, d, g› | {m, n, ŋ} __\n\n3. n’ → ŋ, y’ → y | C’V__",
+    "rule_checklist": [
+      "Table Legend: Horizontal Arrow (Past -> Non-past): Indicates a change from past tense to non-past tense/aspect. Vertical Arrow (Active -> Passive): Indicates a change from the active voice to the passive voice.",
+      "1st Person Singular Affixes: Past Active: -n', Non-past Active: in-, Past Passive: ɨn-, Non-past Passive: ɨn. 3rd Person Singular Affixes: Past Active: -y', Non-past Active: ——, Past Passive: -∅, Non-past Passive: a-",
+      "1. −→: • -CV → -C’V (ʂʼ → ʦʼ); • -V1CC’V2- → -V1CVXC’V2-, VX = (V1 = V2) | a",
+      "2. Vertical Arrow above a filled circle: • -ʔ (-C’V → -CV | __-ʔ); • ⃝: (C)VCV- → (C)VVCV-",
+      "3. • n → m | __{p, p’} • n → ŋ | {k, k’}",
+      "4. ‹p, t, k› → ‹b, d, g› | {m, n, ŋ} __",
+      "3. n’ → ŋ, y’ → y | C’V__"
+    ]
+  }
+}

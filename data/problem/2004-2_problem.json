@@ -1,0 +1,23 @@
+{
+  "id": "2004-2",
+  "title": "Problem 2",
+  "content": "(10 points)\nA translator at the Swift News agency, which regularly receives lots of material in English, tries to work as fast and efficiently as possible, and therefore first translates titles of articles and only then some of the articles. Because of this technique, however, some of the titles do not correspond to the contents of the translated articles and have to be reconsidered. This happened to three of the articles whose titles are given below.\n\n1. Budget Cut Threatens Railway Modernization Project Funding.\n2. Cold Winter Threatens Start of Shipping Season in Small Lakes.\n3. Insanitariness in Brobdingnag Threatens Cholera Outbreak.\n4. New Crisis in Blefuscu Threatens Collapse of Peace Talks.\n5. Password Leak From Megasoft Threatens Mass Piracy.\n6. Population Crisis in Lilliput Threatens Tax Reform.\n7. Sudden Weather Change Threatens Arrival of Reinforcements to Besieged City.\n8. Suspension of Talks Threatens Peace Process in Lilliput and Blefuscu.\n9. Unexpected Event in Country of Houyhnhnms Threatens Early Elections.\n10. Terrorist Activity Threatens Public Security.\n11. Global Cooling Threatens Food Shortages.\n\nAssignment. Indicate which titles did not correspond to the contents of the articles after translations. \nGive the appropriate translations. Explain your solution.\n\nNote. Knowledge of English is NOT NECESSARY for the solution of the problem. Lilliput, Blefuscu, Brobdingnag and Country of Houyhnhnms are imaginary countries, featured in the writings by Jonathan Swift, an English writer (1667–1745).\n\n---",
+  "answer_format": {
+    "mismatched_titles": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 12,
+      "items": {
+        "type": "string"
+      }
+    },
+    "corrected_translations": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 12,
+      "items": {
+        "type": "string"
+      }
+    }
+  }
+}

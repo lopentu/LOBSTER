@@ -1,0 +1,28 @@
+{
+  "id": "2007-5",
+  "answer": {
+    "turkish_for_osta": "usta",
+    "turkish_for_küzänäḱ": "gözenek",
+    "turkish_for_yılan": "yılan",
+    "tatar_for_yedişer": "cideşär",
+    "tatar_for_bilezik": "beläzek",
+    "tatar_for_üstünde": "östendä",
+    "tatar_for_bin": "men",
+    "tatar_for_yumru": "yomrı"
+  },
+  "explanation": {
+    "rules": "Observations:\n1. Vowel Correspondences:\n- `a ~ a`, `i` (1st syllable) ~ `i`, `e` (non-1st syllable) ~ `ä`.\n- `o ~ u`, `ö ~ ü`.\n- `ı` (non-1st syllable) ~ `ı`.\n\n2. Consonant Correspondences:\n- `m` (medial) ~ `m`, `m` (initial) ~ `m` if `n` follows.\n- `b ~ b` (initial), `d ~ d`, `t ~ t`.\n- `n ~ n`, `l ~ l`, `r ~ r`, `s ~ s`, `z ~ z`.\n\n3. Special Consonant Patterns:\n- `c ~ ç` before Tatar `i`.\n- `y ~ y` elsewhere.\\n   - `) ~ g`, `g` (initial) ~ word-initially.\n- `k ~ k` elsewhere.",
+    "rule_checklist": [
+      "Vowel Correspondences: - `a ~ a`, `i` (1st syllable) ~ `i`, `e` (non-1st syllable) ~ `ä`.",
+      "Vowel Correspondences: - `o ~ u`, `ö ~ ü`.",
+      "Vowel Correspondences: - `ı` (non-1st syllable) ~ `ı`.",
+      "Consonant Correspondences: - `m` (medial) ~ `m`, `m` (initial) ~ `m` if `n` follows.",
+      "Consonant Correspondences: - `b ~ b` (initial), `d ~ d`, `t ~ t`.",
+      "Consonant Correspondences: - `n ~ n`, `l ~ l`, `r ~ r`, `s ~ s`, `z ~ z`.",
+      "Special Consonant Patterns: - `c ~ ç` before Tatar `i`.",
+      "Special Consonant Patterns: - `y ~ y` elsewhere.",
+      "Special Consonant Patterns: - `) ~ g`, `g` (initial) ~ word-initially.",
+      "Special Consonant Patterns: - `k ~ k` elsewhere."
+    ]
+  }
+}

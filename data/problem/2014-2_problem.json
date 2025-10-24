@@ -1,0 +1,61 @@
+{
+  "id": "2014-2",
+  "title": "Problem 2",
+  "content": "(20 points)\n\nHere are the singular, dual, and plural forms of some Kiowa nouns and their English translations. Not all forms are given, although all exist.\n\n| Singular        | Dual            | Plural            | Translation         |\n|-----------------|-----------------|-------------------|---------------------|\n| adↄ             | a               | a                 | tree                |\n| matʰↄnsjan      | matʰↄnsjan      | matʰↄnsjadↄ       | little girl         |\n| k’ↄ             | k’ↄ             | k’ↄgↄ             | knife               |\n| tʰot’olagↄ      | tʰot’ola        | tʰot’olagↄ        | orange              |\n| aufi            | -          | aufigↄ                  | fish                |\n| pʰjaboadↄ       |  -       | pʰjaboa                  | street lamp         |\n| matʰↄn          |   -      | matʰↄdↄ                  | girl                |\n| k’ↄnbohodↄ      |  -   | k’ↄnbohon                    | hat                 |\n| t’ↄ             | -         | t’ↄgↄ                   | spoon               |\n| -               | -         | e                 | bread               |\n| alↄsↄhjegↄ      | -               | alↄsↄhjegↄ        | plum                |\n| ?               | tsegun          | tsegudↄ           | dog                 |\n| alↄguk’ogↄ      | alↄguk’o        | ?                 | lemon               |\n| ?               | k’apʰtʰↄ        | k’apʰtʰↄgↄ        | old man             |\n| kʰↄdↄ           | kʰↄ             | ?                 | blanket             |\n| k’ↄdↄ           | ?               | k’ↄdↄ             | tomato              |\n| ?               | alↄ             | ?                 | apple               |\n| ?               | pʰↄ             | ?                 | buffalo             |\n| ?               | ?               | sadↄ              | child               |\n| ↄlsun           | ?               | ?                 | comb                |\n| ?               | pitso           | ?                 | fork                |\n| ?               | tʰↄpʰpaa        | ?                 | chair               |\n\nFill in the cells with the question marks.\n\n△! The Kiowa language belongs to the Kiowa-Tanoan family. It is an endangered language, only spoken by a few hundred people in Oklahoma, USA.\nThe Kiowa words are given in a simplified transcription. k’, t’, p’, kʰ, pʰ, tʰ are consonants; ↄ is a vowel. -Aleksejs Pegu2evs",
+  "answer_format": {
+    "plum_Dual": {
+      "type": "string"
+    },
+    "dog_Singular": {
+      "type": "string"
+    },
+    "lemon_Plural": {
+      "type": "string"
+    },
+    "old_man_Singular": {
+      "type": "string"
+    },
+    "blanket_Plural": {
+      "type": "string"
+    },
+    "tomato_Dual": {
+      "type": "string"
+    },
+    "apple_Singular": {
+      "type": "string"
+    },
+    "apple_Plural": {
+      "type": "string"
+    },
+    "buffalo_Singular": {
+      "type": "string"
+    },
+    "buffalo_Plural": {
+      "type": "string"
+    },
+    "child_Singular": {
+      "type": "string"
+    },
+    "child_Dual": {
+      "type": "string"
+    },
+    "comb_Dual": {
+      "type": "string"
+    },
+    "comb_Plural": {
+      "type": "string"
+    },
+    "fork_Singular": {
+      "type": "string"
+    },
+    "fork_Plural": {
+      "type": "string"
+    },
+    "chair_Singular": {
+      "type": "string"
+    },
+    "chair_Plural": {
+      "type": "string"
+    }
+  }
+}

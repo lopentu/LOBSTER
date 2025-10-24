@@ -1,0 +1,25 @@
+{
+  "id": "2010-1",
+  "answer": {
+    "row7_form1": "h̨amerki",
+    "row8_form1": "jömölkü",
+    "row9_form1": "qamalq̇al",
+    "row10_form1": "qumoroo1u",
+    "row11_form1": "somonḳon",
+    "row12_form2": "alq̇ola",
+    "row13_form2": "ensina",
+    "row14_form2": "h̨örč̣üra",
+    "row15_form3": "čuraq̇ara",
+    "row16_form3": "h̨alo1ula",
+    "row17_form3": "ïnkana",
+    "row18_form3": "jerč̣ira"
+  },
+  "explanation": {
+    "rules": "Rules:\n1. Form 1:`-mV-` after the first vowel, where:\n- `V` depends on the vowel in the following syllable:\n- `a` before `a`\n- `o` before `o` or `u`\n- `e` before `i`\n- `ö` before `ü`\n\n2. Form 2:\n- `-a` if the stem ends in `-aR` or `-oR`\n- `-Ra` if the stem ends in `-i`, `-u` or `-ü (where `R` is `l` or `n` if these consonants are in the root, or `r` otherwise).\n3. Form 3: \n- Form 2 with `-r-` after the first vowel, unless `R` follows immediately.",
+    "rule_checklist": [
+      "Form 1:`-mV-` after the first vowel, where: - `V` depends on the vowel in the following syllable: - `a` before `a` - `o` before `o` or `u` - `e` before `i` - `ö` before `ü`",
+      "Form 2: - `-a` if the stem ends in `-aR` or `-oR` - `-Ra` if the stem ends in `-i`, `-u` or `-ü (where `R` is `l` or `n` if these consonants are in the root, or `r` otherwise)",
+      "Form 3: - Form 2 with `-r-` after the first vowel, unless `R` follows immediately."
+    ]
+  }
+}

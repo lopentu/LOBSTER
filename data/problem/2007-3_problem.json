@@ -1,0 +1,55 @@
+{
+  "id": "2007-3",
+  "title": "Problem 3",
+  "content": "(20 points)\nGiven below are verb forms of the Georgian language (in Roman transcription) and their English translations in arbitrary order:\n\n**Georgian Verb Forms:**\n- vtkvi\n- kenit\n- inadiret\n- itavmGdomareve\n- vsadilobt\n- tkvi\n- vigoreb\n- vkeni\n- nadirob\n- visadileb\n- vinadire\n- ambob\n- itavmGdomareve\n- izamt\n- vivlit\n\n**English Translations:**\n- you say\n- we dine\n- you hunt\n- I said\n- you (pl.) did\n- I did\n- you said\n- I hunted\n- we will walk\n- I presided\n- I will roll\n- I will dine\n- you (pl.) hunted\n- you presided\n- you (pl.) will do\n\n§§. Determine the correct correspondences. If you find more than one solution possible, write the solution you think is more plausible and explain why.\n\nNote. G is a consonant pronounced as the first or the last sound in judge.\nYakov Testelets\n\n---",
+  "answer_format": {
+    "correspondence_vtkvi": {
+      "type": "string"
+    },
+    "correspondence_kenit": {
+      "type": "string"
+    },
+    "correspondence_inadiret": {
+      "type": "string"
+    },
+    "correspondence_itavmGdomareve": {
+      "type": "string"
+    },
+    "correspondence_vsadilobt": {
+      "type": "string"
+    },
+    "correspondence_tkvi": {
+      "type": "string"
+    },
+    "correspondence_vigoreb": {
+      "type": "string"
+    },
+    "correspondence_vkeni": {
+      "type": "string"
+    },
+    "correspondence_nadirob": {
+      "type": "string"
+    },
+    "correspondence_visadileb": {
+      "type": "string"
+    },
+    "correspondence_vinadire": {
+      "type": "string"
+    },
+    "correspondence_ambob": {
+      "type": "string"
+    },
+    "correspondence_vitavmGdomareve": {
+      "type": "string"
+    },
+    "correspondence_izamt": {
+      "type": "string"
+    },
+    "correspondence_vivlit": {
+      "type": "string"
+    },
+    "if_you_find_more_than_one_solution_possible_explain_why_you_think_your_solution_is_more_plausible": {
+      "type": "string"
+    }
+  }
+}

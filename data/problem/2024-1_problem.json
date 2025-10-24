@@ -1,0 +1,37 @@
+{
+  "id": "2024-1",
+  "title": "Problem 1",
+  "content": "Here are some verb forms in Koryak and their English translations:\n\n1. təjekmiņŋənet - I will catch them(du)\n2. kekmiņŋənew - you(sg) catch them(pl)\n3. mətəlhun - we(du) saw him\n4. kujguŋnet - you(sg) bite them(du)\n5. kinuheņŋətək - you(du) wait for me\n6. nekmitən - they caught him\n7. mətkolholaŋən - we(pl) see him\n8. mətuhennet - we(du) waited for them(du)\n9. enanŋevlatək - you(pl) sent me\n10. tuhettək - I waited for you(du)\n11. məccuheņŋətək - we(du) will wait for you(du)\n12. inekmittək - you(du) caught me\n13. təjelleŋən - I will lead him\n14. nekulhuŋnew - they see them(pl)\n15. najalholaŋtək - they will see you(pl)\n16. məccenŋivŋənew - we(du) will send them(pl)\n17. nejenŋivŋənet - they will send them(du)\n18. məccallalaŋtək -\n    we(du) will lead you(pl),\n    we(pl) will lead you(pl),\n    we(pl) will lead you(du)\n\n(sg) = one person\n(du) = two people\n(pl) = three or more people\n\n**(a) Translate into English:**\n\n19. kulleŋən\n20. jinejguŋtək\n21. tekminnew\n22. təjohallaŋtək\n23. mətkonŋevlaŋən\n\n**(b) Translate into Koryak:**\n\n24. you(sg) will see them(du)\n25. we(pl) bit him\n26. you(pl) catch me\n27. they send you(du)\n28. you(du) led me\n\n*he Koryak language belongs to the Chukotko–Kamchatkan family. It is spoken by approx. 1665 people in the extreme east of Siberia. ə = a in comma. c = ch in church. g is not unlike French r. j = y in yolk. ņ ≈ ny in canyon. ŋ = ng in hang. h and w are consonants. —Ivan Derzhanski",
+  "answer_format": {
+    "a_19": {
+      "type": "string"
+    },
+    "a_20": {
+      "type": "string"
+    },
+    "a_21": {
+      "type": "string"
+    },
+    "a_22": {
+      "type": "string"
+    },
+    "a_23": {
+      "type": "string"
+    },
+    "b_24": {
+      "type": "string"
+    },
+    "b_25": {
+      "type": "string"
+    },
+    "b_26": {
+      "type": "string"
+    },
+    "b_27": {
+      "type": "string"
+    },
+    "b_28": {
+      "type": "string"
+    }
+  }
+}

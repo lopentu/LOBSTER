@@ -1,0 +1,100 @@
+{
+  "id": "2013-2",
+  "title": "Problem 2",
+  "content": "(20 points)\nHere are some words in Tundra Yukaghir and their English translations in arbitrary order:\n\n| Tundra Yukaghir     | English               |\n|---------------------|-----------------------|\n| ilennime            | gunshot               |\n| joqonnime           | wooden box            |\n| saancohoje          | nose                  |\n| johudawur           | bird                  |\n| ilenlegul           | Yakut knife           |\n| cireme              | deer feed             |\n| johul               | bag                   |\n| aariinmøŋer         | rifle’s muzzle        |\n| joqodile            | horse                 |\n| møŋer               | nose case             |\n| ciremennime         | wooden house          |\n| joqoncohoje         | grandchild            |\n| saadoŋoj            | thunder               |\n| uoduo               | Yakut person          |\n| oŋoj                | cradle                |\n| aariinjohul         | herd of deer          |\n| uodawur             | wooden knife          |\n| joqol               | nest                  |\n\n(a) Determine the correct correspondences.\n\n(b) The word ewce means ‘tip, point’. Translate into English:\n- aarii\n- aariidoŋoj\n- ciremedawur\n- ile\n- johudewce\n- legul\n- saal\n- saannime\n- uo\n\n(c) The word cuo means ‘iron’. Translate into Yukaghir:\n- iron bird\n- snoring\n- tip of knife’s blade\n- sack for provisions\n\n△! Tundra Yukaghir is the language of a small population in Northeast Siberia. It is only spoken by several dozen mostly aged people, as many Yukaghirs have abandoned it in favour of Russian or one of the languages of their more numerous neighbours, who are often bearers of more advanced material cultures (such as the Yakuts).\nA nose case serves to protect the nose from the cold. —Ivan Derzhanski\n---",
+  "answer_format": {
+    "a_ilennime": {
+      "type": "string"
+    },
+    "a_joqonnime": {
+      "type": "string"
+    },
+    "a_saancohoje": {
+      "type": "string"
+    },
+    "a_johudawur": {
+      "type": "string"
+    },
+    "a_ilenlegul": {
+      "type": "string"
+    },
+    "a_cireme": {
+      "type": "string"
+    },
+    "a_johul": {
+      "type": "string"
+    },
+    "a_aariinmøŋer": {
+      "type": "string"
+    },
+    "a_joqodile": {
+      "type": "string"
+    },
+    "a_møŋer": {
+      "type": "string"
+    },
+    "a_ciremennime": {
+      "type": "string"
+    },
+    "a_joqoncohoje": {
+      "type": "string"
+    },
+    "a_saadoŋoj": {
+      "type": "string"
+    },
+    "a_uoduo": {
+      "type": "string"
+    },
+    "a_oŋoj": {
+      "type": "string"
+    },
+    "a_aariinjohul": {
+      "type": "string"
+    },
+    "a_uodawur": {
+      "type": "string"
+    },
+    "a_joqol": {
+      "type": "string"
+    },
+    "b_aarii": {
+      "type": "string"
+    },
+    "b_aariidoŋoj": {
+      "type": "string"
+    },
+    "b_ciremedawur": {
+      "type": "string"
+    },
+    "b_ile": {
+      "type": "string"
+    },
+    "b_johudewce": {
+      "type": "string"
+    },
+    "b_legul": {
+      "type": "string"
+    },
+    "b_saal": {
+      "type": "string"
+    },
+    "b_saannime": {
+      "type": "string"
+    },
+    "b_uo": {
+      "type": "string"
+    },
+    "c_1": {
+      "type": "string"
+    },
+    "c_2": {
+      "type": "string"
+    },
+    "c_3": {
+      "type": "string"
+    },
+    "c_4": {
+      "type": "string"
+    }
+  }
+}

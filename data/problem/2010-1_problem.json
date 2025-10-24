@@ -1,0 +1,43 @@
+{
+  "id": "2010-1",
+  "title": "Problem 1",
+  "content": "(20 points)\nGiven are verbs of the Budukh language in three forms:\n\n| Form 1: prohibitive mood  | Form 2: future tense | Form 3: future tense, |\n| class I (masculine)       | class II (feminine)  | class III (neuter)    | Translation        |\n|---------------------------|----------------------|-----------------------|--------------------|\n| amarxar                   | arxara             | arxara            | sleep              |\n| čömorh̨uc̣u                | čörh̨uc̣ura         | SHADED            | exchange           |\n| čimeo1i                   | SHADED             | čiro1ira          | carry, lead        |\n| h̨ümoč̣onxu               | h̨üč̣onxuna        | h̨ürč̣onxuna      | overtake           |\n| SHADED                    | orsura             |  osura            | put                |\n| womolṭu                  | wolṭula          | SHADED            | tie                |\n| ?                         | h̨arkira           | SHADED            | set on (animals)   |\n| ?                         | jölküla           | jölküla           | make to roll       |\n| ?                         | qalq̇ala           | SHADED            | lie, recline       |\n| ?                         | quroo1ura         | quroo1ura         | bring to a halt    |\n| ?                         | sonḳona          | sonḳona          | be startled        |\n| amolq̇ol                   | ?                 | alq̇ola            | sit down           |\n| emensi                    | ?                 | SHADED            | extinguish         |\n| h̨ömörč̣ü                  | ?                 | SHADED            | push               |\n| čumaraq̇ar                 | SHADED            | ?                 | overtake           |\n| h̨amolo1u                  | SHADED            | ?                 | swallow            |\n| ïmankan                   | SHADED            | ?                 | remain             |\n| jemeč̣ i                  | SHADED            | ?                 | cross, go across   |\n\nFill in the vacant cells (you don’t have to fill in the shaded ones).\n\n! The Budukh language belongs to the Nakh-Daghestanian language family. It is spo- ken by approx. 5 000 people in Azerbaijan.\nö and ü = French eu and u (German ö and ü); ï ≈ u in but. č, č̣, o1, h̨, j, ḳ, q, š, ṭ, w, x are consonants.\n—Ivan Derzhanski\n\n---",
+  "answer_format": {
+    "row7_form1": {
+      "type": "string"
+    },
+    "row8_form1": {
+      "type": "string"
+    },
+    "row9_form1": {
+      "type": "string"
+    },
+    "row10_form1": {
+      "type": "string"
+    },
+    "row11_form1": {
+      "type": "string"
+    },
+    "row12_form2": {
+      "type": "string"
+    },
+    "row13_form2": {
+      "type": "string"
+    },
+    "row14_form2": {
+      "type": "string"
+    },
+    "row15_form3": {
+      "type": "string"
+    },
+    "row16_form3": {
+      "type": "string"
+    },
+    "row17_form3": {
+      "type": "string"
+    },
+    "row18_form3": {
+      "type": "string"
+    }
+  }
+}

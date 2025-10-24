@@ -1,0 +1,47 @@
+{
+  "id": "2006-5",
+  "title": "Problem 5",
+  "content": "### Problem 5\n\n(20 points)\nBelow you see sentences in English and their translations into the Ngoni language. In fact, each English sentence can be translated into Ngoni in more than one way, but only one variant is given here.\n\n| English                            | Ngoni                               |\n|------------------------------------|-------------------------------------|\n| 1. Kamau bought a farm for the women. | Kamau aguli vadala mgunda.          |\n| 2. The grandmothers bought a hoe for the grandson. | Vabuya vaguli mjukulu ligela. |\n| 3. The grandsons bought beer for the guest. | Vajukulu vamguli mgeni ugimbi.   |\n| 4. The grandmother bought a knife for Kamau. | Mbuya guli Kamau chipula.     |\n| 5. The guest bought a goat for the grandsons. | Mgeni avaguli mene vajukulu.   |\n| 6. The grandson bought a farm for Zenda. | Mjukulu amguli mgunda Zenda.     |\n| 7. Zenda bought a house for the grandmother. | Zenda amguli mbuya nyumba.     |\n| 8. The guests bought a knife for the woman. | Vageni vamguli chipula mdala.  |\n| 9. Mwangi bought a hoe for the guests. | Mwangi avaguli vageni ligela.    |\n| 10. The women bought a house for Mwangi. | Vadala guli Mwangi nyumba.     |\n\nAssignment. Each of the Ngoni sentences (11a-c) and (12a-c) contains an error. Translate these sentences into English,\n explain what the error is in each case, and then correct it, giving for each example four correct sentences in Ngoni \n that describe the same situation.\n\n11. (a) Mdala guli ugimbi Mwangi.\n\n    (b) Mdala mguli Mwangi ugimbi.\n\n    (c) Mdala aguli ugimbi Mwangi.\n\n12. (a) Kamau vamguli vabuya mene.\n\n    (b) Kamau guli mene vabuya.\n\n    (c) Kamau vaguli vabuya mene.",
+  "answer_format": {
+    "11_translation": {
+      "type": "string"
+    },
+    "11_correct": {
+      "type": "array",
+      "minItems": 4,
+      "maxItems": 4,
+      "items": {
+        "type": "string"
+      }
+    },
+    "11a_error": {
+      "type": "string"
+    },
+    "11b_error": {
+      "type": "string"
+    },
+    "11c_error": {
+      "type": "string"
+    },
+    "12_translation": {
+      "type": "string"
+    },
+    "12_correct": {
+      "type": "array",
+      "minItems": 4,
+      "maxItems": 4,
+      "items": {
+        "type": "string"
+      }
+    },
+    "12a_error": {
+      "type": "string"
+    },
+    "12b_error": {
+      "type": "string"
+    },
+    "12c_error": {
+      "type": "string"
+    }
+  }
+}

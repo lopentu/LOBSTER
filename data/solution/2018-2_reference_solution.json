@@ -1,0 +1,33 @@
+{
+  "id": "2018-2",
+  "answer": {
+    "a_1": "Do you_{sg} sleep?",
+    "a_2": "Did he see us?",
+    "a_3": "Do they know you_{pl}?",
+    "a_4": "Do we beat them?",
+    "a_5": "Did we know you_{sg}?",
+    "a_6": "Did we go?",
+    "b_7": "ŋabə nɤ lan tɤʔ ne",
+    "b_8": "tarum kəmə ŋa lapkʰi tʰɤ ne",
+    "b_9": "ati kəmə nɤ cʰam ru ne",
+    "b_10": "nuʔrum ʒip kan ne"
+  },
+  "explanation": {
+    "rules": "Overall Sentence Structure\nThe general word order in a sentence is S-O-V-X-ne.\nS: Subject\nO: Object\nV: Predicate (verb)\nX: A complex particle indicating tense and person.\nne: A particle that marks a question.\n\nSpecial Subject Markers\nThere are specific markers used for the subject in certain cases:\n-bə: This is used when the subject is 1st person singular or 2nd person singular.\nkəmə: This is used when the subject is 3rd person singular or plural.\n\nThe Particle \"X\"\nThe particle \"X\" is composed of two parts: a prefix for tense and direction, and a suffix for person.\n1. Tense and Direction-of-Action Prefixes\nThe prefix changes based on whether the action is in the past or present, and on the direction of the action between the subject and object.\nFor actions directed from the subject to the object (or for intransitive verbs), S to O:\nt- : indicates past tense.\nk- : indicates present tense.\nFor actions directed from the object to the subject, O to S:\ntʰ- : indicates past tense.\nr- : indicates present tense.\n2. Person Suffixes\nThe suffix is chosen based on the person of the participants (subject or object), following a specific hierarchy.\nIf a 1st person participant is involved in the action:\n-ɣ : for 1st person singular.\n-i : for 1st person plural.\nIf no 1st person participant is involved:\n-u : for 2nd person singular.\n-an : for 2nd person plural.\n(Note: If only 3rd person participants are involved, no person suffix is added.)",
+    "rule_checklist": [
+      "The general word order in a sentence is S-O-V-X-ne.",
+      "Special Subject Markers: -bə: This is used when the subject is 1st person singular or 2nd person singular.",
+      "Special Subject Markers: kəmə: This is used when the subject is 3rd person singular or plural.",
+      "The particle \"X\" is composed of two parts: a prefix for tense and direction, and a suffix for person.",
+      "Tense and Direction-of-Action Prefixes: For actions directed from the subject to the object (or for intransitive verbs), S to O: t- : indicates past tense.",
+      "Tense and Direction-of-Action Prefixes: For actions directed from the subject to the object (or for intransitive verbs), S to O: k- : indicates present tense.",
+      "Tense and Direction-of-Action Prefixes: For actions directed from the object to the subject, O to S: tʰ- : indicates past tense.",
+      "Tense and Direction-of-Action Prefixes: For actions directed from the object to the subject, O to S: r- : indicates present tense.",
+      "Person Suffixes: If a 1st person participant is involved in the action: -ɣ : for 1st person singular.",
+      "Person Suffixes: If a 1st person participant is involved in the action: -i : for 1st person plural.",
+      "Person Suffixes: If no 1st person participant is involved: -u : for 2nd person singular.",
+      "Person Suffixes: If no 1st person participant is involved: -an : for 2nd person plural.",
+      "Person Suffixes: If only 3rd person participants are involved, no person suffix is added."
+    ]
+  }
+}

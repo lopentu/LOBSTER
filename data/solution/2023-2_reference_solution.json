@@ -1,0 +1,38 @@
+{
+  "id": "2023-2",
+  "answer": {
+    "a_17": "She remembered the woman.",
+    "a_18": "I ate the banana.",
+    "a_19": "You_{sg} gave the man’s house to him.",
+    "b_20_explanation": "<fuzzy>There are two equivalent ways to construct a sentence:\n1. Subject + Verb + Direct Object + Indirect Object.\n2. Direct Object + (Subject as a prefix)-Verb + Indirect Object.\nThe sentence is incorrect because  it does not conform to either pattern. It uses the word order with subject in the beginning as a standalone word, but it marks the subject as a prefix (u-) to the verb (mynary).",
+    "b_20_correct_apurina": "<select2,2,2>['uwa mynary kanawa ximakymukary', 'kanawa umynary ximakymukary']",
+    "b_20_translation": "She brought the canoe to the fish (sg)",
+    "c_21_translation": "<select2,2,2>['aiku papukary', 'pita apukary aiku']",
+    "c_22_translation": "<select2,2,2>['pykanawate nymynaru hãtakurumukary', 'nuta mynaru pykanawate hãtakurumukary']",
+    "c_23_translation": "<select2,2,2>['pĩpurããte ymynanu nutamukary', 'ywa mynanu pĩpurããte nutamukary']",
+    "c_24_translation": "<select2,2,2>['hãtakuru herẽka ãtary kyky', 'kyky ãtary hãtakuru herẽka']",
+    "c_25_translation": "<select2,2,2>['ukĩtxi nhixinhikary', 'nuta xinhikary ukĩtxi']",
+    "c_26_translation": "<select2,2,2>['nhitxiparyte pinhikary', 'pita nhikary nhitxiparyte']"
+  },
+  "explanation": {
+    "rules": "Word order: \n– S V DO (IO) ≡ DO sV (IO) (S(noun)) \n(S = subject; V = predicate (verb); DO = direct object; IO = indirect object [-mokaru]) \n– possessor possessed\n\n1st person sg:\npossessor = subject: n(I)-\nDO (¬∃IO):-nu\n2nd person sg:\npossessor = subject: p(I)-\nDO (¬∃IO):\n3rd person sg (m):\npossessor = subject: (I)-\nDO (¬∃IO):-ry\n3rd person sg (f):\npossessor = subject: u-\nDO (¬∃IO):-ru\n\n(I)-= i when __{nh, tx, x} i\n(I)-= y when __C\n(I)-= ø when __V\n\nn > nh | i\n\nbody part ¬ possessed -txi (-y > -ĩ | -txi)\n(noun) possessed -te",
+    "rule_checklist": [
+      "Word order: – S V DO (IO) ≡ DO sV (IO) (S(noun))",
+      "Word order: – possessor possessed",
+      "1st person sg: possessor = subject: n(I)-",
+      "1st person sg: DO (¬∃IO):-nu",
+      "2nd person sg: possessor = subject: p(I)-",
+      "2nd person sg: DO (¬∃IO):",
+      "3rd person sg (m): possessor = subject: (I)-",
+      "3rd person sg (m): DO (¬∃IO):-ry",
+      "3rd person sg (f): possessor = subject: u-",
+      "3rd person sg (f): DO (¬∃IO):-ru",
+      "(I)-= i when __{nh, tx, x} i",
+      "(I)-= y when __C",
+      "(I)-= ø when __V",
+      "n > nh | i",
+      "body part ¬ possessed -txi (-y > -ĩ | -txi)",
+      "(noun) possessed -te"
+    ]
+  }
+}

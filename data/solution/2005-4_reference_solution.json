@@ -1,0 +1,23 @@
+{
+  "id": "2005-4",
+  "answer": {
+    "assignment1_14": "<select1,1,1>['the price of the axe', 'the money of the axe']",
+    "assignment1_15": "<select1,1,1>['the vicinity of the city', 'near the city']",
+    "assignment1_16": "the mother's husband",
+    "assignment1_17": "the stranger's dog",
+    "assignment2_18": "[orí igi]",
+    "assignment2_19": "[ìlá àjɛ́]",
+    "assignment2_20": "[ìlé èfɛ́]",
+    "assignment2_21": "[àkɔ́ ɔkɔ]"
+  },
+  "explanation": {
+    "rules": "The modifier (the possessor) follows the head (the possessed) in the Yoruba phrases. \nIf the second word begins with i, this sound assimilates to the final vowel of the first word,\nwhatever it is; if the second word does not begin with i but rather with another vowel (a, s, e, o, ɔ), the final vowel of the first word assimilates to this sound. \nAll tones remain intact.\n(No word ever begins with u in Standard Yoruba; in those dialects where initial u does occur, however, it behaves exactly as i.)",
+    "rule_checklist": [
+      "The modifier (the possessor) follows the head (the possessed) in the Yoruba phrases.",
+      "If the second word begins with i, this sound assimilates to the final vowel of the first word, whatever it is.",
+      "If the second word does not begin with i but rather with another vowel (a, s, e, o, \", the final vowel of the first word assimilates to this sound.",
+      "All tones remain intact.",
+      "No word ever begins with u in Standard Yoruba; in those dialects where initial u does occur, however, it behaves exactly as i."
+    ]
+  }
+}

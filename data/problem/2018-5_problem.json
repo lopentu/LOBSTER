@@ -1,0 +1,82 @@
+{
+  "id": "2018-5",
+  "title": "Problem 5",
+  "content": "Below three Akan men who belong to one family introduce themselves and some members of their family (see the family tree):\n\n1. Yɛfrɛ me Enu. Yɛfrɛ me banom Thema ne Yaw ne Ama. Yɛfrɛ me yere Kunto. Yɛfrɛ me nuanom Awotwi ne Nsia. Yɛfrɛ me wɔfaase Berko.\n\n2. Yɛfrɛ me Kofi. Yɛfrɛ me nua Esi. Yɛfrɛ me agya Ofori. Yɛfrɛ me sewaanom Dubaku ne Kunto. Yɛfrɛ me sewaabanom Yaw ne Ama ne Kobina.\n\n3. Yɛfrɛ me Kobina. Yɛfrɛ me ɛnanom Dubaku ne Kunto. Yɛfrɛ me nuanom Yaw ne Ama. Yɛfrɛ me wɔfa Ofori. Yɛfrɛ me yere Efua.\n\n(a) Supply the family tree with names.\n\nFamily tree:\n- Man 1, Woman 1, Woman 2 are siblings.\n- Man 2, Man 3, Woman 3 are siblings. \n- Woman 3 is Awotwi\n- Man 1 has 2 children:\n    - Woman 4 and Man 4\n- Woman 1 has 1 child:\n    - Man 5, who marries woman 6\n- Woman 2 and Man 2 marry and have two children:\n\t- Man 6 and Woman 6\n- Man 3 has 1 child:\n    - Woman 7\n- Woman 3 has 1 child:\n    - Man 7\n\n(b) Here are some more statements by two other men from this family:\n\n1. Yɛfrɛ me Yaw. Yɛfrɛ me ɛnanom ___. Yɛfrɛ me ___ Nsia ne ___. Yɛfrɛ me nuanom Thema ne ___. Yɛfrɛ me ___  Awotwi. Yɛfrɛ me ___ Ofori. Yɛfrɛ me ___ Esi ne ___. Yɛfrɛ me ___ Berko.\n\n2. Yɛfrɛ me ___. Yɛfrɛ me banom Kofi ne ___. Yɛfrɛ me ___ Yaw ne ___. Yɛfrɛ me ___ Kunto ne ___\n\nFill in the gaps. (Some gaps contain more than one word.)",
+  "answer_format": {
+    "a_Man_1": {
+      "type": "string"
+    },
+    "a_Woman_1": {
+      "type": "string"
+    },
+    "a_Woman_2": {
+      "type": "string"
+    },
+    "a_Man_2": {
+      "type": "string"
+    },
+    "a_Man_3": {
+      "type": "string"
+    },
+    "a_Woman_3": {
+      "type": "string"
+    },
+    "a_Woman_4": {
+      "type": "string"
+    },
+    "a_Man_4": {
+      "type": "string"
+    },
+    "a_Man_5": {
+      "type": "string"
+    },
+    "a_Man_6": {
+      "type": "string"
+    },
+    "a_Woman_6": {
+      "type": "string"
+    },
+    "a_Woman_7": {
+      "type": "string"
+    },
+    "a_Man_7": {
+      "type": "string"
+    },
+    "a_Man_5s_wife": {
+      "type": "string"
+    },
+    "b_1_gap_1": {
+      "type": "string"
+    },
+    "b_1_gap_2": {
+      "type": "string"
+    },
+    "b_1_gap_3": {
+      "type": "string"
+    },
+    "b_1_gap_4": {
+      "type": "string"
+    },
+    "b_1_gap_5": {
+      "type": "string"
+    },
+    "b_1_gap_6": {
+      "type": "string"
+    },
+    "b_1_gap_7": {
+      "type": "string"
+    },
+    "b_2_gap_1": {
+      "type": "string"
+    },
+    "b_2_gap_2": {
+      "type": "string"
+    },
+    "b_2_gap_3": {
+      "type": "string"
+    },
+    "b_2_gap_4": {
+      "type": "string"
+    }
+  }
+}

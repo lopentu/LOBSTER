@@ -1,0 +1,61 @@
+{
+  "id": "2017-1",
+  "title": "Problem 1",
+  "content": "### Problem 1\n\n(20 points)\n\nHere are some arithmetic equalities in Birom:\n\n1. tùŋūn ^ 2 + tàt + nààs = bākūrū bībā ná vɛ̀ rwīīt\n2. tàt ^ nààs = bākūrū bītīīmìn ná vɛ̀ ʃāātàt\n3. tàāmà ^ 2 + ʃāātàt + gwīnìŋ = bākūrū bīnāās ná vɛ̀ ʃāāgwīnìŋ\n4. ʃāātàt ^ gwīnìŋ = ʃāātàt\n5. rwīīt ^ 2 + bà + tùŋūn = bākūrū bītūŋūn ná vɛ̀ ʃāāgwīnìŋ\n6. bà ^ tùŋūn = bākūrū bībā ná vɛ̀ rwīīt\n7. ʃāātàt ^ 2 + nààs + tàt = bākūrū bītāāmà ná vɛ̀ nààs\n8. nààs ^ tàt = bākūrū bītūŋūn ná vɛ̀ nààs\n9. kūrū ná vɛ̀ nààs + kūrū ná vɛ̀ ʃāātàt = kūrū ná vɛ̀ tìīmìn + bà + kūrū ná vɛ̀ tùŋūn\n\nAll numbers in this problem are greater than 0 and less than 125.\n\n(a) Write the equalities (1–9) in numerals.\n\n(b) Write the numbers bākūrū bītāt, ʃāāgwīnìŋ, kūrū and the equalities (A) and (B) in numerals.\n\nA. bākūrū ʃāābītāt − tàt − kūrū ná gwɛ̄ gwīnìŋ = bākūrū bītāāmà ná vɛ̀ rwīīt  \nB. bākūrū bīnāās ná gwɛ̄ gwīnìŋ − kūrū ná vɛ̀ bà − kūrū ná vɛ̀ tàt = kūrū ná vɛ̀ rwīīt\n\n(c) Write out in Birom: 6, 22, 97, 120.\n\n△! Birom belongs to the Plateau group of the Benue-Congo branch of the Atlantic-Congo family. It is spoken by approx. 1,000,000 people in Nigeria.\nɛ is a vowel. ŋ and ʃ are consonants. The doubling of a vowel denotes length. The marks ˊ, ˉ and ˋ indicate high, middle, and low tone, respectively.\nak = a × a × · · · × a; a = a. —Milena Veneva\n* * *\n\n---",
+  "answer_format": {
+    "a_1": {
+      "type": "string"
+    },
+    "a_2": {
+      "type": "string"
+    },
+    "a_3": {
+      "type": "string"
+    },
+    "a_4": {
+      "type": "string"
+    },
+    "a_5": {
+      "type": "string"
+    },
+    "a_6": {
+      "type": "string"
+    },
+    "a_7": {
+      "type": "string"
+    },
+    "a_8": {
+      "type": "string"
+    },
+    "a_9": {
+      "type": "string"
+    },
+    "b_bākūrū_bītāt": {
+      "type": "string"
+    },
+    "b_ʃāāgwīnìŋ": {
+      "type": "string"
+    },
+    "b_kūrū": {
+      "type": "string"
+    },
+    "b_equality_A": {
+      "type": "string"
+    },
+    "b_equality_B": {
+      "type": "string"
+    },
+    "c_6": {
+      "type": "string"
+    },
+    "c_22": {
+      "type": "string"
+    },
+    "c_97": {
+      "type": "string"
+    },
+    "c_120": {
+      "type": "string"
+    }
+  }
+}

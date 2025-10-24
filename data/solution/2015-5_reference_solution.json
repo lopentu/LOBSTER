@@ -1,0 +1,25 @@
+{
+  "id": "2015-5",
+  "answer": {
+    "a": "<fuzzy>(o)oo oo o oo oo\n(o)O O o O O\no = V (a,e,i,o,u)\nO = VV (aa,ee,ii,oo,uu)",
+    "b_36": "×",
+    "b_37": "√",
+    "b_38": "√",
+    "b_39": "×",
+    "b_40": "√",
+    "b_41": "√",
+    "b_42": "×",
+    "b_43": "×",
+    "b_44": "×",
+    "b_45": "√"
+  },
+  "explanation": {
+    "rules": "Rules:\n(o)◦◦ ◦◦ o ◦◦ ◦◦\n(o)O  O o O  O\no = V  (a e i o u)\n◦◦= VV (aa ee ii oo uu)",
+    "rule_checklist": [
+      "(o)◦◦ ◦◦ o ◦◦ ◦◦",
+      "(o)O  O o O  O",
+      "o = V  (a e i o u)",
+      "◦◦= VV (aa ee ii oo uu)"
+    ]
+  }
+}

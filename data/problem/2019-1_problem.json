@@ -1,0 +1,37 @@
+{
+  "id": "2019-1",
+  "title": "Problem 1",
+  "content": "### Problem 1\n\n(20 points)\n\nHere are some sentences in Yonggom and their English translations:\n\n1. Meneni karuwa anona wedmaan.  \nI came and saw the man and the dog.\n\n2. Wingkeewa yeediriin.  \nYou(sg) sing and I get up.\n\n3. Ambib wedmoona awon baan.  \nHe saw the house and I took the pig.\n\n4. Yeederenu om banuun.  \nShe will get up and will take the bread.\n\n5. Wenenub wingkanuub.  \nWe will go away and will sing.\n\n6. Oma oka aniib.  \nThey eat the bread and drink the water.\n\n7. Anon ye weng wengambaranuuwa awon ye weng wengambaraneen.  \nWe will hear the dog and he will hear the pig.\n\n8. Ok anaana oon wedmeen.  \nI drank the water and she saw the fish.\n\n9. Yeederenib miniib.  \nThey get up and come.\n\n10. Wingkenu wunuun.  \nShe sings and goes away.\n\n11. Om bene aneen.  \nHe takes the bread and eats it.\n\n(a) Translate into English:\n\n12. Om benu aneen.  \n13. Munuuna wunuub.  \n14. Wingkiiwa wengamburuun.  \n15. Anon ye weng wengamberenib yeedaraniib.  \n16. Oon wedmaniina karub wedmaneeb.  \n17. Ok wedmeena aniin.  \n\n(b) Translate into Yonggom:\n\n18. We will go away and they will come.  \n19. I take the pig and he takes the fish.  \n20. He saw the water and the house and heard the dog.  \n21. You(sg) eat the bread and sing.  \n\n△! Yonggom belongs to the Ok group of the Trans-New Guinea family. It is spoken by approx. 6,000 people in Papua New Guinea. —Ivan Derzhanski\n\n---",
+  "answer_format": {
+    "a_12": {
+      "type": "string"
+    },
+    "a_13": {
+      "type": "string"
+    },
+    "a_14": {
+      "type": "string"
+    },
+    "a_15": {
+      "type": "string"
+    },
+    "a_16": {
+      "type": "string"
+    },
+    "a_17": {
+      "type": "string"
+    },
+    "b_18": {
+      "type": "string"
+    },
+    "b_19": {
+      "type": "string"
+    },
+    "b_20": {
+      "type": "string"
+    },
+    "b_21": {
+      "type": "string"
+    }
+  }
+}

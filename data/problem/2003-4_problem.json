@@ -1,0 +1,36 @@
+{
+  "id": "2003-4",
+  "title": "Problem 4",
+  "content": "Several sentences in Adyghe are written in a simplified romanisation and accompanied by their English translations:\n\n1. śangćyr hakum deʁəuco. He puts the kettle into the stove.\n2. syda laʁəm tyriʒərər? What does he throw onto the plate?\n3. aχśər pχuantym tyreʁafə. He drops the money onto the chest.\n4. śywanyr ʔanym tyreʁəuco. He puts the cauldron onto the table.\n5. syda pχənt’ak’um ć’iʁafərər? What does he drop under the stool?\n6. laʁər tyda zyć’iʁəucorər? Where does he put the plate?\n7. laʁər tyda zytyriʒərər? Where does he throw the plate?\n\n**Assignment 1.** Offer more precise translations of sentences 6 and 7 (even if they don’t sound quite so natural in English).\n**Assignment 2.** Translate into English:\n8. pχənt’ək’ur hakum deʒə.\n9. aχśər tyda zyduvafərər?\n\n**Assignment 3.** Translate into Adyghe:\n10. He puts the plate under the kettle.\n11. What does he throw under the chest?\n12. What does he drop into the cauldron?\n\n**Assignment 4.** Translate into Adyghe in all possible ways:\n13. Where does he put the table?\n\n**Note:** The letters ć, ć’, k’, ʁ, ś, t’, χ, ʒ, ʔ are specific consonants, and ə and y are vowels of the Adyghe language. (Yakov Testelets)",
+  "answer_format": {
+    "assignment1_6": {
+      "type": "string"
+    },
+    "assignment1_7": {
+      "type": "string"
+    },
+    "assignment2_8": {
+      "type": "string"
+    },
+    "assignment2_9": {
+      "type": "string"
+    },
+    "assignment3_10": {
+      "type": "string"
+    },
+    "assignment3_11": {
+      "type": "string"
+    },
+    "assignment3_12": {
+      "type": "string"
+    },
+    "assignment4_13": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 20,
+      "items": {
+        "type": "string"
+      }
+    }
+  }
+}

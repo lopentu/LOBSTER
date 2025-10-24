@@ -1,0 +1,50 @@
+{
+  "id": "2007-3",
+  "answer": {
+    "correspondence_vtkvi": "I said",
+    "correspondence_kenit": "you (pl.) did",
+    "correspondence_inadiret": "you (pl.) hunted",
+    "correspondence_itavmGdomareve": "you chaired",
+    "correspondence_vsadilobt": "we dine",
+    "correspondence_tkvi": "you said",
+    "correspondence_vigoreb": "I will roll",
+    "correspondence_vkeni": "I did",
+    "correspondence_nadirob": "you hunt",
+    "correspondence_visadileb": "I will dine",
+    "correspondence_vinadire": "I hunted",
+    "correspondence_ambob": "you say",
+    "correspondence_vitavmGdomareve": "I chaired",
+    "correspondence_izamt": "you (pl.) will do",
+    "correspondence_vivlit": "we will walk",
+    "if_you_find_more_than_one_solution_possible_explain_why_you_think_your_solution_is_more_plausible": "From the given words, (v)-tkvi and (v)-itavmGdomarev-e may either be ‘I/you presided’ and ‘I/you said’. We can’t be sure what is what, but common sense suggests that the more common concept should be expressed in a more compact way."
+  },
+  "explanation": {
+    "rules": "We break the Georgian words into their components. \nWe derive the suffixes -e and -ob by comparing vinadire and nadirob, and the suffix -eb by contrasting visadileb and vsadilob. \nWe can’t tell if -ob is contained in ambob, -eb in vigoreb, or -e in (v)itavmGdomareve, because we have nothing to compare these forms to. \nAlso we don’t know if the word izam-t contains a suffix. \nWe shall assume that all initial v- and i- are prefixes.\nWe analyse the translations as well. \nThere are 9 Georgian roots but only 7 English ones, meaning that some Georgian verbs have two or even three different roots (cf. go and went in English).\nHow are the person/number of the subject expressed? \nLet us count: ‘I’ occurs 6 times, ‘you’ 4 times, ‘we’ 2 times, ‘you (pl.)’ 3 times. \nThis must correspond to some combination of prefixes and suffixes. \nIt turns out that the combination of the first prefix and the last suffix serves our purpose: v+0, 0+0, v+t, 0+t occur exactly that many times. (From this it follows that in Georgian the subject person/number markers are constructed of markers of 1st/2nd person and singular/plural number.) \nSo the problem is divided into four smaller ones. \nWe can identify two pairs instanty: vigoreb ‘I will roll’, vivlit ‘we will walk’; hence vsadilobt ‘we dine’ and visadileb ‘I will dine’ follow also. \nWe are done with ‘we’.\nWe have forms with the root nadir in all three remaining persons/numbers; this must be ‘hunt’. \nThe roots keni and zam mean ‘do’, consequently vkeni is ‘I did’. \nAssuming that tense is marked in the same way in different persons/numbers, we also compute kenit ‘you (pl.) did’ and izamt ‘you (pl.) will do’.\nMost likely the form ambob, which bears the least similarity to the others, means ‘you say’, since no other present tense forms remain. \nWe are left with (v)-tkvi and (v)-itavmGdomarev-e for ‘I/you presided’ and ‘I/you said’. \nWe can’t be sure what is what, but common sense suggests that the more common concept should be expressed in a more compact way. \nThe problem has been solved.\nWhat did we learn about the tense markers? \nIt turns out that the present tense has the suffix -ob and the future has the prefix i-. \nWe have two groups of verbs: weak verbs with the same prefix i- in the past and the suffixes -e in the past and -eb in the future; strong verbs with no suffixes in these two tenses and with different roots for different tenses.",
+    "rule_checklist": [
+      "We break the Georgian words into their components.",
+      "We derive the suffixes -e and -ob by comparing vinadire and nadirob, and the suffix -eb by contrasting visadileb and vsadilob.",
+      "We can’t tell if -ob is contained in ambob, -eb in vigoreb, or -e in (v)itavmGdomareve, because we have nothing to compare these forms to.",
+      "Also we don’t know if the word izam-t contains a suffix.",
+      "We shall assume that all initial v- and i- are prefixes.",
+      "We analyse the translations as well.",
+      "There are 9 Georgian roots but only 7 English ones, meaning that some Georgian verbs have two or even three different roots (cf. go and went in English).",
+      "How are the person/number of the subject expressed?",
+      "Let us count: ‘I’ occurs 6 times, ‘you’ 4 times, ‘we’ 2 times, ‘you (pl.)’ 3 times.",
+      "This must correspond to some combination of prefixes and suffixes.",
+      "It turns out that the combination of the first prefix and the last suffix serves our purpose: v+0, 0+0, v+t, 0+t occur exactly that many times. (From this it follows that in Georgian the subject person/number markers are constructed of markers of 1st/2nd person and singular/plural number.)",
+      "So the problem is divided into four smaller ones.",
+      "We can identify two pairs instanty: vigoreb ‘I will roll’, vivlit ‘we will walk’; hence vsadilobt ‘we dine’ and visadileb ‘I will dine’ follow also.",
+      "We are done with ‘we’.",
+      "We have forms with the root nadir in all three remaining persons/numbers; this must be ‘hunt’.",
+      "The roots keni and zam mean ‘do’, consequently vkeni is ‘I did’.",
+      "Assuming that tense is marked in the same way in different persons/numbers, we also compute kenit ‘you (pl.) did’ and izamt ‘you (pl.) will do’.",
+      "Most likely the form ambob, which bears the least similarity to the others, means ‘you say’, since no other present tense forms remain.",
+      "We are left with (v)-tkvi and (v)-itavmGdomarev-e for ‘I/you presided’ and ‘I/you said’.",
+      "We can’t be sure what is what, but common sense suggests that the more common concept should be expressed in a more compact way.",
+      "The problem has been solved.",
+      "What did we learn about the tense markers?",
+      "It turns out that the present tense has the suffix -ob and the future has the prefix i-.",
+      "We have two groups of verbs: weak verbs with the same prefix i- in the past and the suffixes -e in the past and -eb in the future; strong verbs with no suffixes in these two tenses and with different roots for different tenses."
+    ]
+  }
+}

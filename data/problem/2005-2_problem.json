@@ -1,0 +1,40 @@
+{
+  "id": "2005-2",
+  "title": "Problem 2",
+  "content": "### Problem 2\n\n(20 marks)\n\nSeveral Lango words and phrases are given with their unordered translations:\n\n- **dyè  ɔ̀t**\n- **dyè tyɛ̀n**\n- **gìn**\n- **gìn wìc**\n- **ɲíg**\n- **ɲíg waŋ**\n- ** ɔ̀t cɛ̀m**\n- **wìc ɔ̀t**\n\n**Translations:**\n\n- eyeball\n- grain\n- roof\n- garment\n- floor\n- restaurant\n- sole of foot\n- hat\n\n-Assignment 1: Pair up the words with their correct translations.\n\n-Assignment 2: Translate into English:\n\n- **cɛ̀m**\n- **dyè**\n\n-Assignment 3: Translate into Lango:\n\n- window\n\n*Note: n and y are specific consonants, ɔ and ɛ are specific vowels of the Lango language. The marks “´” and “`” indicate tones (a higher or lower level of the voice during the pronunciation of the syllable).*  \n*Lango belongs to the Nilotic branch of the Eastern Sudanic language family and is spoken by more than 900,000 people in Uganda.*",
+  "answer_format": {
+    "dyè_ɔ̀t": {
+      "type": "string"
+    },
+    "dyè_tyɛ̀n": {
+      "type": "string"
+    },
+    "gìn": {
+      "type": "string"
+    },
+    "gìn_wìc": {
+      "type": "string"
+    },
+    "ɲíg": {
+      "type": "string"
+    },
+    "ɲíg_wàŋ": {
+      "type": "string"
+    },
+    "ɔ̀t_cɛ̀m": {
+      "type": "string"
+    },
+    "wìc_ɔ̀t": {
+      "type": "string"
+    },
+    "cɛ̀m": {
+      "type": "string"
+    },
+    "dyè": {
+      "type": "string"
+    },
+    "window": {
+      "type": "string"
+    }
+  }
+}

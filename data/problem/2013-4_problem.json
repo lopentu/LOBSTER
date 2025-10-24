@@ -1,0 +1,25 @@
+{
+  "id": "2013-4",
+  "title": "Problem 4",
+  "content": "(20 points)\nHere are some sentences in Muna and their English translations:\n\n| Muna                                           | English                           |\n|------------------------------------------------|-----------------------------------|\n| 1. murihino andoandoke dofoni we molo.         | The __Monkey__’s pupils are climbing the mountain. |\n| 2. lambuku nakumodoho.                         | My house will be far.             |\n| 3. lambuhindo lagahi nofanaka.                 | The ants’ houses are warm.        |\n| 4. lagahino damumaa kaleino robhine.           | His ants will eat the woman’s banana. |\n| 5. a dhini nofumaa ndokehiku.                  | The demon is eating my monkeys.   |\n| 6. robhineno naghumoli lambuno adhiadhini.     | His woman will buy the __Demon__’s house. |\n| 7. a kontuhi namanaka.                         | The stones will be warm.          |\n| 8. a robhinehi dakumala we andoandoke.         | The women will go to the __Monkey__.  |\n| 9. a murihi dosuli we lambuhi.                 | The pupils are returning to the houses. |\n| 10. lagahino muriku dokodoho.                  | My pupil’s ants are far.          |\n| 11. adhiadhini nododo molondo.                 | The __Demon__ is cutting their mountain. |\n\n(a) Translate into English:\n12. andoandoke nogholi lagahiku.\n13. a dhinihi dasumuli we murindo robhinehi.\n\n\n(b) Translate into Muna:\n14. The __Ant__ will climb the pupil’s stone.\n15. The ants are going to the __Demon__.\n16. My women’s monkeys will cut my bananas.\n17. The monkey’s mountains are far.\n△! The Muna language belongs to the Austronesian family. It is spoken by approx. 300 000 people in Indonesia.\nThe underlined names belong to characters in stories. —Ksenia Gilyarova",
+  "answer_format": {
+    "a_12": {
+      "type": "string"
+    },
+    "a_13": {
+      "type": "string"
+    },
+    "b_14": {
+      "type": "string"
+    },
+    "b_15": {
+      "type": "string"
+    },
+    "b_16": {
+      "type": "string"
+    },
+    "b_17": {
+      "type": "string"
+    }
+  }
+}

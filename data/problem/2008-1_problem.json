@@ -1,0 +1,34 @@
+{
+  "id": "2008-1",
+  "title": "Problem 1",
+  "content": "(20 points)\nThe following are words of the Micmac language written in the so-called Listuguj orthography, their phonetic transcriptions, and English translations:\n\n| Listuguj             | Phonetic            | English                 |\n|----------------------|---------------------|-------------------------|\n| 1. tmi’gn            | [dəmı̄gən]          | axe                     |\n| 2. an’stawteg        | [anəstawtek]        | unsafe                  |\n| 3. gjiansale’wit     | [əkciansalēwit]    | archangel               |\n| 4. mgumie’jo’tlatl   | [əmkumiējōdəladəl]| to shoe (a horse)       |\n| 5. amqwanji’j        | [amxwanc̄ıc]        | spoon                   |\n| 6. e’jnt             | [ējənt]            | Indian agent            |\n| 7. tplutaqan         | [ətpəludaγan]       | law                     |\n| 8. ge’gwising        | [gēgwisink]        | to lie on the top       |\n| 9. lnu’sgw           | [lənūskw]          | Indian woman            |\n| 10. g’p’ta’q         | [gəbədāx]          | above, overhead         |\n| 11. epsaqtejg        | [epsaxteck]         | stove                   |\n\n(a) Transcribe the following words:\n\n12. gsnqo’qon (foolishness)\n13. tg’poq (spring water)\n14. gmu’jmin (raspberry)\n15. emtoqwatg (to worship)\n16. te’plj (goat)\n\n(b) Write in the Listuguj orthography:\n\n17. [ətpədēsən] (south)\n18. [əmteskəm] (snake)\n19. [alaptək] (to look around)\n20. [gəlamen] (so, therefore)\n\nNB: Micmac is an Algonquian language. It is spoken by approx. 8000 people in Canada.\nIn the transcription [ə] ≈ o in abbot, [c] = ch in church, [j] = j in judge, [x] = ch in Scottish loch, [γ] is the same sound but voiced; [w] shows that the preceding consonant is pronounced with rounded lips. The mark  ̄ denotes vowel length. —Bozhidar Bozhanov",
+  "answer_format": {
+    "a_12": {
+      "type": "string"
+    },
+    "a_13": {
+      "type": "string"
+    },
+    "a_14": {
+      "type": "string"
+    },
+    "a_15": {
+      "type": "string"
+    },
+    "a_16": {
+      "type": "string"
+    },
+    "b_17": {
+      "type": "string"
+    },
+    "b_18": {
+      "type": "string"
+    },
+    "b_19": {
+      "type": "string"
+    },
+    "b_20": {
+      "type": "string"
+    }
+  }
+}

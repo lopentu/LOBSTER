@@ -1,0 +1,34 @@
+{
+  "id": "2022-1",
+  "title": "Problem 1",
+  "content": "(20 points)\n\nHere are some forms of the Ubykh verb to give and their English translations:\n\n1. wəšʼtʷən — we give you_{sg} to him\n2. sawtʷən — you_{sg} give me to them\n3. awəstʷan — I give them to you_{sg} \n4. wəsənatʷən — they give you_{sg} to me\n5. ŝʷəstʷan — I give you_{pl} to him\n6. šʼantʷan — he gives us to them\n7. awəšʼtʷən — we give him to you_{sg} \n8. səŝʷəntʷan — he gives me to you_{pl} \n9. aŝʷəstʷan — I give him to you_{pl} \n\n(a) The last of the nine forms above can actually be translated into English in two ways. What is its other translation?\n\n(b) Translate into English:\n10. ašʼəntʷən\n11. səŝʷtʷan\n12. šʼəwənatʷan\n\n(c) Translate into Ubykh:\n13. they give you_{pl} to me\n14. you_{pl} give him to me\n15. you_{sg} give us to him\n16. we give you_{sg} to them\n17. he gives them to us\n\n△! Ubykh belongs to the Abkhaz–Adyghe family. Until 1864, several tens of thousands of\npeople spoke it in the area of the present-day city of Sochi, Russia. Tevfik Esenç, who was\nconsidered the last fully proficient native speaker of Ubykh, died in Turkey in 1992.\nə is a vowel;šʼ,ŝʷ,tʷare consonants.\n    —Peter Arkadiev\n\n---",
+  "answer_format": {
+    "a": {
+      "type": "string"
+    },
+    "b_10": {
+      "type": "string"
+    },
+    "b_11": {
+      "type": "string"
+    },
+    "b_12": {
+      "type": "string"
+    },
+    "c_13": {
+      "type": "string"
+    },
+    "c_14": {
+      "type": "string"
+    },
+    "c_15": {
+      "type": "string"
+    },
+    "c_16": {
+      "type": "string"
+    },
+    "c_17": {
+      "type": "string"
+    }
+  }
+}

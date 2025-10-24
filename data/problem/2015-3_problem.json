@@ -1,0 +1,82 @@
+{
+  "id": "2015-3",
+  "title": "Problem 3",
+  "content": "### Problem 3\n\n(20 points)\n\nSoundex is an algorithm for coding names. It was developed in the USA in 1918–1922 by Robert C. Russell and Margaret King Odell in order to facilitate searching for similar-sounding surnames. \nIn the middle of the 20th century, Soundex was extensively used in the USA to analyze results of 1890–1920 censuses.\n\nExample:\nFrom the 1910 US Census: Wilson coded to W425\n\nHere is a list of surnames, with the corresponding Soundex codes in arbitrary order. Values in the same row do not neccesary correlate with one another.\nSome characters are missing:\n\n| Surnames            | Soundex Codes     |\n|---------------------|-------------------|\n| Allaway             | S312              |\n| Anderson            | T␣6␣              |\n| Ashcombe            | ␣5␣3              |\n| Buckingham          | C42␣              |\n| Chapman             | T520              || Colquhoun           | L␣42              |\n| Evans               | A536              |\n| Fairwright          | C155              |\n| Kingscott           | ␣623              |\n| Lewis               | S356              |\n| Littlejohns         | ␣252              |\n| Stanmore            | ␣152              |\n| Stubbs              | ␣330              |\n| Tocher              | A251              |\n| Tonks               | A400              |\n| Whytehead           | L2␣0              |\n\n(a) Describe how a Soundex code is produced, step by step.\n\n(b) Match the surnames with the corresponding Soundex codes and restore the omitted characters.\n\n(c) Generate Soundex codes for the following surnames:\nFerguson, Fitzgerald, Hamnett, Keefe, Maxwell, Razey, Shaw, Upfield.\n\n* * *",
+  "answer_format": {
+    "a": {
+      "type": "string"
+    },
+    "b_Allaway": {
+      "type": "string"
+    },
+    "b_Anderson": {
+      "type": "string"
+    },
+    "b_Ashcombe": {
+      "type": "string"
+    },
+    "b_Buckingham": {
+      "type": "string"
+    },
+    "b_Chapman": {
+      "type": "string"
+    },
+    "b_Colquhoun": {
+      "type": "string"
+    },
+    "b_Evans": {
+      "type": "string"
+    },
+    "b_Fairwright": {
+      "type": "string"
+    },
+    "b_Kingscott": {
+      "type": "string"
+    },
+    "b_Lewis": {
+      "type": "string"
+    },
+    "b_Littlejohns": {
+      "type": "string"
+    },
+    "b_Stanmore": {
+      "type": "string"
+    },
+    "b_Stubbs": {
+      "type": "string"
+    },
+    "b_Tocher": {
+      "type": "string"
+    },
+    "b_Tonks": {
+      "type": "string"
+    },
+    "b_Whytehead": {
+      "type": "string"
+    },
+    "c_Ferguson": {
+      "type": "string"
+    },
+    "c_Fitzgerald": {
+      "type": "string"
+    },
+    "c_Hamnett": {
+      "type": "string"
+    },
+    "c_Keefe": {
+      "type": "string"
+    },
+    "c_Maxwell": {
+      "type": "string"
+    },
+    "c_Razey": {
+      "type": "string"
+    },
+    "c_Shaw": {
+      "type": "string"
+    },
+    "c_Upfield": {
+      "type": "string"
+    }
+  }
+}

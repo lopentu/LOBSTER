@@ -1,0 +1,37 @@
+{
+  "id": "2018-1",
+  "answer": {
+    "[ifa]": "[ifá]",
+    "[ifoci]": "[ifóci]",
+    "[nâːnaki]": "[nâːnakí]",
+    "[sâːsakwa]": "[sâːsákwa]",
+    "[aktopa]": "[aktopá]",
+    "[hoktaki]": "[hoktakí]",
+    "[wanayita]": "[wanayitá]",
+    "[awanayita]": "[awanayíta]",
+    "[isiskitoci]": "[isiskitóci]",
+    "[aːtamihoma]": "[aːtamihomá]",
+    "[honantaːki]": "[honantáːki]",
+    "[ilitohtaɬita]": "[ilitohtaɬíta]"
+  },
+  "explanation": {
+    "rules": "Syllable Definitions \nThere are two types of syllables: light and heavy.\nLight Syllable : A light syllable consists of an optional consonant followed by a short vowel.\nFormula: (C)V\nHeavy Syllable : A heavy syllable has one of the following three structures:\nAn optional consonant followed by a long vowel. Formula: (C)V:\nAn optional consonant and a short vowel followed by another consonant (a closed syllable). Formula: (C)VC'\nAn optional consonant and a long vowel followed by another consonant. Formula: (C)V:C'\nIn these formulas, C and C' represent consonants, and V represents a vowel.\n\nWord Structure and Stress Placement Rule\nThe structure of a word is composed of three parts, read from left to right: an initial section, a stressed section, and an optional final syllable.\nWord = (Initial Section) (Stressed Section) [Optional Final Syllable]\n\nInitial Section:\nThis section can be repeated zero or more times at the beginning of a word.\nIt consists of pairs of syllables in one of the following combinations:\nTwo light syllables \nA light syllable followed by a heavy syllable \nTwo heavy syllables \n\nStressed Section:\nThis section carries the primary stress of the word (indicated by the ‘).\nIt must match one of these four patterns:\nA single stressed light syllable\nA pair of light syllables with stress on the second syllable\nA light syllable followed by a stressed heavy syllable\nA single stressed heavy syllable\n\nOptional Final Syllable:\nA word may end with one optional, unstressed light syllable.",
+    "rule_checklist": [
+      "Light Syllable : A light syllable consists of an optional consonant followed by a short vowel. Formula: (C)V",
+      "Heavy Syllable : A heavy syllable has one of the following three structures: An optional consonant followed by a long vowel. Formula: (C)V:",
+      "Heavy Syllable : An optional consonant and a short vowel followed by another consonant (a closed syllable). Formula: (C)VC'",
+      "Heavy Syllable : An optional consonant and a long vowel followed by another consonant. Formula: (C)V:C'",
+      "The structure of a word is composed of three parts, read from left to right: an initial section, a stressed section, and an optional final syllable. Word = (Initial Section) (Stressed Section) [Optional Final Syllable]",
+      "Initial Section: This section can be repeated zero or more times at the beginning of a word.",
+      "Initial Section: It consists of pairs of syllables in one of the following combinations: Two light syllables",
+      "Initial Section: It consists of pairs of syllables in one of the following combinations: A light syllable followed by a heavy syllable",
+      "Initial Section: It consists of pairs of syllables in one of the following combinations: Two heavy syllables",
+      "Stressed Section: This section carries the primary stress of the word (indicated by the ‘).",
+      "Stressed Section: It must match one of these four patterns: A single stressed light syllable",
+      "Stressed Section: It must match one of these four patterns: A pair of light syllables with stress on the second syllable",
+      "Stressed Section: It must match one of these four patterns: A light syllable followed by a stressed heavy syllable",
+      "Stressed Section: It must match one of these four patterns: A single stressed heavy syllable",
+      "Optional Final Syllable: A word may end with one optional, unstressed light syllable."
+    ]
+  }
+}

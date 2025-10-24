@@ -1,0 +1,32 @@
+{
+  "id": "2024-2",
+  "answer": {
+    "a_19": "D",
+    "a_20": "C",
+    "a_21": "B",
+    "a_22": "A",
+    "b_23": "<select1,1,1>['car', 'short lorry']",
+    "b_24": "tall cooking pots",
+    "b_25": "female thief",
+    "b_26": "zebras",
+    "b_27": "<select1,1,1>['(short, thick) tail', 'short, thick tail']",
+    "b_28": "leopards",
+    "c_29": "uphukwama gogogogo",
+    "c_30": "shumukosa dongoko",
+    "c_31": "ruubiitcha puphubii",
+    "c_32": "mu’akoeta uhuyitibee",
+    "c_33": "makuitcha eratibii",
+    "c_34": "wiribiisa pophoko"
+  },
+  "explanation": {
+    "rules": "The possessive phrase follows this pattern: possessed_a-sfx_a-POSS_b possessor_b-sfx_b\n\nMasculine (m)\n    Animals: lion, leopard, flamingo.\n    Objects, body parts: long/thin.\nSuffixes:\n    Singular:\n        Noun suffix (sfx): -ø (none).\n        Possessive marker (POSS): -ma.\n    Plural:\n        Noun suffix (sfx): -bii*.\n        Possessive marker (POSS): -itcha*.\n\nFeminine (f)\n    Animals: zebra, impala, elephant, baboon, giraffe.\n    Objects, body parts: short/thick.\nSuffixes:\n    Singular:\n        Noun suffix (sfx): -ko.\n        Possessive marker (POSS): -sa.\n    Plural:\n        Noun suffix (sfx): -bee.\n        Possessive marker (POSS): -eta.\n\nVowel change for masculine plural endings:\n    Stem vowels e and o change to i and u respectively before a masculine plural ending is added.\n    This change is blocked by an intervening a. For example, in zzokwana-bii.\nSuffix Combination:\n    The sequence of suffixes -bii-itcha becomes -biitcha.",
+    "rule_checklist": [
+      "The possessive phrase follows this pattern: possessed_a-sfx_a-POSS_b possessor_b-sfx_b",
+      "Masculine (m) Animals: lion, leopard, flamingo. Objects, body parts: long/thin. Suffixes: Singular: Noun suffix (sfx): -ø (none). Possessive marker (POSS): -ma. Plural: Noun suffix (sfx): -bii*. Possessive marker (POSS): -itcha*.",
+      "Feminine (f) Animals: zebra, impala, elephant, baboon, giraffe. Objects, body parts: short/thick. Suffixes: Singular: Noun suffix (sfx): -ko. Possessive marker (POSS): -sa. Plural: Noun suffix (sfx): -bee. Possessive marker (POSS): -eta.",
+      "Stem vowels e and o change to i and u respectively before a masculine plural ending is added.",
+      "This change is blocked by an intervening a. For example, in zzokwana-bii.",
+      "The sequence of suffixes -bii-itcha becomes -biitcha."
+    ]
+  }
+}

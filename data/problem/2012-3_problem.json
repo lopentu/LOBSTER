@@ -1,0 +1,67 @@
+{
+  "id": "2012-3",
+  "title": "Problem 3",
+  "content": "### Problem 3\n\n(20 points)\nHere are some sentences in Basque and their English translations:\n\n| Basque                  | English                                      |\n|-------------------------|----------------------------------------------|\n| ahaztu ditut            | I forgot them                                |\n| ahaztu zaizkit          | I forgot them                                |\n| ahaztu zaizu            | you(sg) forgot him                           |\n| hurbildu natzaizue      | I approached you(pl)                         |\n| hurbildu zait           | he approached me                             |\n| lagundu ditugu          | we helped them                               |\n| lagundu dituzu          | you(sg) helped them                          |\n| lagundu dute            | they helped him                              |\n| lagundu nauzue          | you(pl) helped me                            |\n| mintzatu natzaizu       | I talked to you(sg)                          |\n| mintzatu gatzaizkizue   | we talked to you(pl)                         |\n| mintzatu zaizkigu       | they talked to us                            |\n| ukitu ditugu            | we touched them                              |\n| ukitu naute             | they touched me                              |\n\n(a) Determine the correct correspondences:\n- ahaztu ditut: I forgot them\n- ahaztu zaizkit: I forgot them\n- ahaztu zaizu: you(sg) forgot him\n- hurbildu natzaizue: I approached you(pl)\n- hurbildu zait: he approached me\n- lagundu ditugu: we helped them\n- lagundu dituzu: you(sg) helped them\n- lagundu dute: they helped him\n- lagundu nauzue: you(pl) helped me\n- mintzatu natzaizu: I talked to you(sg)\n- mintzatu gatzaizkizue: we talked to you(pl)\n- mintzatu zaizkigu: they talked to us\n- ukitu ditugu: we touched them\n- ukitu naute: they touched me\n\n(b) Translate into Basque:\n- you(sg) touched me\n- they approached me\n\n(c) Translate into English:\n- lagundu dut\n- hurbildu gatzaizkizu\n\n(d) One of the English sentences can be translated into Basque in one more way. Identify this sentence and give the other possible translation.\n- The sentence is \"I forgot them\". Another possible translation: ahaztu zaizkit.\n\n---\n",
+  "answer_format": {
+    "a_ahaztu_ditut": {
+      "type": "string"
+    },
+    "a_ahaztu_zaizkit": {
+      "type": "string"
+    },
+    "a_ahaztu_zaizu": {
+      "type": "string"
+    },
+    "a_hurbildu_natzaizue": {
+      "type": "string"
+    },
+    "a_hurbildu_zait": {
+      "type": "string"
+    },
+    "a_lagundu_ditugu": {
+      "type": "string"
+    },
+    "a_lagundu_dituzu": {
+      "type": "string"
+    },
+    "a_lagundu_dute": {
+      "type": "string"
+    },
+    "a_lagundu_nauzue": {
+      "type": "string"
+    },
+    "a_mintzatu_natzaizu": {
+      "type": "string"
+    },
+    "a_mintzatu_gatzaizkizue": {
+      "type": "string"
+    },
+    "a_mintzatu_zaizkigu": {
+      "type": "string"
+    },
+    "a_ukitu_ditugu": {
+      "type": "string"
+    },
+    "a_ukitu_naute": {
+      "type": "string"
+    },
+    "b_you_touched_me": {
+      "type": "string"
+    },
+    "b_they_approached_me": {
+      "type": "string"
+    },
+    "c_lagundu_dut": {
+      "type": "string"
+    },
+    "c_hurbildu_gatzaizkizu": {
+      "type": "string"
+    },
+    "d_sentence": {
+      "type": "string"
+    },
+    "d_translation": {
+      "type": "string"
+    }
+  }
+}

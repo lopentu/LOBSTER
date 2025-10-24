@@ -1,0 +1,34 @@
+{
+  "id": "2023-4",
+  "title": "Problem 4",
+  "content": "(20 points)\n\nHere are some verb forms in Plains Cree and their English translations:\n\n| Sentence                         | Translation                          |\n|----------------------------------|--------------------------------------|\n| 1. nimawinēskomik                | he challenges me                     |\n| 2. kiwāpamināwāw                 | you_{pl} see me                         |\n| 3. kinakininān                   | you_{sg} stop us, you_{pl} stop us         |\n| 4. nikakwēcimānānak              | we ask them                          |\n| 5. kiwīcihāw                     | you_{sg} help him                       |\n| 6. nikakwēcimānān                | we ask him                           |\n| 7. niwāpamāw                     | I see him                            |\n| 8. kimawinēskomin                | you_{sg} challenge me                   |\n| 9. nimawinēskomikonānak          | they challenge us                    |\n| 10. kikakwēcimik                 | he asks you_{sg}                        |\n| 11. kiwāpamitinān                | we see you_{sg}, we see you_{pl}          |\n| 12. ninakināwak                  | I stop them                          |\n| 13. kiwīcihikowāw                | he helps you_{pl}                      |\n| 14. kinakinikwak                 | they stop you_{sg}                      |\n| 15. kiwāpamāwāwak                | you_{pl}see them                       |\n| 16. kiwīcihitin                  | I help you_{sg}                         |\n\nHere are some more verb forms in Plains Cree and their English translations:\n\n| Sentence                         | Translation                          |\n|----------------------------------|--------------------------------------|\n| 17. ē-nakināyēk                  | as you_{pl}stop him                    |\n| 18. ē-wīcihak                    | as I help him                        |\n| 19. mawinēskomikoyāhkwāwi        | if they challenge us                 |\n| 20. wāpamaci                     | if you_{sg} see him                     |\n| 21. wīcihitako                   | if I help you_{pl}                     |\n\n(a) Translate into English:\n\n22. ē-wāpamikoyēk  \n23. ninakinikonān  \n24. kikakwēcimāwāw  \n25. kiwīcihitināwāw  \n\n(b) Translate into Plains Cree:\n\n26. if we ask them  \n27. they challenge you_{pl} \n28. they help me  \n29. you_{sg} see them  \n30. I stop you_{pl} \n\n!△ The Plains Cree language belongs to the Algonquian branch of the Algic family. It is spoken by approx. 12,000 people in South Saskatchewan and central Alberta in Canada. In this problem we = we without you. w and y are consonants. The mark ̄ indicates that the vowel is long.\n\n—Lidija Stanovnik, Aleksejs Peguševs",
+  "answer_format": {
+    "a_22": {
+      "type": "string"
+    },
+    "a_23": {
+      "type": "string"
+    },
+    "a_24": {
+      "type": "string"
+    },
+    "a_25": {
+      "type": "string"
+    },
+    "b_26": {
+      "type": "string"
+    },
+    "b_27": {
+      "type": "string"
+    },
+    "b_28": {
+      "type": "string"
+    },
+    "b_29": {
+      "type": "string"
+    },
+    "b_30": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "2016-1",
+  "title": "Problem 1",
+  "content": "(20 points)\n\nA linguist came to Salu Leang (Sulawesi) to study the Aralle-Tabulahan language. He visited various hamlets of Salu Leang and asked local residents: Umba laungngola? ‘Where are you going?’\n\nMap of the hamlets of Salu Leang:\nThere are 10 hamlets: Pikung, Panampo, Kota, Sohongang, Kahangang, Bulung, Kombeng, Tamonseng, Pahihuang, and Palempang.\n\nPikung is at height 0, and connects to Panampo by roads.\nPanampo is at height 3, and connects to Pikung and Kota by roads.\nKota is at height 3, by the river, and connects to Panampo, Kahangang and Sohongang by roads.\nKahangang is at height 3, by the river, and connects to Kota and Pahihuang by roads.\nPahihuang is at height 5, and connects to Kahangang, Palempang, and Tamonseng by roads.\nPalempang is at height 7, and connects to Pahihuang by roads.\nTamonseng is at height 5, and connects to Pahihuang, Kombeng, and Bulung by roads.\nKombeng is at height 9, and connects to Tamonseng and Bulung by roads.\nBulung is at height 3, by the river and connects to Kombeng, Tamonseng and Sohongang by roads.\nSohongang is at height 3, by the river and connects to Kota and Bulung by roads.\n\nFor the four hamlets by the river, it is Hahangang, Kota, Sohongang and Bulung from upstream to downstream.\n\nPikung, Panampo, Kota, Sohongang and Kahangang are on the one side of the river, while Pahihuang, Palempang, Tamonseng, Kombeng, Bulung are on the other.\n\nBelow are the answers he got. There are gaps in some of them.\n\n- In Kahangang hamlet:\n\n  - Lamaoä’ bete’ di Bulung.\n  - Lamaoä’ sau di Kota.\n  - Lamaoä’ _______ di Palempang.\n\n- In Kombeng hamlet:\n\n  - Lamaoä’ pano di Pahihuang.\n  - Lamaoä’ tama di Sohongang.\n  - Lamaoä’ naung di Tamonseng.\n  - Lamaoä’ _______ di Palempang.\n\n- In Kota hamlet:\n\n  - Lamaoä’ dai’ di Kombeng.\n  - Lamaoä’ dai’ di Palempang.\n  - Lamaoä’ naung di Pikung.\n  - Lamaoä’ _______ di Bulung.\n  - Lamaoä’ _______ di Sohongang.\n\n- In Palempang hamlet:\n\n  - Lamaoä’ bete’ di Kahangang.\n  - Lamaoä’ dai’ di Kombeng.\n  - Lamaoä’ pano di Panampo.\n  - Lamaoä’ sau di Sohongang.\n  - Lamaoä’ _______ di Bulung.\n  - Lamaoä’ _______ di Kota.\n  - Lamaoä’ _______ di Pahihuang.\n\n- In Pahihuang hamlet:\n\n  - Lamaoä’ naung di Bulung.\n  - Lamaoä’ naung di Pikung.\n\n- In Bulung hamlet:\n\n  - Lamaoä’ pano di Pahihuang.\n  - Lamaoä’ pano di Panampo.\n  - Lamaoä’ _______ di Kota.\n  - Lamaoä’ _______ di Pikung.\n\n- In Panampo hamlet:\n\n  - Lamaoä’ tama di Kahangang.\n  - Lamaoä’ pano di Tamonseng.\n  - Lamaoä’ _______ di Kota.\n\n- In Pikung hamlet:\n\n  - Lamaoä’ pano di Kota.\n  - Lamaoä’ dai’ di Pahihuang.\n  - Lamaoä’ sau di Sohongang.\n  - Lamaoä’ _______ di Bulung.\n  - Lamaoä’ _______ di Kahangang.\n  - Lamaoä’ _______ di Panampo.\n\n- In Sohongang hamlet:\n\n  - Lamaoä’ bete’ di Bulung.\n  - Lamaoä’ tama di Kahangang.\n  - Lamaoä’ tama di Kota.\n  - Lamaoä’ dai’ di Pahihuang.\n\n- In Tamonseng hamlet:\n\n  - Lamaoä’ pano di Pahihuang.\n  - Lamaoä’ pano di Panampo.\n  - Lamaoä’ _______ di Kahangang.\n  - Lamaoä’ _______ di Palempang.\n\nFill in the gaps.",
+  "answer_format": {
+    "Kahangang_1": {
+      "type": "string"
+    },
+    "Kombeng_2": {
+      "type": "string"
+    },
+    "Kota_3": {
+      "type": "string"
+    },
+    "Kota_4": {
+      "type": "string"
+    },
+    "Palempang_5": {
+      "type": "string"
+    },
+    "Palempang_6": {
+      "type": "string"
+    },
+    "Palempang_7": {
+      "type": "string"
+    },
+    "Bulung_8": {
+      "type": "string"
+    },
+    "Bulung_9": {
+      "type": "string"
+    },
+    "Panampo_10": {
+      "type": "string"
+    },
+    "Pikung_11": {
+      "type": "string"
+    },
+    "Pikung_12": {
+      "type": "string"
+    },
+    "Pikung_13": {
+      "type": "string"
+    },
+    "Tamonseng_14": {
+      "type": "string"
+    },
+    "Tamonseng_15": {
+      "type": "string"
+    }
+  }
+}

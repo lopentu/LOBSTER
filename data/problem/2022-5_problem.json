@@ -1,0 +1,64 @@
+{
+  "id": "2022-5",
+  "title": "Problem 5",
+  "content": "### Problem 5\n\n(20 points)\n\nProto-Chamic is the theorized common ancestor of all the languages in the Chamic group within the Austronesian family. It was reconstructed by linguists by comparing its many present-day descendants, among which are Phan Rang Cham and Tsat. Here are some words in Proto-Chamic, Phan Rang Cham and Tsat, and their meanings:\n\n| Proto-Chamic | Phan Rang Cham | Tsat   | Meaning           |\n|--------------|----------------|--------|-------------------|\n| *ʔikaːn      | ikan           | kaːn³³ | fish              |\n| *dikiʔ       | takiʔ          | kiʔ⁴²  | few               |\n| *dilah       | talàh          | la⁵⁵   | tongue            |\n| *jalaːn      | calàn          | laːn¹¹ | road              |\n| *lima        | limɨ           | ma³³   | 5                 |\n| *lanah       | linɨh          | na⁵⁵   | pus               |\n| *dua lapan   |  tàlipan       | paːnʔ⁴²| 8                 |\n| *labaːt      | lipàʔ          | phaːʔ⁴²| to walk           |\n| *bara        | pirà           | phia¹¹ | shoulder          |\n| *bahrow      | piròw          | phiə¹¹ | new               |\n| *bulow       | pilòw          | phiə¹¹ | body hair         |\n| *paley       | paley          | piai³³ | village           |\n| *masam       | mɨtham         | saːnʔ⁴²| vinegar           |\n| *basah       | pathah         | sa⁵⁵   | wet               |\n| *bəsey       | pathey         | sai¹¹  | iron              |\n| *mata        | mɨta           | ta³³   | eye               |\n| *rataːk      | rataʔ          | taːʔ²⁴ | beans             |\n| *hatay       | hatay          | taːiʔ⁴²| liver             |\n| *paday       | patày          | thaːiʔ⁴²| paddy rice       |\n| *padam       | patàm          | thaːnʔ⁴²| to extinguish     |\n| *ʔiduŋ       | itùng          | thuŋ¹¹ | nose              |\n| *batuk       | patuʔ          | tuʔ⁴²  | to cough          |\n| *maray       | mɨray          | zaːiʔ⁴²| to come           |\n| *ʔurat       | uraʔ           | zaʔ²⁴  | tendon            |\n| *rək         | rəʔ            | zəʔ²⁴  | grass             |\n| *bala        | pilà           | [see (a)]| widowed         |\n\n(a) No descendant of the Proto-Chamic word *bala can be found in the present-day Tsat language. However, what would it have become if it had survived?\n\n(b) Fill in the blanks (1–18). The shaded cells do not need to be filled.\n\n| Proto-Chamic | Phan Rang Cham | Tsat     | Meaning          |\n|--------------|----------------|----------|------------------|\n| *kulit       | kaliʔ          | ...... 1 | skin             |\n| *hitam       | hatam          | ...... 2 | black            |\n| *bubah       | papàh          | ...... 3 | mouth            |\n| *ʔikat       | ...... 4       | ...... 5 | to tie           |\n| *dəpa        | ...... 6       | ...... 7 | fathom           |\n| *matay       | ...... 8       | ...... 9 | to die           |\n| *dalam       | ...... 10      | ...... 11 | inside           |\n| *labuh       | ...... 12      | ...... 13 | to fall down     |\n| *bulaːn      | ...... 14      | ...... 15 | moon             |\n| SHADED       | pala           | ...... 16 | to plant         |\n| SHADED       | tapùh          | ...... 17 | to ransom        |\n| SHADED       | tatà           | ...... 18 | chest            |\n\n△! Phan Rang Cham (or Eastern Cham) is spoken by approx. 73,000 people in south-central Vietnam. Tsat is spoken by approx. 4,500 people in the city of Sanya, Hainan Province, China. All words in Proto-Chamic are marked with an asterisk (*), indicating that the word is\nreconstructed and not attested.\nph = aspirated p; th = aspirated t. c ≈ ch in church. j ≈ j in judge. ñ ≈ ny in canyon. ng\n(Phan Rang Cham) = ŋ (Tsat) = ng in hang. y = y in you. ʔ is a consonant (known as the glottal stop). ɨ = oo in goose but with the lips unrounded. ə = a in comma.\nThe mark ː indicates that the vowel is long. The mark ̀ indicates low tone (Phan Rang Cham). The marks 55, 42, 33, 24 and 11 indicate high, falling, middle, rising, and low tone, respectively (Tsat).\nKnowledge of any Austronesian language not belonging to the Chamic group is not relevant for solving this problem. —Tung-Le Pan\n\n---\n\nGood luck!",
+  "answer_format": {
+    "a": {
+      "type": "string"
+    },
+    "b_1": {
+      "type": "string"
+    },
+    "b_2": {
+      "type": "string"
+    },
+    "b_3": {
+      "type": "string"
+    },
+    "b_4": {
+      "type": "string"
+    },
+    "b_5": {
+      "type": "string"
+    },
+    "b_6": {
+      "type": "string"
+    },
+    "b_7": {
+      "type": "string"
+    },
+    "b_8": {
+      "type": "string"
+    },
+    "b_9": {
+      "type": "string"
+    },
+    "b_10": {
+      "type": "string"
+    },
+    "b_11": {
+      "type": "string"
+    },
+    "b_12": {
+      "type": "string"
+    },
+    "b_13": {
+      "type": "string"
+    },
+    "b_14": {
+      "type": "string"
+    },
+    "b_15": {
+      "type": "string"
+    },
+    "b_16": {
+      "type": "string"
+    },
+    "b_17": {
+      "type": "string"
+    },
+    "b_18": {
+      "type": "string"
+    }
+  }
+}

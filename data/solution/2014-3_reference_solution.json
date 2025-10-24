@@ -1,0 +1,30 @@
+{
+  "id": "2014-3",
+  "answer": {
+    "a": "<fuzzy><select4,4,4>['<Father: Lhie²nyn², Son: Wa²nie¹, Daughter: Syn¹mei¹>','<Father: Ngwi¹mbyn², Son: Kẹi¹źey², Daughter: Sei¹na¹>','<Mother: Mbe²phon¹, Son: Sie¹tsie¹, Daughter: Ldiu²śe¹>','<Mother: Ngon²ngwe¹, Son: Śan¹nia¹, Daughter: Nie²tsẹ¹>']",
+    "b": "Nie²tsẹ¹ Sie¹tsie¹ 'yn¹ ndọn¹ ngu²."
+  },
+  "explanation": {
+    "rules": "First tree structure (top):\n•        ny¹ is the mother of źwẹj¹ (man) and źwẹj¹(woman)\n•        wiej² is the father of lio² (man) and ndọn¹(woman)\n•        wia¹ and ma¹ are married\n•        wia¹ is the father of lio² (man), me (man), and ndọn¹(woman)\n•        ma¹ is the mother of lio² (man), me (man), and ndọn¹(woman)\n•        la² is the mother of lio²(man) and ndọn¹(woman)\n•        'iə¹ is the father of źwẹj¹(man) and źwẹj¹(woman)\n•        ny¹, wiej², and wia¹ are siblings\n•        ma¹, la², and 'iə¹ are siblings\n\nSecond tree structure (bottom):\n•        ny¹ is the mother of źwẹj¹ (man) and źwẹj¹(woman)\n•        wiej² is the father of mu¹(man) and kậj¹(woman)\n•        wia¹ and ma¹ are married\n•        wia¹ is the father of mu¹(man), me (woman), and kậj¹(woman)\n•        ma¹ is the mother of mu¹(man), me (woman), and kậj¹(woman)\n•        la² is the mother of mu¹(man) and kậj¹(woman)\n•        'iə¹ is the father of źwẹj¹(man) and źwẹj¹(woman)\n•        ny¹, wiej², and wia¹ are siblings\n•        ma¹, la², and 'iə¹ are siblings\n\nKey symbols:\n•        △ (triangle) = man\n•        ○ (circle) = woman",
+    "rule_checklist": [
+      "First tree structure (top): ny¹ is the mother of źwẹj¹ (man) and źwẹj¹(woman)",
+      "First tree structure (top): wiej² is the father of lio² (man) and ndọn¹(woman)",
+      "First tree structure (top): wia¹ and ma¹ are married",
+      "First tree structure (top): wia¹ is the father of lio² (man), me (man), and ndọn¹(woman)",
+      "First tree structure (top): ma¹ is the mother of lio² (man), me (man), and ndọn¹(woman)",
+      "First tree structure (top): la² is the mother of lio²(man) and ndọn¹(woman)",
+      "First tree structure (top): 'iə¹ is the father of źwẹj¹(man) and źwẹj¹(woman)",
+      "First tree structure (top): ny¹, wiej², and wia¹ are siblings",
+      "First tree structure (top): ma¹, la², and 'iə¹ are siblings",
+      "Second tree structure (bottom): ny¹ is the mother of źwẹj¹ (man) and źwẹj¹(woman)",
+      "Second tree structure (bottom): wiej² is the father of mu¹(man) and kậj¹(woman)",
+      "Second tree structure (bottom): wia¹ and ma¹ are married",
+      "Second tree structure (bottom): wia¹ is the father of mu¹(man), me (woman), and kậj¹(woman)",
+      "Second tree structure (bottom): ma¹ is the mother of mu¹(man), me (woman), and kậj¹(woman)",
+      "Second tree structure (bottom): la² is the mother of mu¹(man) and kậj¹(woman)",
+      "Second tree structure (bottom): 'iə¹ is the father of źwẹj¹(man) and źwẹj¹(woman)",
+      "Second tree structure (bottom): ny¹, wiej², and wia¹ are siblings",
+      "Second tree structure (bottom): ma¹, la², and 'iə¹ are siblings"
+    ]
+  }
+}

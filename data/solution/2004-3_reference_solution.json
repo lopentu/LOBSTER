@@ -1,0 +1,13 @@
+{
+  "id": "2004-3",
+  "answer": {
+    "assignment1_word": "mordāx",
+    "assignment1_explanation": "<fuzzy>The dh sound could not have occurred in mordāx: there is neither an f nor a b in this word, and the d cannot be the result of dh transition, since next to r, dh would have yielded b.",
+    "assignment2_words": "<select2,1,6>['brevis', 'gurdus', 'dēbeo']",
+    "assignment2_explanation": "<fuzzy>The dh sound could not have been there in brevis (at the beginning of the word dh would have yielded / even before r, as in fraces); in gurdus (after r, dh would have yielded b); and in debeo (at the beginning of the word dh would have yielded f, and in the middle, in the absence of r, it would have yielded d)."
+  },
+  "explanation": {
+    "rules": "",
+    "rule_checklist": []
+  }
+}

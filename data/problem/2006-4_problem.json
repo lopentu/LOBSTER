@@ -1,0 +1,43 @@
+{
+  "id": "2006-4",
+  "title": "Problem 4",
+  "content": "### Problem 4\n\n(20 points)\nHere you see phrases in the Southern (Bikin) dialect of the Udihe language in Roman transcription and their translations:\n\n| Udihe                   | English                 |\n|-------------------------|-------------------------|\n| b’ata zä:ŋini           | the boy’s money         |\n| si bogdoloi             | thy shoulder            |\n| ja: xabani              | the cow’s udder         |\n| su zä:ŋiu               | your money              |\n| dili tekpuni            | the skin of the head    |\n| si ja:ŋi:               | thy cow                 |\n| bi mo:ŋi:               | my tree                 |\n| aziga bugdini           | the girl’s leg          |\n| bi nakta diliŋi:        | my boar head            |\n| nakta igini             | the boar’s tail         |\n| si b’ataŋi: bogdoloni   | thy son’s shoulder      |\n| teŋku bugdini           | the leg of the stool    |\n| su ja: wo:ŋiu           | your cow thigh          |\n| bi wo:i                 | my thigh                |\n\nAssignment 1. Translate into English:\n\n1. su b’ataŋiu zä:ŋini\n2. si teŋku bugdiŋi:\n3. si teŋkuŋi: bugdini\n\n\nAssignment 2. Translate into Udihe:\n\n1. The boy’s thigh\n2. Our boar\n3. My daughter’s tree\n\nAssignment 3. Do you think the following phrases are possible in Udihe?\n\n1. bi xabai\n2. su b’ataŋiu bugdiŋini\n3. si igi\n\nAssignment 4. Translate the following phrases into English and explain how their meanings differ:\n\n1. bi tekpui\n2. bi tekpuŋi:\n\nNote. ŋ, ’ are consonants, ä is a vowel. The colon indicates the length of the preceding vowel.\nBoris Iomdin\n\n---",
+  "answer_format": {
+    "Assignment1_1": {
+      "type": "string"
+    },
+    "Assignment1_2": {
+      "type": "string"
+    },
+    "Assignment1_3": {
+      "type": "string"
+    },
+    "Assignment2_1": {
+      "type": "string"
+    },
+    "Assignment2_2": {
+      "type": "string"
+    },
+    "Assignment2_3": {
+      "type": "string"
+    },
+    "Assignment3_1": {
+      "type": "string"
+    },
+    "Assignment3_2": {
+      "type": "string"
+    },
+    "Assignment3_3": {
+      "type": "string"
+    },
+    "Assignment4_1": {
+      "type": "string"
+    },
+    "Assignment4_2": {
+      "type": "string"
+    },
+    "Assignment4_explanation": {
+      "type": "string"
+    }
+  }
+}

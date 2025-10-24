@@ -1,0 +1,41 @@
+{
+  "id": "2022-4",
+  "answer": {
+    "a_A": "19",
+    "a_B": "24",
+    "a_C": "22",
+    "a_D": "20",
+    "a_E": "23",
+    "a_F": "18",
+    "a_G": "21",
+    "a_H": "7",
+    "a_I": "1",
+    "a_J": "12",
+    "a_K": "17",
+    "a_L": "13",
+    "a_M": "14",
+    "a_N": "9",
+    "a_O": "4",
+    "a_P": "8",
+    "a_R": "16",
+    "a_S": "5",
+    "a_T": "15",
+    "a_U": "11",
+    "a_V": "6",
+    "a_W": "3",
+    "a_X": "10",
+    "b_i": "nhupa",
+    "b_ii": "piyaka",
+    "b_iii": "lhuka",
+    "b_iv": "apityi",
+    "b_v": "kupaka",
+    "b_vi": "amanyi",
+    "b_vii": "thanti",
+    "b_viii": "wardu",
+    "b_ix": "lhuka"
+  },
+  "explanation": {
+    "rules": "no-rule",
+    "rule_checklist": []
+  }
+}

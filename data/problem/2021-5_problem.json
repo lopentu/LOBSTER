@@ -1,0 +1,46 @@
+{
+  "id": "2021-5",
+  "title": "Problem 5",
+  "content": "### Problem 5\n\n(20 points)\n\nHere are some words in Rikbaktsa and their English translations:\n\n| Rikbaktsa               | English Translation     |\n|-------------------------|-------------------------|\n| ahapery                 | I waited for you_{pl}      |\n| tsiksi                  | you_{sg} left             |\n| puru                    | I will sleep / he will sleep |\n| tsimywak                | you_{sg} will hunt        |\n| tsikmoronaha           | we bathed                |\n| tsimymoro               | you_{sg} will bathe       |\n| myzomo                  | I will arrive / he will arrive |\n| piboro                  | I will bite it / he will bite it |\n| nimoro                  | he bathed                |\n| tsipaperynaha          | we will wait for you_{sg}  |\n| nimypery                | he waited for us         |\n| tsipikharapyryk        | you_{sg} will hug me      |\n| nisiboro                | he bit them              |\n| tsipurunaha            | we will sleep            |\n| iknaraha               | I fell                   |\n| piksi                   | I will leave / he will leave |\n| zahaboro               | he bit you_{pl}          |\n| mywak                   | I will hunt / he will hunt |\n| tsibeze                 | you_{sg} killed it        |\n| zuru                    | he slept                 |\n| tsikzomo                | you_{sg} arrived          |\n| piwy                    | I will cut it up / he will cut it up |\n| pikbeze                | he will kill me          |\n| tsimykarinaha          | we will dance            |\n\n(a) Translate into English:\n\n- aharapyryk  \n- mymyboro  \n- uru  \n- tsiksiwynaha  \n- ikwak  \n- ziksi  \n\n(b) Translate into Rikbaktsa:\n\n- we will fall  \n- I bathed  \n- you_{sg} bit us  \n- I will wait for them / he will wait for them  \n- I will hug you_{pl} / he will hug you_{pl}  \n- you_{sg} will leave  \n- I killed it",
+  "answer_format": {
+    "a_1": {
+      "type": "string"
+    },
+    "a_2": {
+      "type": "string"
+    },
+    "a_3": {
+      "type": "string"
+    },
+    "a_4": {
+      "type": "string"
+    },
+    "a_5": {
+      "type": "string"
+    },
+    "a_6": {
+      "type": "string"
+    },
+    "b_1": {
+      "type": "string"
+    },
+    "b_2": {
+      "type": "string"
+    },
+    "b_3": {
+      "type": "string"
+    },
+    "b_4": {
+      "type": "string"
+    },
+    "b_5": {
+      "type": "string"
+    },
+    "b_6": {
+      "type": "string"
+    },
+    "b_7": {
+      "type": "string"
+    }
+  }
+}

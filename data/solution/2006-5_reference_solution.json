@@ -1,0 +1,27 @@
+{
+  "id": "2006-5",
+  "answer": {
+    "11_translation": "The woman bought the beer for Mwangi",
+    "11_correct": "<select4,4,4>['Mdala amguli ugimbi Mwangi', 'Mdala amguli Mwangi ugimbi', 'Mdala aguli Mwangi ugimbi', 'Mdala guli Mwangi ugimbi']",
+    "11a_error": "<fuzzy>word order S V DO IO, but neither S nor IO marked in the verb.",
+    "11b_error": "<fuzzy>only IO marked, breaking the rule: If IO is marked in the verb, so shall S.",
+    "11c_error": "<fuzzy>word order S V DO IO, but only S marked.",
+    "12_translation": "Kamau bought the goat for the grandmothers",
+    "12_correct": "<select4,4,4>['Kamau avaguli mene vabuya', 'Kamau avaguli vabuya mene', 'Kamau aguli vabuya mene', 'Kamau guli vabuya mene']",
+    "12a_error": "<fuzzy>the numbers of both S and IO incorrectly marked.",
+    "12b_error": "<fuzzy>word order S V DO IO, but neither S nor IO marked in the verb.",
+    "12c_error": "<fuzzy>only IO marked, breaking the rule: If IO is marked in the verb, so shall S.. (Or else: IO not marked, which word order S V IO DO allows, but number of S marked incorrectly)."
+  },
+  "explanation": {
+    "rules": "Verb Structure and Sentence Order\nVerb Construction:\n1. Prefixes:\n- First prefix denotes the number of the subject.   \n- Second prefix denotes the number of the indirect object.\n- The number of the direct object is not marked.\n2. Word Orders:\n- (1) S V DO IO   \n- (2) S V IO DO\n3. Rules:\n- Both S and IO must be marked if word order is (1).\n- Marking is optional in order (2) but follows specific rules.",
+    "rule_checklist": [
+      "Prefixes: First prefix denotes the number of the subject.",
+      "Prefixes: Second prefix denotes the number of the indirect object.",
+      "Prefixes: The number of the direct object is not marked.",
+      "Word Orders: (1) S V DO IO",
+      "Word Orders: (2) S V IO DO",
+      "Rules: Both S and IO must be marked if word order is (1).",
+      "Rules: Marking is optional in order (2) but follows specific rules."
+    ]
+  }
+}

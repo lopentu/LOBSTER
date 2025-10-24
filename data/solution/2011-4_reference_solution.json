@@ -1,0 +1,39 @@
+{
+  "id": "2011-4",
+  "answer": {
+    "a_acalhuah": "canoe owner",
+    "a_achilli": "water pepper",
+    "a_atl": "water",
+    "a_callah": "village",
+    "a_calhuah": "master of house",
+    "a_chilatl": "chili water",
+    "a_chilli": "chili",
+    "a_colli": "grandfather/ancestor",
+    "a_coltzintli": "revered grandfather/ancestor",
+    "a_conehuah": "mother",
+    "a_conehuahcapil": "mom(my)",
+    "a_conetl": "child",
+    "a_oquichconetl": "boy, male child",
+    "a_oquichhuah": "wife",
+    "a_oquichtotoltzintli": "revered turkey-cock",
+    "a_tehuah": "<select1,1,1>['possessor of stones' , 'possessor of stones (= person who lives in a stony place)']",
+    "a_tetlah": "stony ground",
+    "a_totoltetl": "turkey egg",
+    "b_1": "calli",
+    "b_2": "tetl",
+    "b_3": "ahuah",
+    "b_4": "oquichtzintli",
+    "c_1": "cocoa",
+    "c_2": "cocoa bean",
+    "c_3": "cocoa drink",
+    "c_4": "possessor of cocoa"
+  },
+  "explanation": {
+    "rules": "In compound nouns the left-hand part modifies the right-hand one. A noun gets the\nending -tl/li unless it has one of the suffixes -capil (dimin.), -huah ‘one who has . . . ’, -tlah/lah\n‘place of many . . . ’, or -tzintli ‘revered . . . ’ (-li and -lah after l, otherwise -tl and -tlah).",
+    "rule_checklist": [
+      "In compound nouns the left-hand part modifies the right-hand one.",
+      "A noun gets the ending -tl/li unless it has one of the suffixes -capil (dimin.), -huah 'one who has . . . ', -tlah/lah 'place of many . . . ', or -tzintli 'revered . . . '.",
+      "-li and -lah after l, otherwise -tl and -tlah."
+    ]
+  }
+}

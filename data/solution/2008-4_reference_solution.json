@@ -1,0 +1,26 @@
+{
+  "id": "2008-4",
+  "answer": {
+    "a_1": "right above the vine",
+    "a_2": "like a shadow",
+    "a_3": "my corn",
+    "a_4": "your teeth",
+    "a_5": "with the squash",
+    "a_6": "as if for the kettles",
+    "b_1": "pokskukyotoya",
+    "b_2": "P2s mberolpit",
+    "b_3": "koc2kšehtih",
+    "b_4": "komdaPm",
+    "b_5": "k2m2Ng2sm2taPm",
+    "b_6": "mis Ngumguy"
+  },
+  "explanation": {
+    "rules": "Morphological Changes:\n- After nasal consonants (m, n, N), stops p, t, k become voiced (b, d, g respectively).\n- If k comes after y, the two sounds exchange places.\n\nPossessive Pronouns:\n- `P2s` — my\\n   - `mis` — your\n- If the noun begins with a stop, the consonant becomes voiced, and the corresponding nasal appears before it.",
+    "rule_checklist": [
+      "After nasal consonants (m, n, N), stops p, t, k become voiced (b, d, g respectively).",
+      "If k comes after y, the two sounds exchange places.",
+      "Possessive Pronouns:\n- `P2s` — my\n   - `mis` — your",
+      "If the noun begins with a stop, the consonant becomes voiced, and the corresponding nasal appears before it."
+    ]
+  }
+}

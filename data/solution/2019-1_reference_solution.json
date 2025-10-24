@@ -1,0 +1,28 @@
+{
+  "id": "2019-1",
+  "answer": {
+    "a_12": "She took the bread and ate it.",
+    "a_13": "She comes and we go away.",
+    "a_14": "They sing and she hears.",
+    "a_15": "They will hear the dog and will get up.",
+    "a_16": "I will see the fish and you(sg) will see the man.",
+    "a_17": "He sees the water and I drink it.",
+    "b_18": "Wananuuwa mananiib.",
+    "b_19": "Awon biina oon been.",
+    "b_20": "Oka ambiwa wedmene anon ye weng wengamboroon.",
+    "b_21": "Om aneneb wingkeeb."
+  },
+  "explanation": {
+    "rules": "1. Word order.\n(O) V-Is (S = subject; O = object; V = predicate).\n(O1) V1-I=S (O2) V2-Is.\n(O1) V1-Is1-a (O2) V2-Is2 (S1 != S2).\nN1-a N2-a, 'N1 and N2' (N = noun).\nbefore a vowel, b becomes w.\nIn some verbs, the vowel in the last syllable of the root assimilates to the vowel of the first syllable of the ending.\nSuffixes: (The suffixes are listed by subject. I=S is the infix for same-subject constructions. Is is the suffix for the second verb, divided by tense.)\n* 1st person sg - I=S (S1 = S2): -en-i; Is: past -aan, present -iin, future -an-iin.\n* 2nd person sg - I=S (S1 = S2): -en-eb; Is: past -eeb, present -eeb, future -an-eeb.\n* 3rd person sg m - I=S (S1 = S2): -en-e; Is: past -oon, present -een, future -an-een.\n* 3rd person sg f - I=S (S1 = S2): -en-u; Is: past -een, present -uum, future -an-uun.\n* 1st person pl - I=S (S1 = S2): -en-ub; Is: past -uub, present -uub, future -an-uub.\n* 3rd person pl - I=S (S1 = S2): -en-ib; Is: past -iib, present -iib, future -an-iib.",
+    "rule_checklist": [
+      "Word order.",
+      "(O) V-Is (S = subject; O = object; V = predicate).",
+      "(O1) V1-I=S (O2) V2-Is.",
+      "(O1) V1-Is1-a (O2) V2-Is2 (S1 != S2).",
+      "N1-a N2-a, 'N1 and N2' (N = noun).",
+      "before a vowel, b becomes w.",
+      "In some verbs, the vowel in the last syllable of the root assimilates to the vowel of the first syllable of the ending.",
+      "Suffixes:\n(The suffixes are listed by subject. I=S is the infix for same-subject constructions. Is is the suffix for the second verb, divided by tense)\n* 1st person sg - I=S (S1 = S2): -en-i; Is: past -aan, present -iin, future -an-iin.\n* 2nd person sg - I=S (S1 = S2): -en-eb; Is: past -eeb, present -eeb, future -an-eeb.\n* 3rd person sg m - I=S (S1 = S2): -en-e; Is: past -oon, present -een, future -an-een.\n* 3rd person sg f - I=S (S1 = S2): -en-u; Is: past -een, present -uum, future -an-uun.\n* 1st person pl - I=S (S1 = S2): -en-ub; Is: past -uub, present -uub, future -an-uub.\n* 3rd person pl - I=S (S1 = S2): -en-ib; Is: past -iib, present -iib, future -an-iib."
+    ]
+  }
+}

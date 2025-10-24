@@ -1,0 +1,32 @@
+{
+  "id": "2017-5",
+  "answer": {
+    "a": "big group of villages",
+    "b_1": "man",
+    "b_2": "big branch",
+    "b_3": "many spirits",
+    "b_4": "eyes",
+    "b_5": "place",
+    "b_6": "group of white men",
+    "b_7": "two big vines",
+    "c_8": "leveve",
+    "c_9": "leventaamang",
+    "c_10": "laxampanga",
+    "c_11": "luvuttubuno",
+    "c_12": "luxonaleng",
+    "c_13": "lengkonuna",
+    "c_14": "lempatkonuna"
+  },
+  "explanation": {
+    "rules": "Rules:\n• Number prefixes = l‑V‑vut‑ (people, singular), l‑V‑ven‑ (otherwise, singular); xan‑ ‘many’; u‑ ‘dual’ (V = the vowel of the next syllable).\n• Size prefix pat‑ = ‘big’.\n• Quantifier prefixes bung‑ = ‘group’, kon‑ = ‘part’.\n• Before another prefix, le‑ven‑ → len‑.\n• Assimilation: ‑n‑ → m before p; ‑n‑ → ng before k.\n• Lenition: ‑p / p‑ → v.\n• Between two vowels: ‑t / t‑ → r; ‑k / k‑ → x.",
+    "rule_checklist": [
+      "Number prefixes = l‑V‑vut‑ (people, singular), l‑V‑ven‑ (otherwise, singular); xan‑ ‘many’; u‑ ‘dual’ (V = the vowel of the next syllable).",
+      "Size prefix pat‑ = ‘big’.",
+      "Quantifier prefixes bung‑ = ‘group’, kon‑ = ‘part’.",
+      "Before another prefix, le‑ven‑ → len‑.",
+      "Assimilation: ‑n‑ → m before p; ‑n‑ → ng before k.",
+      "Lenition: ‑p / p‑ → v.",
+      "Between two vowels: ‑t / t‑ → r; ‑k / k‑ → x."
+    ]
+  }
+}

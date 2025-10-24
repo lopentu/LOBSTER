@@ -1,0 +1,52 @@
+{
+  "id": "2010-2",
+  "title": "Problem 2",
+  "content": "(20 points)\nGiven are Drehu numerals in alphabetical order and their values in ascending order:\n\n| Drehu                            | Value |\n|----------------------------------|-------|\n| caatr nge caako                  | 26    |\n| caatr nge caangömen              | 31    |\n| caatr nge caaqaihano             | 36    |\n| ekaatr nge ekengömen             | 42    |\n| köniatr nge köniko               | 50    |\n| köniatr nge könipi               | 52    |\n| köniatr nge köniqaihano          | 73    |\n| lueatr nge lue                   | 75    |\n| lueatr nge luako                 | 78    |\n| lueatr nge luepi                 | 89    |\n\n(a) Determine the correct correspondences.\n\n(b) Write in numerals:\n\n- köniatr nge eke + caatr nge luepi = ekaatr nge ekako  \n- luengömen + luako = ekeqaihano\n\n(c) Write out in Drehu:\n\n- 21  \n- 48  \n- 83\n\n△! The Drehu language belongs to the Austronesian language family. It is spoken by approx. 10000 people on Lifu Island to the east of New Caledonia. c = ch in church; ng = ng in hang; ö = French eu or German ö; q is a voiceless w (as wh in Scottish or Southern American which); tr ≈ English t in art, uttered with the tip of the tongue turned back.\n—Ksenia Gilyarova",
+  "answer_format": {
+    "a_caatr_nge_caako": {
+      "type": "string"
+    },
+    "a_caatr_nge_caangömen": {
+      "type": "string"
+    },
+    "a_caatr_nge_caaqaihano": {
+      "type": "string"
+    },
+    "a_ekaatr_nge_ekengömen": {
+      "type": "string"
+    },
+    "a_köniatr_nge_köniko": {
+      "type": "string"
+    },
+    "a_köniatr_nge_könipi": {
+      "type": "string"
+    },
+    "a_köniatr_nge_köniqaihano": {
+      "type": "string"
+    },
+    "a_lueatr_nge_lue": {
+      "type": "string"
+    },
+    "a_lueatr_nge_luako": {
+      "type": "string"
+    },
+    "a_lueatr_nge_luepi": {
+      "type": "string"
+    },
+    "b_1": {
+      "type": "string"
+    },
+    "b_2": {
+      "type": "string"
+    },
+    "c_1": {
+      "type": "string"
+    },
+    "c_2": {
+      "type": "string"
+    },
+    "c_3": {
+      "type": "string"
+    }
+  }
+}

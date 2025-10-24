@@ -1,0 +1,52 @@
+{
+  "id": "2007-4",
+  "title": "Problem 4",
+  "content": "### Problem 4\n\n(20 points)\n\nThe squares of the numbers 1 to 10 are spelt out in the Ndom language, in arbitrary order:\n\n**Ndom Language Squares:**\nnif abo mer an thef abo sas\nnif thef abo tondor abo mer abo thonith \nmer an thef abo thonith\nnif\nmer abo ithin\nthonith\nsas\nnif thef abo mer abo ithin\nnif abo tondor abo mer abo thonith \ntondor abo mer abo sas\n\n\n**§1. Determine which is which.**\n\n**§2. Write this equality in numerals:**\n\nmer abo sas * meregh = tondor abo mer an thef abo meregh\n\n**§3. Write in numerals:**\n\nnif ithin abo ithin  \nmer an thef abo meregh\n\n**§4. Write out in Ndom: 58; 87.**\n\n---",
+  "answer_format": {
+    "section1_nif_abo_mer_an_thef_abo_sas": {
+      "type": "string"
+    },
+    "section1_nif_thef_abo_tondor_abo_mer_abo_thonith": {
+      "type": "string"
+    },
+    "section1_mer_an_thef_abo_thonith": {
+      "type": "string"
+    },
+    "section1_nif": {
+      "type": "string"
+    },
+    "section1_mer_abo_ithin": {
+      "type": "string"
+    },
+    "section1_thonith": {
+      "type": "string"
+    },
+    "section1_sas": {
+      "type": "string"
+    },
+    "section1_nif_thef_abo_mer_abo_ithin": {
+      "type": "string"
+    },
+    "section1_nif_abo_tondor_abo_mer_abo_thonith": {
+      "type": "string"
+    },
+    "section1_tondor_abo_mer_abo_sas": {
+      "type": "string"
+    },
+    "section2": {
+      "type": "string"
+    },
+    "section3_nif_ithin_abo_ithin": {
+      "type": "string"
+    },
+    "section3_mer_an_thef_abo_meregh": {
+      "type": "string"
+    },
+    "section4_58": {
+      "type": "string"
+    },
+    "section4_87": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": "2023-2",
+  "title": "Problem 2",
+  "content": "### Problem 2\n\n(20 points)\n\nHere are some sentences in Apurinã and their approximate English equivalents:\n\n| Sentence                                          | Translation                       |\n|--------------------------------------------------|-----------------------------------|\n| 1. nuta sykaru nykanawate uwamukary               | I gave my canoe to her.           |\n| 2. nykanawate nysykaru uwamukary                  | I gave my canoe to her.           |\n| 3. pita ãtary ĩpurãã                               | You_{sg} drank the water.            |\n| 4. kyky mynaru nyherẽka sytumukary                | The man brought my blood to the woman. |\n| 5. herẽkatxi uãtary sytu                          | The woman drank the blood.        |\n| 6. nhiximakyte pixinhikary                        | You_{sg} remembered my fish (sg).    |\n| 7. pitxiparyte umynary kykymukary                 | She brought your_{sg} banana to the man. |n| 8. hãtakuru xinhikary naikute                     | The girl remembered my house.     |\n| 9. sytu apy ysykanu nutamukary kyky               | The man gave the woman’s bone to me. |n| 10. nhĩpurããte nãtary                             | I drank my water.                 |\n| 11. kywĩtxi apukary                               | He found the head.                |\n| 12. ywa mynanu kyky uky nutamukary                | He brought the man’s eye to me.   |n| 13. ximaky nhikary apĩtxi                         | The fish (sg) ate the bone.       |\n| 14. hãtakuru txiparyte napukary                   | I found the girl’s banana.        |\n| 15. ximaky kywy inhikary                          | He ate the fish’s (sg) head.       |\n| 16. hãtakuru uapukaru                             | She found the girl.               |\n\n(a) Translate into English:\n\n17. uwa xinhikaru sytu  \n18. txipary nhinhikary  \n19. kyky aikute pysykary ywamukary  \n\n(b) This sentence is grammatically incorrect. Explain why, and provide its grammatically correct equivalent and its English translation:\n\n20. uwa umynary kanawa ximakymukary  \n\n(c) Translate into Apurinã in two ways:\n\n21. You_{sg} found the house.  \n22. I brought your_{sg} canoe to the girl.  \n23. He brought your_{sg} water to me.  \n24. The man drank the girl’s blood.  \n25. I remembered the eye.  \n26. You_{sg} ate my banana.  \n\n!△ The Apurinã language belongs to the Purus group of the Arawakan family. It is spoken by no more than 30% of a total ethnic population of ca. 9,500 Apurinã along the Purus River, in the northwestern Amazon region of Brazil. nh ≈ ny in canyon; tx = ch in church; x = sh in sheesh. y = oo in goose but with the lips unrounded. ã, ẽ, ĩ are nasal vowels.\n\n—Ksenia Gilyarova\n\n---",
+  "answer_format": {
+    "a_17": {
+      "type": "string"
+    },
+    "a_18": {
+      "type": "string"
+    },
+    "a_19": {
+      "type": "string"
+    },
+    "b_20_explanation": {
+      "type": "string"
+    },
+    "b_20_correct_apurina": {
+      "type": "array",
+      "minItems": 2,
+      "maxItems": 2,
+      "items": {
+        "type": "string"
+      }
+    },
+    "b_20_translation": {
+      "type": "string"
+    },
+    "c_21_translation": {
+      "type": "array",
+      "minItems": 2,
+      "maxItems": 2,
+      "items": {
+        "type": "string"
+      }
+    },
+    "c_22_translation": {
+      "type": "array",
+      "minItems": 2,
+      "maxItems": 2,
+      "items": {
+        "type": "string"
+      }
+    },
+    "c_23_translation": {
+      "type": "array",
+      "minItems": 2,
+      "maxItems": 2,
+      "items": {
+        "type": "string"
+      }
+    },
+    "c_24_translation": {
+      "type": "array",
+      "minItems": 2,
+      "maxItems": 2,
+      "items": {
+        "type": "string"
+      }
+    },
+    "c_25_translation": {
+      "type": "array",
+      "minItems": 2,
+      "maxItems": 2,
+      "items": {
+        "type": "string"
+      }
+    },
+    "c_26_translation": {
+      "type": "array",
+      "minItems": 2,
+      "maxItems": 2,
+      "items": {
+        "type": "string"
+      }
+    }
+  }
+}

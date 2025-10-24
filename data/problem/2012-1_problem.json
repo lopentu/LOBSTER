@@ -1,0 +1,34 @@
+{
+  "id": "2012-1",
+  "title": "Problem 1",
+  "content": "(20 points)\nHere are some sentences in the central dialect of Dyirbal as well as their English translations:\n\n| Dyirbal                                      | English                                      |\n|----------------------------------------------|----------------------------------------------|\n| 1. bayi yaóa NunéaymuNa baNgu gurugugu biNgunman. | Booze is making the man that is always being blamed tired. |\n| 2. balan yabu bimabanéalNaymuNa baNgul yaóaNgu guliNgu Nunéañu. | The strong man is blaming the mother that is always following death adders. |\n| 3. balan waymin bambun baNgu éugaNgu éamiman. | Sugar is making the healthy mother-in-law fat. |\n| 4. bala yila wura baNgul bargandu biNgundu guniñu. | The tired wallaby is searching for the little feather. |\n| 5. balan malayigara baNgu garandu biNgunman. | The smoke is making the scorpion tired. |\n| 6. bala gurugu baNgul NumaNgu munduNgu dimbañu. | The offended father is carrying the booze. |\n| 7. bayi midin baNgun bimaNgu malayigaraguninaymuNagu banéan. | The death adder that is always searching for scorpions is following the possum. |\n| 8. bayi gubimbulu biNgun baNgu gurugugu éagunman. | Booze is making the tired doctor fall asleep. |\n| 9. bala garan baNgul biñéiriñéu banéan. | The lizard is following the smoke. |\n| 10. balan duNan baNgul yiriñéilagu guniñu. | The dragonfly is searching for the stinging tree. |\n| 11. bala éuga baNgun yabuNgu NaéilmuNagu dimbañu. | The mother that is always being ignored is carrying the sugar. |\n| 12. bala diban éagiñ baNgul gubimbulugu éamiNgu bilmban. | The fat doctor is pushing the big stone. |\n| 13. bala garan baNgun waymindu dibanbilmbalNaymuNagu buóan. | The mother-in-law that is always pushing stones is looking at the smoke. |\n| 14. balan baNgay waóu baNgun bundiñéu éagiñéu guniñu. | The big grasshopper is searching for the bent spear. |\n| 15. bayi biñéiriñ biNgun baNgul ñalNgaNgu mugurugu buóan. | The quiet boy is looking at the tired lizard. |\n| 16. bayi Numa guli baNgul yaóaNgu banéalmuNagu munduman. | The man that is always being followed is offending the strong father. |\n\n(a) A linguist thought there was an error in one of the Dyirbal sentences above. In fact there is no error. The explanation for what seemed strange to him is that one of the animal species is regarded as “old women” in one of the myths of the Dyirbal people. Which animal is it? What did the linguist consider to be an error?\n\n(b) Translate into English:\n17. balan ñalNga baNgul NumaNgu guniymuNagu bambunman.  \n- (The young boy is being made tired by the man that is always bending.)\n\n18. bala diban bilmbalmuNa baNgun biñéiriñéu guniñu.  \n- (The big stone is being searched for by the tired lizard.)\n\n19. bayi bargan baNgul yaóaNgu gubimbuluNunéanaymuNagu banéan.  \n- (The quiet girl is following the doctor that is always being blamed.)\n\n(c) Here are three more Dyirbal words:\n- bayimbam — grub, caterpillar\n- mugunanéa — aunt (mother’s elder sister)\n- muNga — loud noise\n\nTranslate into Dyirbal:\n20. The little wallaby is looking at the dragonfly.  \n- bala yila guniñu baNgul duNangu buóan.\n\n21. The aunt that is always being followed is bending the feather.  \n- balan mugunanéa guliNgu NaéilmuNagu dimban.\n\n22. The sleeping possum is ignoring the loud noise.  \n- bayi yaóa munduNgu NaéilmuNagu muNgan.\n\n23. The caterpillar is searching for the man that is always carrying stones.  \n- bayi bayimbam guniñu baNgul yaóaNgu dibanbilmbalNaymuNagu.\n\n△! The Dyirbal language belongs to the Pama–Nyungan family; it is a dying Australian Aboriginal language spoken in northeast Queensland.\nN = ng in hang.\nñ ≈ ni in onion; é is a stop (as d) articulated in the same place in the mouth as ñ.\nA death adder is an Australian venomous snake. A wallaby is a small animal, related to\nkangaroo. A possum is an Australian arboreal marsupial. Stinging trees are a genus of shrubs and trees with stinging hairs, some of which are dangerous to humans. —Artu ̄rs Semen ̧uks\n\n---",
+  "answer_format": {
+    "a_animal": {
+      "type": "string"
+    },
+    "a_error": {
+      "type": "string"
+    },
+    "b_17": {
+      "type": "string"
+    },
+    "b_18": {
+      "type": "string"
+    },
+    "b_19": {
+      "type": "string"
+    },
+    "c_20": {
+      "type": "string"
+    },
+    "c_21": {
+      "type": "string"
+    },
+    "c_22": {
+      "type": "string"
+    },
+    "c_23": {
+      "type": "string"
+    }
+  }
+}

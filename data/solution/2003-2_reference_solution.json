@@ -1,0 +1,15 @@
+{
+  "id": "2003-2",
+  "answer": {
+    "assignment1_1": "1/8 + 2/8 = 3/8",
+    "assignment1_2": "7/3 + 1/6 = 10/4",
+    "assignment1_3": "2/9 + 1/9 = 2/6",
+    "assignment1_4": "5/5 + 1/7 = 8/7",
+    "assignment1_5": "2/7 + 2/5 = 24/35",
+    "assignment2": "<fuzzy>rubʕ + ʕašart isdās = 1/4 + 10/9 =  49/36 and sabaʕt isdās = 7/6. Thus either √(rubʕ + ʕašart itsāʕ) = sabaʕt isdās or perhaps rubʕ + ʕašart itsāʕ = (sabaʕt isdās)^2 (if we don't consider brackets to be a sign)"
+  },
+  "explanation": {
+    "rules": "",
+    "rule_checklist": []
+  }
+}

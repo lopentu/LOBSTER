@@ -1,0 +1,31 @@
+{
+  "id": "2009-1",
+  "title": "Problem 1",
+  "content": "(20 points)\nThe following are phrases in English and their translations into the Sulka language:\n\n| English                       | Sulka                                          |\n|-------------------------------|------------------------------------------------|\n| 1 betel nut                   | a vhoi a tgiang                                |\n| 1 yam                         | a tu a tgiang                                  |\n| 2 betel nuts                  | a lo vhoi a lomin                              |\n| 2 coconuts                    | a lo ksie a lomin                              |\n| 3 betel nuts                  | o vuo a korlotge                               |\n| 3 breadfruits                 | a moulang hori orom a tgiang                   |\n| 4 yams                        | o sngu a korlolo                               |\n| 6 yams                        | o sngu a ktiëk hori orom a tgiang             |\n| 7 betel nuts                  | o vuo a ktiëk hori orom a lomin               |\n| 10 breadfruits                | a lo ngaitegaap hori orom a moulang            |\n| 10 coconuts                   | a lo ngausmia hori orom a lomin                |\n| 10 yams                       | o sngu a lo ktiëk                             |\n| 15 coconuts                   | o ngausmia a korlotge hori orom a korlotge     |\n| 16 coconuts                   | o ngausmia a korlolo                           |\n| 18 breadfruits                | o ngaitegaap a korlolo hori orom a moulang     |\n| 18 yams                       | o sngu a lo ktiëk hori orom a ktiëk hori orom a korlotge |\n| 19 betel nuts                 | o vuo a lo ktiëk hori orom a ktiëk hori orom a korlolo   |\n| 20 yams                       | o sngu a mhelom                                |\n\n(a) Translate into English:\n\n1. a ksie a tgiang\n2. o ngaitegaap a korlotge\n3. o ngausmia a ktiëk\n4. o vuo a lo ktiëk hori orom a tgiang\n\n(b) Translate into Sulka:\n\n1. 2 yams\n2. 14 yams\n3. 15 breadfruits\n4. 20 betel nuts\n\n△! Sulka belongs to the East Papuan language family. It is spoken by approx. 3500 people in East New Britain Province in Papua New Guinea.\nBetel nuts are actually seeds of a certain kind of palm. Yam is the edible tuber of the tropical\nplant of the same name.\n—Evgenia Korovina, Ivan Derzhanski",
+  "answer_format": {
+    "a_1": {
+      "type": "string"
+    },
+    "a_2": {
+      "type": "string"
+    },
+    "a_3": {
+      "type": "string"
+    },
+    "a_4": {
+      "type": "string"
+    },
+    "b_1": {
+      "type": "string"
+    },
+    "b_2": {
+      "type": "string"
+    },
+    "b_3": {
+      "type": "string"
+    },
+    "b_4": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "2016-5",
+  "answer": {
+    "a_1": "is it in my house?",
+    "a_2": "his field too",
+    "a_3": "through the field too",
+    "b_4": "qaqsa",
+    "b_5": "chushumna",
+    "b_6": "chushmanpsa",
+    "b_7": "chushumt”psa",
+    "b_8": "aq”it”txi",
+    "b_9": "utatxi"
+  },
+  "explanation": {
+    "rules": "Rules:\n• A Jaqaru word = ROOT + (≤ 3) suffixes; each added suffix may delete (elide) the vowel immediately before it.\n• Oral possessor suffixes = ‑p”a, ‑sa; they always delete the preceding vowel.\n• Oral case / other suffixes = ‑p”a, ‑t”a, ‑psa, ‑txi; they delete the vowel if it comes from another suffix, but keep it if it belongs to the root.\n• Nasal possessor suffixes = ‑nha, ‑ma; nasal case suffix = ‑na.\n• Nasal suffixes delete the vowel only when they keep their own vowel; if they lose their vowel, the preceding vowel remains.",
+    "rule_checklist": [
+      "A Jaqaru word = ROOT + (<= 3) suffixes; each added suffix may delete (elide) the vowel immediately before it.",
+      "Oral possessor suffixes = -p\"a, -sa; they always delete the preceding vowel.",
+      "Oral case / other suffixes = -p\"a, -t\"a, -psa, -txi; they delete the vowel if it comes from another suffix, but keep it if it belongs to the root.",
+      "Nasal possessor suffixes = -nha, -ma; nasal case suffix = -na.",
+      "Nasal suffixes delete the vowel only when they keep their own vowel; if they lose their vowel, the preceding vowel remains."
+    ]
+  }
+}

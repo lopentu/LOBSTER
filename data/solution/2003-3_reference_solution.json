@@ -1,0 +1,30 @@
+{
+  "id": "2003-3",
+  "answer": {
+    "assignment_1_correspondence_1": "F",
+    "assignment_1_correspondence_2": "A",
+    "assignment_1_correspondence_3": "C",
+    "assignment_1_correspondence_4": "H",
+    "assignment_1_correspondence_5": "I",
+    "assignment_1_correspondence_6": "D",
+    "assignment_1_correspondence_7": "E",
+    "assignment_1_correspondence_8": "B",
+    "assignment_1_correspondence_9": "G",
+    "assignment_1_correspondence_10": "J",
+    "assignment_1_gap_3": "asteazkena",
+    "assignment_1_gap_10": "urtarrilaren",
+    "assignment_1_gap_B": "September",
+    "assignment_1_gap_D": "week",
+    "assignment_1_gap_F": "Saturday",
+    "assignment_1_gap_I": "the first",
+    "assignment_2_K": "abenduaren lehenengo astelehena",
+    "assignment_2_L": "azaroaren hogeita bederatzigarrena, larunbata",
+    "assignment_2_M": "urtarrilaren bigarren astea",
+    "assignment_2_N": "otsailaren hirugarrena, astelehena",
+    "assignment_3": "<fuzzy>Astelehena ‘Monday’; asteazkena ‘Wednesday’; asteartea, the only day of the week not found in in Assignment 1, is ‘Tuesday’. All three names are formed from the word aste ‘week’. Astelehena means literally ‘first (day) of the week’, asteazkena ‘last (day) of the week’. Tuesday’s Basque name can be translated more or less as ‘day in the middle of the week’."
+  },
+  "explanation": {
+    "rules": "",
+    "rule_checklist": []
+  }
+}

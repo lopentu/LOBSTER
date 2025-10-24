@@ -1,0 +1,34 @@
+{
+  "id": "2011-3",
+  "title": "Problem 3",
+  "content": "Given are phrases in the Vai language as well as their English translations:\n\n1. kàı́Ě á lÈndÉĚ — the man’s vessel\n2. kÒánjà-lèNĚ fǎ — the baby-eagle’s father\n3. gbòmùĚ á nyı̀mı̀ı̀Ě — the fish’s snake\n4. kàı́Ě kàfà — the man’s shoulder\n5. nyı̀mı̀ı̀ jǎNĚ á gbòmù-lÈndÈĚ — the long snake’s boat\n6. mùsú jǎNÉ lÒÒ-kàı̀ — the tall woman’s brother\n7. nyı̀mı̀ı̀ kúndúĚ já — the short snake’s eye\n8. kÒánjà lÒÒĚ kÈnjı̀ — the small eagle’s claw\n9. kándÒ jǎNÉ — the high sky\n\n(a) Translate into English:\n\n- mùsúĚ á gbòmùĚ\n- léN kúndúĚ á nyı̀mı̀ı̀Ě\n- gbòmù-lÈndÈ kúndúĚ\n\n(b) There is an error in the Vai phrase kándÒ-lÈndÉ lÒÒĚ. Correct it and translate the phrase into English.\n\n(c) Translate into Vai:\n\n- the eagle’s snake\n- the small child’s eye\n- the tall man’s sister\n- the small baby-snake\n\n△! Vai belongs to the Central group of the Mande language family. It is spoken by approx. 105 000 people in Liberia and Sierra Leone.\nny and N are consonants; E and O are vowels. The marks “ ́”, “`” and “ˇ” denote tones.",
+  "answer_format": {
+    "a_1": {
+      "type": "string"
+    },
+    "a_2": {
+      "type": "string"
+    },
+    "a_3": {
+      "type": "string"
+    },
+    "b_correction": {
+      "type": "string"
+    },
+    "b_translation": {
+      "type": "string"
+    },
+    "c_1": {
+      "type": "string"
+    },
+    "c_2": {
+      "type": "string"
+    },
+    "c_3": {
+      "type": "string"
+    },
+    "c_4": {
+      "type": "string"
+    }
+  }
+}

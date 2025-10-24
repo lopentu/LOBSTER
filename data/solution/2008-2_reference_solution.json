@@ -1,0 +1,30 @@
+{
+  "id": "2008-2",
+  "answer": {
+    "a": "<fuzzy>Each line contains 6 syllables.; Alliteration: As stated in the problem.; Internal Rhyme: Let V1, V2, ..., V6 represent the vowels in each line. At least one consonant immediately following V5 must immediately follow Vn (n = 1, 2, or 3). In even lines, Vn = V5.",
+    "b_a": "ríks",
+    "b_b": "rymr",
+    "b_c": "glymja",
+    "b_d": "svartskyggð",
+    "b_e": "sverð",
+    "b_f": "hugfyldra",
+    "b_g": "hlaut",
+    "b_h": "andskoti",
+    "b_i": "Gauta",
+    "b_j": "sǫngr",
+    "b_k": "svírum",
+    "b_l": "sigr",
+    "b_m": "vigra"
+  },
+  "explanation": {
+    "rules": "Rules:\n1. Number of Syllables: Each line contains 6 syllables.\n2. Alliteration (As stated in the problem):\n- The first line of each distich (pair of lines) contains two words beginning with the same sound, and the first word of the second line begins with this sound, too: e. g., rausnarsamr, rimmu and ríðviggs (III:3–4). All vowels are considered to alliterate with one another and with j: e. g., ók, ísarnleiki and Jarðar (I:1–2).\n3. Internal Rhyme:\n- Let V1, V2, ..., V6 represent the vowels in each line.\n- At least one consonant immediately following V5 must immediately follow Vn (n = 1, 2, or 3).\n- In even lines, Vn = V5.",
+    "rule_checklist": [
+      "Each line contains 6 syllables.",
+      "The first line of each distich (pair of lines) contains two words beginning with the same sound, and the first word of the second line begins with this sound, too: e. g., rausnarsamr, rimmu and ríðviggs (III:3–4).",
+      "All vowels are considered to alliterate with one another and with j: e. g., ók, ísarnleiki and Jarðar (I:1–2).",
+      "Let V1, V2, ..., V6 represent the vowels in each line.",
+      "At least one consonant immediately following V5 must immediately follow Vn (n = 1, 2, or 3).",
+      "In even lines, Vn = V5."
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "2013-3",
+  "title": "Problem 3",
+  "content": "(20 points)\nHere are some words and phrases in Pirahã and simplified transcriptions of their pronunciation in normal speech:\n\n| Pirahã                | Pronunciation         |English               |\n|-----------------------|-----------------------|\n| bagiai baabi          | ba.gia.1baa.bi | bad thief             |\n| bahoigatoi            | ba.hoi.ga.1toi | pig                   |\n| bahoigatoi baihiigi   | ba.2hoi.ga.to.bai.1hii.gi | slow pig              |\n| giopai                | gio.1pai | dog                   |\n| giopai hoigi          | gio.pa.1hoi.gi | dirty dog             |\n| giopai sabi           | gio.pa.1sa.bi | angry dog             |\n| giopai xaibogi        | 2gio.pa.1ai.bo.gi | fast dog              |\n| hixi                  | hi.1Pi | rat                   || hixi xitaixi          | hi.Pii.1tai.Pi | heavy rat             |\n| kagahoaogii toio      | ka.ga.ho.ao.gi.to.1io | old papaya            |\n| kagaihiai             | ka.1gai.hi.ai | jaguar                |\n| kagaihiai baagiso     | ka.gai.2hia.1baa.gi.so | many jaguars          |\n| kagaihiai xaibogi     | ka.gai.2hia.1ai.bo.gi | fast jaguar           |\n| kagihi                | ka.gi.1hi | wasp                  |\n| kahai baihiigi        | ka.2ha.bai.1hii.gi | slow arrow            |\n| kaibai xogiai         | kai.1bao.gi.ai | big monkey            |\n| kaoaibogi             | kao.1ai.bo.gi | jungle spirit         |\n| kaoaibogi sabi        | kao.ai.bo.gi.1sa.bi | angry jungle spirit   |\n| koxopa                | ko.Po.1pa | stomach               |\n| piahaogixisoaipi      | pia.hao.gi.Pi.so.1ai.pi | banana for cooking    |\n| poogaihiai            | poo.1gai.hi.ai | banana                |\n| tagasaga              | ta.ga.1sa.ga | machete               |\n| xabagi                | 1Pa.ba.gi | toucan                |\n| xabagi giisai         | Pa.ba.gi.gii.1sai | this toucan           |\n| xagai                 | Pa.1gai | crooked               |\n| xaogii                | 1Pao.gii | foreign woman         |\n| xibogi                | 1Pi.bo.gi | milk                  |\n| xiga                  | 1Pi.ga | hard                  |\n| xiiaapisi             | Pii.1aa.pi.si | sleeve                |\n| xisipoai              | Pi.si.po.1ai | wing                  |\n| xisitai xagai         | Pi.si.1taa.gai | crooked feather       |\n| xisoobai              | Pi.1soo.bai | otter                 |\n| xogiai                | Po.gi.1ai | big                   |\n\n(a) Write down how the following words and phrases are pronounced:\n\n- xaaibi (thin)\n- xaapisi (arm)\n- xitiixisi (fish)\n- bigi (ground)\n- kagahoaogii (papaya)\n- kaibai (monkey)\n- kapiigaiitoii (pencil)\n- poogaihiai toio (old banana)\n- xabagi kapioxio (another toucan)\n- xabagi xogiai (big toucan)\n\n△! Pirahã is the indigenous language of the isolated Pirahã people of Amazonas, Brazil. It is the only surviving member of the Mura language family.\n[P] is a consonant (known as the glottal stop). [h] = h in English hat . The mark “ . ” shows syllable boundaries. The mark “ 1 ” before a syllable indicates primary stress. The mark “ 2 ” before a syllable indicates secondary stress (if there is one). —Artu ̄rs Semen ̧uks\n\n---",
+  "answer_format": {
+    "a_1": {
+      "type": "string"
+    },
+    "a_2": {
+      "type": "string"
+    },
+    "a_3": {
+      "type": "string"
+    },
+    "a_4": {
+      "type": "string"
+    },
+    "a_5": {
+      "type": "string"
+    },
+    "a_6": {
+      "type": "string"
+    },
+    "a_7": {
+      "type": "string"
+    },
+    "a_8": {
+      "type": "string"
+    },
+    "a_9": {
+      "type": "string"
+    },
+    "a_10": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "2006-2",
+  "answer": {
+    "assignment1_el_bastaix": "els bastaixos",
+    "assignment1_el_troleibus": "els troleibusos",
+    "assignment1_el_clos": "la clos",
+    "assignment1_el_iris": "els iris",
+    "assignment1_el_laca": "els llaços",
+    "assignment1_el_onix": "els ònixs",
+    "assignment1_la_pelvis": "les pelvis",
+    "assignment1_el_pis": "els pisos",
+    "assignment1_els_sequacos": "el sequaç",
+    "assignment1_les_sequacs": "la sequaç",
+    "assignment1_els_tastaolletes": "el tastaolletes",
+    "assignment1_la_xeix": "les xeixs",
+    "assignment1_explanation": "<fuzzy>1. Articles: - `el` (masculine), `els` (plural masculine) - `la` (feminine), `les` (plural feminine)\n2. Stress Marking: - `\\`` on `e`, `o`, `a`. - `´` on `i`, `u`. - If a word ends in `-s` and the stress is not penultimate, it is marked explicitly.\n3. Plural Forms: - Masculine nouns: `-os` if stressed on the last syllable, `-s` otherwise. - Feminine nouns: Only `-s`.",
+    "assignment2": "<fuzzy>The marks ` and ´ are used when the stress falls on a non-default syllable.",
+    "assignment3": "<fuzzy>Without the marks, stress is penultimate if the word ends in `-s`, otherwise it is final."
+  },
+  "explanation": {
+    "rules": "1. Articles. The problem features words with the articles el (pl. els) and la (pl. les).\nClearly these articles precede masculine and feminine nouns, respectively; \nthis can be seen, among other things, from the words ‘meaning (male) follower’ and ‘(female) follower'.\n2. Stress. We can see that the mark ` is placed over e, o, a and the mark ´ over i, u.\nExamining the words ending in -s, we notice that the stress marks in them are placed on the last syllable or the third one from the end. \nWe can assume that in such words the stressed syllable is usually the penultimate, and the stress is explicily marked when it is not. \nIn all other words stress usually falls on the last syllable, and is marked when it does not.\n3. Plural. We see that the ending -s mentioned in the statement of the problem is not added to words whose singular form already ends in s. \nAlso, in the problem there are words with the plural ending -os. \nLet us dride all words into groups according to their gender, final consonant and plural ending:\n*  Final consonant: -s\nmasculine plural in -s: el cactus, el pàncrees\nfeminine plural in -s: la càries, la trencadís\nmasculine plural in -os: el gimnàs, el permís, el vas\nfeminine plural in -os: (none listed)\n* Final consonant: -x\nmasculine plural in -s: el apèndix, el índex\nfeminine plural in -s: la hèlix\nmasculine plural in -os: el flux, el suffix, el teix\nfeminine plural in -os: (none listed)\n* Final consonant: -ç\nmasculine plural in -s: (none listed)\nfeminine plural in -s: la faç, (la sequaç)\nmasculine plural in -os: el contumaç, el pedaç, (el sequaç)\nfeminine plural in -os: (none listed)\n\nWe see that feminine nouns can only have the ending -s (0 after s) in the plural, \nwhile masculine nouns get –os if they are stressed on the last (or only) syllable, –s (0 after s) otherwise",
+    "rule_checklist": [
+      "Articles. The problem features words with the articles el (pl. els) and la (pl. les). Clearly these articles precede masculine and feminine nouns, respectively; this can be seen, among other things, from the words ‘meaning (male) follower’ and ‘(female) follower'.",
+      "Stress. We can see that the mark ` is placed over e, o, a and the mark ´ over i, u. Examining the words ending in -s, we notice that the stress marks in them are placed on the last syllable or the third one from the end. We can assume that in such words the stressed syllable is usually the penultimate, and the stress is explicily marked when it is not. In all other words stress usually falls on the last syllable, and is marked when it does not.",
+      "Plural. We see that the ending -s mentioned in the statement of the problem is not added to words whose singular form already ends in s. Also, in the problem there are words with the plural ending -os. Let us dride all words into groups according to their gender, final consonant and plural ending: * Final consonant: -s masculine plural in -s: el cactus, el pàncrees feminine plural in -s: la càries, la trencadís masculine plural in -os: el gimnàs, el permís, el vas feminine plural in -os: (none listed) * Final consonant: -x masculine plural in -s: el apèndix, el índex feminine plural in -s: la hèlix masculine plural in -os: el flux, el suffix, el teix feminine plural in -os: (none listed) * Final consonant: -ç masculine plural in -s: (none listed) feminine plural in -s: la faç, (la sequaç) masculine plural in -os: el contumaç, el pedaç, (el sequaç) feminine plural in -os: (none listed)",
+      "We see that feminine nouns can only have the ending -s (0 after s) in the plural, while masculine nouns get –os if they are stressed on the last (or only) syllable, –s (0 after s) otherwise"
+    ]
+  }
+}

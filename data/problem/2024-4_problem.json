@@ -1,0 +1,88 @@
+{
+  "id": "2024-4",
+  "title": "Problem 4",
+  "content": "Here are some word combinations in Dâw and their English translations:\n\n1. çʉm ’aa’\n2. dâw çʉʉm\n3. dâw nõr\n4. dâw nõr keet\n5. dâw tôog\n6. dâw sôb pis piis\n7. dâw tôoj\n8. dôo’ piis\n9. sôb dak\n10. suk ’aa’\n\nA. ring\nB. mouth\nC. flip-flops\nD. little finger\nE. to decrease (something)\nF. daughter\nG. can of flour\nH. tongue\nI. foot\nJ. nose\n\nHere are some more word combinations in Dâw and their English translations, again in arbitrary order:\n\n11. be keet\n12. be tʉm\n13. yak yaa’\n14. yak nâax\n15. nâx pôog\n16. nâx taax\n17. taax ’uuy\n18. tʉm tâag\n19. yon ’uuy\n20. yon tôoj\n\nK. domesticated tapir\nL. capybara\nM. leaf\nN. glasses (spectacles)\nO. revolver\nP. main river\nQ. seed\nR. domesticated anteater\nS. tucupi\nT. macaxeira\n\n**(a)** Determine the correct correspondences.\n\n**(b)** Translate into English:\n21. dâw sôb piis\n22. dâw sôob pis\n23. dâw çʉm piis\n\n**(c)** Translate into Dâw:\n24. brook, stream\n25. little tapir\n26. eye\n27. granddaughter (daughter’s daughter)\n\n*The Dâw language belongs to the Naduhup family. It is spoken by approx. 140 people in the Brazilian state of Amazonas. ç ≈ k in king, but pronounced further forward in the mouth using the hard palate. j ≈ g in gift, but pronounced further forward in the mouth using the hard palate. r = h in hope. s = sh in shine. x = ch in loch or Bach. y = y in yolk. ’ is the so-called glottal stop (a brief blocking of the flow of air in the\nthroat). ◌̃ = nasalised sound. â, ô and ʉ are vowels. A double vowel (including âa, ôo) indicates falling or rising tone.\nCapybaras, tapirs, and anteaters are mammals found in Brazil. Capybaras are known for living in the margins of lakes, rivers, and swamps. Anteaters are known for their long noses, used to collect ants. (See next page for images.) Tucupi is a strong-tasting liquid extracted from the manioc tuber by squeezing. Macaxeira is a kind of manioc known for being less toxic.\n—João Henrique Oliveira Fontes (consultant: Karolin Obert)\n\n\n---",
+  "answer_format": {
+    "a_1": {
+      "type": "string"
+    },
+    "a_2": {
+      "type": "string"
+    },
+    "a_3": {
+      "type": "string"
+    },
+    "a_4": {
+      "type": "string"
+    },
+    "a_5": {
+      "type": "string"
+    },
+    "a_6": {
+      "type": "string"
+    },
+    "a_7": {
+      "type": "string"
+    },
+    "a_8": {
+      "type": "string"
+    },
+    "a_9": {
+      "type": "string"
+    },
+    "a_10": {
+      "type": "string"
+    },
+    "a_11": {
+      "type": "string"
+    },
+    "a_12": {
+      "type": "string"
+    },
+    "a_13": {
+      "type": "string"
+    },
+    "a_14": {
+      "type": "string"
+    },
+    "a_15": {
+      "type": "string"
+    },
+    "a_16": {
+      "type": "string"
+    },
+    "a_17": {
+      "type": "string"
+    },
+    "a_18": {
+      "type": "string"
+    },
+    "a_19": {
+      "type": "string"
+    },
+    "a_20": {
+      "type": "string"
+    },
+    "b_21": {
+      "type": "string"
+    },
+    "b_22": {
+      "type": "string"
+    },
+    "b_23": {
+      "type": "string"
+    },
+    "c_24": {
+      "type": "string"
+    },
+    "c_25": {
+      "type": "string"
+    },
+    "c_26": {
+      "type": "string"
+    },
+    "c_27": {
+      "type": "string"
+    }
+  }
+}

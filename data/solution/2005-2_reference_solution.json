@@ -1,0 +1,25 @@
+{
+  "id": "2005-2",
+  "answer": {
+    "dyè_ɔ̀t": "floor",
+    "dyè_tyɛ̀n": "sole of foot",
+    "gìn": "garment",
+    "gìn_wìc": "hat",
+    "ɲíg": "grain",
+    "ɲíg_wàŋ": "eyeball",
+    "ɔ̀t_cɛ̀m": "restaurant",
+    "wìc_ɔ̀t": "roof",
+    "cɛ̀m": "eating",
+    "dyè": "bottom",
+    "window": "wàŋ ɔ̀t"
+  },
+  "explanation": {
+    "rules": "We can see from the statement of the problem that some things named by one English word take a two-word phrase to say in Lango. \nLet us try to represent the English nouns as phrases, too, or better, as combinations of meanings. \nThus the meaning 'house' is contained in the concepts roof, floor and restaurant, 'top' or head' in roofand hat, \"bottom' in floor and sole; \nfurthermore hat contains the meaning of garment, and eyeball, perhaps, of grain.\nWe also determine the order of the words in the Lango phrases: possessed -possessor (hat = gìn wìc 'garment of the head but roof = wìc ɔ̀t 'head of the house).",
+    "rule_checklist": [
+      "We can see from the statement of the problem that some things named by one English word take a two-word phrase to say in Lango.",
+      "Let us try to represent the English nouns as phrases, too, or better, as combinations of meanings.",
+      "Thus the meaning 'house' is contained in the concepts roof, floor and restaurant, 'top' or head' in roofand hat, \"bottom' in floor and sole; furthermore hat contains the meaning of garment, and eyeball, perhaps, of grain.",
+      "We also determine the order of the words in the Lango phrases: possessed -possessor (hat = gìn wìc 'garment of the head but roof = wìc ɔ̀t 'head of the house)."
+    ]
+  }
+}

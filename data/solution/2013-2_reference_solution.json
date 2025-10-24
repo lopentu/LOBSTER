@@ -1,0 +1,44 @@
+{
+  "id": "2013-2",
+  "answer": {
+    "a_ilennime": "herd of deer",
+    "a_joqonnime": "wooden house",
+    "a_saancohoje": "wooden knife",
+    "a_johudawur": "nose case",
+    "a_ilenlegul": "deer feed",
+    "a_cireme": "bird",
+    "a_johul": "nose",
+    "a_aariinmøŋer": "gunshot",
+    "a_joqodile": "horse",
+    "a_møŋer": "thunder",
+    "a_ciremennime": "nest",
+    "a_joqoncohoje": "Yakut knife",
+    "a_saadoŋoj": "wooden box",
+    "a_uoduo": "grandchild",
+    "a_oŋoj": "bag",
+    "a_aariinjohul": "rifle’s muzzle",
+    "a_uodawur": "cradle",
+    "a_joqol": "Yakut person",
+    "b_aarii": "rifle",
+    "b_aariidoŋoj": "rifle case",
+    "b_ciremedawur": "nest",
+    "b_ile": "deer",
+    "b_johudewce": "tip of nose",
+    "b_legul": "food",
+    "b_saal": "wood",
+    "b_saannime": "wooden house",
+    "b_uo": "child",
+    "c_1": "cuoncireme",
+    "c_2": "johunmøŋer",
+    "c_3": "cohojedewce",
+    "c_4": "legudoŋoj"
+  },
+  "explanation": {
+    "rules": "The compound noun has the following structure: \nmodifier (-l is lost) + {-d- (before a vowel), -n- (before a consonant)} + modified.",
+    "rule_checklist": [
+      "The compound noun has the following structure: modifier (-l is lost)",
+      "The compound noun has the following structure: {-d- (before a vowel), -n- (before a consonant)}",
+      "The compound noun has the following structure: modified"
+    ]
+  }
+}

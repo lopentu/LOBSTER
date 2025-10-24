@@ -1,0 +1,32 @@
+{
+  "id": "2024-1",
+  "answer": {
+    "a_19": "you(sg) lead him",
+    "a_20": "you(du) will bite me",
+    "a_21": "I caught them(pl)",
+    "a_22": "I will wait for you(pl)",
+    "a_23": "we(pl) send him",
+    "b_24": "jelhuŋnet",
+    "b_25": "mətəjgolan",
+    "b_26": "kenakmellaŋtək",
+    "b_27": "nekunŋivŋətək",
+    "b_28": "inelletək"
+  },
+  "explanation": {
+    "rules": "Structure of the verb form: \n1. subject (t- 1st person sg, mət- 1st person du/1st person pl, ∅- 2nd person sg, ne- 3rd person du=3rd person pl) \n2. ə materialises here if and only if needed to avoid a cluster of two consonants word-initially or word-finally, or a cluster of three consonants in any position. \n3. tense (ku- present, je- future, ∅- past) \n4. ine-: direct object = 1st person sg (subject = 2nd person du/2nd person pl) \n5. verb root \n6. -la: subject/direct object = 1st person pl/2nd person pl \n7. tense (-ŋ present/future, -∅ past) \n8. ə materialises here if and only if needed to avoid a cluster of two consonants word-initially or word-finally, or a cluster of three consonants in any position. \n9. -tək: subject = 2nd person du/2nd person pl (direct object = 1st person sg); direct object (-tək 2nd person du/2nd person pl, -n 3rd person sg, -net 3rd person du, -new 3rd person pl) \n\nSound changes: \n1. the final vowel of a prefix is lost before another vowel; \n2. t+j > cc, t+l > ll, t+n > nn, t+ŋ > ņŋ; \n3. if a is present, all e/i/u in the word become a/e/o, respectively.",
+    "rule_checklist": [
+      "Structure of the verb form: 1. subject (t- 1st person sg, mət- 1st person du/1st person pl, ∅- 2nd person sg, ne- 3rd person du=3rd person pl)",
+      "Structure of the verb form: 2. ə materialises here if and only if needed to avoid a cluster of two consonants word-initially or word-finally, or a cluster of three consonants in any position.",
+      "Structure of the verb form: 3. tense (ku- present, je- future, ∅- past)",
+      "Structure of the verb form: 4. ine-: direct object = 1st person sg (subject = 2nd person du/2nd person pl)",
+      "Structure of the verb form: 5. verb root",
+      "Structure of the verb form: 6. -la: subject/direct object = 1st person pl/2nd person pl",
+      "Structure of the verb form: 7. tense (-ŋ present/future, -∅ past)",
+      "Structure of the verb form: 8. ə materialises here if and only if needed to avoid a cluster of two consonants word-initially or word-finally, or a cluster of three consonants in any position.",
+      "Structure of the verb form: 9. -tək: subject = 2nd person du/2nd person pl (direct object = 1st person sg); direct object (-tək 2nd person du/2nd person pl, -n 3rd person sg, -net 3rd person du, -new 3rd person pl)",
+      "Sound changes: 1. the final vowel of a prefix is lost before another vowel;",
+      "Sound changes: 2. t+j > cc, t+l > ll, t+n > nn, t+ŋ > ņŋ;",
+      "Sound changes: 3. if a is present, all e/i/u in the word become a/e/o, respectively."
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "2022-3",
+  "title": "Problem 3",
+  "content": "(20 points)\n\nHere are some sentences in Nǀuuki and their English translations:\n\n1. ǂoo ŋǀii ŋ —Does the man see me?\n2. ɡǀa ǃaukea ŋ ŋǀŋ —Are you_{sg} afraid of me?\n3. cuu xae a ǂʔii ŋǁa —Whom do you_{sg} think about?\n4. u ǁãu ke ǁu ǀqhõʕo —Your_{pl} brother does not dance.\n5. ɟanasa xae ǂqheeke — Is it the thief who sings?\n6. ŋǀŋ si sĩisen ŋ ǃhaeke —Will I work tomorrow?\n7. ǂhun ke ǃaukea ŋ ɡǀi — The dog is afraid of us.\n8. na ǁu ǂʔii ŋ ɡǀa xaŋki — I do not think about your_{sg} mother.\n9. ɡǀi aŋki si ǀqhõʕo ŋ ɡǃari —Will our father dance in Upington?\n10. kiɟa xae ǂoo sĩisen ŋǁa —Where does the man work?\n11. ɡǀa ŋǀii a ŋǁŋ —Do you_{sg} see your_{sg} house?\n12. ŋǀŋ xae a ǃʔai — Is it me whom you_{sg} call?\n13. u kee ǀeeki ǂʔii ŋǁa — It is you_{pl} whom the woman thinks about.\n14. a xaŋki ke kacuuʔi ŋ ɡǀa ts’aaʔa ŋ —Your_{sg} mother asks if you_{sg} like me.\n15. kama ɟa xae ŋ si ŋǀii u ŋǁa —When will I see you_{pl}?\n16. ŋ ǃuu ke kacuuʔi ŋ ŋǀŋ si ǂqheeke ŋ ǃhaeke —My grandfather asks if I will sing tomorrow.\n\n(a) Translate into English:\n\n17. na kacuuʔi ŋ ɡǀu xae ŋ ǃuu ǃʔai\n18. na ǁu si sĩisen ŋ ɡǃari\n19. ǀeeki ke ǃaukea ŋ ŋǀŋ ǂhun\n20. ŋ kee si ǃʔai a\n21. cuu xae u ŋǀii\n22. cuu xae ts’aaʔa ŋ\n\n(b) Translate into Nǀuuki:\n\n23. Our mother will not call your_{sg} brother.\n24. It is you_{sg} whom my dog is afraid of.\n25. Where will you_{pl} sing?\n26. I ask if it is our grandfather whom you_{sg} think about.\n27. Who will dance tomorrow?\n28. Do you_{pl} see us?\n\n△! Nǀuuki (or Nǁng) belongs to the Tuu family. It is spoken in and around Upington (ɡǃari)\nin the Northern Cape province of South Africa. As of 2021, it has only one remaining native speaker.\nã, ĩi and õʕo are vowels. ɟ, ŋ, ts’ and ʔ are consonants. ǀ, ǃ, ǁ, ǂ and the combinations ɡǀ, ɡǃ, ŋǀ, ŋǁ, ǃh, ǁh, ǂh, ǀqh, ǂqh, ǃʔ and ǂʔ denote click consonants (in particular, ŋǀ and ŋǁ are nasal clicks). —Liam McKnight, Samuel Ahmed\n\n---",
+  "answer_format": {
+    "a_17": {
+      "type": "string"
+    },
+    "a_18": {
+      "type": "string"
+    },
+    "a_19": {
+      "type": "string"
+    },
+    "a_20": {
+      "type": "string"
+    },
+    "a_21": {
+      "type": "string"
+    },
+    "a_22": {
+      "type": "string"
+    },
+    "b_23": {
+      "type": "string"
+    },
+    "b_24": {
+      "type": "string"
+    },
+    "b_25": {
+      "type": "string"
+    },
+    "b_26": {
+      "type": "string"
+    },
+    "b_27": {
+      "type": "string"
+    },
+    "b_28": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "2010-2",
+  "answer": {
+    "a_caatr_nge_caako": "31",
+    "a_caatr_nge_caangömen": "26",
+    "a_caatr_nge_caaqaihano": "36",
+    "a_ekaatr_nge_ekengömen": "89",
+    "a_köniatr_nge_köniko": "73",
+    "a_köniatr_nge_könipi": "75",
+    "a_köniatr_nge_köniqaihano": "78",
+    "a_lueatr_nge_lue": "42",
+    "a_lueatr_nge_luako": "52",
+    "a_lueatr_nge_luepi": "50",
+    "b_1": "64 + 30 = 94",
+    "b_2": "7 + 12 = 19",
+    "c_1": "caatr nge caa",
+    "c_2": "lueatr nge köningömen",
+    "c_3": "ekaatr nge köni"
+  },
+  "explanation": {
+    "rules": "Rules:\n1. Numbers 1–4: `caa 1, lue 2, köni 3, eke 4`\n2. Multiples of 5, 10, 15: `β-pi = 5β` (1 ≤ β ≤ 3)\n3. Numbers 6–9, 11–14, 16–19: `α-ngömen = 5 + α`, `α-ko = 10 + α`, `α-qaihano = 15 + α` (1 ≤ α ≤ 4)\n4. Multiples of 20, 40, 60, 80: `γ-atr = 20γ` (1 ≤ γ); e.g., `caa-atr > caatr`, `eke-atr > ekaatr`.\n5. 21–39, 41–59, ... : `Γ nge ∆ = Γ+∆` (Γ = 20γ, 1 ≤ ∆ ≤ 19)",
+    "rule_checklist": [
+      "Numbers 1–4: `caa 1, lue 2, köni 3, eke 4`",
+      "Multiples of 5, 10, 15: `β-pi = 5β` (1 ≤ β ≤ 3)",
+      "Numbers 6–9, 11–14, 16–19: `α-ngömen = 5 + α`, `α-ko = 10 + α`, `α-qaihano = 15 + α` (1 ≤ α ≤ 4)",
+      "Multiples of 20, 40, 60, 80: `γ-atr = 20γ` (1 ≤ γ); e.g., `caa-atr > caatr`, `eke-atr > ekaatr`",
+      "21–39, 41–59, ... : `Γ nge ∆ = Γ+∆` (Γ = 20γ, 1 ≤ ∆ ≤ 19)"
+    ]
+  }
+}

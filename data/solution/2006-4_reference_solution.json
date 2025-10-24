@@ -1,0 +1,32 @@
+{
+  "id": "2006-4",
+  "answer": {
+    "Assignment1_1": "your son’s money",
+    "Assignment1_2": "thy stool leg",
+    "Assignment1_3": "thy stool’s leg",
+    "Assignment2_1": "b’ata wo:ni",
+    "Assignment2_2": "bu naktaŋiu",
+    "Assignment2_3": "bi azigaŋi mo:ŋini",
+    "Assignment3_1": "<fuzzy>Yes, 'my udder' (when a cow speaks)",
+    "Assignment3_2": "<fuzzy>Yes, 'your son's leg' (not his own, though, but perhaps a chicken's leg belonging to him)",
+    "Assignment3_3": "<fuzzy>No, 'my tail' would be si igi:",
+    "Assignment4_1": "my skin",
+    "Assignment4_2": "my skin",
+    "Assignment4_explanation": "<fuzzy>bi tekpui means the skin of my body, while bi tekpuŋi: means an animal’s skin belonging to me."
+  },
+  "explanation": {
+    "rules": "The problem features nouns and personal pronouns. \nThree pronouns are given in the data,\nthe fourth (required in Assignment 2) will have to be constructed by analogy:\n* 1st person single: bi\n* 1st person plural: (bu)\n* 2nd person single: si\n* 2ns person single: su \n\nAll expressions in the problem denote something (X) belonging to someone or something else (Y). \nThe possessor (Y) comes first, unmarked. \nThe possessee (X) reccives a suffix (-i, -ni, -u) indicating the possessor's person and number. \nThis marker may be preceded by the suffix -ni, which indicates that the possession is alienable (that is, the possessed and the possessor are not in a part-whole relationship). \nTwo occurrences of the vowel i merge into i: on a suffix boundary.\nIf there are two possessors with different possessees (e.g, 'thy son's shoulder), each gets the appropriate sulfixes. \nIf there are two possssors with the same possessee ('my boar head', 'rour cow thigh), the possessee gets a suffix which indicates the current possessor, that is, the of which it is not a part.\nLet us summarise all of this in a table:\n \n* possessor: Sg (1st or 2nd person) \n* possessee: Y X-(ŋi)-i \n* examples: \nbi wo:i, si bogdoloi\nbi mo:ŋi:, si ja:ŋi:\nbi nakta diliŋi:, si b'ataŋi: bogdoloni\n* possessor: Sg (3rd person)\n* possessee: Y X-(ŋi)-i \n* examples: \nja: xabani, dili tekpuni\nb'ata zä:ŋini\nsi b'ataŋi: bogdoloni\n* possessor: Pl (1st or 2nd person) \n* possessee: Y X-(ŋi)-u\n* examples: \nsu zä:ŋiu, su ja: wo:ŋiu",
+    "rule_checklist": [
+      "The problem features nouns and personal pronouns.",
+      "Three pronouns are given in the data, the fourth (required in Assignment 2) will have to be constructed by analogy: * 1st person single: bi * 1st person plural: (bu) * 2nd person single: si * 2ns person single: su",
+      "All expressions in the problem denote something (X) belonging to someone or something else (Y).",
+      "The possessor (Y) comes first, unmarked.",
+      "The possessee (X) reccives a suffix (-i, -ni, -u) indicating the possessor's person and number.",
+      "This marker may be preceded by the suffix -ni, which indicates that the possession is alienable (that is, the possessed and the possessor are not in a part-whole relationship).",
+      "Two occurrences of the vowel i merge into i: on a suffix boundary.",
+      "If there are two possessors with different possessees (e.g, 'thy son's shoulder), each gets the appropriate sulfixes.",
+      "If there are two possssors with the same possessee ('my boar head', 'rour cow thigh), the possessee gets a suffix which indicates the current possessor, that is, the of which it is not a part.",
+      "Let us summarise all of this in a table: * possessor: Sg (1st or 2nd person) * possessee: Y X-(ŋi)-i * examples: bi wo:i, si bogdoloi bi mo:ŋi:, si ja:ŋi: bi nakta diliŋi:, si b'ataŋi: bogdoloni * possessor: Sg (3rd person) * possessee: Y X-(ŋi)-i * examples: ja: xabani, dili tekpuni b'ata zä:ŋini si b'ataŋi: bogdoloni * possessor: Pl (1st or 2nd person) * possessee: Y X-(ŋi)-u * examples: su zä:ŋiu, su ja: wo:ŋiu"
+    ]
+  }
+}

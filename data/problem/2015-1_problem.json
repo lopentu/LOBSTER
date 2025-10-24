@@ -1,0 +1,67 @@
+{
+  "id": "2015-1",
+  "title": "Problem 1",
+  "content": "(20 points)\n\nNahuatl:\n1. mahtlactli-on-cë × mahtlactli = mäcuïl-pöhualli-om-mahtlactli\n2. cem-pöhualli × öme = öm-pöhualli\n3. yë-pöhualli-on-chicöme + mahtlactli-on-nähui = näuh-pöhualli-on-cë\n4. mäcuïlli + öme = chicöme\n5. mahtlactli-om-ëyi × ëyi = cem-pöhualli-on-caxtölli-on-nähui\n6. mäcuïlli × ëyi = caxtölli\n\nArammba:\n7. ngámbi + ngámbi = ngámbi × yànparo\n8. ngámbi + asàr = tambaroy\n9. yànparo tàxwo + fete asàr tàxwo = yànparo fete\n10. yenówe × yenówe tàxwo = fete yenówe tàxwo\n11. nimbo × fete = tarumba\n12. nimbo + yànparo tàxwo = yenówe tàxwo\n\nNahuatl and Arammba:\n13. yë-tzontli-on-näuh-pöhualli-on-caxtölli-on-cë = ndamno\n14. cen-tzontli-on-cem-pöhualli-om-mahtlactli-om-öme = yànparo tarumba\n15. cen-tzontli = tarumba tambaroy fete asàr\n16. cen-xiquipilli = weremeke tarumba nimbo yànparo\n\n(a) Write the equalities (1–12) and the numbers (13–16) in numerals.\n\n(b) Write out in Nahuatl: 42; 494.\n\n(c) Write out in Arammba: 43; 569.\n\n△! Classical Nahuatl, of the Uto–Aztecan family, was the language of the Aztec Empire in Mexico.\nThe Arammba language (also called Serki, Serkisetavi, or Upper Morehead) belongs to the South-Central Papuan family. It is spoken by approx. 970 people in Papua New Guinea. —Milena Veneva\n\n* * *",
+  "answer_format": {
+    "a_1": {
+      "type": "string"
+    },
+    "a_2": {
+      "type": "string"
+    },
+    "a_3": {
+      "type": "string"
+    },
+    "a_4": {
+      "type": "string"
+    },
+    "a_5": {
+      "type": "string"
+    },
+    "a_6": {
+      "type": "string"
+    },
+    "a_7": {
+      "type": "string"
+    },
+    "a_8": {
+      "type": "string"
+    },
+    "a_9": {
+      "type": "string"
+    },
+    "a_10": {
+      "type": "string"
+    },
+    "a_11": {
+      "type": "string"
+    },
+    "a_12": {
+      "type": "string"
+    },
+    "a_13": {
+      "type": "string"
+    },
+    "a_14": {
+      "type": "string"
+    },
+    "a_15": {
+      "type": "string"
+    },
+    "a_16": {
+      "type": "string"
+    },
+    "b_42": {
+      "type": "string"
+    },
+    "b_494": {
+      "type": "string"
+    },
+    "c_43": {
+      "type": "string"
+    },
+    "c_569": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "2017-5",
+  "title": "Problem 5",
+  "content": "### Problem 5\n\n(20 points)\n\nHere are some words in Madak and their English translations:\n\n| Madak                    | Translation                 |\n|--------------------------|-----------------------------|\n| lavatbungmenemen         | the whole world             |\n| laxangkatli              | many eyes                   |\n| laxanoos                 | many vines                  |\n| laxao                    | fire                        |\n| lemparoos                | big vines                   |\n| lengkompixan             | songs                       |\n| levempeve                | hearts                      |\n| levenaleng               | days                      |\n| levengkot                | places                      |\n| levenmenemen             | villages                    |\n| livixan                  | singing (noun)              |\n| loroonan                 | spirit                      |\n| loxongkao                | hot coal (ember)            |\n| loxontaamang             | part of a garden            |\n| lualeng                  | two days                    |\n| lubungtadi               | group of men                |\n| luneton                  | two brothers; two sisters   |\n| lurubuno                 | grandchild                  |\n| luuna                    | tree                        |\n| luvanga                  | two things                  |\n| luvatpeve                | two big hearts              || luvutneton               | brothers; sisters           |\n| luvuttadi                | men                         |\n| luxavus                  | two white men               |\n\n(a) Give a literal translation of the word lavatbungmenemen.\n\n(b) Translate into English:\n\n1. laradi  \n2. lavatkonuna  \n3. laxantoonan  \n4. levengkatli  \n5. loxot  \n6. lubungkavus  \n7. luvaroos  \n\n(c) Translate into Madak:\n\n8. heart  \n9. gardens  \n10. many things  \n11. grandchildren  \n12. two parts of day (two moments)  \n13. branches  \n14. big branches  \n\n△! Madak belongs to the Meso-Melanesian group of the Malayo-Polynesian branch of the Austronesian family. It is spoken by approx. 3,000 people in Papua New Guinea (New Ire- land).\nng = ng in hang. x is the voiced counterpart of ch in Scottish loch or German Bach. —Ivan Derzhanski\n\n---",
+  "answer_format": {
+    "a": {
+      "type": "string"
+    },
+    "b_1": {
+      "type": "string"
+    },
+    "b_2": {
+      "type": "string"
+    },
+    "b_3": {
+      "type": "string"
+    },
+    "b_4": {
+      "type": "string"
+    },
+    "b_5": {
+      "type": "string"
+    },
+    "b_6": {
+      "type": "string"
+    },
+    "b_7": {
+      "type": "string"
+    },
+    "c_8": {
+      "type": "string"
+    },
+    "c_9": {
+      "type": "string"
+    },
+    "c_10": {
+      "type": "string"
+    },
+    "c_11": {
+      "type": "string"
+    },
+    "c_12": {
+      "type": "string"
+    },
+    "c_13": {
+      "type": "string"
+    },
+    "c_14": {
+      "type": "string"
+    }
+  }
+}

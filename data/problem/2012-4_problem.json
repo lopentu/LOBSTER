@@ -1,0 +1,34 @@
+{
+  "id": "2012-4",
+  "title": "Problem 4",
+  "content": "(20 points)\nHere are some sentences in Teop and their English translations:\n\n| Teop                                  | English                                |\n|---------------------------------------|----------------------------------------|\n| Ean paa tasu anaa.                    | You (sg.) struck me.                   |\n| Eove paa ani bona iana.               | He ate the fish.                       |\n| Enam paa tasu a beiko.                | We struck the child.                   |\n| A otei paa tara bona kae.             | The man saw the bag.                   |\n| A visoasi paa asun bona.              | The boy killed him.                    |\n| Enaa paa tara a taba’ani.             | I saw the food.                        |\n| Eam paa baitono e.                    | You (pl.) heard him.                   |\n| Enaa paa hee a otei bona overe.       | I gave the coconut to the man.         |\n| A moon paa hee ameam bona taba’ani.   | The woman gave the food to you (pl.).  |\n| Enaa paa tasu vuan a vasu.            | I struck you (sg.) with the stone.     |\n| Eori paa asun bona moon bona toraara. | They killed the woman with the axe.    |\n| Enam paa dao a visoasi bona oraoraa.  | We called the boy a sorcerer.          |\n\n(a) Translate into English:\n13. Eam paa ani a overe.  \n14. Ean paa tasu a oraoraa bona kae.  \n15. Eove paa tara ameam.  \n\n\n(b) Translate into Teop:\n16. We gave the food to you (sg.).  \n17. He called me a child.  \n18. I killed him with it (lit. with him).  \n19. The sorcerer gave the fish to the boy.  \n\n\nLater the linguist recorded spontaneous speech in Teop and added some information into the grammar. Here are some extracts from the dialogues in Teop as well as their English translations. The context in which the sentences were uttered is given in brackets.\n\n20. (What happened to the woman then?)\n- A moon paa tara bona oraoraa. (The woman saw the sorcerer.)\n21. (Why wasn’t there any food left?)\n- A taba’ani paa ani nam. (We ate the food.)\n22. (Why did the boy cry so bitterly?)\n- A visoasi paa tasu a otei bona overe. (The man struck the boy with the coconut.)\n23. (Where is the bag?)\n- A kae paa hee naa a beiko. (I gave the bag to the child.)\n\n(c) Translate the sentences outside the brackets into Teop:\n24. (Why was the sorcerer offended?) They called the sorcerer a woman.\n25. (Why is this axe wet?) The boy killed the fish with the axe.\n\n△! The Teop language belongs to the Austronesian family. It is spoken by approx. 5000\n\n---",
+  "answer_format": {
+    "a_13": {
+      "type": "string"
+    },
+    "a_14": {
+      "type": "string"
+    },
+    "a_15": {
+      "type": "string"
+    },
+    "b_16": {
+      "type": "string"
+    },
+    "b_17": {
+      "type": "string"
+    },
+    "b_18": {
+      "type": "string"
+    },
+    "b_19": {
+      "type": "string"
+    },
+    "c_24": {
+      "type": "string"
+    },
+    "c_25": {
+      "type": "string"
+    }
+  }
+}

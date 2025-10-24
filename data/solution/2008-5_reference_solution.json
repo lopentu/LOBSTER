@@ -1,0 +1,30 @@
+{
+  "id": "2008-5",
+  "answer": {
+    "a_1": "The wolf saw your shaman.",
+    "a_2": "Your polar bear hurt a boy.",
+    "a_3": "Your hunter cured himself.",
+    "a_4": "You shot the teacher.",
+    "a_5": "You came.",
+    "a_6": "You cured a hunter.",
+    "b_1": "Angatkuup aanniqtaatit.",
+    "b_2": "Ilinniaqtitsijiup inuuhuktuq takujanga.",
+    "b_3": "Amaruit ukiakhaqtuq.",
+    "b_4": "Qingmirmik qukiqsijutit.",
+    "b_5": "Qingmiit ilinniaqtitsijimik aanniqsijuq."
+  },
+  "explanation": {
+    "rules": "1. General Structure:\n- `X-(q) V–` — `X V (himself).`\n- `X-(q) Y-(r)mik V-si–` — `X V a Y.`\n- `X-up Y-(q) V–` — `X V the Y.`\n\n2. Noun Endings:\n- `-q` for definite object or subject (no definite object).\n- `-r-mik` for indefinite object.\n- To say ‘your,’ replace `-q` with `-it` and `-up` with `-vit`.\n\n3. Verb Suffixes:\n- `-j` following a vowel, `-t` following a consonant.\n- Person-specific endings for subject and definite object:\n- First two patterns: `-u-tit` (2nd person), `-u-q` (3rd person).\n- Third pattern: `-a-it` (2/3), `-a-nga` (3/3), `-a-atit` (3/2).",
+    "rule_checklist": [
+      "General Structure: X-(q) V– — X V (himself).",
+      "General Structure: X-(q) Y-(r)mik V-si– — X V a Y.",
+      "General Structure: X-up Y-(q) V– — X V the Y.",
+      "Noun Endings: -q for definite object or subject (no definite object).",
+      "Noun Endings: -r-mik for indefinite object.",
+      "Noun Endings: To say ‘your,’ replace -q with -it and -up with -vit.",
+      "Verb Suffixes: -j following a vowel, -t following a consonant.",
+      "Verb Suffixes: Person-specific endings for subject and definite object: First two patterns: -u-tit (2nd person), -u-q (3rd person).",
+      "Verb Suffixes: Person-specific endings for subject and definite object: Third pattern: -a-it (2/3), -a-nga (3/3), -a-atit (3/2)."
+    ]
+  }
+}

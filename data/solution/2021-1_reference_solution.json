@@ -1,0 +1,24 @@
+{
+  "id": "2021-1",
+  "answer": {
+    "a_1": "480",
+    "a_2": "39",
+    "a_3": "186",
+    "b_1": "<select1,1,2>['ena']",
+    "b_2": "<select2,1,2>['ijema rati', 'ije mepina']",
+    "b_3": "<select1,1,2>['benomima mepina']",
+    "b_4": "<select1,1,2>['wima mepija daemita moeto']",
+    "b_5": "<select1,1,2>['moeto wi ma wijama rati beo ka idibi']"
+  },
+  "explanation": {
+    "rules": "• ena 1, wija 2, wido 3, wi 4, idibi 5, benomi 6, waroewo 8, ije 9\n• rati 10, mepina 20, joka rati 30, mepija 40, rati beo 50, moeto 60\n• α-ma 10β = 10β + α (1 ≤ α ≤ 9, 1 ≤ β ≤ 5)\n• ije 10(β + 1) = ijema 10β (1 ≤ β ≤ 5)\n• γ daemita moeto = 60 + γ (1 ≤ γ ≤ 59)\n• moeto δ [ma γ ka (δ + 1)] = 60δ [+ γ] (1 ≤ γ ≤ 59, 2 ≤ δ ≤ 5)",
+    "rule_checklist": [
+      "ena 1, wija 2, wido 3, wi 4, idibi 5, benomi 6, waroewo 8, ije 9",
+      "rati 10, mepina 20, joka rati 30, mepija 40, rati beo 50, moeto 60",
+      "α-ma 10β = 10β + α (1 ≤ α ≤ 9, 1 ≤ β ≤ 5)",
+      "ije 10(β + 1) = ijema 10β (1 ≤ β ≤ 5)",
+      "γ daemita moeto = 60 + γ (1 ≤ γ ≤ 59)",
+      "moeto δ [ma γ ka (δ + 1)] = 60δ [+ γ] (1 ≤ γ ≤ 59, 2 ≤ δ ≤ 5)"
+    ]
+  }
+}

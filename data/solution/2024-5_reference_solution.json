@@ -1,0 +1,46 @@
+{
+  "id": "2024-5",
+  "answer": {
+    "a_15": "The man will run.",
+    "a_16": "The white man fed the dogs.",
+    "a_17": "<select1,1,1>['The boys are baking the bread.', 'The girls are baking the bread.', 'The children are baking the bread.']",
+    "a_18": "The woman is chasing the boy.",
+    "b_15": "men",
+    "b_16": "women",
+    "b_17": "unclear",
+    "b_18": "men",
+    "c_19_men": "ki-wakukulu karrilu-athama rra-ardu",
+    "c_19_women": "ji-wakukulu karrinju-athama rra-ardu",
+    "c_20_men": "rru-walkurulu jalanda-wudurrumanji li-bardibardi",
+    "c_20_women": "rru-walkurulu jalanda-wudurrumanji li-bardibardi",
+    "c_21_men": "ki-malbulu kilu-yabima yanyuwa",
+    "c_21_women": "nyu-malbulu kanyilu-yabima nya-yanyuwa",
+    "c_22_men": "wunala ka-wanila",
+    "c_22_women": "wunala ki-wanila"
+  },
+  "explanation": {
+    "rules": "Word order\nS V (where S = subject of an intransitive verb; V = verb)\nA-lu V P (where A = subject of a transitive verb; P = direct object)\n\nNoun:\n    women: P=rra-, S=rra-, A=rru-\n    (♀) men: P=nya-, S=nya-, A=nyu-\n    (♂) men = animals: P=ø-, S=ø-, A=ki-\n    (♀) animals: P=ø-, S=ø-, A=ji-\n    edible things: P=ma-, S=ma-\n    pl (plural): P=li-, S=li-, A=linji-\n\nVerb:\n1. Tense Prefix:\n    j- : present continuous\n    k- : future/past\n2. & 3. Object and Subject Prefixes:\n    women: P=arr-, S=anda-, A=anda-\n    (♀) men: P=any-, S=iwa-, A=ilu-\n    (♂) men = animals: P=ø-, S=a-, A=ilu-\n    (♀) animals: P=ø-, S=i-, A=inju-\n    edible things: P=ø-, S=ø-, A=ø-\n    pl (plural): P=al-, S=alu-, A=alu-\n4. Verb Root\n5. Tense Suffix:\n    -ø : past\n    -nji : present continuous\n    -la : future",
+    "rule_checklist": [
+      "Word order S V (where S = subject of an intransitive verb; V = verb)",
+      "Word order A-lu V P (where A = subject of a transitive verb; P = direct object)",
+      "Noun: women: P=rra-, S=rra-, A=rru-",
+      "Noun: (♀) men: P=nya-, S=nya-, A=nyu-",
+      "Noun: (♂) men = animals: P=ø-, S=ø-, A=ki-",
+      "Noun: (♀) animals: P=ø-, S=ø-, A=ji-",
+      "Noun: edible things: P=ma-, S=ma-",
+      "Noun: pl (plural): P=li-, S=li-, A=linji-",
+      "Verb: 1. Tense Prefix: j- : present continuous",
+      "Verb: 1. Tense Prefix: k- : future/past",
+      "Verb: 2. & 3. Object and Subject Prefixes: women: P=arr-, S=anda-, A=anda-",
+      "Verb: 2. & 3. Object and Subject Prefixes: (♀) men: P=any-, S=iwa-, A=ilu-",
+      "Verb: 2. & 3. Object and Subject Prefixes: (♂) men = animals: P=ø-, S=a-, A=ilu-",
+      "Verb: 2. & 3. Object and Subject Prefixes: (♀) animals: P=ø-, S=i-, A=inju-",
+      "Verb: 2. & 3. Object and Subject Prefixes: edible things: P=ø-, S=ø-, A=ø-",
+      "Verb: 2. & 3. Object and Subject Prefixes: pl (plural): P=al-, S=alu-, A=alu-",
+      "Verb: 4. Verb Root",
+      "Verb: 5. Tense Suffix: -ø : past",
+      "Verb: 5. Tense Suffix: -nji : present continuous",
+      "Verb: 5. Tense Suffix: -la : future"
+    ]
+  }
+}

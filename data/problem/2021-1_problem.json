@@ -1,0 +1,56 @@
+{
+  "id": "2021-1",
+  "title": "Problem 1",
+  "content": "(20 points)\n\nHere are some numerals in Ekari and their values:\n\n| Ekari                                    | Value  |\n|------------------------------------------|--------|\n| wija                                     | 2      |\n| benomima rati                            | 16     |\n| waroewoma joka rati                      | 38     |\n| ije mepija                               | 39     |\n| idibima rati beo                         | 55     |\n| mepina daemita moeto                     | 80     |\n| enama rati beo daemita moeto             | 111    |\n| moeto wija ma ije ka wido                | 129    |\n| moeto wija ma ije joka rati ka wido      | 149    |\n| moeto idibi ma widoma mepija ka benomi   | 343    |\n\n(a) Write in digits:\n\n- moeto waroewo\n- ijema joka rati\n- moeto wido ma benomi ka wi\n\nOne of these numerals has the same value as one of the numerals above.\n\n(b) Write out in Ekari: 1, 19, 26, 104, 292. One of these numbers can be expressed in two ways. Give them both.\n\n---",
+  "answer_format": {
+    "a_1": {
+      "type": "string"
+    },
+    "a_2": {
+      "type": "string"
+    },
+    "a_3": {
+      "type": "string"
+    },
+    "b_1": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 2,
+      "items": {
+        "type": "string"
+      }
+    },
+    "b_2": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 2,
+      "items": {
+        "type": "string"
+      }
+    },
+    "b_3": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 2,
+      "items": {
+        "type": "string"
+      }
+    },
+    "b_4": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 2,
+      "items": {
+        "type": "string"
+      }
+    },
+    "b_5": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 2,
+      "items": {
+        "type": "string"
+      }
+    }
+  }
+}

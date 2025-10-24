@@ -1,0 +1,34 @@
+{
+  "id": "2005-1",
+  "title": "Problem 1",
+  "content": "### Problem 1\n\n(20 marks)\n\nBelow you see sentences in the Tzotzil language (in the dialect of San Lorenzo Zinacantén) and their English translations:\n\n1. **“Oy ‘ox ‘ixim ta ana nax.**  \n   You had corn at home today.\n\n2. **Bu ‘oy ‘ox li Romin e ‘ok’ob?**  \n   Where will Domingo be tomorrow?\n\n3. **Ch’abal ‘ox chenek’ ta jp’in po‘ot.**  \n   Soon there will be no haricots in my pot.\n\n4. **Mi ‘oy ‘ox k’in ta Jobel ‘ok’ob?**  \n   Will there be a party in San Cristobal tomorrow?\n\n5. **“Oy chan-vun ta batz’i k’op ta Jobel.**  \n   There is a Tzotzil school in San Cristobal.\n\n6. **Mi ‘oy sbatz’i chi’il li Xun e?**  \n   Does Juan have a real friend?\n\n7. **Muk’ bu li Xunka e.**  \n   Juana is nowhere.\n\n8. **Oy ‘ox jlekil na po’ot.**  \n   I will soon have a good house.\n\n9. **Mi ‘oy ‘ox chan-vun ta Jobel junabi?**  \n   Was there a school in San Cristobal last year?\n\n10. **Mi ‘oy ‘ixim ta p’in lavie?**  \n    Is there corn in his pot?\n\n11. **Ch’abal schenek’ lavie.**  \n    He has no haricots today.\n\n12. **‘Oy “ox lekil vob ta k’in lavie.**  \n    There will be good music at the party today.\n\n13. **K’usi ‘oy ‘ox ta achan-vun volje?**  \n    What did you have at school yesterday?\n\n14. **Bu ‘oy ‘ox k’op nax?**  \n    Where was the talk today?\n\n15. **Ch’abal ‘ox schi’il li Romin e junabi.**  \n    Last year Domingo had no friend.\n\n- Assignment 1: Translate into English\n\n16. **Ch’abal alekil ‘ixim.**  \n17. **Mi ‘oy ‘ox vob ta k’in?**  \n18. **K’usi ‘oy ‘ox ta Mexico lavie?**  \n19. **‘Oy ‘ox k’op ta batz’i k’op ta jna volje.**\n\nIf you believe that some phrases may have several translations, give all of them.\n\n- Assignment 2: Translate into Tzotzil\n\n20. Where is the party today?  \n21. There was nothing in the pot today.  \n22. You have a real house.  \n23. Will Juana be in San Cristobal tomorrow?  \n24. He will soon have no pot.\n\n*Note: x is a consonant similar to s as in \"shoe\"; j is a consonant similar to ch as in \"loch\", or h as in \"have\"; p’, t’, tz’, ch’, k’, and c’ are specific Tzotzil consonants.*  \n*Tzotzil belongs to the Mayan family and is spoken by more than 100,000 people in Mexico.*\n\n---",
+  "answer_format": {
+    "16": {
+      "type": "string"
+    },
+    "17": {
+      "type": "string"
+    },
+    "18": {
+      "type": "string"
+    },
+    "19": {
+      "type": "string"
+    },
+    "20": {
+      "type": "string"
+    },
+    "21": {
+      "type": "string"
+    },
+    "22": {
+      "type": "string"
+    },
+    "23": {
+      "type": "string"
+    },
+    "24": {
+      "type": "string"
+    }
+  }
+}

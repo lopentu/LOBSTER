@@ -1,0 +1,39 @@
+{
+  "id": "2014-4",
+  "title": "Problem 4",
+  "content": "(20 points)\n\nHere are some short dialogs in Engenni and their English translations:\n\n1. edèì âno nwạ́sesè ozyí lẹlemù à?  \n   Will this man frighten the deceived thief?  \n   edèì ânò wei ga òkí nwạsese ozyí lẹlemù.  \n   This man said that he[this man] would not frighten the deceived thief.\n\n2. ạvùràmù kịnono amemùrè ânò à?  \n   Did the woman resemble this girl?  \n   ạvùràmù wei ga òkí kịnono amemùrè ânò.  \n   The woman said that she[the woman] did resemble this girl.\n\n3. ạmó lẹlemù ậnó wuese ạvùràmù à?  \n   Did this deceived child not kill the woman?  \n   ạmodhyòmù wei ga ò wuese ạvùràmù.  \n   The youth said that he[this deceived child] did kill the woman.\n\n4. edèí dhia gbúnonò ạmò à?  \n   Will the evil man heal the child?  \n   ạvùràmú kofilomù wei ga o gbúnonò ạmò.  \n   The coughing woman said that he[the evil man] would heal the child.\n\n5. amemùré dhiá kịnono opilopo ânò à?  \n   Did the evil girl not resemble this pig?  \n   ạvùràmù wei ga ọ́ kịnono opilopo ânò.  \n   The woman said that she[the evil girl] did not resemble this pig.\n\n6. ozyì gbunono okàá nụamù ậnò à?  \n   Did the thief heal this beaten old man?  \n   ozyì wei ga òkí gbunono okàá nụamù ậnò.  \n   The thief said that he[the thief] did not heal this beaten old man.\n\n7. ozyi âno kị́nonò edèí kofilomù à?  \n   Will this thief resemble the coughing man?  \n   ạmò ậnò wei ga ọ́ kịnono edèí kofilomù.  \n   This child said that he[this thief] would not resemble the coughing man.\n\n(a) Translate into English:\n\n8. edèì ânò nwạsese ozyi à?  \n   amemùrè wei ga ọ̀ nwạsese ozyi.\n\n9. amemùré lẹlemu wúesè ạmodhyòmù ậnò à?  \n   amemùré lẹlemù wei ga òki wúesè ạmodhyòmù ậnò.\n\nHere is also an answer in Engenni without a question for it:\n\n10. ozyi ânò wei ga ạmó gbunono edèì.\n\nTranslate it into English. If it can be translated in more than one way, provide all translations and explain your reasoning.\n\n(b) Translate into Engenni:\n\n11. Will the old man resemble this coughing youth?  \n    The child said that he[the old man] would not resemble this coughing youth.\n\n12. Did this beaten woman not frighten the man?  \n    This beaten woman said that she[this beaten woman] did not frighten the man.\n\n(c) If you were to compile an Engenni dictionary, what would the base forms of the words \"thief\" and \"girl\" be? Explain your answer.\n\n△! The Engenni language belongs to the Benue-Congo family. It is spoken by approx. 20,000 people in Nigeria.\nThe mark . underneath a word's first vowel indicates that all of the word's vowels are pronounced with apronounced with a slightly lowered tongue. The marks ˊ, ˋ and ˆ indicate high, low, and falling tone, respectively; if none is present, the syllable has middle tone.\n   -Arturs Semenuks\n\n\n* * *",
+  "answer_format": {
+    "a_8": {
+      "type": "string"
+    },
+    "a_9": {
+      "type": "string"
+    },
+    "a_10_translation": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 20,
+      "items": {
+        "type": "string"
+      }
+    },
+    "a_10_explanation": {
+      "type": "string"
+    },
+    "b_11": {
+      "type": "string"
+    },
+    "b_12": {
+      "type": "string"
+    },
+    "c_base_form_thief": {
+      "type": "string"
+    },
+    "c_base_form_girl": {
+      "type": "string"
+    },
+    "c_explanation": {
+      "type": "string"
+    }
+  }
+}

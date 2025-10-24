@@ -1,0 +1,33 @@
+{
+  "id": "2016-4",
+  "answer": {
+    "a_correspondence_1": "c",
+    "a_correspondence_2": "g",
+    "a_correspondence_3": "j",
+    "a_correspondence_4": "i",
+    "a_correspondence_5": "a",
+    "a_correspondence_6": "n",
+    "a_correspondence_7": "d",
+    "a_correspondence_8": "o",
+    "a_correspondence_9": "h",
+    "a_correspondence_10": "l",
+    "a_correspondence_11": "m",
+    "a_correspondence_12": "k",
+    "a_correspondence_13": "b",
+    "a_correspondence_14": "e",
+    "a_correspondence_15": "f",
+    "b_translate_vaala": "canoe",
+    "b_translate_gu": "water",
+    "b_translate_vi'": "to see",
+    "b_synonym_identify": "guna vaala",
+    "b_synonym_why": "<fuzzy>The word vaala is a synonym of guna vaala ‘canoe’. The later expression guna vaala (lit. ‘water canoe’) came into use because the Iatmül people were introduced to cars (and also planes), and vaala has slowly started to expand its meaning.",
+    "c_translate_pig": "bâk",
+    "c_translate_banana_leaves": "laavuga",
+    "c_translate_sun": "nya",
+    "c_translate_white_people": "walini’ba"
+  },
+  "explanation": {
+    "rules": "no-rule",
+    "rule_checklist": []
+  }
+}

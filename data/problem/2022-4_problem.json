@@ -1,0 +1,103 @@
+{
+  "id": "2022-4",
+  "title": "Problem 4",
+  "content": "### Problem 4\n\n(20 points)\n\nHere are the family trees of two families of Arabana speakers. \nIn these trees, siblings are arranged from oldest to youngest going from left to right:\n\nFamily Tree:\n\n1. Man 1 married Woman 2\n  - Their children:\n    -  Woman 6\n\n2. Man 3 married Woman 4\n  - Their children:\n    - Man 7\n\n3. Man 5 married Woman 6\n  - Their children:\n    - Woman 8\n\n4. Man 7 married Woman 8\n   - Their children:\n     - Woman 9\n     - Woman 11\n     - Woman 12\n     - Man 13 \n     - Woman 15\n\n5. Man 10 married Woman 11\n  - Their child:\n    - Man 16\n6. Man 13 married Woman 14\n  - Their child:\n    - Man 17\n\n7. Man 18 married Woman 19\n  - Their child:\n    - Man 20\n\n8. Man 20 married Woman 21\n   - Their children:\n     - Man 22\n     - Man 23\n     - Woman 24\n\nNow here are utterances from 22 of these people describing their relationships to some of their relatives:\n\nA: “D anthunha wardu.\nF anthunha . . . . . . . . . . . .(i).”\n\nB: “C anthunha nhuthi.\nD anthunha apityi.\nE anthunha nhuthi.\nG anthunha lhuka.”\n\nC: “B anthunha kupaka.\nD anthunha apityi.\nE anthunha kupaka.\nG anthunha lhuka.”\n\nD: “A anthunha lhuka.\nB anthunha piyaka.\nE anthunha . . . . . . . . . . .(ii).\nG anthunha nhupa.”\n\nE: “B anthunha kupaka.\nC anthunha nhuthi.\nG anthunha lhuka.”\n\nF: “A anthunha nhupa.”\nG: “C anthunha wardu.\nE anthunha wardu.”\n\nH: “N anthunha piyaka.\nO anthunha . . . . . . . . . .(iii).\nW anthunha . . . . . . . . . .(iv).”\n\nI: “V anthunha piyaka.”\nJ: “H anthunha apityi.\nL anthunha . . . . . . . . . . .(v).”\nK: “P anthunha . . . . . . . . . .(vi).”\nL: “K anthunha piyaka.\nU anthunha kaku.\nV anthunha kadnhini.\nW anthunha kadnhini.”\n\nM: “K anthunha wardu.\nL anthunha nhupa.”\n\nO: “H anthunha wardu.\nT anthunha amanyi.\nW anthunha nhupa.”\n\nP: “H anthunha nhupa.\nI anthunha . . . . . . . .(vii).\nV anthunha lhuka.”\n\nR: “H anthunha thanti.”\n\nS: “J anthunha thanti.\nL anthunha thanti.\nV anthunha nhupa.”\n\nT: “J anthun\nha kaku.\nL anthunha nhuthi.\nN anthunha kaku.\nS anthunha thanti.”\n\nU: “J anthunha kupaka.\nR anthunha . . . . . . . .(viii).\nV anthunha kadnhini.”\n\nV: “N anthunha kadnhini.\nP anthunha wardu.\nQ anthunha . . . . . . . . . .(ix).\nT anthunha kadnhini.”\n\nW: “N anthunha kadnhini.”\nX: “U anthunha nhupa.”\n\n(a) Match the family members A–X with their positions (1–24) on the family trees.\n\n(b) Fill in the blanks (i–ix).\n\n\n△! Arabana belongs to the Pama–Nyungan family. It is spoken by approx. 15 people in the state of South Australia.\nIn this problem, each person is referred to with a single letter for convenience, but examples of Arabana names include Wanga-mirri ‘many mornings’, Palku-nguyu-thangkayiwanha ‘one bank of cloud sitting down temporarily’ and Kutha-kiRanangkarda ‘water ever flowing’.\ndnh, lh, ng, nh, ny, R, rd, rr, th, ty, w and y are consonants. —Tom McCoy\n\n---",
+  "answer_format": {
+    "a_A": {
+      "type": "string"
+    },
+    "a_B": {
+      "type": "string"
+    },
+    "a_C": {
+      "type": "string"
+    },
+    "a_D": {
+      "type": "string"
+    },
+    "a_E": {
+      "type": "string"
+    },
+    "a_F": {
+      "type": "string"
+    },
+    "a_G": {
+      "type": "string"
+    },
+    "a_H": {
+      "type": "string"
+    },
+    "a_I": {
+      "type": "string"
+    },
+    "a_J": {
+      "type": "string"
+    },
+    "a_K": {
+      "type": "string"
+    },
+    "a_L": {
+      "type": "string"
+    },
+    "a_M": {
+      "type": "string"
+    },
+    "a_N": {
+      "type": "string"
+    },
+    "a_O": {
+      "type": "string"
+    },
+    "a_P": {
+      "type": "string"
+    },
+    "a_R": {
+      "type": "string"
+    },
+    "a_S": {
+      "type": "string"
+    },
+    "a_T": {
+      "type": "string"
+    },
+    "a_U": {
+      "type": "string"
+    },
+    "a_V": {
+      "type": "string"
+    },
+    "a_W": {
+      "type": "string"
+    },
+    "a_X": {
+      "type": "string"
+    },
+    "b_i": {
+      "type": "string"
+    },
+    "b_ii": {
+      "type": "string"
+    },
+    "b_iii": {
+      "type": "string"
+    },
+    "b_iv": {
+      "type": "string"
+    },
+    "b_v": {
+      "type": "string"
+    },
+    "b_vi": {
+      "type": "string"
+    },
+    "b_vii": {
+      "type": "string"
+    },
+    "b_viii": {
+      "type": "string"
+    },
+    "b_ix": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2015-3",
+  "answer": {
+    "a": "<fuzzy>1. Leave the first letter in place.\n2. Delete h and w.\n3. Replace all consonant letters with digits: bpv (f): 1, cgjkqs (xz): 2, dt: 3, l: 4, mn: 5, r: 6.\n4. Reduce any sequence of two or more identical digits to a single digit.\n5. Delete all vowels (a, e, i, o, u, y).\n6. Leave only the first three digits or add zeroes on the right to make the code one letter and three digits long.",
+    "b_Allaway": "A400",
+    "b_Anderson": "A536",
+    "b_Ashcombe": "A251",
+    "b_Buckingham": "B252",
+    "b_Chapman": "C155",
+    "b_Colquhoun": "C425",
+    "b_Evans": "E152",
+    "b_Fairwright": "F623",
+    "b_Kingscott": "K523",
+    "b_Lewis": "L200",
+    "b_Littlejohns": "L342",
+    "b_Stanmore": "S356",
+    "b_Stubbs": "S312",
+    "b_Tocher": "T260",
+    "b_Tonks": "T520",
+    "b_Whytehead": "W330",
+    "c_Ferguson": "F622",
+    "c_Fitzgerald": "F326",
+    "c_Hamnett": "H530",
+    "c_Keefe": "K100",
+    "c_Maxwell": "M240",
+    "c_Razey": "R200",
+    "c_Shaw": "S000",
+    "c_Upfield": "U143"
+  },
+  "explanation": {
+    "rules": "Rules:\n1. Leave the first letter in place.\n2. Delete h and w.\n3. Replace all consonant letters with digits:\n     - bpv → 1\n     - cgjkqsxz → 2\n     - dt → 3\n     - l → 4\n     - mn → 5\n     - r → 6\n4. Reduce any sequence of two or more identical digits to a single digit.\n5. Delete all vowels (a, e, i, o, u, y).\n6. Leave only the first three digits or add zeroes on the right to make the code one letter and three digits long.",
+    "rule_checklist": [
+      "Leave the first letter in place.",
+      "Delete h and w.",
+      "Replace all consonant letters with digits: - bpv \",\" 1 - cgjkqsxz \",\" 2 - dt \",\" 3 - l \",\" 4 - mn \",\" 5 - r \",\" 6",
+      "Reduce any sequence of two or more identical digits to a single digit.",
+      "Delete all vowels (a, e, i, o, u, y).",
+      "Leave only the first three digits or add zeroes on the right to make the code one letter and three digits long."
+    ]
+  }
+}

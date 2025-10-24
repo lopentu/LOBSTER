@@ -1,0 +1,17 @@
+{
+  "id": "2003-4",
+  "answer": {
+    "assignment1_6": "Under what does he put the plate?",
+    "assignment1_7": "Onto what does he throw the plate?",
+    "assignment2_8": "He throws the stool into the stove.",
+    "assignment2_9": "<select3,1,1>['Where does he drop the money?', 'Into what does he drop the money?', 'Where (into what) does he drop the money?']",
+    "assignment3_10": "laʁər śanyćym ć’iʁəuco.",
+    "assignment3_11": "syda pχwantym ć’iʒərər?",
+    "assignment3_12": "syda śywanym diʁafərər?",
+    "assignment4_13": "<select3,1,inf>['ʔanyr tyda zydiʁəucorər?', 'ʔanyr tyda zytyriʁəucorər?', 'ʔanyr tyda zyć’iʁəucorər?']"
+  },
+  "explanation": {
+    "rules": "",
+    "rule_checklist": []
+  }
+}

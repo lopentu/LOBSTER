@@ -1,0 +1,25 @@
+{
+  "id": "2014-1",
+  "answer": {
+    "a_1": "you(pl) are piercing me",
+    "a_2": "we both will strike him",
+    "a_3": "because you(sg) will pierce us",
+    "a_4": "we are piercing you(sg)",
+    "a_5": "because you(pl) are striking us",
+    "b_1": "noha'ibe",
+    "b_2": "kifilune",
+    "b_3": "nolenohotagihe",
+    "b_4": "filanagihe"
+  },
+  "explanation": {
+    "rules": "present: no-\n\nobject = singular | plural\n              nV- | lV-\n              kV- | lenV-\nV is the vowel from the following syllable\n\n[blank] | ‘strike’ | ‘pierce’\npresent, subject = 1st |  ho- | fu-\notherwise | ha- | fi-\n\nfuture, subject = {1st: lu-, 2nd: la-}\n\nsubject = dual: -'i\n\n[blank] | indicative | ‘because…’\nsubject = 1st person pl or 2nd person sg | -ne | -tagihe\notherwise |-be | -nagighe",
+    "rule_checklist": [
+      "present: no-",
+      "object = singular | plural nV- | lV- kV- | lenV- V is the vowel from the following syllable",
+      "[blank] | 'strike' | 'pierce' present, subject = 1st | ho- | fu- otherwise | ha- | fi-",
+      "future, subject = {1st: lu-, 2nd: la-}",
+      "subject = dual: -'i",
+      "[blank] | indicative | 'because...' subject = 1st person pl or 2nd person sg | -ne | -tagihe otherwise |-be | -nagighe"
+    ]
+  }
+}

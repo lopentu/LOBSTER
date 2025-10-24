@@ -1,0 +1,29 @@
+{
+  "id": "2007-4",
+  "answer": {
+    "section1_nif_abo_mer_an_thef_abo_sas": "49",
+    "section1_nif_thef_abo_tondor_abo_mer_abo_thonith": "100",
+    "section1_mer_an_thef_abo_thonith": "16",
+    "section1_nif": "36",
+    "section1_mer_abo_ithin": "9",
+    "section1_thonith": "4",
+    "section1_sas": "1",
+    "section1_nif_thef_abo_mer_abo_ithin": "81",
+    "section1_nif_abo_tondor_abo_mer_abo_thonith": "64",
+    "section1_tondor_abo_mer_abo_sas": "25",
+    "section2": "7 * 5 = 35",
+    "section3_nif_ithin_abo_ithin": "111",
+    "section3_mer_an_thef_abo_meregh": "17",
+    "section4_58": "nif abo tondor abo thonith",
+    "section4_87": "nif thef abo mer an thef abo ithin"
+  },
+  "explanation": {
+    "rules": "Rules:\n1. Base 6 System:\n- Numbers are expressed in base 6.\n- `36` (base) is marked by the word `nif`.\n\n2. Multiplication and Addition:\n- `an` marks multiplication by 6.\n- `abo` marks addition.",
+    "rule_checklist": [
+      "Numbers are expressed in base 6.",
+      "`36` (base) is marked by the word `nif`.",
+      "`an` marks multiplication by 6.",
+      "`abo` marks addition."
+    ]
+  }
+}

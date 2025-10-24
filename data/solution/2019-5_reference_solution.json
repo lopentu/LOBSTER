@@ -1,0 +1,43 @@
+{
+  "id": "2019-5",
+  "answer": {
+    "a_16": "Bvusɔw is the day after tomorrow.",
+    "a_17": "Today, I will see the yam.",
+    "a_18": "On Bvumbon, he saw us.",
+    "a_19": "On Bvuzhiden, we will come to the market.",
+    "b_2nd_day": "Bvuŋka",
+    "b_3rd_day": "Bvuzhi",
+    "b_4th_day": "Bvukema",
+    "b_5th_day": "Bvuŋkaden",
+    "b_6th_day": "Bvuzhiden",
+    "b_7th_day": "Bvusɔw",
+    "b_8th_day": "Bvumbon",
+    "c_20": "me ncí nɔ̂ː nfı ᷅ dìɛ̀msɛ̌n bvúsɔ̀w.",
+    "c_21": "cɔ̌ŋ nɔ̂ː cɔ᷅ŋ kèŋkfǔ.",
+    "c_22": "me nú nyúː nyów mutù bvûŋka᷆ːde᷆n.",
+    "c_23": "kwɔ᷆ːn nǔ géː yó dìɛ̀msɛ̌n ɛ̀bɛ̀n.",
+    "c_24": "dìɛ̀msɛ̌n bɛ̂ː yɛ᷅n wɔ̀ lě ɛ̀bɛ̀n."
+  },
+  "explanation": {
+    "rules": "Word order:\nA (T) nú B, meaning 'A is B' or 'A was B'. T = tense, marked by cí (past) or null (future).\nS T V O (lé) L D, where S = subject, V = predicate, O = object, L = place, D = day.\nThe verb 'to see' is expressed as yɛn (O) lé.\nAfter a consonant, lé becomes é.\nTense:\nPast (V̂):\n'just now' / 'be about to ...' - nɔ́.\n'today' - bɛ́.\n'< 3 days' - cí nɔ́.\n'> 3 days' - tɔ̀ nɔ́.\nFuture (V):\n'just now' / 'be about to ...' - nú.\n'today' - nú gé.\n'< 3 days' - nú bɔ́y.\n'> 3 days' - nú yú.\n1st person sg: n- + T/V.\nnb becomes mb.\nnk/ng becomes ŋk/ŋg.\nnn becomes n.\nPhonological rule:\nAfter n̂, ẑ, :́, or ń, a sound change occurs, resulting in ž.",
+    "rule_checklist": [
+      "Word order: A (T) nú B, meaning 'A is B' or 'A was B'. T = tense, marked by cí (past) or null (future).",
+      "Word order: S T V O (lé) L D",
+      "The verb 'to see' is expressed as yɛn (O) lé.",
+      "After a consonant, lé becomes é.",
+      "Tense: Past (V̂): 'just now' / 'be about to ...' - nɔ́.",
+      "Tense: Past (V̂): 'today' - bɛ́.",
+      "Tense: Past (V̂): '< 3 days' - cí nɔ́.",
+      "Tense: Past (V̂): '> 3 days' - tɔ̀ nɔ́.",
+      "Tense: Future (V): 'just now' / 'be about to ...' - nú.",
+      "Tense: Future (V): 'today' - nú gé.",
+      "Tense: Future (V): '< 3 days' - nú bɔ́y.",
+      "Tense: Future (V): '> 3 days' - nú yú.",
+      "1st person sg: n- + T/V.",
+      "nb becomes mb.",
+      "nk/ng becomes ŋk/ŋg.",
+      "nn becomes n.",
+      "Phonological rule: After n̂, ẑ, :́, or ń, a sound change occurs, resulting in ž."
+    ]
+  }
+}

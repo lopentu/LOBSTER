@@ -1,0 +1,106 @@
+{
+  "id": "2019-2",
+  "title": "Problem 2",
+  "content": "(20 points)\n\nHere are some word combinations in Yurok and their English translations in arbitrary order:\n\n| Yurok                        | English Translation     |\n|-----------------------------|-------------------------|\n| 1. muencherh rohkuen        | A. brown dog            |\n| 2. perkeryerh holeehl ʼwernerh | B. black shoe         |\n| 3. muencherh nerhpery       | C. black bear           |\n| 4. sʼerkterʼery chʼeeshah    | D. white berry          |\n| 5. muencharʼ pyaapʼ         | E. brown shoe           |\n| 6. pekoyarʼ tepoo           | F. white dog            |\n| 7. luuehlsonʼ nerhpery      | G. white ball           |\n| 8. muenchey cheekʼwar       | H. white manzanita bush |\n| 9. muenterʼery chʼeeshah    | I. white chair          |\n| 10. lerʼergery cherʼery     | J. orange bear          |\n| 11. ʼerrwerhsonʼ slekwoh    | K. red tree             |\n| 12. muenterʼery puuek       | L. grass-green shirt    |\n| 13. loʼogey slekwoh         | M. red hazelnut         |\n| 14. sʼoktoy noʼoy           | N. purple berry         |\n| 15. ʼwerʼerrgerchsonʼ cherʼery | O. black shirt        |\n| 16. loʼogey noʼoy           | P. white deer           |\n| 17. tegeeʼn nerhpery        | Q. blue ball            |\n| 18. skoyon rohkuen          | R. yellow berry         |\n\n(a) Determine the correct correspondences.\n\n(b) Determine the correct correspondences:\n\n| Yurok           | English Translation |\n|-----------------|---------------------|\n| 19. muencherhl  | S. canary           |\n| 20. ʼwerʼerrgerch | T. coffee bean    |\n| 21. luuehl      | U. blood            |\n| 22. lerʼergerh  | V. milk             |\n| 23. pekoyek     | W. alder tree       |\n| 24. skoyon      | X. wild iris        |\n| 25. tegeeʼn     | Y. sky              |\n\n(c) Translate into English:\n\n26. ʼerrwerh  \n27. lerʼergerh rohkuen  \n28. perkeryerʼery chʼeeshah  \n29. pyerrpʼtʼery chʼeeshah  \n\n(d) Translate into Yurok:\n\n30. purple deer  \n31. white shoe  \n32. yellow ball  \n33. black tree  \n\n(!) No additional explanation besides the answers is required, nor will be marked.\n△! Yurok belongs to the Algic family. It is spoken by 20–100 people in Northwestern Cali- fornia. ch, hl, sh, y, ʼ are consonants. ee, er, err, ue, uue are vowels.\nThe bark from alder trees is sometimes used to make orange dye. Manzanita is a small tree or bush with reddish-brown bark found in Western North America. The wild iris is a light purple flower. —Boris Iomdin, Samuel Ahmed\n\n---",
+  "answer_format": {
+    "a_1": {
+      "type": "string"
+    },
+    "a_2": {
+      "type": "string"
+    },
+    "a_3": {
+      "type": "string"
+    },
+    "a_4": {
+      "type": "string"
+    },
+    "a_5": {
+      "type": "string"
+    },
+    "a_6": {
+      "type": "string"
+    },
+    "a_7": {
+      "type": "string"
+    },
+    "a_8": {
+      "type": "string"
+    },
+    "a_9": {
+      "type": "string"
+    },
+    "a_10": {
+      "type": "string"
+    },
+    "a_11": {
+      "type": "string"
+    },
+    "a_12": {
+      "type": "string"
+    },
+    "a_13": {
+      "type": "string"
+    },
+    "a_14": {
+      "type": "string"
+    },
+    "a_15": {
+      "type": "string"
+    },
+    "a_16": {
+      "type": "string"
+    },
+    "a_17": {
+      "type": "string"
+    },
+    "a_18": {
+      "type": "string"
+    },
+    "b_19": {
+      "type": "string"
+    },
+    "b_20": {
+      "type": "string"
+    },
+    "b_21": {
+      "type": "string"
+    },
+    "b_22": {
+      "type": "string"
+    },
+    "b_23": {
+      "type": "string"
+    },
+    "b_24": {
+      "type": "string"
+    },
+    "b_25": {
+      "type": "string"
+    },
+    "c_26": {
+      "type": "string"
+    },
+    "c_27": {
+      "type": "string"
+    },
+    "c_28": {
+      "type": "string"
+    },
+    "c_29": {
+      "type": "string"
+    },
+    "d_30": {
+      "type": "string"
+    },
+    "d_31": {
+      "type": "string"
+    },
+    "d_32": {
+      "type": "string"
+    },
+    "d_33": {
+      "type": "string"
+    }
+  }
+}

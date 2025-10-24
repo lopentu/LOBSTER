@@ -1,0 +1,127 @@
+{
+  "id": "2022-2",
+  "title": "Problem 2",
+  "content": "(20 points)\n\nHere are some words in Alabama and their English translations in arbitrary order:\n\n1. achánnàaka\n2. achanni\n3. ahamatli\n4. ahámmatka\n5. apòotka\n6. apotòoli\n7. apóttòoka\n\n8. atanayli\n9. atánnayka\n10. atanni\n11. bàalka\n12. balàali\n13. balli\n14. incháffàaka\n\n15. kawaɬɬi\n16. ɬìilka\n17. ɬìipka\n18. ɬilaffi\n19. ɬipli\n20. ɬíppìika\n21. ɬobaffi\n\n22. ɬómbafka\n23. ɬombi\n24. ɬòomka\n25. sibapli\n26. simbi\n\nA. he breaks it in two\nB. he lays them down\nC. he wraps them\nD. he puts it next to something\nE. he turns them upside down\nF. it is torn in several places, they are torn\nG. it leans against something\nH. they are turned upside down\nI. it is next to something\nJ. it has holes, they have holes\nK. it is wrapped\nL. they lie, are lying down\nM. it is scattered, they are scattered\n\nN. he leans them against something\nO. he makes holes\nP. he makes a hole\nQ. it is turned upside down\nR. he scatters it, he scatters them\nS. they are next to something\nT. he tears it in two\nU. he has one\nV. he lays it down\nW. it has a hole\nX. he peels the bark off\nY. he peels a strip off\nZ. he wraps it\n\n(a) Determine the correct correspondences.\n\n(b) Translate into English:\n27. bállàaka\n28. inchafàali\n29. kawwi\nOne of these has two possible translations. Give them both.\n\n(c) Translate into Alabama:\n30. he tears it in several places\n31. it is torn in two\n32. he turns it upside down\n33. he leans it against something\n\n(d) One of the Alabama words from the answer to (c) can be translated into English in other ways as well. Which one, and how?",
+  "answer_format": {
+    "a_1": {
+      "type": "string"
+    },
+    "a_2": {
+      "type": "string"
+    },
+    "a_3": {
+      "type": "string"
+    },
+    "a_4": {
+      "type": "string"
+    },
+    "a_5": {
+      "type": "string"
+    },
+    "a_6": {
+      "type": "string"
+    },
+    "a_7": {
+      "type": "string"
+    },
+    "a_8": {
+      "type": "string"
+    },
+    "a_9": {
+      "type": "string"
+    },
+    "a_10": {
+      "type": "string"
+    },
+    "a_11": {
+      "type": "string"
+    },
+    "a_12": {
+      "type": "string"
+    },
+    "a_13": {
+      "type": "string"
+    },
+    "a_14": {
+      "type": "string"
+    },
+    "a_15": {
+      "type": "string"
+    },
+    "a_16": {
+      "type": "string"
+    },
+    "a_17": {
+      "type": "string"
+    },
+    "a_18": {
+      "type": "string"
+    },
+    "a_19": {
+      "type": "string"
+    },
+    "a_20": {
+      "type": "string"
+    },
+    "a_21": {
+      "type": "string"
+    },
+    "a_22": {
+      "type": "string"
+    },
+    "a_23": {
+      "type": "string"
+    },
+    "a_24": {
+      "type": "string"
+    },
+    "a_25": {
+      "type": "string"
+    },
+    "a_26": {
+      "type": "string"
+    },
+    "b_27": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 2,
+      "items": {
+        "type": "string"
+      }
+    },
+    "b_28": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 2,
+      "items": {
+        "type": "string"
+      }
+    },
+    "b_29": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 2,
+      "items": {
+        "type": "string"
+      }
+    },
+    "c_30": {
+      "type": "string"
+    },
+    "c_31": {
+      "type": "string"
+    },
+    "c_32": {
+      "type": "string"
+    },
+    "c_33": {
+      "type": "string"
+    },
+    "d_which_word": {
+      "type": "string"
+    },
+    "d_other_translation": {
+      "type": "string"
+    }
+  }
+}

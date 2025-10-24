@@ -1,0 +1,31 @@
+{
+  "id": "2003-5",
+  "title": "Problem 5",
+  "content": "### Problem 5\n\nThe table below contains French verbs with prefixes and the corresponding verbs without prefixes, along with the English translations of all. The shaded cells mean that there is a prefixed verb there with no prefixless counterpart. In some verbs the prefixes have been left out.  \n\n| réagir       | react         | //////// | ////////  |  \n| __assortir     | pick again    | assortir | pick      |  \n| recommencer  | recommence    | commencer | begin    |  \n| recomposer   | compose anew  | composer  | compose  |  \n| réconcilier  | reconcile     | concilier | reconcile |  \n| réconforter  | comfort       | conforter | comfort  |  \n| recréer      | recreate      | créer     | create   |  \n| récréer      | amuse         | //////// | ////////  |   \n| __curer        | clean         | curer     | clean    |  \n| redire       | say again     | dire      | say      |  \n| réduire      | reduce        | //////// | ////////  | \n| rééditer     | publish again | éditer    | publish  |  \n| refaire      | redo, remake  | faire     | do, make |  \n| __former       | reform        | //////// | ////////  | \n| __former       | form again    | former    | form     |  \n| __futer        | refute        | //////// | ////////  | \n| réincarner   | reincarnate   | incarner  | incarnate |  \n| rejouer      | resume playing| jouer     | play     |  \n| __lancer       | throw again   | lancer    | throw     |  \n| __munérer      | remunerate    | //////// | ////////  | \n| rénover      | renovate      | //////// | ////////  | \n| réopérer     | operate again | opérer    | operate  |  \n| repartir     | depart once more | partir | depart |  \n| __partir       | distribute    | //////// | ////////  | \n| répéter      | repeat        | //////// | ////////  | \n| résonner     | sound         | sonner    | sound    |  \n| révéler      | reveal        | //////// | ////////  | \n\n**Assignment.** Fill in the gaps using information from the table. Explain your solution.  \n\n\n---",
+  "answer_format": {
+    "gap_assortir": {
+      "type": "string"
+    },
+    "gap_curer": {
+      "type": "string"
+    },
+    "gap_former_reform": {
+      "type": "string"
+    },
+    "gap_former_form_again": {
+      "type": "string"
+    },
+    "gap_futer": {
+      "type": "string"
+    },
+    "gap_lancer": {
+      "type": "string"
+    },
+    "gap_munérer": {
+      "type": "string"
+    },
+    "gap_partir": {
+      "type": "string"
+    }
+  }
+}

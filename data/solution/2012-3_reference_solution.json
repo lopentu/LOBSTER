@@ -1,0 +1,32 @@
+{
+  "id": "2012-3",
+  "answer": {
+    "a_ahaztu_ditut": "I forgot them",
+    "a_ahaztu_zaizkit": "I forgot them",
+    "a_ahaztu_zaizu": "you(sg) forgot them",
+    "a_hurbildu_natzaizue": "I approached you(pl)",
+    "a_hurbildu_zait": "he approached me",
+    "a_lagundu_ditugu": "we helped them",
+    "a_lagundu_dituzu": "you(sg) helped them",
+    "a_lagundu_dute": "they helped him",
+    "a_lagundu_nauzue": "you(pl) helped me",
+    "a_mintzatu_natzaizu": "I talked to you(sg)",
+    "a_mintzatu_gatzaizkizue": "we talked to you(pl)",
+    "a_mintzatu_zaizkigu": "they talked to us",
+    "a_ukitu_ditugu": "you(sg) helped them",
+    "a_ukitu_naute": "they touched me",
+    "b_you_touched_me": "ukitu nauzu",
+    "b_they_approached_me": "hurbildu zaizkit",
+    "c_lagundu_dut": "I helped him",
+    "c_hurbildu_gatzaizkizu": "we approached you(sg)",
+    "d_sentence": "I forgot them",
+    "d_translation": "ahaztu zaizkit"
+  },
+  "explanation": {
+    "rules": "[blank] | 1st person sg | 1st person pl | 2nd person sg | 2nd person pl | 3rd person sg | 3rd person pl \nA |   nau- |[blank] | [blank] | [blank] | du- | ditu- \nB | natzai- | gatzaizki- |[blank] | [blank] | zai- | zaizki- \nZ | -t | -gu | -zu | -zue |[blank] | -te \n\n[blank] | A | B | Z |[blank] \nahaztu | about whom | about whom | who | forgot \nhurbildu |[blank] | who | whom | approached \nlagundu | whom |[blank] | who | helped \nmintzatu |[blank] | who | to whom | talked \nukitu | whom |[blank] | who | touched",
+    "rule_checklist": [
+      "[blank] | 1st person sg | 1st person pl | 2nd person sg | 2nd person pl | 3rd person sg | 3rd person pl A |   nau- |[blank] | [blank] | [blank] | du- | ditu- B | natzai- | gatzaizki- |[blank] | [blank] | zai- | zaizki- Z | -t | -gu | -zu | -zue |[blank] | -te",
+      "[blank] | A | B | Z |[blank] ahaztu | about whom | about whom | who | forgot hurbildu |[blank] | who | whom | approached lagundu | whom |[blank] | who | helped mintzatu |[blank] | who | to whom | talked ukitu | whom |[blank] | who | touched"
+    ]
+  }
+}

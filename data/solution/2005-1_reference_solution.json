@@ -1,0 +1,28 @@
+{
+  "id": "2005-1",
+  "answer": {
+    "16": "You have no good corn.",
+    "17": "<select1,1,1>['Was there music at the party?', 'Will there be music at the party?']",
+    "18": "What will there be in Mexico today?",
+    "19": "There was a talk in Tzotzil in my house yesterday.",
+    "20": "Bu ‘oy k’in nax?",
+    "21": "Muk’ k’usi ‘ox ta p’in nax.",
+    "22": "‘Oy abatz’i na.",
+    "23": "Mi ‘oy ‘ox li Xunka e ta Jobel ‘ok’ob?",
+    "24": "Ch’abal ‘ox sp’in po’ot."
+  },
+  "explanation": {
+    "rules": "As we analyse the given material we can see that:\n1. Affirmative sentences (declarative and interrogative) contain the word ‘oy 'be, exist'. Declarative sentences begin with this word.\n2. General questions begin with mi. Special questions begin with the interrogative words bu 'where' or k’usi 'what'.\n3. General neaative sentences begin with ch'abal. Particular negation is formed the phrases muk’ bu 'nowhere' or muk’ k’usi nothing', which also begin the sentence.\n4. The present tense is not marked. The past and the future are marked by the word ‘ox, which comes after ‘oy, ch’abal, muk’ bu or muk’ k’usi.\n5. The person or thing whose (non-)existence or location is stated is named in the sentence after the words described above. People's names are enclosed by li ... e (which is in fact a definite article).\n6. The place and time of action (in this order) are expressed by words or phrases which close the sentence.\n7. The time is expressed by the words junabi 'a year ago', volje 'yesterday, nax 'earlier today', lavie 'now or later today, ‘ok'ob tomorrow', po‘ot 'soon'. The place is marked by phrases with preposition ta (which has other functions as well).\n8. Possession by the first, second, and third person is expressed by the prefixes j- a- and s-, respectively. If the possessed is modified by a preceding adjective, it is the adjective that receives the prefix.\n9. The Tzotzil language calls itself batz’i k’op, literally 'real talk'.",
+    "rule_checklist": [
+      "Affirmative sentences (declarative and interrogative) contain the word ‘oy 'be, exist'. Declarative sentences begin with this word.",
+      "General questions begin with mi. Special questions begin with the interrogative words bu 'where' or k’usi 'what'.",
+      "General neaative sentences begin with ch'abal. Particular negation is formed the phrases muk’ bu 'nowhere' or muk’ k’usi nothing', which also begin the sentence.",
+      "The present tense is not marked. The past and the future are marked by the word ‘ox, which comes after ‘oy, ch’abal, muk’ bu or muk’ k’usi.",
+      "The person or thing whose (non-)existence or location is stated is named in the sentence after the words described above. People's names are enclosed by li ... e (which is in fact a definite article).",
+      "The place and time of action (in this order) are expressed by words or phrases which close the sentence.",
+      "The time is expressed by the words junabi 'a year ago', volje 'yesterday, nax 'earlier today', lavie 'now or later today, ‘ok'ob tomorrow', po‘ot 'soon'. The place is marked by phrases with preposition ta (which has other functions as well).",
+      "Possession by the first, second, and third person is expressed by the prefixes j- a- and s-, respectively. If the possessed is modified by a preceding adjective, it is the adjective that receives the prefix.",
+      "The Tzotzil language calls itself batz’i k’op, literally 'real talk'."
+    ]
+  }
+}

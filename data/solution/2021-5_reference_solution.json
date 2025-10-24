@@ -1,0 +1,29 @@
+{
+  "id": "2021-5",
+  "answer": {
+    "a_1": "I hugged you_{sg}",
+    "a_2": "He will bite us",
+    "a_3": "I slept",
+    "a_4": "We cut them up",
+    "a_5": "I hunted",
+    "a_6": "He left",
+    "b_1": "tsimynarahanaha",
+    "b_2": "ikmoro",
+    "b_3": "tsikmyboro",
+    "b_4": "mysipery",
+    "b_5": "pahaharapyryk",
+    "b_6": "tsipiksi",
+    "b_7": "ibeze"
+  },
+  "explanation": {
+    "rules": "1. Verb Structure Components:  \nSubject: Indicates the person and number of the subject.  \nTense: Specifies the time of the action (e.g., future, past).  \n(Object-): Optional prefix for the object, indicating its person and number.  \nRoot: The base form of the verb.  \n(-Subject): Suffix that may further specify the subject.  \n\n2. Subject Prefixes:  \n`∅-`: 1st person singular \n`tsi-^C^` and `ts-^C^`: 2rd person singular and 1st person plural.  \n`ni-^C^ and z-V`: 3rd person singular past.  \n\n3. Tense Markers:  \n`my-^C^` and `p-^V^`: future \n`ik-^C^` and `∅-^V^`: past\n\n4. Object Prefixes (optional):  \n`ik-` for 1st person singular\n`a-` for 2nd person singular\n`i-` for 3rd person singular\n`my-` for 1st person plural (pl)\n`aha-` for 2nd person plural\n`si-` for 3rd person plural.  \n\n5. Subject Suffixes (optional):  \n`-naha`: 1st person plural subject.  \n\n6. Special Notes:  \n`∅-p-ik-`: 3rd person singular future with a 1st person singular object (not 1st person singular future with a 1st person singular object).  \n`^C^`: before a consonant\n`^V^`: before a vowel.",
+    "rule_checklist": [
+      "Verb Structure Components: Subject: Indicates the person and number of the subject. Tense: Specifies the time of the action (e.g., future, past). (Object-): Optional prefix for the object, indicating its person and number. Root: The base form of the verb. (-Subject): Suffix that may further specify the subject.",
+      "Subject Prefixes: `∅-`: 1st person singular `tsi-^C^` and `ts-^C^`: 2rd person singular and 1st person plural. `ni-^C^ and z-V`: 3rd person singular past.",
+      "Tense Markers: `my-^C^` and `p-^V^`: future `ik-^C^` and `∅-^V^`: past",
+      "Object Prefixes (optional): `ik-` for 1st person singular `a-` for 2nd person singular `i-` for 3rd person singular `my-` for 1st person plural (pl) `aha-` for 2nd person plural `si-` for 3rd person plural.",
+      "Subject Suffixes (optional): `-naha`: 1st person plural subject.",
+      "Special Notes: `∅-p-ik-`: 3rd person singular future with a 1st person singular object (not 1st person singular future with a 1st person singular object)."
+    ]
+  }
+}

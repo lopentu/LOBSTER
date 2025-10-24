@@ -1,0 +1,33 @@
+{
+  "id": "2012-2",
+  "answer": {
+    "a_1": "56",
+    "a_2": "57",
+    "a_3": "86",
+    "a_4": "101",
+    "b_1": "malapunga telu",
+    "b_2": "tokapu talu supunga talu",
+    "b_3": "tokapu yepoko",
+    "b_4": "tokapu talu alapu",
+    "b_5": "tokapu yepoko tokapunga yepoko"
+  },
+  "explanation": {
+    "rules": "Umbu-Ungu Numerals: \n1 | telu\n2 | talu\n3 | yepoko\n12 | rurepo\n16 | malapu\n20 | supu\n24 | tokapu\n28 | alapu\n32 | Polangipu\n24 | tokapu\n48 = 24 × 2 | tokapu talu \n72 = 24 × 3 | tokapu yepoko \nα ~ β := (α - 4) + β, α ∈ {12, 16, 20, 24, 28, 32}, β ∈ {1, 2, 3} | α -nga β \nγ + δ, γ = 24k, k ∈ {1, 2, 3}, 9 ≤ δ ≤ 32, δ ≠ 24 | γ δ",
+    "rule_checklist": [
+      "1 | telu",
+      "2 | talu",
+      "3 | yepoko",
+      "12 | rurepo",
+      "16 | malapu",
+      "20 | supu",
+      "24 | tokapu",
+      "28 | alapu",
+      "32 | Polangipu",
+      "24 | tokapu",
+      "48 = 24 × 2 | tokapu talu",
+      "72 = 24 × 3 | tokapu yepoko",
+      "α ~ β := (α - 4) + β, α ∈ {12, 16, 20, 24, 28, 32}, β ∈ {1, 2, 3} | α -nga β",
+      "γ + δ, γ = 24k, k ∈ {1, 2, 3}, 9 ≤ δ ≤ 32, δ ≠ 24 | γ δ"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "2009-1",
+  "answer": {
+    "a_1": "1 coconut",
+    "a_2": "12 breadfruits",
+    "a_3": "20 coconuts",
+    "a_4": "11 betel nuts",
+    "b_1": "a lo tu a lomin",
+    "b_2": "o sngu a lo ktiëk hori orom a korlolo",
+    "b_3": "o ngaitegaap a korlotge hori orom a moulang hori orom a tgiang",
+    "b_4": "o vuo a mhelom"
+  },
+  "explanation": {
+    "rules": "Rules:\n1. Numerals:\n- `tgiang` — 1\n- `lomin` — 2\n- `korlotge` — 3\n- `korlolo` — 4\n- `ktiëk` — 5\n- `mhelom` — 20\n\n2. Modifiers:\n- `hori orom` — addition\n- `lo` — doubling\n\n3. Number Agreement:\n- `a` — singular\n- `o` — plural (from 3 on)\n\n4. Special Forms:\n- `ngaitegaap` — foursome of breadfruits\n- `moulang` — twosome of breadfruits\n- `ngaitegaap` — foursome of coconuts",
+    "rule_checklist": [
+      "Numerals:\n- `tgiang` — 1\n- `lomin` — 2\n- `korlotge` — 3\n- `korlolo` — 4\n- `ktiëk` — 5\n- `mhelom` — 20",
+      "Modifiers:\n- `hori orom` — addition\n- `lo` — doubling",
+      "Number Agreement:\n- `a` — singular\n- `o` — plural (from 3 on)",
+      "Special Forms:\n- `ngaitegaap` — foursome of breadfruits\n- `moulang` — twosome of breadfruits\n- `ngaitegaap` — foursome of coconuts"
+    ]
+  }
+}

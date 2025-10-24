@@ -1,0 +1,43 @@
+{
+  "id": "2011-1",
+  "answer": {
+    "a_1": "<select1,1,inf>['we_{1+2} chop it through by tool', 'we_{1+2} break it off by tool']",
+    "a_2": "<fuzzy><select2,1,inf>['I open/uncover it by hand', 'I break it off/tear it off by hand']",
+    "a_3": "<select1,1,inf>['he begins laughing']",
+    "b_1": "newǣpahtan",
+    "b_2": "kekāwenæq",
+    "b_3": "tawānæhkæw",
+    "b_4": "ketōhnæw"
+  },
+  "explanation": {
+    "rules": "Prefixes:\nne- — I\nke- — we{1+2} \n—— — he\n\nVerb Root Modifiers:\nkaw — down\nket — out\nkēsk — through\npahk — off\npāhk — open\npīt — hither\ntaw — pierce\nwack — around\nwǣp — begin\n\nIntransitive Verb Suffixes:\n-āhpe — laughing\n-ānæhkæ — digging\n-eqta — —\n-ohnæ — walking\n\nSubject Suffixes:\n-m — I\n-q — we{1+2} \n-w — he\n\nTransitive Verb Suffixes:\n-ah — by tool\n-aht — by mouth\n-en — by hand\n-es — cutting\n\nSubject Suffixes:\n-an— I\n-æq— we {1+2} \n-am— he",
+    "rule_checklist": [
+      "Prefixes:ne- — I",
+      "Prefixes:ke- — we{1+2}",
+      "Prefixes:—— — he",
+      "Verb Root Modifiers:kaw — down",
+      "Verb Root Modifiers:ket — out",
+      "Verb Root Modifiers:kēsk — through",
+      "Verb Root Modifiers:pahk — off",
+      "Verb Root Modifiers:pāhk — open",
+      "Verb Root Modifiers:pīt — hither",
+      "Verb Root Modifiers:taw — pierce",
+      "Verb Root Modifiers:wack — around",
+      "Verb Root Modifiers:wǣp — begin",
+      "Intransitive Verb Suffixes:-āhpe — laughing",
+      "Intransitive Verb Suffixes:-ānæhkæ — digging",
+      "Intransitive Verb Suffixes:-eqta — —",
+      "Intransitive Verb Suffixes:-ohnæ — walking",
+      "Subject Suffixes:-m — I",
+      "Subject Suffixes:-q — we{1+2}",
+      "Subject Suffixes:-w — he",
+      "Transitive Verb Suffixes:-ah — by tool",
+      "Transitive Verb Suffixes:-aht — by mouth",
+      "Transitive Verb Suffixes:-en — by hand",
+      "Transitive Verb Suffixes:-es — cutting",
+      "Subject Suffixes:-an— I",
+      "Subject Suffixes:-æq— we {1+2}",
+      "Subject Suffixes:-am— he"
+    ]
+  }
+}

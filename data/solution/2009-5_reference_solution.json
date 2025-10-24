@@ -1,0 +1,24 @@
+{
+  "id": "2009-5",
+  "answer": {
+    "a_1": "<select2,1,inf>['you make the woman love the carpenter', 'you make the carpenter love the woman']",
+    "a_2": "<select1,1,inf>['he makes me shout']",
+    "a_3": "<select1,1,inf>['you beat him']",
+    "a_4": "<select1,1,inf>['I sing the song for the healer']",
+    "a_5": "<select1,1,inf>['I want the atole']",
+    "a_6": "<select1,1,inf>['he makes you leave something']",
+    "b_1": "nēchchı̄hualtia in ātōlli",
+    "b_2": "tiktēchı̄huilia in oktli",
+    "b_3": "mitzkochı̄tia in tı̄zı̄tl",
+    "b_4": "nitlaēhua",
+    "b_5": "nihuetzi"
+  },
+  "explanation": {
+    "rules": "Rules:\n1. Verb Prefixes:\n- Subject: `ni-` (1st person sg), `ti-` (2nd person sg), `——` (3rd person sg)\n- Object: `nēch-` (1st person sg), `mitz-` (2nd person sg), `k-` (3rd person sg)\n- Additional Object: `tē-` (somebody), `tla-` (something)\n\n2. Verb Suffixes:\n- `make . . .`:\n- `<intransitive verb>-tia` (with lengthening of preceding `i`)\n- `<transitive verb>-ltia`\\n   - `do for . . .`: `-lia` (with change of preceding `a` to `i`)",
+    "rule_checklist": [
+      "Verb Prefixes:\n- Subject: `ni-` (1st person sg), `ti-` (2nd person sg), `——` (3rd person sg)\n- Object: `nēch-` (1st person sg), `mitz-` (2nd person sg), `k-` (3rd person sg)\n- Additional Object: `tē-` (somebody), `tla-` (something)",
+      "Verb Suffixes:\n- `make . . .`:\n- `<intransitive verb>-tia` (with lengthening of preceding `i`)\n- `<transitive verb>-ltia`",
+      "Verb Suffixes:\n- `do for . . .`: `-lia` (with change of preceding `a` to `i`)"
+    ]
+  }
+}

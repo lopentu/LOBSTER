@@ -1,0 +1,43 @@
+{
+  "id": "2008-4",
+  "title": "Problem 4",
+  "content": "(20 points)\nThe following are words in Copainalá Zoque and their English translations:\n\n| Copainalá Zoque      | English                |\n|----------------------|------------------------|\n| mis nakpatpit        | with your cactus       |\n| nakpat               | a cactus               |\n| mokpittih            | only with the corn     |\n| pokskuky2sm2taPm     | above the chairs       |\n| pokskuy              | a chair                |\n| peroltih             | only a kettle          |\n| koc2ktaPm            | mountains              |\n| komg2sm2tih          | right above the post   |\n| P2s Ngom             | my post                |\n| k2m2Nbitšeh         | as if with the shadow  |\n| k2m2NdaPm            | shadows                |\n| P2s ncapk2sm2šeh    | as if above my sky     |\n| capšeh              | like a sky             |\n| pahsungotoya         | for the squash         |\n| pahsunšehtaPmdih    | just like squashes     |\n| t2ckotoyatih         | only for the tooth     |\n| kumguky2sm2          | above the town         |\n| kumgukyotoyataPm     | for the towns          |\n| cakyotoya            | for the vine           |\n| mis ncay             | your vine              |\n\n(a) Translate into English:\n\n1. caky2sm2tih\n2. k2m2Nšeh\n3. P2s mok\n4. mis nd2ctaPm\n5. pahsunbit\n6. perolkotoyašehtaPm\n\n(b) Translate into Copainalá Zoque:\n\n1. for the chair\n2. with my kettle\n3. just like a mountain\n4. posts\n5. above the shadows\n6. your town",
+  "answer_format": {
+    "a_1": {
+      "type": "string"
+    },
+    "a_2": {
+      "type": "string"
+    },
+    "a_3": {
+      "type": "string"
+    },
+    "a_4": {
+      "type": "string"
+    },
+    "a_5": {
+      "type": "string"
+    },
+    "a_6": {
+      "type": "string"
+    },
+    "b_1": {
+      "type": "string"
+    },
+    "b_2": {
+      "type": "string"
+    },
+    "b_3": {
+      "type": "string"
+    },
+    "b_4": {
+      "type": "string"
+    },
+    "b_5": {
+      "type": "string"
+    },
+    "b_6": {
+      "type": "string"
+    }
+  }
+}

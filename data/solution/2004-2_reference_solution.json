@@ -1,0 +1,22 @@
+{
+  "id": "2004-2",
+  "answer": {
+    "mismatched_titles": "<select3,1,12>['6', '7', '9']",
+    "corrected_translations": "<fuzzy><select3,1,12>['6: Population Crisis in Lilliput Fraught with Tax Reform.', '7: Sudden Weather Change Endangers Arrival of Reinforcements to Besieged City.', '9:Unexpected Event in Country of Houyhnhnms Endangers Early Elections.']"
+  },
+  "explanation": {
+    "rules": "It is easy to see that each English title contains the word threatens. \nTherefore, all translations must have something in common. Indeed, every title says something about an undesirable possibility, expressed by different verbs in the translations. \nOne should suppose that threatens is a verb acting as the predicate in every English title. \nThe titles may be divided into two groups:\nSentences in which the object of the predicate indicates a desirable situation which is likely not to happen, which is bad (1, 2, 6, 8, 10).    \nSentences in which the object of the predicate indicates an undesirable situation which is likely to happen, which is bad (3, 4, 5, 7, 9, 11).\nSo, the English verb apparently has two opposite meanings: \\\"to endanger something\\\" and \\\"to be fraught with something.\\\" \nOne can only tell which meaning is used in a given phrase by its context, but the titles have no context. \nHence, one has to look for the translator's mistakes where it is unclear whether the situation expressed by the object is desirable or not.\nApparently, the situations <project funding> (1), <start of shipping season> (2), <peace process> (8), and <public security> (10) are normally desirable, while the situations <cholera outbreak> (3), <collapse of peace talks> (4), <mass piracy> (5), and <food shortages> (11) are undesirable. \nAs for the situations <tax reform>, <arrival of reinforcements to besieged city>, and <early elections>, they may be either desirable or undesirable with a commensurate probability.",
+    "rule_checklist": [
+      "It is easy to see that each English title contains the word threatens.",
+      "Therefore, all translations must have something in common. Indeed, every title says something about an undesirable possibility, expressed by different verbs in the translations.",
+      "One should suppose that threatens is a verb acting as the predicate in every English title.",
+      "The titles may be divided into two groups: Sentences in which the object of the predicate indicates a desirable situation which is likely not to happen, which is bad (1, 2, 6, 8, 10).",
+      "The titles may be divided into two groups: Sentences in which the object of the predicate indicates an undesirable situation which is likely to happen, which is bad (3, 4, 5, 7, 9, 11).",
+      "So, the English verb apparently has two opposite meanings: \"to endanger something\" and \"to be fraught with something.\"",
+      "One can only tell which meaning is used in a given phrase by its context, but the titles have no context.",
+      "Hence, one has to look for the translator's mistakes where it is unclear whether the situation expressed by the object is desirable or not.",
+      "Apparently, the situations <project funding> (1), <start of shipping season> (2), <peace process> (8), and <public security> (10) are normally desirable, while the situations <cholera outbreak> (3), <collapse of peace talks> (4), <mass piracy> (5), and <food shortages> (11) are undesirable.",
+      "As for the situations <tax reform>, <arrival of reinforcements to besieged city>, and <early elections>, they may be either desirable or undesirable with a commensurate probability."
+    ]
+  }
+}

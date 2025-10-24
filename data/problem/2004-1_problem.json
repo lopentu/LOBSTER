@@ -1,0 +1,43 @@
+{
+  "id": "2004-1",
+  "title": "Problem 1",
+  "content": "(10 points)\nConsider the following sentences in the Kayapo language (printed in Latin transliteration) and their English translations:\n\n| Kayapo                      | English                            |\n|-----------------------------|------------------------------------|\n| Atoro kêt                   | You are not dancing                |\n| Ba mẽ mẽ anhê               | We are decorating you guys         |\n| Ba rê                       | I am swimming                      |\n| Ga iku                      | You are devouring me               |\n| Ga mẽ to                    | You guys are dancing               |\n| Ije mẽ akuru kêt            | I am not devouring you guys        |\n| Mẽ aje inhêrê kêt           | You guys are not decorating me     |\n| Mẽ irêrê kêt                | We are not swimming                |\n\nAssignment 1. Translate into English; if you believe that some sentences have several translations, give all of them:\n\n1. Aje ikuru kêt\n\n2. Ba mẽ aku\n\n3. Irêrê kêt\n\nAssignment 2. Translate into Kayapo:\n\n1. You guys are not devouring us\n\n2. We are not decorating you guys\n\n3. We are dancing\n\n4. I am devouring you",
+  "answer_format": {
+    "Assignment1_1": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 20,
+      "items": {
+        "type": "string"
+      }
+    },
+    "Assignment1_2": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 20,
+      "items": {
+        "type": "string"
+      }
+    },
+    "Assignment1_3": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 20,
+      "items": {
+        "type": "string"
+      }
+    },
+    "Assignment2_1": {
+      "type": "string"
+    },
+    "Assignment2_2": {
+      "type": "string"
+    },
+    "Assignment2_3": {
+      "type": "string"
+    },
+    "Assignment2_4": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "id": "2014-5",
+  "title": "Problem 5",
+  "content": "(20 points)\n\nHere are some words and word combinations in Northwest Gbaya and their English translations in arbitrary order:\n\n| Northwest Gbaya           | Translation           |\n|---------------------------|-----------------------|\n| Páá                       |                       |\n| Páá náng nú kò            |                       |\n| Páá sèè                   |                       |\n| búmá yı́k                  |                       |\n| búmá zù yı́k               |                       |\n| dáng gòk                  |                       |\n| dı́ fò                     |                       |\n| dı́ sèè                    |                       |\n| kò yı́k                    |                       |\n| kò zòk                    |                       |\n| náng wı́                   |                       |\n| nú fò                     |                       |\n| nú lébé                   |                       |\n| sèè wı́                    |                       |\n| yı́k                       |                       |\n| yı́k wı́                    |                       |\n| zù                        |                       |\n|---------------------------|-----------------------|\n| Translation               | Northwest Gbaya       |\n|---------------------------|-----------------------|\n| at the surface            |                       |\n| eye socket                |                       |\n| eyebrow                   |                       |\n| eyelash                   |                       |\n| eyes/face                 |                       |\n| field edge                |                       || foot                      |                       |\n| happiness                 |                       |\n| liver                     |                       |\n| good field                |                       |\n| nostril                   |                       |\n| above, on                 |                       |\n| poisonous snake           |                       |\n| tip of the tongue         |                       |\n| to be dying               |                       |\n| to envy                   |                       |\n| to put                    |                       |\n\n(a) Determine the correct correspondences.\n\n(b) Translate into English: búmá zù, kò, lébé gòk, lébé wı́.\n\n(c) Translate into Northwest Gbaya: at the center, head, displeasure, nose.\n\n△! The Northwest Gbaya language belongs to the Ubangian family. It is spoken by approx. 200,000 people in the Central African Republic.\nThe Northwest Gbaya words are given in a simplied transcription. ? is a consonant.\n-Boris Iomdin\n\n---\n\nGood luck!",
+  "answer_format": {
+    "a_Páá": {
+      "type": "string"
+    },
+    "a_Páá_náng_nú_kò": {
+      "type": "string"
+    },
+    "a_Páá_sèè": {
+      "type": "string"
+    },
+    "a_búmá_yı́k": {
+      "type": "string"
+    },
+    "a_búmá_zù_yı́k": {
+      "type": "string"
+    },
+    "a_dáng_gòk": {
+      "type": "string"
+    },
+    "a_dı́_fò": {
+      "type": "string"
+    },
+    "a_dı́_sèè": {
+      "type": "string"
+    },
+    "a_kò_yı́k": {
+      "type": "string"
+    },
+    "a_kò_zòk": {
+      "type": "string"
+    },
+    "a_náng_wı́": {
+      "type": "string"
+    },
+    "a_nú_fò": {
+      "type": "string"
+    },
+    "a_nú_lébé": {
+      "type": "string"
+    },
+    "a_sèè_wı́": {
+      "type": "string"
+    },
+    "a_yı́k": {
+      "type": "string"
+    },
+    "a_yı́k_wı́": {
+      "type": "string"
+    },
+    "a_zù": {
+      "type": "string"
+    },
+    "b_búmá_zù": {
+      "type": "string"
+    },
+    "b_kò": {
+      "type": "string"
+    },
+    "b_lébé_gòk": {
+      "type": "string"
+    },
+    "b_lébé_wı́": {
+      "type": "string"
+    },
+    "c_at_the_center": {
+      "type": "string"
+    },
+    "c_head": {
+      "type": "string"
+    },
+    "c_displeasure": {
+      "type": "string"
+    },
+    "c_nose": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "2014-1",
+  "title": "Problem 1",
+  "content": "(20 points)\n\nHere are some verb forms of Benabena and their English translations:\n\n| Benabena                    | Translation                       |\n|-----------------------------|-----------------------------------|\n| nohobe                      | I am striking him                 |\n| kahalune                    | we will strike you(sg)            |\n| nokoho'ibe                  | we both are striking you(sg)      |\n| nolenufu'inagihe            | because we both are piercing you(pl) |\n| nolifi'ibe                    | you both are piercing us          |\n| nofunagihe                  | because I am piercing him         |\n| no'ne                       | you(sg) are piercing him          |\n| nifila'ibe                   | you both will pierce me           |\n| nonahatagihe                | because you(sg) are striking me   |\n| lenahalube                  | I will strike you(pl)             |\n| nahalanagihe                | because you(pl) will strike me    |\n| lahal'ibe                   | you both will strike us           |\n| nofunagihe                  | because we are piercing him       |\n| lenifilu'ibe                | we both will pierce you(pl)       |\n| noho'inagihe                | because we both are striking him  |\n\n(a) Translate into English:\n\n1. nonifibe\n2. halu'ibe\n3. lifilatagihe\n4. nokufune\n5. nolahanagihe\n\n(b) Translate into Benabena:\n\n1. you both are striking him\n2. we will pierce you(sg)\n3. because we are striking you(pl)\n4. because you(pl) will pierce him\n\n△! The Benabena language belongs to the Trans-New Guinea family. It is spoken by approx. 45,000 people in Papua New Guinea.  Ivan Derzhanski\n\n* * *",
+  "answer_format": {
+    "a_1": {
+      "type": "string"
+    },
+    "a_2": {
+      "type": "string"
+    },
+    "a_3": {
+      "type": "string"
+    },
+    "a_4": {
+      "type": "string"
+    },
+    "a_5": {
+      "type": "string"
+    },
+    "b_1": {
+      "type": "string"
+    },
+    "b_2": {
+      "type": "string"
+    },
+    "b_3": {
+      "type": "string"
+    },
+    "b_4": {
+      "type": "string"
+    }
+  }
+}

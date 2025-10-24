@@ -1,0 +1,24 @@
+{
+  "id": "2016-1",
+  "answer": {
+    "Kahangang_1": "dai’",
+    "Kombeng_2": "dai’",
+    "Kota_3": "bete’",
+    "Kota_4": "sau",
+    "Palempang_5": "naung",
+    "Palempang_6": "sau",
+    "Palempang_7": "naung",
+    "Bulung_8": "tama",
+    "Bulung_9": "naung",
+    "Panampo_10": "pano",
+    "Pikung_11": "bete’",
+    "Pikung_12": "tama",
+    "Pikung_13": "dai’",
+    "Tamonseng_14": "bete’",
+    "Tamonseng_15": "dai’"
+  },
+  "explanation": {
+    "rules": "Rules:\n• bete’ — across a river\n• dai’  — upwards\n• naung — downwards\n• pano  — on a flat road\n• sau   — downstream\n• tama  — upstream",
+    "rule_checklist": []
+  }
+}

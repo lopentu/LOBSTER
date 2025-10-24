@@ -1,0 +1,26 @@
+{
+  "id": "2006-1",
+  "answer": {
+    "assignment1_1": "I came and the Indians called the bears.",
+    "assignment1_2": "The man killed you and called me.",
+    "assignment1_3": "The man killed you and he called me.",
+    "assignment1_4": "He killed you.",
+    "assignment2": "<select2,1,inf>['Whom did he kill?', 'Who killed him?']",
+    "assignment3_1": "lakhota ki hokšita ki ktepi čha matho ki hi",
+    "assignment3_2": "yahi ną lakhota ki yakte",
+    "assignment3_3": "tuwa wačho he",
+    "assignment3_4": "wičhaša ki hipi čha tuwa wičhakte"
+  },
+  "explanation": {
+    "rules": "1. Word Order: Subject-Object-Verb (SOV).\n2. Article: `ki` (used after nouns).\n3. Interrogative Marker: Sentences end in `he` to indicate a question.\n4. Subject and Object Markers on Verbs:\nSubject 1sg → Object wa-\nSubject 2sg → Object ya-\nSubject 3sg → Object 0\nSubject 3pl → Object -pi\n(no Subject) → Object wičha-\n5. Order of Prefixes: Object prefix followed by subject prefix.\n6. Number of Nouns: Expressed only by the verbs.\\n7. Coordinating Conjunctions:\\n   - `ną` — same subject.\\n   - `čha` — different subjects.",
+    "rule_checklist": [
+      "Word Order: Subject-Object-Verb (SOV).",
+      "Article: `ki` (used after nouns).",
+      "Interrogative Marker: Sentences end in `he` to indicate a question.",
+      "Subject and Object Markers on Verbs:Subject 1sg → Object wa-Subject 2sg → Object ya-Subject 3sg → Object 0Subject 3pl → Object -pi(no Subject) → Object wičha-",
+      "Order of Prefixes: Object prefix followed by subject prefix.",
+      "Number of Nouns: Expressed only by the verbs.",
+      "Coordinating Conjunctions:   - `ną` — same subject.   - `čha` — different subjects."
+    ]
+  }
+}

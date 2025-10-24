@@ -1,0 +1,37 @@
+{
+  "id": "2021-3",
+  "answer": {
+    "a_14": "<select1,1,2>['How many women will this old man look after?']",
+    "a_15": "<select1,1,2>['These women will eat two things.']",
+    "a_16": "<select1,1,2>['Which child arrived?']",
+    "a_17": "<select2,1,2>['How many men will see the wild children?', 'How many men will the wild children see?']",
+    "a_18": "<select1,1,2>['Those women saw one canoe.']",
+    "b_19": "Kevila waga legisesi nunumwaya minasiwena?",
+    "b_20": "Biyamatasi gwadi magudina gudikabitam tevasi dimdim mtosina.",
+    "b_21": "Gudivila gugwadi bikamkwamsi bunukwa minasina?",
+    "b_22": "Aminana vivila lebani yena minasiwena namanabweta?",
+    "b_23": "Legisesi tomwaya mtowena nayu ka’ukwa nagasisi."
+  },
+  "explanation": {
+    "rules": "Word order:\n– V(O)S (V = verb; O = object; S = subject)\n– QVX (Q = interrogative element)\n– (which | Qt)N(D)(A) (Qt = quantity, N = noun, D = demonstrative pronouns, A = adjective)\n• verb:\n– le- past\n– bi- future\n– -si subject = plural (-gisi-si > -gisesi)\n• noun: singular / plural\nman: tau / tauwau\nchild: gwadi / gugwadi\nchief: guyau / gweguyau\nold woman: numwaya / nunumwaya\n∼: singular = plural\n• class (Cl):\n– men: te- (before Qt); to-\n– women/animals: na-\n– children: gudi-\n– canoes: ke-\n– things (for example stones): kwe-\n• demonstrative pronouns: (a-)ma-Cl(-si)(-we)-na, ma-to- > mto-, ma-na- > mina-\n• quantity: Cl-vila how many?, Cl-tala 1, Cl-yu 2, Cl-vasi 4",
+    "rule_checklist": [
+      "Word order: V(O)S (V = verb; O = object; S = subject)",
+      "Word order: QVX (Q = interrogative element)",
+      "Word order: (which | Qt)N(D)(A) (Qt = quantity, N = noun, D = demonstrative pronouns, A = adjective)",
+      "verb: le- past",
+      "verb: bi- future",
+      "verb: -si subject = plural (-gisi-si > -gisesi)",
+      "noun: singular / plural man: tau / tauwau child: gwadi / gugwadi chief: guyau / gweguyau old woman: numwaya / nunumwaya ~: singular = plural",
+      "class (Cl): men: te- (before Qt); to-",
+      "class (Cl): women/animals: na-",
+      "class (Cl): children: gudi-",
+      "class (Cl): canoes: ke-",
+      "class (Cl): things (for example stones): kwe-",
+      "demonstrative pronouns: (a-)ma-Cl(-si)(-we)-na, ma-to- > mto-, ma-na- > mina-",
+      "quantity: Cl-vila how many?",
+      "quantity: Cl-tala 1",
+      "quantity: Cl-yu 2",
+      "quantity: Cl-vasi 4"
+    ]
+  }
+}

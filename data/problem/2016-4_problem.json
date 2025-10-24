@@ -1,0 +1,79 @@
+{
+  "id": "2016-4",
+  "title": "Problem 4",
+  "content": "(20 points)\n\nRecent contact with Western civilization has brought some changes into the Iatmül language. New words and expressions have emerged and some existing ones have developed new meanings.\n\nHere are some words and word combinations in Iatmül and their English translations in arbitrary order:\n\n| Iatmül            | Translation                  |\n|-------------------|------------------------------|\n| 1. guna vaala     |                              |\n| 2. ka’ik          |                              |\n| 3. ka’ikgu        |                              |\n| 4. klawun         |                              |\n| 5. laavu          |                              |\n| 6. laavuga vi’    |                              |\n| 7. laavuga        |                              |\n| 8. ni’bu          |                              |\n| 9. ni’buna vaala  |                              |\n| 10. nyaka’ik      |                              |\n| 11. vi            |                              |\n| 12. vi’wun        |                              || 13. walini’bana bâk |                            |\n| 14. walini’bana gu |                            |\n| 15. walini’bana vi |                            |\n\n| Translation                  | Iatmül            |\n|------------------------------|-------------------|\n| a. banana                    |                   |\n| b. cow                       |                   |\n| c. canoe                     |                   |\n| d. book                      |                   |\n| e. carbonated beverage, alcohol |              |\n| f. rifle                     |                   |\n| g. picture, shadow           |                   |\n| h. car                       |                   |\n| i. I got                     |                   |\n| j. mirror                    |                   |\n| k. I saw                     |                   |\n| l. watch (timepiece)         |                   |\n| m. spear                     |                   |\n| n. to read                   |                   |\n| o. ground, land              |                   |\n\nNo additional explanation besides the answers is required, nor will be marked.\n\n(a) Determine the correct correspondences.\n\n(b) Translate into English:\n1. vaala;\n2. gu;\n3. vi'\n\nOne of these three words has a more recent synonym among the words and word combinations (1–15). Identify that synonym. Why did it come into use?\n\n(c) Translate into Iatmül:\n1. pig;\n2. banana leaves;\n3. sun;\n4. white people\n\nOne of the answers should coincide with one of the words and word combinations (1–15).\n\n△! Iatmül belongs to the Sepik family. It is spoken by approx. 46,000 people in Papua New \nGuinea’ and ny are consonants. â is a vowel. —Artūrs Semeņuks\n\n\n---",
+  "answer_format": {
+    "a_correspondence_1": {
+      "type": "string"
+    },
+    "a_correspondence_2": {
+      "type": "string"
+    },
+    "a_correspondence_3": {
+      "type": "string"
+    },
+    "a_correspondence_4": {
+      "type": "string"
+    },
+    "a_correspondence_5": {
+      "type": "string"
+    },
+    "a_correspondence_6": {
+      "type": "string"
+    },
+    "a_correspondence_7": {
+      "type": "string"
+    },
+    "a_correspondence_8": {
+      "type": "string"
+    },
+    "a_correspondence_9": {
+      "type": "string"
+    },
+    "a_correspondence_10": {
+      "type": "string"
+    },
+    "a_correspondence_11": {
+      "type": "string"
+    },
+    "a_correspondence_12": {
+      "type": "string"
+    },
+    "a_correspondence_13": {
+      "type": "string"
+    },
+    "a_correspondence_14": {
+      "type": "string"
+    },
+    "a_correspondence_15": {
+      "type": "string"
+    },
+    "b_translate_vaala": {
+      "type": "string"
+    },
+    "b_translate_gu": {
+      "type": "string"
+    },
+    "b_translate_vi'": {
+      "type": "string"
+    },
+    "b_synonym_identify": {
+      "type": "string"
+    },
+    "b_synonym_why": {
+      "type": "string"
+    },
+    "c_translate_pig": {
+      "type": "string"
+    },
+    "c_translate_banana_leaves": {
+      "type": "string"
+    },
+    "c_translate_sun": {
+      "type": "string"
+    },
+    "c_translate_white_people": {
+      "type": "string"
+    }
+  }
+}

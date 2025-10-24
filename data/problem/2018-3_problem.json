@@ -1,0 +1,58 @@
+{
+  "id": "2018-3",
+  "title": "Problem 3",
+  "content": "(20 points)\n\nHere are some words in Terêna in two grammatical forms (1st person sg, my … or I …; 2nd person sg, your_{sg} … or you_{sg} …) and their English translations. Some forms are missing.\n\n| 1st person sg   | 2nd person sg   | Translation          |\n|-----------------|-----------------|----------------------|\n| îmam            | îme             | husband              |\n| mbîho           | . . . . . . . .1 | to go                |\n| yónom           | yéno            | to walk              |\n| mbôro           | peôro           | pants                |\n| ndûti           | tiûti           | head                 |\n| âyom            | yâyo            | brother of a woman   |\n| . . . . . . . .2 | pîyo            | animal               |\n| yênom           | . . . . . . . .3 | wife                 |\n| mbûyu           | piûyu           | knee                 |\n| njûpa           | xiûpa           | manioc               |\n| . . . . . . . .4 | yêno            | mother               |\n| nêmem           | nîni            | tongue               |\n| mbâho           | peâho           | mouth                |\n| ndâki           | teâki           | arm                  |\n| vô’um           | veô’u           | hand                 |\n| ngásaxo         | . . . . . . . .5 | to feel cold         |\n| njérere         | . . . . . . . .6 | side                 |\n| mônzi           | meôhi           | toy                  |\n| ndôko           | . . . . . . . .7 | nape                 |\n| ímbovo          | ípevo           | clothes              |\n| enjóvi          | yexóvi          | elder sibling        |\n| noínjoa         | . . . . . . . .8 | to see it            |\n| vanénjo         | . . . . . . . .9 | to buy               |\n| mbepékena       | pipíkina        | drum                 |\n| ongóvo          | yokóvo          | stomach, soul        |\n| rembéno         | ripíno          | shirt                |\n| nje’éxa         | xi’íxa          | son/daughter         |\n| ivándako        | ivétako         | to sit               |\n| mbirítauna      | piríteuna       | knife                |\n| mómindi         | . . . . . . . .10 | to be tired         |\n| njovó’i         | xevó’i          | hat                  |\n| ngónokoa        | kénokoa         | to need it           |\n| ínzikaxovoku    | . . . . . . . .11 | school              |\n| . . . . . . . .12 | yôxu            | grandfather          |\n| íningone        | ínikene         | friend               |\n| vandékena       | vetékena        | canoe                |\n| óvongu          | yóvoku          | house                |\n| . . . . . . . .13 | nîwo            | nephew               |\n| ánzarana        | . . . . . . . .14 | hoe                 |\n| nzapátuna       | hepátuna        | shoe                 |\n\n(a) Fill in the gaps.\n\n(b) Some Terena words are borrowed from Portuguese, the national language of Brazil. One example is the word ‘shoe’ above (← Portuguese sapato). Sometimes Portuguese borrowings behave in an unusual way in Terena.\n\n| 1st person sg   | 2nd person sg   | Translation          |\n|-----------------|-----------------|----------------------|\n| lámbina         | leápina         | pencil (← Portuguese lápis) |\n|                 | leátana         | tin can (← Portuguese lata) |\n|                 | keápana         | cloak (← Portuguese capa) |\n\n1. In what way are these words different from native Terena words?  \n2. Translate into Terêna: my tin can, my cloak.  \n\n△! Terêna belongs to the Bolivia-Paraná branch of the Arawakan family. It is spoken by approx. 15,000 people in Brazil.\n’isaconsonant(knownastheglottalstop). x=shinsheesh. y=yinyum. nj=n+ si in vision. Word-final m indicates the nasal pronunciation of the whole word. The mark ˆ indicates that the vowel is lengthened and pronounced with a falling pitch. The mark ́ indicates that the following consonant is lengthened. —André Nikulin\n\n---",
+  "answer_format": {
+    "a_1": {
+      "type": "string"
+    },
+    "a_2": {
+      "type": "string"
+    },
+    "a_3": {
+      "type": "string"
+    },
+    "a_4": {
+      "type": "string"
+    },
+    "a_5": {
+      "type": "string"
+    },
+    "a_6": {
+      "type": "string"
+    },
+    "a_7": {
+      "type": "string"
+    },
+    "a_8": {
+      "type": "string"
+    },
+    "a_9": {
+      "type": "string"
+    },
+    "a_10": {
+      "type": "string"
+    },
+    "a_11": {
+      "type": "string"
+    },
+    "a_12": {
+      "type": "string"
+    },
+    "a_13": {
+      "type": "string"
+    },
+    "a_14": {
+      "type": "string"
+    },
+    "b_1": {
+      "type": "string"
+    },
+    "b_2_1": {
+      "type": "string"
+    },
+    "b_2_2": {
+      "type": "string"
+    }
+  }
+}

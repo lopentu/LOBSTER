@@ -1,0 +1,30 @@
+{
+  "id": "2022-1",
+  "answer": {
+    "a": "I give them to you_{pl}.",
+    "b_10": "He gives him to us.",
+    "b_11": "You_{pl} give him to me.",
+    "b_12": "They give us to you_{sg}.",
+    "c_13": "ŝʷəsənatʷan",
+    "c_14": "asəŝʷtʷan",
+    "c_15": "šʼəwtʷan",
+    "c_16": "wašʼtʷən",
+    "c_17": "ašʼəntʷan"
+  },
+  "explanation": {
+    "rules": "Morpheme Order: The structure of the verb is: Sb-Ob_dir-Ob_obl.\n\nPerson and Number Morphemes:\n1st person sg:\n    Ob_dir: s-\n    Ob_obl: s-\n1st person pl:\n    Ob_dir: š’-\n    Ob_obl: š’-\n2nd person sg:\n    Ob_dir: w-\n    Ob_obl: w-\n2nd person pl:\n    Ob_dir: šʷ-\n    Ob_obl: šʷ-\n3rd person sg:\n    Ob_dir: a-\n    Ob_obl: ∅ (null)\n    Sb: n-\n3rd person pl:\n    Ob_dir: a-\n    Ob_obl: a-\n    Sb: na-\n\nVerb Stem and Suffixes:\nThe person/number prefixes are followed by the morpheme tʷ.\nThis is followed by a theme vowel, which is determined by a condition:\nThe vowel is a if: the Direct Object (Ob_dir) is plural, OR the 2nd person plural morpheme is used for either the Direct Object (Ob_dir) or the Oblique Object (Ob_obl).\nOtherwise, the vowel is ə.\nFinally, the verb form ends with the morpheme n.\n\nPhonological Rule:\nWhen two consonants, C1 and C2, are adjacent, a schwa (ə) is inserted between them. The sequence C1-C2 becomes C1-ə-C2.",
+    "rule_checklist": [
+      "Morpheme Order:The structure of the verb is: Sb-Ob_dir-Ob_obl.",
+      "1st person sg:Ob_dir: s-Ob_obl: s-",
+      "1st person pl:Ob_dir: š’-Ob_obl: š’-",
+      "2nd person sg:Ob_dir: w-Ob_obl: w-",
+      "2nd person pl:Ob_dir: šʷ-Ob_obl: šʷ-",
+      "3rd person sg:Ob_dir: a-Ob_obl: ∅ (null)Sb: n-",
+      "3rd person pl:Ob_dir: a-Ob_obl: a-Sb: na-",
+      "The person/number prefixes are followed by the morpheme tʷ.",
+      "This is followed by a theme vowel, which is determined by a condition:The vowel is a if: the Direct Object (Ob_dir) is plural, OR the 2nd person plural morpheme is used for either the Direct Object (Ob_dir) or the Oblique Object (Ob_obl).Otherwise, the vowel is ə.",
+      "Finally, the verb form ends with the morpheme n.",
+      "Phonological Rule:When two consonants, C1 and C2, are adjacent, a schwa (ə) is inserted between them. The sequence C1-C2 becomes C1-ə-C2."
+    ]
+  }
+}

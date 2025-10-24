@@ -1,0 +1,55 @@
+{
+  "id": "2024-2",
+  "title": "Problem 2",
+  "content": "Here are some word combinations in Hadza and their English translations:\n\n1. chutisa zzokwanako – the giraffe’s neck\n2. athuitcha slimibii – the men’s axe (for collecting honey)\n3. panjubeema popho – the male impala’s I. transvaalensis tubers\n4. do’aikuitcha sisimibii – the lions’ V. macrorhyncha tuber\n5. uphukwabiitcha zzokwanabii – the male giraffes’ legs\n6. chutikoma beggau – the male elephant’s neck\n7. uthumekoeta dlakwеbee – the girls’ spear\n8. makokoma erati – the boy’s short, wide cooking pot\n9. midlabiisa neeko – the baboon’s bones\n10. dungubiima hazzake – the male thief’s male zebras\n11. athobeema sleme – the man’s axes (for splitting firewood)\n12. uphukwakosa beggauko – the elephant’s leg\n13. shumusa nqeko – the female leopard’s V. pseudolablab vine\n14. gogogogoma uhuyiti – the male stranger’s flamingo\n15. uthumesa dlakwеko – the girl’s long spear\n16. do’aisa sesemeko – the female lion’s V. macrorhyncha vine\n17. midlaitcha niibii – the male baboons’ bone\n18. garibiieta akhwitibee – the women’s lorries\n\n**(a) Determine the correct correspondences:**\n\n19. wiriko\n20. roobee\n21. mu’a\n22. zzahubii\n\nA. tails (e.g., of leopards)\nB. thin twig\nC. horns (e.g., of dik-diks)\nD. short, thick root\n\n**(b) Translate into English:**\n\n23. gariko\n24. makubii\n25. hazzakeko\n26. dongobee\n27. zzahoko\n28. nqibii\n\n**(c) Translate into Hadza:**\n\n29. the flamingo’s leg\n30. the zebra’s V. pseudolablab tuber\n31. the male impalas’ horns\n32. the female strangers’ thick stick\n33. the boys’ tall cooking pot\n34. the impala’s long, thin roots\n\n*The Hadza language is a language isolate. It is spoken by approx. 1000 people in Tanzania. ch, dl, gg, khw, kw, nj, nq, ph, sh, sl, tch, th, w, y, zz are consonants. ’ is the so-called glottal stop (a brief blocking of the flow of air in the throat). Consecutive identical vowels are pronounced separately (with intervening ’).\n\n---",
+  "answer_format": {
+    "a_19": {
+      "type": "string"
+    },
+    "a_20": {
+      "type": "string"
+    },
+    "a_21": {
+      "type": "string"
+    },
+    "a_22": {
+      "type": "string"
+    },
+    "b_23": {
+      "type": "string"
+    },
+    "b_24": {
+      "type": "string"
+    },
+    "b_25": {
+      "type": "string"
+    },
+    "b_26": {
+      "type": "string"
+    },
+    "b_27": {
+      "type": "string"
+    },
+    "b_28": {
+      "type": "string"
+    },
+    "c_29": {
+      "type": "string"
+    },
+    "c_30": {
+      "type": "string"
+    },
+    "c_31": {
+      "type": "string"
+    },
+    "c_32": {
+      "type": "string"
+    },
+    "c_33": {
+      "type": "string"
+    },
+    "c_34": {
+      "type": "string"
+    }
+  }
+}

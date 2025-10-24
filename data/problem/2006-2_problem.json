@@ -1,0 +1,52 @@
+{
+  "id": "2006-2",
+  "title": "Problem 2",
+  "content": "(20 points)\nThe plural of Catalan nouns is usually formed by adding the ending -s. But if the noun ends in one of the letters s, x, or ç, more complex rules apply.\n\nHere are the singular and the plural forms of some Catalan nouns (in simplified spelling) and their English translations. Some forms are missing.\n\n| Singular          | Plural              | Translation      |\n|-------------------|---------------------|------------------|\n| el apèndix        | els apèndixs        | appendix         |\n| el bastaix        |                     | carrier          |\n| el troleibús      |                     | trolleybus       |\n| el cactus         | els cactus          | cactus           |\n| la càries         | les càries          | caries           |\n|                   | el clos             | meadow           |\n| el contumaç       | els contumaços      | rebel            |\n| la faç            | les façs            | face             |\n| el flux           | els fluxos          | stream           |\n| el gimnàs         | els gimnasos        | gym              |\n| la hèlix          | les hèlixs          | screw            |\n| el índex          | els índexs          | index            |\n| el iris           |                     | rainbow          |\n| el llaç           |                     | loop             |\n| el ònix           |                     | onyx             |\n| el pàncrees       | els pàncrees        | pancreas         |\n| el pedaç          | els pedaços         | patch            |\n| la pelvis         |                     | pelvis           |\n| el permís         | els permisos        | permission       |\n| el pis            |                     | flat, lodgings   |\n| el [   ]          | els sequaços        | (male) follower  |\n| la [   ]          | les sequaçs         | (female) follower|\n| el sufix          | els sufixos         | suffix           |\n|                   | els tastaolletes    | frivolous person |\n| el teix           | els teixos          | yew              |\n| la trencadís      | les trencadís       | piece of crockery|\n| el vas            | els vasos           | vase             |\n| la xeix           |                     | (the letter) x   |\n\nAssignment 1. Fill the gaps. Explain your solution.\n\nAssignment 2. The marks ` and ´ indicate the stress in certain Catalan words. Find out when they are used.\n\nAssignment 3. Which syllable is stressed in those words where there is no ` or ´ mark?\n\n---",
+  "answer_format": {
+    "assignment1_el_bastaix": {
+      "type": "string"
+    },
+    "assignment1_el_troleibus": {
+      "type": "string"
+    },
+    "assignment1_el_clos": {
+      "type": "string"
+    },
+    "assignment1_el_iris": {
+      "type": "string"
+    },
+    "assignment1_el_laca": {
+      "type": "string"
+    },
+    "assignment1_el_onix": {
+      "type": "string"
+    },
+    "assignment1_la_pelvis": {
+      "type": "string"
+    },
+    "assignment1_el_pis": {
+      "type": "string"
+    },
+    "assignment1_els_sequacos": {
+      "type": "string"
+    },
+    "assignment1_les_sequacs": {
+      "type": "string"
+    },
+    "assignment1_els_tastaolletes": {
+      "type": "string"
+    },
+    "assignment1_la_xeix": {
+      "type": "string"
+    },
+    "assignment1_explanation": {
+      "type": "string"
+    },
+    "assignment2": {
+      "type": "string"
+    },
+    "assignment3": {
+      "type": "string"
+    }
+  }
+}

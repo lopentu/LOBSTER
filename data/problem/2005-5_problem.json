@@ -1,0 +1,16 @@
+{
+  "id": "2005-5",
+  "title": "Problem 5",
+  "content": "(20 marks)\n\nIn Lithuanian nouns, the accent may move according to the number and the case of the nouns, i.e., different syllables may be accented in different forms of the same word. The pattern of accent movement is called the accent paradigm of the noun.\n\nThere are two types of syllables in Lithuanian. If a syllable of the first type is accented, that syllable has falling intonation marked «ˊ», e.g.: íe, ó, ál. If a syllable of the second type is accented, that syllable has rising intonation marked «~», e.g.: añ, õ, iẽ.\n\nWithin the same root or the same ending, the syllable type always remains the same. For example, the root **lìep-**, when accented, always has falling intonation, whereas the ending of the Nominative Plural **-os** always has rising intonation.\n\nThe following examples illustrate the four main types of Lithuanian accent paradigms (they look somewhat different in modern Lithuanian, but this is irrelevant for the problem):\n\n| **Paradigm** | **1**      | **2**      | **3**      | **4**      |\n|--------------|------------|------------|------------|------------|\n| **Example**  | linden     | hand       | head       | winter     |\n| **Nom. Sg.** | lìepo       | rankó       | galvó       | žiemó       |\n| **Gen. Sg.** | lìepps     | rañkos     | galvõs     | žiẽmõs     |\n| **Nom. Pl.** | lìepps     | rañkos     | gálvòs     | žiẽmos     |\n| **Acc. Pl.** | lìepaNs     | rankáNs     | gálvaNs     | žiemàs     |\n\nIn the late 19th century, the great Swiss linguist Ferdinand de Saussure studied the accent paradigms of Lithuanian nouns and came to the conclusion that at an earlier stage of the development of Lithuanian there were not four, but only two accent paradigms. Later, as a result of a specific rule, which is now known as Saussure's Law, the accent moved under certain conditions, and each paradigm split in two.\n\n-Assignment 1: Determine which accent paradigms originally belonged together.\n\n-Assignment 2: Determine what the initial accent paradigms looked like.\n\n-Assignment 3: Formulate Saussure’s Law.\n\n*Note: ž is a specific Lithuanian consonant, N shows a specific (nasal) pronunciation of the preceding vowel.*  \n*Lithuanian belongs to the Baltic branch of the Indo-European language family. It is spoken by 3 million people in Lithuania and some other countries.*",
+  "answer_format": {
+    "assignment_1": {
+      "type": "string"
+    },
+    "assignment_2": {
+      "type": "string"
+    },
+    "assignment_3": {
+      "type": "string"
+    }
+  }
+}

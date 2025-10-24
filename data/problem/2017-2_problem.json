@@ -1,0 +1,82 @@
+{
+  "id": "2017-2",
+  "title": "Problem 2",
+  "content": "(20 points)\n\nHere are some words and word combinations in Abui and their English translations in arbitrary order:\n\n| Abui                    | Translation                           |\n|-------------------------|---------------------------------------|\n| 1. abang                |                                       |\n| 2. atáng heya           |                                       |\n| 3. bataa hawata         |                                       |\n| 4. dekafi               |                                       |\n| 5. ebataa hatáng        |                                       |\n| 6. ekuda hawata         |                                       |\n| 7. falepak hawei        |                                       |\n| 8. hatáng hamin         |                                       |\n| 9. helui                |                                       |\n| 10. maama hefalepak     |                                       |\n| 11. napong              |                                       |\n| 12. rièng               |                                       |\n| 13. ritama              |                                       |\n| 14. riya hatáng         |                                       |\n| 15. tama habang         |                                       |\n| 16. tamin               |                                       |\n| 17. tefe hawei          |                                       |\n\n| Translation                           | Abui                    |\n|---------------------------------------|-------------------------|\n| a. his fingertip                      |                         |\n| b. your (sg.) branch                  |                         |\n| c. my face                            |                         |\n| d. one’s own rope                     |                         || e. your (sg.) shoulder                |                         |\n| f. your (pl.) mother’s hand           |                         |\n| g. our pigs’ ears (the ear of the pig of each of us) |         |\n| h. father’s pistol                    |                         |\n| i. your (sg.) horse’s neck            |                         |\n| j. trigger                            |                         |\n| k. your (pl.) eyes                    |                         |\n| l. our noses (the nose of each of us) |                         |\n| m. his knife                          |                         |\n| n. seashore                           |                         || o. upper part of a tree               |                         |\n| p. your (sg.) thumb                   |                         || q. your (pl.) sea                     |                         |\n\n(a) Determine the correct correspondences.\n\n(b) Translate into English: \n1. amin\n2. deya hebataa.\n\n(c) Translate into Abui:\n\n1. pig  \n2. your (pl.) knife  \n3. your (sg.) mother’s father  \n4. my father’s face  \n5. one’s own ear  \n6. my sea",
+  "answer_format": {
+    "a_1": {
+      "type": "string"
+    },
+    "a_2": {
+      "type": "string"
+    },
+    "a_3": {
+      "type": "string"
+    },
+    "a_4": {
+      "type": "string"
+    },
+    "a_5": {
+      "type": "string"
+    },
+    "a_6": {
+      "type": "string"
+    },
+    "a_7": {
+      "type": "string"
+    },
+    "a_8": {
+      "type": "string"
+    },
+    "a_9": {
+      "type": "string"
+    },
+    "a_10": {
+      "type": "string"
+    },
+    "a_11": {
+      "type": "string"
+    },
+    "a_12": {
+      "type": "string"
+    },
+    "a_13": {
+      "type": "string"
+    },
+    "a_14": {
+      "type": "string"
+    },
+    "a_15": {
+      "type": "string"
+    },
+    "a_16": {
+      "type": "string"
+    },
+    "a_17": {
+      "type": "string"
+    },
+    "b_1": {
+      "type": "string"
+    },
+    "b_2": {
+      "type": "string"
+    },
+    "c_1": {
+      "type": "string"
+    },
+    "c_2": {
+      "type": "string"
+    },
+    "c_3": {
+      "type": "string"
+    },
+    "c_4": {
+      "type": "string"
+    },
+    "c_5": {
+      "type": "string"
+    },
+    "c_6": {
+      "type": "string"
+    }
+  }
+}

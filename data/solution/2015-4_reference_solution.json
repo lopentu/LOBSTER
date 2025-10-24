@@ -1,0 +1,34 @@
+{
+  "id": "2015-4",
+  "answer": {
+    "a_18": "The old woman will find you (sg.).",
+    "a_19": "He left you (sg.).",
+    "a_20": "The dog doesn’t have a stick.",
+    "a_21": "You (sg.) stole the girl.",
+    "a_22": "You (sg.) struck me.",
+    "a_23": "She jumped with the spear.",
+    "b_24": "Yagujba nyungu.",
+    "b_25": "Gulugbi ga ngunybulugi.",
+    "b_26": "Juwa gu bardba gijilulunguji.",
+    "b_27": "Ngirrajba gunu janji.",
+    "b_28": "Ngajbi ngiyinya alangani."
+  },
+  "explanation": {
+    "rules": "Rules:\n• Word order:\n  – V P (S/O)\n  – S/O P V Poss\n  – V P Poss\n  – S Poss\n• V = verb (past → future suffix shift: ‑bi → ‑ba, Ø → ‑jba).\n• S = subject (noun); the subject of a transitive verb takes ‑ni.\n• O = object (noun).\n• P = pronouns (subject + object) + tense:\n  – Subject prefixes\n      * 1st  ngV‑\n      * 2nd  nyV‑\n      * 3rd  intransitive gV‑; transitive: masculine gVnV‑, feminine ngVyV‑\n  – Object suffixes\n      * 1st  ‑ngV\n      * 2nd  ‑nyV\n      * 3rd  Ø\n  – V stands for the tense vowel (past: i…i,a; future: u…u).\n• Poss = possessed noun:\n  – possessed ‘+’  → ‑ngu\n  – possessed ‘‑’  → ‑wa\n  – possessor markers: masculine ‑ji, feminine ‑nya",
+    "rule_checklist": [
+      "Word order: V P (S/O)",
+      "Word order: S/O P V Poss",
+      "Word order: V P Poss",
+      "Word order: S Poss",
+      "V = verb (past \t future suffix shift: -bi \t -ba, \t \t -jba).",
+      "S = subject (noun); the subject of a transitive verb takes -ni.",
+      "O = object (noun).",
+      "P = pronouns (subject + object) + tense: Subject prefixes: 1st ngV-, 2nd nyV-, 3rd intransitive gV-; transitive: masculine gVnV-, feminine ngVyV-",
+      "P = pronouns (subject + object) + tense: Object suffixes: 1st -ngV, 2nd -nyV, 3rd",
+      "P = pronouns (subject + object) + tense: V stands for the tense vowel (past: i\t i,a; future: u\t u).",
+      "Poss = possessed noun: possessed '+' \t -ngu",
+      "Poss = possessed noun: possessed '-' \t -wa",
+      "Poss = possessed noun: possessor markers: masculine -ji, feminine -nya"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2008-1",
+  "answer": {
+    "a_12": "[əksənxōɤon]",
+    "a_13": "[ətkəbox]",
+    "a_14": "[gəmūjəmin]",
+    "a_15": "[emtoɤwatk]",
+    "a_16": "[dēbəlc]",
+    "b_17": "tp’te’sn",
+    "b_18": "mtesgm",
+    "b_19": "alapt’g",
+    "b_20": "glamen"
+  },
+  "explanation": {
+    "rules": "Rules:\n1. Apostrophe (`'`):\n- Follows a vowel: indicates length.\n- Follows a consonant: read as [ə].\n\n2. Letter 'w':\n- After a consonant: rounding of the lips.\n- Otherwise: [w].\n\n3. [ə] Pronunciation:\n- Between any consonant and a following sonorant consonant ([l, m, n]).\n- Before a consonant cluster at the beginning of a word.\n\n4. Consonant Voicing:\n- `p t j g gw q qw` are voiced ([b d j g gw ɤ ɤw]) at the beginning of a word or between vowels.\n- Voiceless ([p t c k kw x xw]) at the end of a word or next to another consonant.",
+    "rule_checklist": [
+      "Apostrophe (`'`): Follows a vowel: indicates length.",
+      "Apostrophe (`'`): Follows a consonant: read as [ə].",
+      "Letter 'w': After a consonant: rounding of the lips.",
+      "Letter 'w': Otherwise: [w].",
+      "[ə] Pronunciation: Between any consonant and a following sonorant consonant ([l, m, n]).",
+      "[ə] Pronunciation: Before a consonant cluster at the beginning of a word.",
+      "Consonant Voicing: `p t j g gw q qw` are voiced ([b d j g gw ɤ ɤw]) at the beginning of a word or between vowels.",
+      "Consonant Voicing: Voiceless ([p t c k kw x xw]) at the end of a word or next to another consonant."
+    ]
+  }
+}

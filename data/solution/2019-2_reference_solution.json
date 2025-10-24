@@ -1,0 +1,42 @@
+{
+  "id": "2019-2",
+  "answer": {
+    "a_1": "G",
+    "a_2": "M",
+    "a_3": "D",
+    "a_4": "A",
+    "a_5": "H",
+    "a_6": "K",
+    "a_7": "N",
+    "a_8": "I",
+    "a_9": "F",
+    "a_10": "C",
+    "a_11": "L",
+    "a_12": "P",
+    "a_13": "O",
+    "a_14": "E",
+    "a_15": "J",
+    "a_16": "B",
+    "a_17": "R",
+    "a_18": "Q",
+    "b_19": "V",
+    "b_20": "W",
+    "b_21": "X",
+    "b_22": "T",
+    "b_23": "U",
+    "b_24": "Y",
+    "b_25": "S",
+    "c_26": "grass",
+    "c_27": "black ball",
+    "c_28": "red dog",
+    "c_29": "reddish-brown dog",
+    "d_30": "luuehlson’ puuek",
+    "d_31": "muenchey no’oy",
+    "d_32": "tegee’n rohkuen",
+    "d_33": "lo’ogar’ tepoo"
+  },
+  "explanation": {
+    "rules": "no-rule",
+    "rule_checklist": []
+  }
+}

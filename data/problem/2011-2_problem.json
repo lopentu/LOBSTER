@@ -1,0 +1,34 @@
+{
+  "id": "2011-2",
+  "title": "Problem 2",
+  "content": "### Problem 2\n\n(20 points)\n\nThe following are words of the Faroese language written in the regular orthography and in phonetic transcription as well as their English translations:\n\n| Word  | Phonetic Transcription | Translation            |\n|-------|------------------------|------------------------|\n| bøga  | ?                      | hen bird               |\n| deyði | [dEiji]                | (I) kill               |\n| eyður | [Eijur]                | wealth                 |\n| glaða | [glEava]               | whirlwind              |\n| gleða | [gle:a]                | (they) make glad       |\n| gløður | [glø:vur]              | embers                 |\n| hugi  | [hu:wi]                | mind                   |\n| knoðar | ?                      | (he) kneads            |\n| koyla | [kOila]                | cleft                  |\n| kvøða |  ?                     | (they) sing            |\n| lega  | [le:va]                | bed                    |\n| logi  | [lo:ji]                | flame                  |\n| løgur |  ?                     | liquid                 |\n| móða  | [mOuwa]                | froth or scum in pot with meat or fish |\n| mugu  | [mu:wu]                | (they) must            |\n| plága |  ?                     | nuisance, affliction   |\n| ráði  | [rOaji]                | (I) advise             |\n| rúma  | [r0uma]                | (they) contain         |\n| røða  | [rø:a]                | (they) speak           |\n| skaði |  ?                     | damage, loss           |\n| skógur | [skOuwur]             | forest                 |\n| spreiða | [spraija]            | (they) spread          |\n| søga  | [sø:va]                | story                  |\n| tegi  | [te:ji]                | keep silent!           |\n| toygur | ?                     | swallow, gulp, draught |\n| tregar | [tre:ar]              | (he) injures           |\n| trúgi  | ?                      | may (he) endanger      |\n| vágur | [vOavur]              | gulf                   |\n| vegur | [ve:vur]              | (he) raises            |\n| viður | [vi:jur]              | wood, timber           |\n| viga  | [vi:ja]               | (they) weigh           |\n| øga   | [ø:a]                | (they) frighten        |\n\n(a) Fill in the gaps.\n\n(b) Describe the rules you used.\n\n△! Faroese belongs to the Northern subgroup of the Germanic languages. It is spoken by approx. 48 000 people in the Faroe Islands and elsewhere.\nIn the transcription [j] = y in yum, [w] = w in win; [E], [O], [ø], [0] are vowels. The mark “:” denotes vowel length. —Alexander Piperski\n---",
+  "answer_format": {
+    "a_bøga": {
+      "type": "string"
+    },
+    "a_knoðar": {
+      "type": "string"
+    },
+    "a_kvøða": {
+      "type": "string"
+    },
+    "a_løgur": {
+      "type": "string"
+    },
+    "a_plága": {
+      "type": "string"
+    },
+    "a_skaði": {
+      "type": "string"
+    },
+    "a_toygur": {
+      "type": "string"
+    },
+    "a_trúgi": {
+      "type": "string"
+    },
+    "b_rules": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "2016-3",
+  "answer": {
+    "a_11": "The thieves are striking us.",
+    "a_12": "I repaired the door for the neighbour.",
+    "a_13": "The donkey found the owners.",
+    "a_14": "The owners gave us the camel.",
+    "a_15": "I will buy the chicken.",
+    "b_16": "kanarriːcci tirtki beyyeːg atirra.",
+    "b_17": "jahal argi walgi jaːndeːccirsu.",
+    "b_18": "ar mangi bimaːgru.",
+    "b_19": "tirti magasiːg jomirsa.",
+    "b_20": "wali sarkaːygi darbadiːg eltirsa."
+  },
+  "explanation": {
+    "rules": "Rules:\n• Word order is S (O′) O V (S = subject, O′ = indirect object, O = direct object, V = predicate).\n• Noun number markers: singular = ∅; plural = ‑i (after a consonant) or ‑cci (after a vowel).\n• Noun case markers: subject = ∅; O′/O = ‑zg (after a vowel), ‑gi (after a sonorant), ‑ki (after an obstruent).\n• Verb tense prefixes: present a‑, future bi‑.\n• Verb root follows the tense prefix.\n• Verb ‘to give’: root dem when recipient is 1st person, root tir when recipient is 2nd/3rd person.\n• Object suffix set: if an indirect object (O′) is present → singular ∅, plural ‑ccir (‑C > ∅ | ‑ccir); otherwise for direct object → singular ∅, plural ‑ir.\n• Finite‑verb tense suffixes: past ‑s; present/future ‑r (with r → d after n).\n• Subject agreement suffixes: 1 sg ‑i; 1 pl / 3 sg ‑u; 3 pl ‑a.",
+    "rule_checklist": [
+      "Word order is S (O') O V.",
+      "Noun number markers: singular = \n; plural = -i (after a consonant) or -cci (after a vowel).",
+      "Noun case markers: subject = \n; O'/O = -zg (after a vowel), -gi (after a sonorant), -ki (after an obstruent).",
+      "Verb tense prefixes: present a-, future bi-.",
+      "Verb root follows the tense prefix.",
+      "Verb 'to give': root dem when recipient is 1st person, root tir when recipient is 2nd/3rd person.",
+      "Object suffix set: if an indirect object (O') is present \n singular \n, plural -ccir (-C > \n | -ccir); otherwise for direct object \n singular \n, plural -ir.",
+      "Finite-verb tense suffixes: past -s; present/future -r (with r \n d after n).",
+      "Subject agreement suffixes: 1 sg -i; 1 pl / 3 sg -u; 3 pl -a."
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "2005-4",
+  "title": "Problem 4",
+  "content": "(20 marks)\n\nBelow you see phrases in the Yoruba language (in phonetic transcription) and their literal English translations:\n\n1. **[ajɔ ɔkɔ]** — the husband’s dog  \n2. **[ìlé elu]** — the stranger’s city  \n3. **[igi ìyá]** — the mother’s tree  \n4. **[ɔka àjɛ́]** — the witch’s husband  \n5. **[ìfó owó]** — the love of money  \n6. **[ɛ̀bó orí]** — the vicinity of the head (i.e., near the head)  \n7. **[ìyá alé]** — the house’s mother (i.e., mistress of the house, elder wife)  \n8. **[àjɛ́ ɛ̀lú]** — the city’s witch (i.e., the city witch)  \n9. **[àké egi]** — the axe of the tree (i.e., a wooden axe)  \n10. **[owó olé]** — the money of the house (i.e., rent)  \n11. **[ìlú ùfɛ́]** — the city of love  \n12. **[orá ajá]** — the dog’s head  \n13. **[igɔ ɔkɔ]** — the husband’s tree\n\n-Assignment 1: Translate into English:\n\n14. **[owá àké]**  \n15. **[ɛ̀bá àlú]**  \n16. **[ɔkɔ ɔ̀yá]**  \n17. **[ajé elu]**\n\n-Assignment 2: Translate into Yoruba:\n\n18. the head of the tree (i.e., the top of the tree)  \n19. the witch’s city  \n20. the house of love (venue of the creation of the first human beings in Yoruba mythology)  \n21. the husband’s axe\n\n*Note: j and y are specific consonants, ɛ and ɔ are specific vowels of the Yoruba language (similar to e and o, respectively). The marks “`” and “´” indicate tones (a higher or lower level of the voice during the pronunciation of the syllable).*\n*Yoruba belongs to the Kwa branch of the Niger-Congo language family. It is spoken by more than 20 million people in Nigeria and the neighboring countries.*\n\n---",
+  "answer_format": {
+    "assignment1_14": {
+      "type": "string"
+    },
+    "assignment1_15": {
+      "type": "string"
+    },
+    "assignment1_16": {
+      "type": "string"
+    },
+    "assignment1_17": {
+      "type": "string"
+    },
+    "assignment2_18": {
+      "type": "string"
+    },
+    "assignment2_19": {
+      "type": "string"
+    },
+    "assignment2_20": {
+      "type": "string"
+    },
+    "assignment2_21": {
+      "type": "string"
+    }
+  }
+}

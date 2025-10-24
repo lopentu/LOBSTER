@@ -1,0 +1,40 @@
+{
+  "id": "2004-4",
+  "title": "Problem 4",
+  "content": "### Problem 4\n\n(10 points)\nConsider some words of the Lakhota language (in Latin transliteration):\n\n| Lakhota         | English Translation                       |\n|-----------------|-------------------------------------------|\n| kĩza            | a single high-pitched tone sounds         |\n| žata            | it (e.g., a road) forks into two parts    |\n| šuža            | it is badly bruised                       |\n| γi              | it is brown                               |\n| mⁱniža          | it is curled but can be smoothed again    |\n| gᵉleza          | it is ruled                               |\n| nuγa            | it is hard and immovable (e.g., a gnarl on a tree) |\n| mⁱniγa          | it is shrunk permanently                  |\n| zi              | it is yellow                              |\n| šli             | thick liquid is being squeezed out        |\n| kĩža            | a blending high-pitched tone sounds (e.g., a trill) |\n| gᵉleγa          | it is striped                             |\n\nAssignment 1. Match the following words with their translations given in misarranged order:\nk'eγa, k'eza, pʰešniža, suza, xuγa;\n it sparks, it is fractured, the surface is in a scratched condition, it has a slight bruise, the surface is in a scraped condition\n\nAssignment 2. Translate into Lakhota:\n\n1. A thin liquid is being squeezed out\n\n2. It is soft and movable (e.g., an enlarged gland under the skin)\n\n3. It is red hot\n\n4. It is semi-hard and movable (e.g., a cartilage)\n\n5. It is branching into several directions\n\nAssignment 3. Explain the meaning of the word ži.\n\nNote. The letter x is pronounced similarly to English h as in hard; the letter γ is the voiced correlate of x; š and ž are pronounced similarly to sh as in shoe and s as in pleasure, respectively. The letters k' and pʰ signify specific Lakhota consonants, and ĩ, ⁱ, ᵉ signify specific Lakhota vowels.\n\n---",
+  "answer_format": {
+    "assignment1_k'eγa": {
+      "type": "string"
+    },
+    "assignment1_k'eza": {
+      "type": "string"
+    },
+    "assignment1_pʰešniža": {
+      "type": "string"
+    },
+    "assignment1_suza": {
+      "type": "string"
+    },
+    "assignment1_xuγa": {
+      "type": "string"
+    },
+    "assignment2_1": {
+      "type": "string"
+    },
+    "assignment2_2": {
+      "type": "string"
+    },
+    "assignment2_3": {
+      "type": "string"
+    },
+    "assignment2_4": {
+      "type": "string"
+    },
+    "assignment2_5": {
+      "type": "string"
+    },
+    "assignment3": {
+      "type": "string"
+    }
+  }
+}

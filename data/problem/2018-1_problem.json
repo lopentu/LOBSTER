@@ -1,0 +1,43 @@
+{
+  "id": "2018-1",
+  "title": "Problem 1",
+  "content": "(20 points)\n\nHere are some words in Creek and their English translations. The mark [ˊ] indicates stress:\n\n| Creek                  | Translation            |\n|------------------------|------------------------|\n| [cokó]                 | house                  |\n| [cáːlo]                | trout                  |\n| [sókca]                | sack                   |\n| [waːkocí]              | calf                   |\n| [pocóswa]              | axe                    |\n| [famíːca]              | muskmelon              |\n| [yanása]               | bison // buffalo       |\n| [iyanawá]              | his/her cheek          |\n| [hîːspákwa]            | robin                  |\n| [aklowahíː]            | mud                    |\n| [imahicíta]            | to look out for        |\n| [inkosapitá]           | to implore             |\n| [tapassóːla]           | daddy longlegs         |\n| [akkopánka]            | playing                |\n| [cokpilâːpilá]         | whippoorwill           |\n| [toknaːphotí]          | wallet                 |\n| [coːkakiɬɬitá]         | learning               |\n| [ɬafotaháya]         | pumpkin // winter squash |\n| [itiwanayipíta]        | to tie each other      |\n| [ipahankatíta]         | to count us            |\n| [pokkoɬakkoakkopankacóko] | basketball gym         |\n\nMark the stress:\n\n| Creek                  | Translation            |\n|------------------------|------------------------|\n| [ifa]                  | dog                    |\n| [ifoci]                | puppy                  |\n| [nâːnaki]              | things                 |\n| [sâːsakwa]             | goose                  |\n| [aktopa]               | bridge                 |\n| [hoktaki]              | women                  |\n| [wanayita]             | to tie                 |\n| [awanayita]            | to tie to              |\n| [isiskitoci]           | little drinking vessel |\n| [aːtamihoma]           | bonnet (car hood)      |\n| [honantaːki]           | men                    |\n| [ilitohtaɬita]         | to cross legs          |\n\n△Creek (Muskogee) belongs to the Muskogean family. It is spoken by approx. 4,500 people\nin the state of Oklahoma, USA. [ɬ]is a consonant. The mark[ˆ]indicates falling tone. The mark[ː]indicates that the\npreceding vowel is long. —Aleksejs Peguševs\n\n---",
+  "answer_format": {
+    "[ifa]": {
+      "type": "string"
+    },
+    "[ifoci]": {
+      "type": "string"
+    },
+    "[nâːnaki]": {
+      "type": "string"
+    },
+    "[sâːsakwa]": {
+      "type": "string"
+    },
+    "[aktopa]": {
+      "type": "string"
+    },
+    "[hoktaki]": {
+      "type": "string"
+    },
+    "[wanayita]": {
+      "type": "string"
+    },
+    "[awanayita]": {
+      "type": "string"
+    },
+    "[isiskitoci]": {
+      "type": "string"
+    },
+    "[aːtamihoma]": {
+      "type": "string"
+    },
+    "[honantaːki]": {
+      "type": "string"
+    },
+    "[ilitohtaɬita]": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "2006-1",
+  "title": "Problem 1",
+  "content": "### Problem 1\n\n(20 points)\nBelow you see romanised sentences in the Lakhota language and their English translations:\n\n| Lakhota                             | English                            |\n|-------------------------------------|------------------------------------|\n| 1. lakhota ki wičhakte              | The Indian killed them.            |\n| 2. matho ki wakte                   | I killed the bear.                 |\n| 3. lakhota ki mačho                 | The Indian called me.              |\n| 4. tuwa ničho he                    | Who called you?                    |\n| 5. wičhaša ki tuwa kte              | The person killed someone.         |\n| 6. tuwa hi he                       | Who came?                          |\n| 7. matho ki wičhačho                | He called the bears.               |\n| 8. yahi čha hi                      | You came, and he came.             |\n| 9. matho ki hipi ną lakhota ki čhopi| The bears came and called the Indian. |\n| 10. yahi čha hokšila ki nikte       | You came, and the boy killed you.  |\n| 11. lakhota ki wačho ną hokšila ki wakte | I called the Indian and killed the boy. |\n| 12. hokšila ki wakte čha tuwa lakhota ki wičhačho | I killed the boy, and someone called the Indians. |\n| 13. lakhota ki hipi čha mayačho     | The Indians came, and you called me. |\n\nAssignment 1. Translate into English:\n\n1. wahi čha lakhota ki matho ki wičhačhopi\n2. wičhaša ki nikte ną mačho\n3. wičhaša ki nikte čha mačho\n4. nikte\n\nAssignment 2. Translate into English in all possible ways: tuwa kte he\n\n\nAssignment 3. Translate into Lakhota:\n\n1. The Indians killed the boy, and the bear came.\n\n2. You came and killed the Indian.\n\n3. Whom did I call?\n\n4. The people came, and someone killed them.\n\nNote. š, č, h, y, w, ą are specific sounds of the Lakhota language.\n1 The Lakhota (Dakota) language is of the Sioux family. It is spoken by 6000 people in the Midwest of the USA.\nPyotr Arkadiev\n\n---\n",
+  "answer_format": {
+    "assignment1_1": {
+      "type": "string"
+    },
+    "assignment1_2": {
+      "type": "string"
+    },
+    "assignment1_3": {
+      "type": "string"
+    },
+    "assignment1_4": {
+      "type": "string"
+    },
+    "assignment2": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 20,
+      "items": {
+        "type": "string"
+      }
+    },
+    "assignment3_1": {
+      "type": "string"
+    },
+    "assignment3_2": {
+      "type": "string"
+    },
+    "assignment3_3": {
+      "type": "string"
+    },
+    "assignment3_4": {
+      "type": "string"
+    }
+  }
+}

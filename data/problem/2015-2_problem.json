@@ -1,0 +1,58 @@
+{
+  "id": "2015-2",
+  "title": "Problem 2",
+  "content": "### Problem 2\n\n(20 points)\n\nHere are some verb forms of the Beslenei dialect of Kabardian (subdialect of Ulyap village, Republic of Adygea) in Roman transcription with stress marked and their English translations:\n\n| Beslenei            | Translation                   |\n|---------------------|-------------------------------|\n| defə́n              | to be able to sew             |\n| gʷəš’əʔén           | to speak                      |\n| máde                | (he/she) is sewing            |\n| mášxe               | (he/she) is eating            |\n| mec̣ánt𝑥ʷe          | (he/she) is sliding           |\n| megʷəš’əʔéf         | (he/she) is able to speak     |\n| mes                 | (he/she) is burning           |\n| mebəbə́pe           | (he/she) really is flying     |\n| mešxápe             | (he/she) really is eating     |\n| meʒeq̇áfe           | (he/she) is pretending to bite|\n| sən                 | to burn                       |\n| ṭəgʷərəgʷə́n         | to tremble                    |\n\n(a) Translate into English:\n\n1. ʒeq̇én\n2. medéf\n3. medáfe\n4. səfə́n\n5. megʷəš’ə́ʔe\n6. mebə́b\n\nHere are several more Beslenei words:\n\n| Beslenei            | Translation                       |\n|---------------------|-----------------------------------|\n| c̣ánt𝑥ʷeq̇əm         | (he/she) isn’t sliding            |\n| c̣ánt𝑥ʷet           | (he/she) was sliding              |\n| c̣ent𝑥ʷéft          | (he/she) was able to slide        |\n| dápet               | (he/she) really was sewing        |\n| défxeme             | if (they) are able to sew         |\n| c̣ánt𝑥ʷexeme        | if (they) are sliding             |\n| meṭəgʷərə́gʷxe       | (they) are trembling              |\n| sə́fq̇əm            | (he/she) isn’t able to burn       |\n| bə́bme              | if (he/she) is flying             |\n| bə́bxet             | (they) were flying                |\n| šxéme               | if (he/she) is eating             |\n| ṭəgʷərə́gʷq̇əm       | (he/she) isn’t trembling          |\n\n(b) Translate into English:\n\n1. c̣ent𝑥ʷéfme\n2. šxáfexeq̇əm\n3. bəbə́ft\n4. šxet\n5. ṭəgʷərəgʷə́peme\n\n(c) Translate into Beslenei:\n\n1. (they) are sewing\n2. (they) are pretending to fly\n3. (he/she) really was burning\n4. (he/she) isn’t able to eat\n5. if (they) are speaking\n6. (they) are biting\n\nBe sure to mark the stresses.\n\n△! Kabardian belongs to the Abkhaz–Adyghe group of the North Caucasian family. It is spoken in the Russian Federation (516,000 people), as well as in Turkey and other countries in the Middle East.\nc̣, gʷ, q̇, š, š’, ṭ, x, 𝑥ʷ, ʒ, ʔ are consonants; ə is a vowel. The mark “ ́” indicates stress. —Peter Arkadiev\n\n* * *",
+  "answer_format": {
+    "a_1": {
+      "type": "string"
+    },
+    "a_2": {
+      "type": "string"
+    },
+    "a_3": {
+      "type": "string"
+    },
+    "a_4": {
+      "type": "string"
+    },
+    "a_5": {
+      "type": "string"
+    },
+    "a_6": {
+      "type": "string"
+    },
+    "b_1": {
+      "type": "string"
+    },
+    "b_2": {
+      "type": "string"
+    },
+    "b_3": {
+      "type": "string"
+    },
+    "b_4": {
+      "type": "string"
+    },
+    "b_5": {
+      "type": "string"
+    },
+    "c_1": {
+      "type": "string"
+    },
+    "c_2": {
+      "type": "string"
+    },
+    "c_3": {
+      "type": "string"
+    },
+    "c_4": {
+      "type": "string"
+    },
+    "c_5": {
+      "type": "string"
+    },
+    "c_6": {
+      "type": "string"
+    }
+  }
+}

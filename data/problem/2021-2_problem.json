@@ -1,0 +1,103 @@
+{
+  "id": "2021-2",
+  "title": "Problem 2",
+  "content": "(20 points)\n\nHere are some words in Zuni and their English translations in arbitrary order:\n\n| Zuni                  | English Translation  |\n|-----------------------|----------------------|\n| 1. mo:chikwa datda:we | A. chicken meat      |\n| 2. haya:we            | B. tea (drink)       |\n| 3. doko:ko mo’le      | C. sugar             |\n| 4. ma:chikwa          | D. loaf of bread     |\n| 5. mu:chikwa          | E. beads             |\n| 6. mulonne ≈ mu’le    | F. peach pie         |\n| 7. mowe               | G. piles of leaves   |\n| 8. ha:k’yawe          | H. chicken egg       |\n| 9. doko:ko shiwe      | I. peach trees       |\n| 10. mo:chikwa mulo:chikwa | J. chocolate bar   |\n\n(a) Determine the correct correspondences.\n\n\nHere are some more words in Zuni and their English translations, again in arbitrary order:\n\n| Zuni         | English Translation       |\n|--------------|---------------------------|\n| 11. ade muwe  | K. granule, grain (for example of salt) |\n| 12. beyanne   | L. ear of corn [corn cob]|\n| 13. homa:we   | M. juniper leaves        |\n| 14. ma:k’yawe | N. salt water            |\n| 15. ma:k’ose  | O. blood clots           || 16. ma’le     | P. field of grass        |\n| 17. homayanne | Q. blood                 |\n| 18. mi’le     | R. juniper branch        |\n| 19. ade k’yawe| S. salt                  |\n\n(b) Determine the correct correspondences.\n\n(c) Translate into English:\n20. be’le  \n21. chikwa  \n22. datdanne  \n23. ade  \n24. mulo:we  \n25. hawe  \nOne of these words has the same translation as one of the Zuni words above.\n\n(d) Translate into Zuni:\n26. salty  \n27. juniper leaf  \n28. piece of meat  \n29. water  \n30. corn, maize  \n31. fields of grass  \n\n(e) A linguist looked at a map of the Zuni homeland and found Ma’k’yayanne, a sacred pilgrimage site. What is Ma’k’yayanne? You do not need to explain how the word Ma’k’yayanne is formed.\n\n△! Zuni is a language isolate. It is spoken by approx. 9,500 people in the landlocked states of New Mexico and Arizona in the United States.\n’ is a consonant (known as the glottal stop). The mark : indicates that the vowel is long. —Elysia Warner, Samuel Ahmed (consultant: Wells Mahkee Jr.)\n\n---",
+  "answer_format": {
+    "a_1": {
+      "type": "string"
+    },
+    "a_2": {
+      "type": "string"
+    },
+    "a_3": {
+      "type": "string"
+    },
+    "a_4": {
+      "type": "string"
+    },
+    "a_5": {
+      "type": "string"
+    },
+    "a_6": {
+      "type": "string"
+    },
+    "a_7": {
+      "type": "string"
+    },
+    "a_8": {
+      "type": "string"
+    },
+    "a_9": {
+      "type": "string"
+    },
+    "a_10": {
+      "type": "string"
+    },
+    "b_11": {
+      "type": "string"
+    },
+    "b_12": {
+      "type": "string"
+    },
+    "b_13": {
+      "type": "string"
+    },
+    "b_14": {
+      "type": "string"
+    },
+    "b_15": {
+      "type": "string"
+    },
+    "b_16": {
+      "type": "string"
+    },
+    "b_17": {
+      "type": "string"
+    },
+    "b_18": {
+      "type": "string"
+    },
+    "b_19": {
+      "type": "string"
+    },
+    "c_20": {
+      "type": "string"
+    },
+    "c_21": {
+      "type": "string"
+    },
+    "c_22": {
+      "type": "string"
+    },
+    "c_23": {
+      "type": "string"
+    },
+    "c_24": {
+      "type": "string"
+    },
+    "c_25": {
+      "type": "string"
+    },
+    "d_26": {
+      "type": "string"
+    },
+    "d_27": {
+      "type": "string"
+    },
+    "d_28": {
+      "type": "string"
+    },
+    "d_29": {
+      "type": "string"
+    },
+    "d_30": {
+      "type": "string"
+    },
+    "d_31": {
+      "type": "string"
+    },
+    "e": {
+      "type": "string"
+    }
+  }
+}

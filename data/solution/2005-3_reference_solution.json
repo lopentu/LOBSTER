@@ -1,0 +1,31 @@
+{
+  "id": "2005-3",
+  "answer": {
+    "assignment1_1": "405",
+    "assignment1_2": "76",
+    "assignment1_3": "819",
+    "assignment2_1": "xōtlow nopъl ńollow",
+    "assignment2_2": "ńolsāt",
+    "assignment2_3": "ńollowsātn xōtxujplow"
+  },
+  "explanation": {
+    "rules": "The Mansi numerals are formed as follows:\n* 5 — at\n* 6 — xōt\n* 8 — ńollow\n* 9 — ontъlow\n* 50 — atlow\n* 60 — xōtlow\n* 80 — ńolsāt\n* 90 — ontъlsāt\n* 10 + α — α-xujplow\n* 100α — α-sāt\n* 10(β−1) + α — (10β) nopъlα\n* 100(β−1) + α — (100β)-n α\n* 90 + α — 90 α\n* 900 + α — 900 α\n\n*Note:* Both nopъl and the ending -n mean “towards”; for example, 49 atlow nopъl ontъllow literally means “nine (on the way) towards fifty.”",
+    "rule_checklist": [
+      "5 \n— at",
+      "6 \n— xōt",
+      "8 \n— ńollow",
+      "9 \n— ontъlow",
+      "50 \n— atlow",
+      "60 \n— xōtlow",
+      "80 \n— ńolsāt",
+      "90 \n— ontъlsāt",
+      "10 + α \n— α-xujplow",
+      "100α \n— α-sāt",
+      "10(β−1) + α \n— (10β) nopъlα",
+      "100(β−1) + α \n— (100β)-n α",
+      "90 + α \n— 90 α",
+      "900 + α \n— 900 α",
+      "Both nopъl and the ending -n mean “towards”; for example, 49 atlow nopъl ontъllow literally means “nine (on the way) towards fifty.”"
+    ]
+  }
+}

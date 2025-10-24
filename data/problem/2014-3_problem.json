@@ -1,0 +1,18 @@
+{
+  "id": "2014-3",
+  "title": "Problem 3",
+  "content": "(20 points)\n\nOnce upon a time in the Tangut Empire (\"the Great State of the White and the Lofty\") there lived two brothers and two sisters. They each had a son and a daughter.\n\n\nBelow you see statements in the Tangut language concerning the relations between these people. The name Lhie²nyn² belongs to a man.\n\n1. Ldiu²śe¹ Nie²tsẹ¹ 'yn¹ kậj¹ ngu².\n2. Lhie²nyn² Ngwi¹mbyn² 'yn¹ lio² ngu².\n3. Sei¹na¹ Wa²nie¹ 'yn¹ ndọn¹ ngu².\n4. Ldiu²śe¹ Śan¹nia¹ 'yn¹ ndọn¹ ngu².\n5. Śan¹nia¹ Syn¹mei¹ 'yn¹ źwẹj¹ ngu².\n6. Ldiu²śe¹ Syn¹mei¹ 'yn¹ źwẹj¹ ngu².\n7. Ldiu²śe¹ Wa²nie¹ 'yn¹ źwẹj¹ ngu².\n8. Kẹi¹źey² Ldiu²śe¹ 'yn¹ źwẹj¹ ngu².\n9. Ldiu²śe¹ Kẹi¹źey² 'yn¹ źwẹj¹ ngu².\n10. Lhie²nyn² Syn¹mei¹ 'yn¹ wia¹ ngu².\n11. Lhie²nyn² Sie¹tsie¹ 'yn¹ 'iə¹ ngu².\n12. Kẹi¹źey² Wa²nie¹ 'yn¹ lio² ngu².\n13. Kẹi¹źey² Sie¹tsie¹ 'yn¹ źwẹj¹ ngu².\n14. Lhie²nyn² Kẹi¹źey² 'yn¹ wiej² ngu².\n15. Syn¹mei¹ Nie²tsẹ¹ 'yn¹ źwẹj¹ ngu².\n16. Ngon²ngwe¹ Mbe²phon¹ 'yn¹ kậj¹ ngu².\n17. Syn¹mei¹ Sei¹na¹ 'yn¹ kậj¹ ngu².\n18. Ldiu²śe¹ Sie1tsie¹ 'yn¹ ndọn¹ ngu².\n19. Lhie²nyn² Wa²nie¹ 'yn¹ wia¹ ngu².\n20. Ldiu²śe¹ Sei¹na¹ 'yn¹ źwẹj¹ ngu².\n21. Wa²nie¹ Sei¹na¹ 'yn¹ mu¹ ngu².\n22. Śan¹nia¹ Wa²nie¹ 'yn¹ źwẹj¹ ngu².\n23. Ngon²ngwe¹ Ldiu²śe¹ 'yn¹ la² ngu².\n24. Lhie²nyn² Mbe²phon¹ 'yn¹ mu¹ ngu².\n25. Mbe²phon¹ Ldiu²śe¹ 'yn¹ ma¹ ngu².\n26. Lhie²nyn² Nie²tsẹ¹ 'yn¹ 'iə¹ ngu².\n27. Lhie²nyn² Ngon²ngwe¹ 'yn¹ mu¹ ngu².\n28. Śan¹nia¹ Sie¹tsie¹ 'yn¹ lio² ngu².\n29. Lhie²nyn² Ldiu²śe¹ 'yn¹ 'iə¹ ngu².\n30. Lhie²nyn² Sei¹na¹ 'yn¹ wiej² ngu².\n31. Śan¹nia¹ Nie²tsẹ¹ 'yn¹ mu¹ ngu².\n32. Lhie²nyn² Śan¹nia¹ 'yn¹ 'iə¹ ngu².\n33. Ngon²ngwe¹ Kẹi¹źey² 'yn¹ ny¹ ngu².\n34. Syn¹mei¹ Śan¹nia¹ 'yn¹ źwẹj¹ ngu².\n35. Mbe²phon¹ Sie¹tsie¹ 'yn¹ ma¹ ngu².\n36. Nie²tsẹ¹ Sie¹tsie¹ 'yn¹ ____ ngu².\n\n(a) Reconstruct the family tree (represent the family tree with four such expressions: <Parent: Name, Son: Name, Daughter: Name>, replacing Parent with either Father or Mother).\n\n(b) Fill in the blank in the last sentence (there is only one way to do this).",
+  "answer_format": {
+    "a": {
+      "type": "array",
+      "minItems": 4,
+      "maxItems": 4,
+      "items": {
+        "type": "string"
+      }
+    },
+    "b": {
+      "type": "string"
+    }
+  }
+}

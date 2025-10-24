@@ -1,0 +1,52 @@
+{
+  "id": "2010-5",
+  "title": "Problem 5",
+  "content": "(20 points)\nGiven are words of two dialects of the Romansh language and their English translations. Some cells have been left blank:\n\n| Sursilvan     | Engadine     | English              |\n|---------------|--------------|----------------------|\n| tut           | tuot         | all                  |\n| ura           | ura          | time                 |\n| ?             | uolm         | elm                  |\n| stumi         | ?            | stomach              |\n| dunna         | duonna       | woman                |\n| num           | nom          | name                 |\n| nums          | noms         | names                |\n| ?             | cuort        | short                |\n| mund          | ?            | world                |\n| insumma       | insomma      | finally              |\n| numer         | nomer        | number               |\n| fuorcla       | ?            | mountain pass        |\n| ?             | plomba       | tooth filling        |\n| ?             | muossar      | to show              |\n| buglia        | buoglia      | mash, pulp           |\n| discuors      | discuors     | conversation         |\n| puolpa        | puolpa       | dried meat           |\n| angul         | angul        | angle                |\n| fuorma        | fuorma       | form                 |\n| flur          | flur         | flower               |\n| culant        | ?            | generous             |\n\n(a) Fill in the gaps.\n\n(b) What is ‘labour’ in Sursilvan, lavur or lavuor? And in Engadine?\n\n(c) In Engadine ‘flowers’ is fluors and ‘parents’ is genituors. You may think that it is the same in Sursilvan, but in fact the words there are flurs and geniturs. How can this be explained?\n\n(d) Translate into both dialects:\n- ‘elms’\n- ‘angles’",
+  "answer_format": {
+    "a_elm_sursilvan": {
+      "type": "string"
+    },
+    "a_stomach_engadine": {
+      "type": "string"
+    },
+    "a_short_sursilvan": {
+      "type": "string"
+    },
+    "a_world_engadine": {
+      "type": "string"
+    },
+    "a_mountain_pass_engadine": {
+      "type": "string"
+    },
+    "a_tooth_filling_sursilvan": {
+      "type": "string"
+    },
+    "a_to_show_sursilvan": {
+      "type": "string"
+    },
+    "a_generous_engadine": {
+      "type": "string"
+    },
+    "b_labour_sursilvan": {
+      "type": "string"
+    },
+    "b_labour_engadine": {
+      "type": "string"
+    },
+    "c_explanation": {
+      "type": "string"
+    },
+    "d_elms_sursilvan": {
+      "type": "string"
+    },
+    "d_elms_engadine": {
+      "type": "string"
+    },
+    "d_angles_sursilvan": {
+      "type": "string"
+    },
+    "d_angles_engadine": {
+      "type": "string"
+    }
+  }
+}

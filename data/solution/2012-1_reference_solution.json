@@ -1,0 +1,30 @@
+{
+  "id": "2012-1",
+  "answer": {
+    "a_animal": "grasshopper",
+    "a_error": "baNgun bundiñéu",
+    "b_17": "The father that is always being searched for is healing the girl.",
+    "b_18": "The lizard is searching for the stone that is always being pushed.",
+    "b_19": "The man that is always blaming doctors is following the wallaby.",
+    "c_20": "bayi yiriñéila baNgul bargandu wuraNgu buóan.",
+    "c_21": "bala yila baNgun mugunanéagu banéalmuNagu waóuman.",
+    "c_22": "bala muNga baNgul midindu éagundu Naéin.",
+    "c_23": "bayi yaóa dibandimbanaymuNa baNgul bayimbambu guniñu."
+  },
+  "explanation": {
+    "rules": "Word Order: OSV (Object, Subject, Verb) and NA (Noun, Adjective).  \n\nTransformations:\n•        A → V (‘make A’): A-man.\nV → A:\n•        V |‘that is always being Ved’| ‘that is always Ving Ns’\n•        -n | -l-muŋa  | N-…-l- ŋay-muŋa\n•        - ɲu |  -y-muŋa  | N-…-nay-muŋa\n\n Every noun is preceded by an article: O | S:\n•        balan | baŋgun | women, dangerous animals, and objects.\n•        bayi | baŋgul |  men, animals.\n•        bala | baŋgu | all other things. \n\nSubject and Attributes Endings:\n•        -ŋgu if word ends in a vowel and has two syllables.\n•        -gu if word ends in a vowel and has more than two syllables.\n•        -Du if word ends in a consonant (D is a stop articulated in the same place in the mouth as the final sound of the word).",
+    "rule_checklist": [
+      "Word Order: OSV (Object, Subject, Verb) and NA (Noun, Adjective).",
+      "Transformations: A → V (‘make A’): A-man.",
+      "Transformations: V → A: V |‘that is always being Ved’| ‘that is always Ving Ns’",
+      "Transformations: V → A: -n | -l-muŋa  | N-…-l- ŋay-muŋa",
+      "Transformations: V → A: - ɲu |  -y-muŋa  | N-…-nay-muŋa",
+      "Every noun is preceded by an article: O | S: balan | baŋgun | women, dangerous animals, and objects.",
+      "Every noun is preceded by an article: O | S: bayi | baŋgul |  men, animals.",
+      "Every noun is preceded by an article: O | S: bala | baŋgu | all other things.",
+      "Subject and Attributes Endings: -ŋgu if word ends in a vowel and has two syllables.",
+      "Subject and Attributes Endings: -gu if word ends in a vowel and has more than two syllables.",
+      "Subject and Attributes Endings: -Du if word ends in a consonant (D is a stop articulated in the same place in the mouth as the final sound of the word)."
+    ]
+  }
+}

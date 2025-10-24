@@ -1,0 +1,45 @@
+{
+  "id": "2021-2",
+  "answer": {
+    "a_1": "I",
+    "a_2": "G",
+    "a_3": "H",
+    "a_4": "C",
+    "a_5": "J",
+    "a_6": "D",
+    "a_7": "E",
+    "a_8": "B",
+    "a_9": "A",
+    "a_10": "F",
+    "b_11": "O",
+    "b_12": "P",
+    "b_13": "M",
+    "b_14": "N",
+    "b_15": "S",
+    "b_16": "K",
+    "b_17": "R",
+    "b_18": "L",
+    "b_19": "Q",
+    "c_20": "blade of grass",
+    "c_21": "sweet (adj.)",
+    "c_22": "tree",
+    "c_23": "blood",
+    "c_24": "bread",
+    "c_25": "leaves",
+    "d_26": "k’ose",
+    "d_27": "homanne",
+    "d_28": "shi’le",
+    "d_29": "k’yawe",
+    "d_30": "miwe",
+    "d_31": "beya:we",
+    "e": "salt lake"
+  },
+  "explanation": {
+    "rules": "-ya collectivity: homa- ‘juniper leaf’ + -ya → homa-ya- ‘juniper branch’\n• N-:-N (N = noun):\nha- ‘leaves’ + k’yawe ‘water’ → ha-:-k’yawe ‘tea’\n• N-:-A (A = adjective):\nmu- ‘bread’ + chikwa ‘sweet (adj.)’ → mu-:-chikwa ‘chocolate bar’",
+    "rule_checklist": [
+      "-ya collectivity: homa- ‘juniper leaf’ + -ya → homa-ya- ‘juniper branch’",
+      "N-:-N (N = noun): ha- ‘leaves’ + k’yawe ‘water’ → ha-:-k’yawe ‘tea’",
+      "N-:-A (A = adjective): mu- ‘bread’ + chikwa ‘sweet (adj.)’ → mu-:-chikwa ‘chocolate bar’"
+    ]
+  }
+}

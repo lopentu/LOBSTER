@@ -1,0 +1,31 @@
+{
+  "id": "2007-5",
+  "title": "Problem 5",
+  "content": "(20 points)\nGiven are pairs of cognate words of two closely related languages—Turkish and Tatar. Some words have been left out:\n\n| Turkish            | Tatar           | Translation       |\n|--------------------|-----------------|-------------------|\n| bandır             | mandır          | dip!              |\n| yelken             | cilkän          | sail              |\n| onuncu             | unınçı          | tenth             |\n| baytar             | baytar          | vet               |\n| yi%irmi            | yegerme         | twenty            |\n| bencil             | minçel          | selfish           |\n| güreş              | köräş           | wrestling         |\n| işlesem            | eşläsäm         | if I work         |\n| büyük              | böyek           | great             |\n| yıldırım           | yıldırım        | lightning         |\n| bunda              | monda           | in this, here     |\n| yetiştir           | citeşter        | convey!           |\n| gö%er              | kügär           | become blue!      |\n| bozacı             | buzaçı          | boza handler      |\n| gerekli            | kiräkle         | necessary         |\n| boyun              | muyın           | neck              |\n| uzun               | ozın            | long              |\n| yöneliş            | yünäleş         | direction         |\n|                    | osta            | master            |\n|                    | küzänäk         | pore              |\n|                    | yılan           | snake             |\n| yedişer            |                 | seven each        |\n| bilezik            |                 | bracelet          |\n| üstünde            |                 | on top of         |\n| bin                |                 | mount!            |\n| yumru              |                 | lump, swelling    |\n\n§§. Fill the gaps.\n\nNotes: The letters ä, ı, ö, ü stand for specific vowels (the first two are not unlike the ones in cat and bird, respectively), \nwhile % is a specific Turkish consonant; c, ç, ş, y are pronounced as the initial consonants in jet, chip, ship, yet.\nBoza is a weakly alcoholic drink made from millet. Editors:\nIvan Derzhanski\n---\n\nGood luck!",
+  "answer_format": {
+    "turkish_for_osta": {
+      "type": "string"
+    },
+    "turkish_for_küzänäḱ": {
+      "type": "string"
+    },
+    "turkish_for_yılan": {
+      "type": "string"
+    },
+    "tatar_for_yedişer": {
+      "type": "string"
+    },
+    "tatar_for_bilezik": {
+      "type": "string"
+    },
+    "tatar_for_üstünde": {
+      "type": "string"
+    },
+    "tatar_for_bin": {
+      "type": "string"
+    },
+    "tatar_for_yumru": {
+      "type": "string"
+    }
+  }
+}

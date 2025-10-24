@@ -1,0 +1,16 @@
+{
+  "id": "2004-1",
+  "answer": {
+    "Assignment1_1": "<select1,1,inf>['You are not devouring us']",
+    "Assignment1_2": "<select2,1,inf>['We are devouring you', 'I am devouring you guys']",
+    "Assignment1_3": "<select1,1,inf>['I am not swimming']",
+    "Assignment2_1": "Mẽ aje mẽ ikuru kêt.",
+    "Assignment2_2": "Mẽ ije mẽ anhêrê kêt.",
+    "Assignment2_3": "Ba mẽ to.",
+    "Assignment2_4": "Ba aku."
+  },
+  "explanation": {
+    "rules": "",
+    "rule_checklist": []
+  }
+}

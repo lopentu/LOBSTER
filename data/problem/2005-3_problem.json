@@ -1,0 +1,25 @@
+{
+  "id": "2005-3",
+  "title": "Problem 3",
+  "content": "(20 marks)\n\nConsider the following Mansi numerals (transcribed in Roman letters):\n\n1. **8** — ńollow  \n2. **15** — atxujplow  \n3. **49** — atlow nopъl ontъllow  \n4. **50** — atlow  \n5. **99** — ontъlsāt ontъllow  \n6. **555** — xōtsatn xōtlow nopъl at  \n7. **900** — ontъsllowsāt  \n8. **918** — ontъllowsāt ńiollowxujplow\n\n-Assignment 1: Determine the values of the following Mansi numerals:\n\n- **atsātn at**  \n- **ńolsāt nopъl xōt**  \n- **ontъllowsātn ontъllowxujplow**\n\n-Assignment 2: Spell out the following numerals in Mansi:\n\n- 58  \n- 80  \n- 716\n\n*Note: ń is a specific consonant, ъ is a specific vowel of the Mansi language. A bar above a vowel indicates length.*  \n*Mansi is a language of the Ob-Ugric branch of the Uralic language family. It is spoken by approximately 3,000 people in Western Siberia (the Khanty-Mansi Autonomous District and the Sverdlovsk Region of the Russian Federation).*\n\n---",
+  "answer_format": {
+    "assignment1_1": {
+      "type": "string"
+    },
+    "assignment1_2": {
+      "type": "string"
+    },
+    "assignment1_3": {
+      "type": "string"
+    },
+    "assignment2_1": {
+      "type": "string"
+    },
+    "assignment2_2": {
+      "type": "string"
+    },
+    "assignment2_3": {
+      "type": "string"
+    }
+  }
+}

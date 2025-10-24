@@ -1,0 +1,79 @@
+{
+  "id": "2008-3",
+  "title": "Problem 3",
+  "content": "(20 points)\nThe following are words and compounds in two languages of New Caledonia – Drehu and Cemuhî – and their English translations given out of order:\n\n**Drehu**\n- drai-hmitrötr\n- gaa-hmitrötr\n- i-drai\n- i-jun\n- i-wahnawa\n- jun\n- ngöne-gejë\n- ngöne-uma\n- nyine-thin\n- uma-hmitrötr\n\n**English**\n- sanctuary\n- bunch of bananas\n- calendar\n- bone\n- church\n- coast\n- awl\n- Sunday\n- skeleton\n- wall\n\n**Cemuhî**\n- a-pulut\n- ba-bwén\n- ba-jié\n- bé-ôdu\n- bé-tii\n- bé-wöli\n- bé-wöli-wöta\n- tii\n- wöta\n\n**English**\n- bed\n- animal\n- fork\n- cup\n- pencil\n- coast\n- to write\n- twilight\n- spur\n\nAnd here are several words translated from Drehu into Cemuhî:\n\n| **Drehu**       | **Cemuhî**   |\n|-----------------|--------------|\n| gaa             | a            |\n| ngöne-gejë      | ba-jié       |\n| nyine           | bé           |\n| thin            | wöli         |\n\n(a) Determine the correct correspondences.\n\n(b) What do you think the words wahnawa and drai mean in Drehu, and wöli and pulut in Cemuhî?\n\n(c) In Drehu tusi is ‘book’ and bii is ‘bee’. Translate from Drehu: i-bii, tusi-hmitrötr.\n\nNB: Drehu is spoken by over 10 000 people on Lifu Island to the east of New Caledonia. Cemuhî is spoken by approx.\n2000 people on the east coast of New Caledonia. Both languages belong to the Austronesian family.\nIn Drehu ë ≈ a in aspen, ö = French eu or German ö, hm and hn are specific unvoiced consonants; dr and tr ≈ d and t\nin word and art, uttered with the tip of the tongue turned back; j and th = English th in this and thin respectively; \nng = ng in hang; ny ≈ ni in onion.\nA sanctuary is the principal, most sacred part of a church. —Ksenia Gilyarova\n\n---",
+  "answer_format": {
+    "a_jun": {
+      "type": "string"
+    },
+    "a_i-jun": {
+      "type": "string"
+    },
+    "a_i-wahnawa": {
+      "type": "string"
+    },
+    "a_i-drai": {
+      "type": "string"
+    },
+    "a_drai-hmitrötr": {
+      "type": "string"
+    },
+    "a_gaa-hmitrötr": {
+      "type": "string"
+    },
+    "a_uma-hmitrötr": {
+      "type": "string"
+    },
+    "a_ngöne-uma": {
+      "type": "string"
+    },
+    "a_ngöne-gejë": {
+      "type": "string"
+    },
+    "a_nyine-thin": {
+      "type": "string"
+    },
+    "a_tii": {
+      "type": "string"
+    },
+    "a_bé-tii": {
+      "type": "string"
+    },
+    "a_bé-wöli": {
+      "type": "string"
+    },
+    "a_bé-wöli-wöta": {
+      "type": "string"
+    },
+    "a_bé-ôdu": {
+      "type": "string"
+    },
+    "a_ba-jié": {
+      "type": "string"
+    },
+    "a_ba-bwén": {
+      "type": "string"
+    },
+    "a_a-pulut": {
+      "type": "string"
+    },
+    "b_wahnawa": {
+      "type": "string"
+    },
+    "b_drai": {
+      "type": "string"
+    },
+    "b_wöli": {
+      "type": "string"
+    },
+    "b_pulut": {
+      "type": "string"
+    },
+    "c_i-bii": {
+      "type": "string"
+    },
+    "c_tusi-hmitrötr": {
+      "type": "string"
+    }
+  }
+}

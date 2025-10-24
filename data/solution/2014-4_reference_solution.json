@@ -1,0 +1,26 @@
+{
+  "id": "2014-4",
+  "answer": {
+    "a_8": "The girl said that he[this man] did frighten the thief.",
+    "a_9": "The deceived girl said that she[the deceived girl] would kill this youth.",
+    "a_10_translation": "<select2,1,inf>['This thief said that the child did not heal the man.', 'This thief said that the child would not heal the man.']",
+    "b_11": "ạmò wei ga ọ́ kịnono ạmodhyòmú kofilomù ânò.",
+    "b_12": "ạvùràmú nụamù ậnò wei ga òkí nwạsese edèì.",
+    "c_base_form_thief": "ozyi",
+    "c_base_form_girl": "amemùrè",
+    "c_explanation": "<fuzzy>Nouns are not affected by any grammatical tone changes when placed at the very end of the sentence, before à or before ânò."
+  },
+  "explanation": {
+    "rules": "Word order: \n- S₁ wei ga S₂ V O à\nin questions: S₂ V O à\nin answers: S₁ wei ga S₂ V O\n(S = subject; V = verb; O = object) \n- N A D (N = noun; A = adjective; D = demonstrative adjective)\n\nChoice of pronoun (S₂): \nS₁ = S₂ => S₂ = òkì; S₁ ≠ S₂ => S₂ = o\n\nVowel lowering: (W with the heavy mark “.” = word with lowered vowels; W = word without lowered vowels)\n... o W with “.” ... > ... ọ W with “.” ...\n... o W ... > ... o W ...\n... W with “.” âno ... > ... W with “.” ậno ...\n... W âno ... > ... W âno ...\nTone changes: (] = word boundary; A = adjective; V is a vowel; C is a consonant) \n•        caused by adjectives: ... V] A > ... V́] A\n•        caused by verb forms: \no        affirmative form, past: ... V̀] [CV(C)VCV]verb\no        affirmative form, future: ... V] [CV́(C)VC V̀]verb\no        negative form: ... V́] [CV(C)VCV]verb\nNote: The superscript \"1\" appears after \"negative form\".",
+    "rule_checklist": [
+      "Word order: - S\b wei ga S\b V O à in questions: S\b V O à in answers: S\b wei ga S\b V O",
+      "Word order: - N A D",
+      "Choice of pronoun (S\b): S\b = S\b => S\b = òkì; S\b ≠ S\b => S\b = o",
+      "Vowel lowering: (W with the heavy mark \".\" = word with lowered vowels; W = word without lowered vowels) ... o W with \".\" ... > ... ọ W with \".\" ... ... o W ... > ... o W ... ... W with \".\" âno ... > ... W with \".\" ậno ... ... W âno ... > ... W âno ...",
+      "Tone changes: (] = word boundary; A = adjective; V is a vowel; C is a consonant) • caused by adjectives: ... V] A > ... V́] A",
+      "Tone changes: • caused by verb forms: o affirmative form, past: ... V̀] [CV(C)VCV]verb",
+      "Tone changes: • caused by verb forms: o affirmative form, future: ... V] [CV́(C)VC V̀]verb",
+      "Tone changes: • caused by verb forms: o negative form: ... V́] [CV(C)VCV]verb"
+    ]
+  }
+}
