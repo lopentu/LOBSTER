@@ -6,4 +6,3 @@ openai==2.6.1
 protobuf==6.33.0
 python-dotenv==1.1.1
 rich==14.2.0
-tqdm==4.67.1
